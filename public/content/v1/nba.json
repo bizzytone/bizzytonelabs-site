@@ -1,0 +1,1035 @@
+{
+  "sport": "nba",
+  "asOf": "2026-10-07",
+  "season": "2026-27",
+  "phase": "Preseason",
+  "buzzRounds": [
+    [
+      {
+        "id": "nba-opening-night-76ers-knicks",
+        "topic": "Opening night: LeBron and the 76ers at the champion Knicks",
+        "whatHappened": "The NBA regular season starts Tuesday, October 20, 2026, and the Knicks host the Philadelphia 76ers at Madison Square Garden at 7:00 pm. It is LeBron James's first regular-season game for Philadelphia after he signed there on a veteran minimum contract, and New York begins its title defense after beating the Spurs in five games for its first championship since 1973.",
+        "whyCare": "The opener puts the defending champions and Jalen Brunson against the team that added LeBron James and Jaylen Brown this offseason, and the 76ers have not won a title since 1983.",
+        "youCouldSay": "The season opens October 20 with LeBron James's first real game as a 76er, at Madison Square Garden against the Knicks, who just won their first title since 1973.",
+        "gameDate": null,
+        "details": [
+          {
+            "name": "LeBron James",
+            "team": "Philadelphia 76ers",
+            "position": "Small forward (SF)",
+            "lastGame": null,
+            "buzz": "James signed with the 76ers on a veteran minimum contract and sat out their October 5 preseason opener against the Knicks.",
+            "source": "CBS Sports (https://www.cbssports.com/nba/news/pressing-nba-questions-2026-27-season-knicks-repeat-76ers-break-through/); NBA.com (https://www.nba.com/news/starting-5-october-6-2026); CBS Sports (https://www.cbssports.com/nba/teams/PHI/philadelphia-76ers/roster/)",
+            "asOf": "2026-10-07"
+          },
+          {
+            "name": "Jalen Brunson",
+            "team": "New York Knicks",
+            "position": "Point guard (PG)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "at Philadelphia 76ers, lost 120-97 (preseason)",
+              "stats": [
+                "12 points",
+                "4 rebounds",
+                "3 assists",
+                "4 of 8 shots in 14 minutes"
+              ]
+            },
+            "buzz": "Brunson led the defending champion Knicks with 12 points in 14 minutes of their 120-97 preseason loss in Philadelphia on October 5.",
+            "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_NY@PHI/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/nba/teams/NY/new-york-knicks/schedule/); CBS Sports (https://www.cbssports.com/nba/news/pressing-nba-questions-2026-27-season-knicks-repeat-76ers-break-through/); NBA.com (https://www.nba.com/news/starting-5-october-6-2026)",
+        "asOf": "2026-10-07"
+      },
+      {
+        "id": "nba-jaylen-brown-76ers-debut",
+        "topic": "Jaylen Brown scores 22 in his 76ers debut",
+        "whatHappened": "In a preseason game on Monday, October 5, the 76ers beat the Knicks 120-97, and Jaylen Brown scored 22 points on 8 of 13 shooting in 17 minutes of his Philadelphia debut. Philadelphia did it without LeBron James, Tyrese Maxey and Joel Embiid.",
+        "whyCare": "The 76ers swapped Paul George for Brown this offseason, and he outscored the defending champion Knicks' Jalen Brunson, who had 12, even with Philadelphia's other three stars sitting out.",
+        "youCouldSay": "Jaylen Brown scored 22 points in 17 minutes in his first 76ers game, a 120-97 preseason win over the Knicks, and that was without LeBron, Maxey or Embiid.",
+        "gameDate": "2026-10-05",
+        "details": [
+          {
+            "name": "Jaylen Brown",
+            "team": "Philadelphia 76ers",
+            "position": "Small forward (SF)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "vs New York Knicks, won 120-97 (preseason)",
+              "stats": [
+                "22 points",
+                "8 of 13 shots, 3 of 5 threes",
+                "2 rebounds",
+                "2 assists in 17 minutes"
+              ]
+            },
+            "buzz": "Brown led all scorers with 22 points in his 76ers debut, a 120-97 preseason win over the Knicks on October 5.",
+            "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_NY@PHI/); NBA.com (https://www.nba.com/news/starting-5-october-6-2026); CBS Sports (https://www.cbssports.com/nba/teams/PHI/philadelphia-76ers/roster/)",
+            "asOf": "2026-10-07"
+          },
+          {
+            "name": "Jalen Brunson",
+            "team": "New York Knicks",
+            "position": "Point guard (PG)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "at Philadelphia 76ers, lost 120-97 (preseason)",
+              "stats": [
+                "12 points",
+                "4 rebounds",
+                "3 assists",
+                "4 of 8 shots in 14 minutes"
+              ]
+            },
+            "buzz": "Brunson led the defending champion Knicks with 12 points in 14 minutes of their 120-97 preseason loss in Philadelphia on October 5.",
+            "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_NY@PHI/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "NBA.com (https://www.nba.com/news/starting-5-october-6-2026); CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_NY@PHI/); CBS Sports (https://www.cbssports.com/nba/news/lebron-james-begins-76ers-era/)",
+        "asOf": "2026-10-07"
+      },
+      {
+        "id": "nba-giannis-heat-debut",
+        "topic": "Giannis Antetokounmpo debuts for the Heat",
+        "whatHappened": "Giannis Antetokounmpo, traded from Milwaukee to Miami this summer, played his first game for the Heat on Saturday, October 3, a 129-105 preseason win over Toronto in Quebec City. He had 9 points, 4 rebounds and 7 assists and made all 3 of his shots in 14 minutes.",
+        "whyCare": "The trade ended the two-time MVP's long flirtation with leaving the Milwaukee Bucks, and in an interview published this week he told The Athletic that Miami's \"Heat Culture\" \"gives me goosebumps.\"",
+        "youCouldSay": "Giannis Antetokounmpo played his first game for the Heat on Saturday, 9 points and 7 assists in 14 minutes of a 129-105 preseason win over Toronto in Quebec City.",
+        "gameDate": "2026-10-03",
+        "details": [
+          {
+            "name": "Giannis Antetokounmpo",
+            "team": "Miami Heat",
+            "position": "Power forward (PF)",
+            "lastGame": {
+              "date": "2026-10-03",
+              "label": "at Toronto Raptors in Quebec City, won 129-105 (preseason)",
+              "stats": [
+                "9 points",
+                "4 rebounds",
+                "7 assists",
+                "3 of 3 shots in 14 minutes"
+              ]
+            },
+            "buzz": "The two-time MVP made his Heat debut on October 3 and told The Athletic that Heat Culture \"gives me goosebumps.\"",
+            "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261003_MIA@TOR/); CBS Sports (https://www.cbssports.com/nba/news/giannis-antetokounmpo-miami-heat-culture-bucks-nba/); NBA.com (https://www.nba.com/news/2026-27-season-preview-mia)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261003_MIA@TOR/); CBS Sports (https://www.cbssports.com/nba/news/giannis-antetokounmpo-miami-heat-culture-bucks-nba/); CBS Sports (https://www.cbssports.com/nba/news/pressing-nba-questions-2026-27-season-knicks-repeat-76ers-break-through/); NBA.com (https://www.nba.com/news/2026-27-season-preview-mia)",
+        "asOf": "2026-10-07"
+      }
+    ],
+    [
+      {
+        "id": "nba-opening-night-76ers-knicks",
+        "topic": "Opening night: LeBron and the 76ers at the champion Knicks",
+        "whatHappened": "The NBA regular season starts Tuesday, October 20, 2026, and the Knicks host the Philadelphia 76ers at Madison Square Garden at 7:00 pm. It is LeBron James's first regular-season game for Philadelphia after he signed there on a veteran minimum contract, and New York begins its title defense after beating the Spurs in five games for its first championship since 1973.",
+        "whyCare": "The opener puts the defending champions and Jalen Brunson against the team that added LeBron James and Jaylen Brown this offseason, and the 76ers have not won a title since 1983.",
+        "youCouldSay": "The season opens October 20 with LeBron James's first real game as a 76er, at Madison Square Garden against the Knicks, who just won their first title since 1973.",
+        "gameDate": null,
+        "details": [
+          {
+            "name": "LeBron James",
+            "team": "Philadelphia 76ers",
+            "position": "Small forward (SF)",
+            "lastGame": null,
+            "buzz": "James signed with the 76ers on a veteran minimum contract and sat out their October 5 preseason opener against the Knicks.",
+            "source": "CBS Sports (https://www.cbssports.com/nba/news/pressing-nba-questions-2026-27-season-knicks-repeat-76ers-break-through/); NBA.com (https://www.nba.com/news/starting-5-october-6-2026); CBS Sports (https://www.cbssports.com/nba/teams/PHI/philadelphia-76ers/roster/)",
+            "asOf": "2026-10-07"
+          },
+          {
+            "name": "Jalen Brunson",
+            "team": "New York Knicks",
+            "position": "Point guard (PG)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "at Philadelphia 76ers, lost 120-97 (preseason)",
+              "stats": [
+                "12 points",
+                "4 rebounds",
+                "3 assists",
+                "4 of 8 shots in 14 minutes"
+              ]
+            },
+            "buzz": "Brunson led the defending champion Knicks with 12 points in 14 minutes of their 120-97 preseason loss in Philadelphia on October 5.",
+            "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_NY@PHI/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/nba/teams/NY/new-york-knicks/schedule/); CBS Sports (https://www.cbssports.com/nba/news/pressing-nba-questions-2026-27-season-knicks-repeat-76ers-break-through/); NBA.com (https://www.nba.com/news/starting-5-october-6-2026)",
+        "asOf": "2026-10-07"
+      },
+      {
+        "id": "nba-giannis-heat-debut",
+        "topic": "Giannis Antetokounmpo debuts for the Heat",
+        "whatHappened": "Giannis Antetokounmpo, traded from Milwaukee to Miami this summer, played his first game for the Heat on Saturday, October 3, a 129-105 preseason win over Toronto in Quebec City. He had 9 points, 4 rebounds and 7 assists and made all 3 of his shots in 14 minutes.",
+        "whyCare": "The trade ended the two-time MVP's long flirtation with leaving the Milwaukee Bucks, and in an interview published this week he told The Athletic that Miami's \"Heat Culture\" \"gives me goosebumps.\"",
+        "youCouldSay": "Giannis Antetokounmpo played his first game for the Heat on Saturday, 9 points and 7 assists in 14 minutes of a 129-105 preseason win over Toronto in Quebec City.",
+        "gameDate": "2026-10-03",
+        "details": [
+          {
+            "name": "Giannis Antetokounmpo",
+            "team": "Miami Heat",
+            "position": "Power forward (PF)",
+            "lastGame": {
+              "date": "2026-10-03",
+              "label": "at Toronto Raptors in Quebec City, won 129-105 (preseason)",
+              "stats": [
+                "9 points",
+                "4 rebounds",
+                "7 assists",
+                "3 of 3 shots in 14 minutes"
+              ]
+            },
+            "buzz": "The two-time MVP made his Heat debut on October 3 and told The Athletic that Heat Culture \"gives me goosebumps.\"",
+            "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261003_MIA@TOR/); CBS Sports (https://www.cbssports.com/nba/news/giannis-antetokounmpo-miami-heat-culture-bucks-nba/); NBA.com (https://www.nba.com/news/2026-27-season-preview-mia)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261003_MIA@TOR/); CBS Sports (https://www.cbssports.com/nba/news/giannis-antetokounmpo-miami-heat-culture-bucks-nba/); CBS Sports (https://www.cbssports.com/nba/news/pressing-nba-questions-2026-27-season-knicks-repeat-76ers-break-through/); NBA.com (https://www.nba.com/news/2026-27-season-preview-mia)",
+        "asOf": "2026-10-07"
+      },
+      {
+        "id": "nba-duren-200-million",
+        "topic": "Jalen Duren gets $200 million from the Pistons",
+        "whatHappened": "Jalen Duren and the Detroit Pistons agreed to a five-year, $200 million contract on October 1, ending a standoff just before his 11:59 p.m. ET deadline to either sign long-term or accept a one-year $9.6 million qualifying offer, ESPN reported.",
+        "whyCare": "Duren, a center coming off a third-team All-NBA season, missed training camp during the standoff, and after signing he told reporters, \"I want to be a Detroit Piston for life.\"",
+        "youCouldSay": "Jalen Duren just signed for five years and $200 million to stay with the Pistons, after nearly taking a one-year $9.6 million deal instead.",
+        "gameDate": null,
+        "details": [
+          {
+            "name": "Jalen Duren",
+            "team": "Detroit Pistons",
+            "position": "Center (C)",
+            "lastGame": null,
+            "buzz": "Duren missed training camp during the standoff, then agreed to a five-year, $200 million deal on October 1 after a third-team All-NBA season.",
+            "source": "CBS Sports (https://www.cbssports.com/nba/news/jalen-duren-detroit-pistons-contract-extension/); NBA.com (https://www.nba.com/news/jalen-duren-says-he-wants-to-be-a-piston-for-life)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/nba/news/jalen-duren-detroit-pistons-contract-extension/); NBA.com (https://www.nba.com/news/jalen-duren-says-he-wants-to-be-a-piston-for-life)",
+        "asOf": "2026-10-07"
+      }
+    ],
+    [
+      {
+        "id": "nba-opening-night-76ers-knicks",
+        "topic": "Opening night: LeBron and the 76ers at the champion Knicks",
+        "whatHappened": "The NBA regular season starts Tuesday, October 20, 2026, and the Knicks host the Philadelphia 76ers at Madison Square Garden at 7:00 pm. It is LeBron James's first regular-season game for Philadelphia after he signed there on a veteran minimum contract, and New York begins its title defense after beating the Spurs in five games for its first championship since 1973.",
+        "whyCare": "The opener puts the defending champions and Jalen Brunson against the team that added LeBron James and Jaylen Brown this offseason, and the 76ers have not won a title since 1983.",
+        "youCouldSay": "The season opens October 20 with LeBron James's first real game as a 76er, at Madison Square Garden against the Knicks, who just won their first title since 1973.",
+        "gameDate": null,
+        "details": [
+          {
+            "name": "LeBron James",
+            "team": "Philadelphia 76ers",
+            "position": "Small forward (SF)",
+            "lastGame": null,
+            "buzz": "James signed with the 76ers on a veteran minimum contract and sat out their October 5 preseason opener against the Knicks.",
+            "source": "CBS Sports (https://www.cbssports.com/nba/news/pressing-nba-questions-2026-27-season-knicks-repeat-76ers-break-through/); NBA.com (https://www.nba.com/news/starting-5-october-6-2026); CBS Sports (https://www.cbssports.com/nba/teams/PHI/philadelphia-76ers/roster/)",
+            "asOf": "2026-10-07"
+          },
+          {
+            "name": "Jalen Brunson",
+            "team": "New York Knicks",
+            "position": "Point guard (PG)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "at Philadelphia 76ers, lost 120-97 (preseason)",
+              "stats": [
+                "12 points",
+                "4 rebounds",
+                "3 assists",
+                "4 of 8 shots in 14 minutes"
+              ]
+            },
+            "buzz": "Brunson led the defending champion Knicks with 12 points in 14 minutes of their 120-97 preseason loss in Philadelphia on October 5.",
+            "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_NY@PHI/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/nba/teams/NY/new-york-knicks/schedule/); CBS Sports (https://www.cbssports.com/nba/news/pressing-nba-questions-2026-27-season-knicks-repeat-76ers-break-through/); NBA.com (https://www.nba.com/news/starting-5-october-6-2026)",
+        "asOf": "2026-10-07"
+      },
+      {
+        "id": "nba-duren-200-million",
+        "topic": "Jalen Duren gets $200 million from the Pistons",
+        "whatHappened": "Jalen Duren and the Detroit Pistons agreed to a five-year, $200 million contract on October 1, ending a standoff just before his 11:59 p.m. ET deadline to either sign long-term or accept a one-year $9.6 million qualifying offer, ESPN reported.",
+        "whyCare": "Duren, a center coming off a third-team All-NBA season, missed training camp during the standoff, and after signing he told reporters, \"I want to be a Detroit Piston for life.\"",
+        "youCouldSay": "Jalen Duren just signed for five years and $200 million to stay with the Pistons, after nearly taking a one-year $9.6 million deal instead.",
+        "gameDate": null,
+        "details": [
+          {
+            "name": "Jalen Duren",
+            "team": "Detroit Pistons",
+            "position": "Center (C)",
+            "lastGame": null,
+            "buzz": "Duren missed training camp during the standoff, then agreed to a five-year, $200 million deal on October 1 after a third-team All-NBA season.",
+            "source": "CBS Sports (https://www.cbssports.com/nba/news/jalen-duren-detroit-pistons-contract-extension/); NBA.com (https://www.nba.com/news/jalen-duren-says-he-wants-to-be-a-piston-for-life)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/nba/news/jalen-duren-detroit-pistons-contract-extension/); NBA.com (https://www.nba.com/news/jalen-duren-says-he-wants-to-be-a-piston-for-life)",
+        "asOf": "2026-10-07"
+      },
+      {
+        "id": "nba-hukporti-achilles",
+        "topic": "76ers center Ariel Hukporti tears his Achilles",
+        "whatHappened": "Ariel Hukporti tore his right Achilles tendon six minutes into his 76ers debut, a preseason game against his old team, the Knicks, on Monday, October 5. An MRI on Tuesday confirmed the tear, and the 76ers said he will have surgery.",
+        "whyCare": "Philadelphia loses a center from its depth chart two weeks before the season, and Hukporti had played 79 games over two seasons with the Knicks, including their championship year. His former Knicks teammate Karl-Anthony Towns helped him off the court.",
+        "youCouldSay": "The 76ers lost backup center Ariel Hukporti to a torn Achilles six minutes into his first game with them, against the Knicks on Monday, and he needs surgery.",
+        "gameDate": "2026-10-05",
+        "details": [
+          {
+            "name": "Ariel Hukporti",
+            "team": "Philadelphia 76ers",
+            "position": "Center (C)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "vs New York Knicks, won 120-97 (preseason)",
+              "stats": [
+                "0 points",
+                "1 assist",
+                "0 of 1 shots in 5 minutes"
+              ]
+            },
+            "buzz": "Hukporti tore his right Achilles in the first quarter on October 5, and the 76ers said he will have surgery; no recovery timeline was given.",
+            "source": "NBA.com (https://www.nba.com/news/ariel-hukporti-suffers-right-achilles-tear-in-76ers-preseason-opener); CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_NY@PHI/); CBS Sports (https://www.cbssports.com/nba/teams/PHI/philadelphia-76ers/roster/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "NBA.com (https://www.nba.com/news/ariel-hukporti-suffers-right-achilles-tear-in-76ers-preseason-opener); CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_NY@PHI/)",
+        "asOf": "2026-10-07"
+      }
+    ]
+  ],
+  "teams": {
+    "Atlanta Hawks": {
+      "latestResult": "Lost 132-123 to the Memphis Grizzlies at home in a preseason game (0-1 in preseason)",
+      "latestGameDate": "2026-10-05",
+      "storyline": "Atlanta gave up 132 points to Memphis in its preseason opener, after a 46-36 season that ended with a 4-2 first-round playoff loss to the eventual champion Knicks; the regular season starts October 21 at Orlando.",
+      "bringUp": "The Hawks gave up 132 points to Memphis in their preseason opener Monday, though Corey Kispert came off the bench for 19 on 7-of-11 shooting.",
+      "details": [
+        {
+          "name": "Corey Kispert",
+          "team": "Atlanta Hawks",
+          "position": "Small forward (SF)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "vs Memphis Grizzlies, lost 132-123 (preseason)",
+            "stats": [
+              "19 points",
+              "4 rebounds",
+              "7 of 11 shots made",
+              "4 of 7 three-pointers"
+            ]
+          },
+          "buzz": "Kispert led Atlanta with 19 points in 20 minutes off the bench in the preseason loss to Memphis.",
+          "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_MEM@ATL/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/scoreboard/20261005/); CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_MEM@ATL/); CBS Sports (https://www.cbssports.com/nba/teams/ATL/atlanta-hawks/schedule/); Wikipedia (https://en.wikipedia.org/wiki/2026_NBA_playoffs)",
+      "asOf": "2026-10-07"
+    },
+    "Boston Celtics": {
+      "latestResult": "Finished 2025-26 at 56-26 as the East's No. 2 seed, then lost a seven-game first-round series to the No. 7 seed Philadelphia 76ers",
+      "latestGameDate": null,
+      "storyline": "Boston traded Jaylen Brown to the 76ers for Paul George and draft picks, opens preseason Thursday, October 8 at Cleveland, and hosts Brown and the 76ers on October 10.",
+      "bringUp": "The Celtics traded Jaylen Brown to Philadelphia for Paul George this summer, and Brown comes back to TD Garden with the 76ers for a preseason game on Saturday, October 10.",
+      "details": [
+        {
+          "name": "Paul George",
+          "team": "Boston Celtics",
+          "position": "Forward (F)",
+          "lastGame": null,
+          "buzz": "George came to Boston from Philadelphia in the trade that sent Jaylen Brown to the 76ers; the Celtics open the regular season October 20 at Detroit.",
+          "source": "Boston 25 News (https://www.boston25news.com/news/local/celtics-announce-2026-27-preseason-schedule-including-two-games-td-garden/LGX3DP6WAJC6HAPOSR73JGC2RQ/); CBS Sports (https://www.cbssports.com/nba/teams/BOS/boston-celtics/schedule/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "Boston 25 News (https://www.boston25news.com/news/local/celtics-announce-2026-27-preseason-schedule-including-two-games-td-garden/LGX3DP6WAJC6HAPOSR73JGC2RQ/); CBS Sports (https://www.cbssports.com/nba/teams/BOS/boston-celtics/schedule/); Wikipedia (https://en.wikipedia.org/wiki/2026_NBA_playoffs)",
+      "asOf": "2026-10-07"
+    },
+    "Brooklyn Nets": {
+      "latestResult": "Won 124-90 at the Charlotte Hornets in their preseason opener (1-0 in preseason)",
+      "latestGameDate": "2026-10-06",
+      "storyline": "Brooklyn routed Charlotte 124-90 in its preseason opener, after a 20-62 season; the Nets open the regular season against the same Hornets on October 21 at Barclays Center.",
+      "bringUp": "The Nets beat Charlotte by 34 in their preseason opener Tuesday, 124-90, and Michael Porter Jr. hit 4 of 6 threes.",
+      "details": [
+        {
+          "name": "Michael Porter Jr.",
+          "team": "Brooklyn Nets",
+          "position": "Small forward (SF)",
+          "lastGame": {
+            "date": "2026-10-06",
+            "label": "at Charlotte Hornets, won 124-90 (preseason)",
+            "stats": [
+              "16 points",
+              "5 rebounds",
+              "4 of 6 three-pointers"
+            ]
+          },
+          "buzz": "Porter scored 16 points and made 4 of 6 three-pointers in the 34-point preseason win at Charlotte.",
+          "source": "FOX Sports (https://www.foxsports.com/nba/brooklyn-nets-vs-charlotte-hornets-oct-06-2026-game-boxscore-106474)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/scoreboard/20261006/); FOX Sports (https://www.foxsports.com/nba/brooklyn-nets-vs-charlotte-hornets-oct-06-2026-game-boxscore-106474); CBS Sports (https://www.cbssports.com/nba/teams/BKN/brooklyn-nets/schedule/); Wikipedia (https://en.wikipedia.org/wiki/2025%E2%80%9326_NBA_season)",
+      "asOf": "2026-10-07"
+    },
+    "Charlotte Hornets": {
+      "latestResult": "Lost 124-90 to the Brooklyn Nets at home in their preseason opener (0-1 in preseason)",
+      "latestGameDate": "2026-10-06",
+      "storyline": "Charlotte traded LaMelo Ball to Minnesota and Miles Bridges to Phoenix this offseason, bringing in Naz Reid, Grayson Allen, Royce O'Neale and Dennis Schroder, then lost their preseason opener 124-90 to Brooklyn.",
+      "bringUp": "The Hornets traded LaMelo Ball to Minnesota this summer, and in their first preseason game without him they lost 124-90 to Brooklyn.",
+      "details": [
+        {
+          "name": "Naz Reid",
+          "team": "Charlotte Hornets",
+          "position": "Power forward (PF)",
+          "lastGame": {
+            "date": "2026-10-06",
+            "label": "vs Brooklyn Nets, lost 124-90 (preseason)",
+            "stats": [
+              "13 points",
+              "4 rebounds"
+            ]
+          },
+          "buzz": "Reid, acquired from Minnesota in the offseason, scored 13 points in his first preseason game for Charlotte.",
+          "source": "FOX Sports (https://www.foxsports.com/nba/brooklyn-nets-vs-charlotte-hornets-oct-06-2026-game-boxscore-106474); RoundtableSports (https://roundtable.io/sports/nba/hornets/news/hornets-final-final-offseason-grade-ahead-of-training-camp)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/scoreboard/20261006/); FOX Sports (https://www.foxsports.com/nba/brooklyn-nets-vs-charlotte-hornets-oct-06-2026-game-boxscore-106474); RoundtableSports (https://roundtable.io/sports/nba/hornets/news/hornets-final-final-offseason-grade-ahead-of-training-camp)",
+      "asOf": "2026-10-07"
+    },
+    "Chicago Bulls": {
+      "latestResult": "Finished 2025-26 at 31-51; preseason opener is Wednesday, October 7 at home against the Phoenix Suns",
+      "latestGameDate": null,
+      "storyline": "Tiago Splitter is running his first training camp as Bulls head coach, with 2026 first-round pick Caleb Wilson in his first camp, and Chicago opens the regular season October 21 at Toronto.",
+      "bringUp": "The Bulls start the Tiago Splitter era tonight with a preseason game against Phoenix at the United Center, coming off a 31-51 season.",
+      "details": [
+        {
+          "name": "Josh Giddey",
+          "team": "Chicago Bulls",
+          "position": "Guard (G)",
+          "lastGame": null,
+          "buzz": "Giddey, 23, enters his sixth season after turnovers held him back last year, and new coach Tiago Splitter said, \"I don't need him to be cute. I need him to be effective.\"",
+          "source": "Bleacher Nation (https://www.bleachernation.com/bulls/2026/09/30/bulls-bullets-sept-30/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "Bleacher Nation (https://www.bleachernation.com/bulls/2026/09/30/bulls-bullets-sept-30/); CBS Sports (https://www.cbssports.com/nba/scoreboard/20261007/); CBS Sports (https://www.cbssports.com/nba/teams/CHI/chicago-bulls/schedule/); Wikipedia (https://en.wikipedia.org/wiki/2025%E2%80%9326_NBA_season)",
+      "asOf": "2026-10-07"
+    },
+    "Cleveland Cavaliers": {
+      "latestResult": "Finished 2025-26 at 52-30, then was swept 4-0 by the Knicks in the Eastern Conference finals",
+      "latestGameDate": null,
+      "storyline": "Cleveland held training camp in Spain after signing Donovan Mitchell to a four-year, $273 million extension, and opens preseason Thursday, October 8 at home against Boston.",
+      "bringUp": "The Cavs gave Donovan Mitchell a four-year, $273 million extension this offseason after getting swept by the Knicks in the conference finals, and they open preseason at home against Boston on Thursday.",
+      "details": [
+        {
+          "name": "Donovan Mitchell",
+          "team": "Cleveland Cavaliers",
+          "position": "Guard (G)",
+          "lastGame": null,
+          "buzz": "Mitchell signed a four-year, $273 million extension, and James Harden, 37, made a three-year, $97 million commitment to Cleveland.",
+          "source": "The Eastern Herald (https://easternherald.com/2026/09/24/cavaliers-2026-27-training-camp-roster-spain-mitchell-harden/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "The Eastern Herald (https://easternherald.com/2026/09/24/cavaliers-2026-27-training-camp-roster-spain-mitchell-harden/); Boston 25 News (https://www.boston25news.com/news/local/celtics-announce-2026-27-preseason-schedule-including-two-games-td-garden/LGX3DP6WAJC6HAPOSR73JGC2RQ/); Wikipedia (https://en.wikipedia.org/wiki/2026_NBA_playoffs)",
+      "asOf": "2026-10-07"
+    },
+    "Dallas Mavericks": {
+      "latestResult": "Finished 2025-26 at 26-56; preseason opens Friday, October 9 against Houston in Macao",
+      "latestGameDate": null,
+      "storyline": "Kyrie Irving says he has no restrictions entering camp after missing all of 2025-26 with a torn ACL, so he will finally play alongside Rookie of the Year Cooper Flagg under first-year coach Dusty May.",
+      "bringUp": "Kyrie Irving is back with no restrictions after missing all of last season with a torn ACL, and he has never played a game next to Cooper Flagg, last year's Rookie of the Year.",
+      "details": [
+        {
+          "name": "Cooper Flagg",
+          "team": "Dallas Mavericks",
+          "position": "Forward (F)",
+          "lastGame": null,
+          "buzz": "Flagg, 19, is the reigning Rookie of the Year and scored 51 points against Orlando on April 3, the most ever by a teenager in the NBA.",
+          "source": "RoundtableSports (https://roundtable.io/sports/nba/mavericks/news/kyrie-irving-promises-to-kick-some-butt-in-mavericks-return-from-acl-tear)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "Kyrie Irving",
+          "team": "Dallas Mavericks",
+          "position": "Point guard (PG)",
+          "lastGame": null,
+          "buzz": "Irving tore his left ACL on March 3, 2025, missed the whole 2025-26 season, and said at Media Day he has no restrictions heading into camp.",
+          "source": "RoundtableSports (https://roundtable.io/sports/nba/mavericks/news/kyrie-irving-promises-to-kick-some-butt-in-mavericks-return-from-acl-tear)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "RoundtableSports (https://roundtable.io/sports/nba/mavericks/news/kyrie-irving-promises-to-kick-some-butt-in-mavericks-return-from-acl-tear); CBS Sports (https://www.cbssports.com/nba/teams/DAL/dallas-mavericks/schedule/); Wikipedia (https://en.wikipedia.org/wiki/2025%E2%80%9326_NBA_season)",
+      "asOf": "2026-10-07"
+    },
+    "Denver Nuggets": {
+      "latestResult": "Won 117-106 at the Utah Jazz in a preseason game (1-1 in preseason)",
+      "latestGameDate": "2026-10-06",
+      "storyline": "Denver beat Utah 117-106 two days after losing 109-97 to the Jazz in Boulder, with newly signed DeMar DeRozan on the roster; the Nuggets open the regular season October 22 at Oklahoma City.",
+      "bringUp": "The Nuggets beat Utah 117-106 in Salt Lake City on Tuesday, two days after the Jazz beat them in Boulder, and Aaron Gordon led Denver with 18 points.",
+      "details": [
+        {
+          "name": "Aaron Gordon",
+          "team": "Denver Nuggets",
+          "position": "Power forward (PF)",
+          "lastGame": {
+            "date": "2026-10-06",
+            "label": "at Utah Jazz, won 117-106 (preseason)",
+            "stats": [
+              "18 points",
+              "5 rebounds"
+            ]
+          },
+          "buzz": "Gordon was Denver's top scorer with 18 points as the Nuggets used a 16-4 third-quarter run to pull away from Utah.",
+          "source": "FOX Sports (https://www.foxsports.com/nba/denver-nuggets-vs-utah-jazz-oct-06-2026-game-boxscore-106475)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/scoreboard/20261006/); CBS Sports (https://www.cbssports.com/nba/scoreboard/20261004/); FOX Sports (https://www.foxsports.com/nba/denver-nuggets-vs-utah-jazz-oct-06-2026-game-boxscore-106475); Denver Gazette (https://www.denvergazette.com/2026/09/08/from-boulder-to-la-what-to-watch-for-in-denver-nuggets-preseason-nba-insider/)",
+      "asOf": "2026-10-07"
+    },
+    "Detroit Pistons": {
+      "latestResult": "Won 109-107 over the Phoenix Suns at home in a preseason game after trailing by 18 (1-0 in preseason)",
+      "latestGameDate": "2026-10-05",
+      "storyline": "Detroit rallied from 18 points down to beat Phoenix 109-107 in its preseason opener, after a 60-22 season as the East's No. 1 seed ended with a Game 7 loss to Cleveland in the second round; the Pistons host Boston to open the regular season October 20.",
+      "bringUp": "The Pistons came back from 18 down to beat the Suns 109-107 in their preseason opener Monday, and Ronald Holland II had 5 steals.",
+      "details": [
+        {
+          "name": "Ronald Holland II",
+          "team": "Detroit Pistons",
+          "position": "Small forward (SF)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "vs Phoenix Suns, won 109-107 (preseason)",
+            "stats": [
+              "14 points",
+              "4 rebounds",
+              "1 assist",
+              "5 steals"
+            ]
+          },
+          "buzz": "Holland led Detroit with 14 points and added 5 steals in the comeback win over Phoenix.",
+          "source": "FOX Sports (https://www.foxsports.com/nba/phoenix-suns-vs-detroit-pistons-oct-05-2026-game-boxscore-106470)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/scoreboard/20261005/); FOX Sports (https://www.foxsports.com/nba/phoenix-suns-vs-detroit-pistons-oct-05-2026-game-boxscore-106470); CBS Sports (https://www.cbssports.com/nba/teams/BOS/boston-celtics/schedule/); Wikipedia (https://en.wikipedia.org/wiki/2026_NBA_playoffs)",
+      "asOf": "2026-10-07"
+    },
+    "Golden State Warriors": {
+      "latestResult": "Beat the Los Angeles Lakers 124-98 at home in a preseason game (1-1 in preseason)",
+      "latestGameDate": "2026-10-06",
+      "storyline": "Golden State led the Lakers by 28 at halftime of a 124-98 preseason win, with rookie Yaxel Lendeborg starting next to Stephen Curry; the Warriors open the regular season October 21 at the Lakers.",
+      "bringUp": "The Warriors beat the Lakers 124-98 at Chase Center on Tuesday and led by 28 at halftime, though the Lakers rested Luka Doncic and Austin Reaves.",
+      "details": [
+        {
+          "name": "Stephen Curry",
+          "team": "Golden State Warriors",
+          "position": "Point guard (PG)",
+          "lastGame": null,
+          "buzz": "Curry scored 16 points in 14 minutes in the 124-98 preseason win over the Lakers, according to NBC Sports Bay Area.",
+          "source": "NBC Sports Bay Area (https://www.nbcsportsbayarea.com/nba/golden-state-warriors/yaxel-lendeborg-steph-curry-lakers-preseason/1969461/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/scoreboard/20261006/); NBC Sports Bay Area (https://www.nbcsportsbayarea.com/nba/golden-state-warriors/yaxel-lendeborg-steph-curry-lakers-preseason/1969461/); CBS Sports (https://www.cbssports.com/nba/teams/GS/golden-state-warriors/schedule/)",
+      "asOf": "2026-10-07"
+    },
+    "Houston Rockets": {
+      "latestResult": "Finished 2025-26 at 52-30, fifth in the West, and lost in the first round of the playoffs",
+      "latestGameDate": null,
+      "storyline": "The Rockets play two preseason games against the Dallas Mavericks in Macao, China, on October 9 and 11, then open the regular season at home against Dallas on October 21 with Fred VanVleet back after missing all of last season.",
+      "bringUp": "Fred VanVleet is back for the Rockets after missing all of last season, and they added Marcus Smart and Bogdan Bogdanović to a team that won 52 games. They even play two preseason games in Macao, China, this week against Dallas.",
+      "details": [
+        {
+          "name": "Fred VanVleet",
+          "team": "Houston Rockets",
+          "position": "Point guard (PG)",
+          "lastGame": null,
+          "buzz": "VanVleet missed all of the 2025-26 season with an injury and returns for 2026-27; NBA.com's season preview says his return \"should help the Rockets' offense in multiple ways.\"",
+          "source": "NBA.com (https://www.nba.com/news/2026-27-season-preview-hou)",
+          "asOf": "2026-09-22"
+        }
+      ],
+      "source": "NBA.com (https://www.nba.com/news/2026-27-season-preview-hou); NBA Communications (https://pr.nba.com/mavericks-rockets-macao); CBS Sports (https://www.cbssports.com/nba/teams/HOU/houston-rockets/schedule/)",
+      "asOf": "2026-10-07"
+    },
+    "Indiana Pacers": {
+      "latestResult": "Finished 2025-26 at 19-63, the worst record in franchise history, with Tyrese Haliburton out all season",
+      "latestGameDate": null,
+      "storyline": "Tyrese Haliburton, who tore his right Achilles tendon in Game 7 of the 2025 NBA Finals, says he is 100% with no restrictions; the Pacers open the preseason tonight, October 7, against Minnesota and the regular season October 21 at New Orleans.",
+      "bringUp": "Tyrese Haliburton says he's 100% with no restrictions after tearing his Achilles in Game 7 of the 2025 Finals. Without him the Pacers went 19-63 last season, the worst record in team history.",
+      "details": [
+        {
+          "name": "Tyrese Haliburton",
+          "team": "Indiana Pacers",
+          "position": "Guard (G)",
+          "lastGame": null,
+          "buzz": "Haliburton sat out all of 2025-26 after tearing his right Achilles in Game 7 of the 2025 Finals; at media day on September 28 he said, \"I am healthy. I am 100%.\"",
+          "source": "TSN (https://www.tsn.ca/nba/article/pacers-haliburton-no-restrictions-in-return-from-achilles-tear-n1-50053467/)",
+          "asOf": "2026-09-28"
+        }
+      ],
+      "source": "TSN (https://www.tsn.ca/nba/article/pacers-haliburton-no-restrictions-in-return-from-achilles-tear-n1-50053467/); NBA.com (https://www.nba.com/team/1610612754/pacers); CBS Sports (https://www.cbssports.com/nba/teams/IND/indiana-pacers/schedule/)",
+      "asOf": "2026-10-07"
+    },
+    "LA Clippers": {
+      "latestResult": "Beat the Golden State Warriors 104-101 in the preseason opener in Honolulu",
+      "latestGameDate": "2026-10-04",
+      "storyline": "Max Strus, acquired from Cleveland on August 20 in a five-team trade, partially tore the plantar fascia (a tissue band under the foot) in his right foot in the preseason opener and will miss the start of the season, which begins October 21 at home against Sacramento.",
+      "bringUp": "The Clippers lost Max Strus to a partial foot tear in their first preseason game, so they start the season without him and without Brandon Ingram, who is recovering from a partial Achilles tear. Kawhi Leonard is gone too, and his first game back in Los Angeles as a visitor is November 2.",
+      "details": [
+        {
+          "name": "Max Strus",
+          "team": "LA Clippers",
+          "position": "Forward (F)",
+          "lastGame": null,
+          "buzz": "Strus left the October 4 preseason opener with 7:50 left in the first quarter; the team says he will be reevaluated in four weeks.",
+          "source": "NBA.com (https://www.nba.com/news/clippers-max-strus-to-miss-start-of-season-with-foot-injury)",
+          "asOf": "2026-10-05"
+        }
+      ],
+      "source": "NBA.com (https://www.nba.com/news/clippers-max-strus-to-miss-start-of-season-with-foot-injury); NBA.com (https://www.nba.com/news/2026-27-season-preview-lac); CBS Sports (https://www.cbssports.com/nba/scoreboard/20261004/); TSN (https://www.tsn.ca/nba/article/clippers-ingram-achilles-wont-be-ready-to-start-season/)",
+      "asOf": "2026-10-07"
+    },
+    "Los Angeles Lakers": {
+      "latestResult": "Lost 124-98 at the Golden State Warriors in preseason, with Luka Dončić, Austin Reaves and Walker Kessler sitting out",
+      "latestGameDate": "2026-10-06",
+      "storyline": "LeBron James left the Lakers after eight seasons and joined the Philadelphia 76ers, while the Lakers re-signed Austin Reaves and traded for center Walker Kessler before opening October 21 at home against Golden State.",
+      "bringUp": "It's the Lakers' first season in eight years without LeBron James, who signed with the 76ers. Luka Dončić is now the clear star: he scored 21 points in 15 minutes in the preseason opener at Sacramento.",
+      "details": [
+        {
+          "name": "Luka Dončić",
+          "team": "Los Angeles Lakers",
+          "position": "Point guard (PG)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "at Sacramento Kings, won 127-103 (preseason)",
+            "stats": [
+              "21 points in 15 minutes",
+              "2 rebounds, 3 assists",
+              "5 of 12 shots, 3 of 9 from three"
+            ]
+          },
+          "buzz": "Dončić did not play in the October 6 preseason loss at Golden State; the day before he scored 21 points in 15 minutes against Sacramento.",
+          "source": "CBS Sports box score (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_LAL@SAC/)",
+          "asOf": "2026-10-06"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/teams/LAL/los-angeles-lakers/); NBA.com (https://www.nba.com/news/2026-27-season-preview-lal); CBS Sports (https://www.cbssports.com/nba/scoreboard/20261006/)",
+      "asOf": "2026-10-07"
+    },
+    "Memphis Grizzlies": {
+      "latestResult": "Won 132-123 at the Atlanta Hawks in preseason, scoring 81 points in the first half",
+      "latestGameDate": "2026-10-05",
+      "storyline": "After going 25-57 last season, Memphis traded Ja Morant to Portland in June and drafted Duke's Cameron Boozer third overall; the rebuilt team opens October 21 at home against Utah.",
+      "bringUp": "The Grizzlies traded Ja Morant to Portland this summer and are building around No. 3 pick Cameron Boozer, who had 11 points, 5 rebounds and 4 assists in his preseason debut, a 132-123 win at Atlanta.",
+      "details": [
+        {
+          "name": "Cameron Boozer",
+          "team": "Memphis Grizzlies",
+          "position": "Power forward (PF)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "at Atlanta Hawks, won 132-123 (preseason)",
+            "stats": [
+              "11 points in 18 minutes",
+              "5 rebounds, 4 assists, 2 steals",
+              "5 of 9 shots"
+            ]
+          },
+          "buzz": "The No. 3 pick in the 2026 draft out of Duke started his preseason debut, and he pairs up front with center Zach Edey, who played only 11 games last season and has been cleared for full-court activity.",
+          "source": "CBS Sports box score (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_MEM@ATL/); NBA.com (https://www.nba.com/news/memphis-grizzlies-zach-edey-training-camp-2026-27)",
+          "asOf": "2026-10-05"
+        }
+      ],
+      "source": "NBA.com (https://www.nba.com/news/memphis-grizzlies-zach-edey-training-camp-2026-27); NBA.com (https://www.nba.com/news/starting-5-october-6-2026); CBS Sports (https://www.cbssports.com/nba/teams/MEM/memphis-grizzlies/schedule/)",
+      "asOf": "2026-10-07"
+    },
+    "Miami Heat": {
+      "latestResult": "Beat the Toronto Raptors 129-105 in preseason in Quebec City",
+      "latestGameDate": "2026-10-03",
+      "storyline": "Miami traded with Milwaukee for Giannis Antetokounmpo in July, sending Tyler Herro, Kel'el Ware and future draft picks, and he makes his regular-season Heat debut October 21 at home against Minnesota.",
+      "bringUp": "Giannis Antetokounmpo is on the Heat now: Miami got him from Milwaukee in July in a trade that sent Tyler Herro and Kel'el Ware the other way. In his first preseason game he made all 3 of his shots and had 7 assists in 14 minutes.",
+      "details": [
+        {
+          "name": "Giannis Antetokounmpo",
+          "team": "Miami Heat",
+          "position": "Forward (F)",
+          "lastGame": {
+            "date": "2026-10-03",
+            "label": "at Toronto Raptors in Quebec City, won 129-105 (preseason)",
+            "stats": [
+              "9 points in 14 minutes",
+              "4 rebounds, 7 assists",
+              "3 of 3 shots"
+            ]
+          },
+          "buzz": "Antetokounmpo came to Miami from Milwaukee in July along with Bobby Portis; the Heat went 43-39 last season and lost in the play-in tournament, the mini-tournament for the last playoff spots.",
+          "source": "CBS Sports box score (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261003_MIA@TOR/); NBA.com (https://www.nba.com/news/2026-27-season-preview-mil); NBA.com (https://www.nba.com/news/2026-27-season-preview-mia)",
+          "asOf": "2026-10-03"
+        }
+      ],
+      "source": "NBA.com (https://www.nba.com/news/2026-27-season-preview-mia); NBA.com (https://www.nba.com/news/2026-27-season-preview-mil); CBS Sports (https://www.cbssports.com/nba/scoreboard/20261003/)",
+      "asOf": "2026-10-07"
+    },
+    "Milwaukee Bucks": {
+      "latestResult": "Lost 116-97 at home to the Minnesota Timberwolves in preseason",
+      "latestGameDate": "2026-10-05",
+      "storyline": "The Bucks traded Giannis Antetokounmpo and Bobby Portis to Miami in July for Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakučionis, Nate Ament, two future first-round picks and a pick swap, and hired Taylor Jenkins as coach before opening October 21 at Washington.",
+      "bringUp": "The Bucks traded Giannis to Miami for Tyler Herro, Kel'el Ware and a pile of picks, and hired Taylor Jenkins as coach. Ware had 14 points and 12 rebounds off the bench in their preseason opener, a 116-97 loss to Minnesota.",
+      "details": [
+        {
+          "name": "Kel'el Ware",
+          "team": "Milwaukee Bucks",
+          "position": "Center (C)",
+          "lastGame": null,
+          "buzz": "Ware, part of the Giannis trade with Miami, had 14 points and 12 rebounds in the October 5 preseason loss to Minnesota, per NBA.com.",
+          "source": "NBA.com (https://www.nba.com/news/starting-5-october-6-2026)",
+          "asOf": "2026-10-06"
+        }
+      ],
+      "source": "NBA.com (https://www.nba.com/news/2026-27-season-preview-mil); CBS Sports (https://www.cbssports.com/nba/teams/MIL/milwaukee-bucks/schedule/); CBS Sports scoreboard (https://www.cbssports.com/nba/scoreboard/20261005/)",
+      "asOf": "2026-10-07"
+    },
+    "Minnesota Timberwolves": {
+      "latestResult": "Won 116-97 at the Milwaukee Bucks in preseason",
+      "latestGameDate": "2026-10-05",
+      "storyline": "Minnesota traded Julius Randle and Naz Reid in a multi-team deal for LaMelo Ball and signed Jonathan Kuminga, and opens October 21 at Miami in Giannis Antetokounmpo's Heat debut.",
+      "bringUp": "The Timberwolves traded Julius Randle and Naz Reid to get LaMelo Ball, and in his first preseason game with Anthony Edwards they beat Milwaukee 116-97. They open the season at Miami against Giannis.",
+      "details": [
+        {
+          "name": "LaMelo Ball",
+          "team": "Minnesota Timberwolves",
+          "position": "Point guard (PG)",
+          "lastGame": null,
+          "buzz": "In his Wolves preseason debut on October 5 at Milwaukee, Ball had 11 points, 4 rebounds and 3 assists in 17 minutes, per NBA.com.",
+          "source": "NBA.com (https://www.nba.com/news/starting-5-october-6-2026)",
+          "asOf": "2026-10-06"
+        },
+        {
+          "name": "Anthony Edwards",
+          "team": "Minnesota Timberwolves",
+          "position": "Guard (G)",
+          "lastGame": null,
+          "buzz": "Edwards had 14 points, 4 rebounds, 2 assists and 2 blocks in the October 5 preseason win at Milwaukee, per NBA.com.",
+          "source": "NBA.com (https://www.nba.com/news/starting-5-october-6-2026)",
+          "asOf": "2026-10-06"
+        }
+      ],
+      "source": "NBA.com (https://www.nba.com/news/2026-27-season-preview-min); NBA.com (https://www.nba.com/news/starting-5-october-6-2026); CBS Sports scoreboard (https://www.cbssports.com/nba/scoreboard/20261005/)",
+      "asOf": "2026-10-07"
+    },
+    "New Orleans Pelicans": {
+      "latestResult": "Won 116-110 over the Oklahoma City Thunder in a preseason game in Tulsa",
+      "latestGameDate": "2026-10-06",
+      "storyline": "Coming off a 26-56 season, the Pelicans have a new head coach, Jamahl Mosley, who previously coached the Orlando Magic, added Bennedict Mathurin on a two-year deal, and open October 21 at home against Indiana.",
+      "bringUp": "The Pelicans won only 26 games last season, but they opened the preseason by beating Oklahoma City 116-110 in Tulsa. They have a new coach, Jamahl Mosley, and open for real at home against Indiana on October 21.",
+      "details": [
+        {
+          "name": "Trey Murphy III",
+          "team": "New Orleans Pelicans",
+          "position": "Forward (F)",
+          "lastGame": null,
+          "buzz": "Murphy had 11 points, 3 rebounds and 2 steals in 19 minutes in the October 6 preseason win over Oklahoma City in Tulsa, one of five Pelicans in double figures, per Rotowire notes on CBS Sports.",
+          "source": "CBS Sports (https://www.cbssports.com/nba/teams/NO/new-orleans-pelicans/)",
+          "asOf": "2026-10-06"
+        }
+      ],
+      "source": "NBA.com (https://www.nba.com/news/2026-27-season-preview-nop); CBS Sports (https://www.cbssports.com/nba/scoreboard/20261006/); CBS Sports (https://www.cbssports.com/nba/teams/NO/new-orleans-pelicans/); CBS Sports (https://www.cbssports.com/nba/news/nba-head-coach-rankings-2026-27-season/)",
+      "asOf": "2026-10-07"
+    },
+    "New York Knicks": {
+      "latestResult": "Lost 120-97 at the Philadelphia 76ers in preseason",
+      "latestGameDate": "2026-10-05",
+      "storyline": "The Knicks are defending NBA champions after beating the San Antonio Spurs in the Finals for their first title in more than 50 years, and they open October 20 at home against a 76ers team that now has LeBron James.",
+      "bringUp": "The Knicks are the defending champs, their first title in more than 50 years, after beating San Antonio in the Finals. They open at Madison Square Garden on October 20 against the 76ers, who now have LeBron James.",
+      "details": [
+        {
+          "name": "Jalen Brunson",
+          "team": "New York Knicks",
+          "position": "Point guard (PG)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "at Philadelphia 76ers, lost 120-97 (preseason)",
+            "stats": [
+              "12 points in 14 minutes",
+              "4 rebounds, 3 assists",
+              "4 of 8 shots, 2 of 5 from three"
+            ]
+          },
+          "buzz": "After the title run, Brunson became the fifth NBA player to host Saturday Night Live, after Michael Jordan, LeBron James, Charles Barkley and Bill Russell.",
+          "source": "CBS Sports box score (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_NY@PHI/)",
+          "asOf": "2026-10-06"
+        }
+      ],
+      "source": "NBA.com (https://www.nba.com/news/inside-the-knicks-busy-offseason); CBS Sports (https://www.cbssports.com/nba/teams/NY/new-york-knicks/schedule/); NBA.com (https://www.nba.com/news/2026-27-season-preview-lal)",
+      "asOf": "2026-10-07"
+    },
+    "Oklahoma City Thunder": {
+      "latestResult": "Lost 116-110 to the New Orleans Pelicans in a preseason game in Tulsa",
+      "latestGameDate": "2026-10-06",
+      "storyline": "After going 64-18 and losing the Western Conference finals to San Antonio in seven games, the Thunder open the regular season on October 20, 2026 in San Antonio against those same Spurs.",
+      "bringUp": "The Thunder lost their preseason opener 116-110 to the Pelicans in Tulsa on Tuesday with Shai Gilgeous-Alexander, Jalen Williams and Chet Holmgren all sitting out; the real opener is October 20 in San Antonio, a rematch of last spring's seven-game conference finals.",
+      "details": [
+        {
+          "name": "Shai Gilgeous-Alexander",
+          "team": "Oklahoma City Thunder",
+          "position": "Guard (G)",
+          "lastGame": null,
+          "buzz": "Gilgeous-Alexander sat out Tuesday's preseason opener against New Orleans as part of a workload plan, and the team said there was no injury to report.",
+          "source": "CBS Sports (https://www.cbssports.com/nba/teams/OKC/oklahoma-city-thunder/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/scoreboard/20261006/); CBS Sports (https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/); Basketball Reference (https://www.basketball-reference.com/playoffs/NBA_2026.html); Basketball Reference (https://www.basketball-reference.com/leagues/NBA_2026_standings.html); CBS Sports (https://www.cbssports.com/nba/teams/OKC/oklahoma-city-thunder/)",
+      "asOf": "2026-10-07"
+    },
+    "Orlando Magic": {
+      "latestResult": "Finished 2025-26 at 45-37; lost 4-3 to the Detroit Pistons in the first round",
+      "latestGameDate": null,
+      "storyline": "New coach Sean Sweeney, in his first head coaching job, debuts in the preseason on October 7 at Memphis, and the Magic open the regular season at home against Atlanta on October 21, 2026.",
+      "bringUp": "The Magic took Detroit to seven games in the first round last spring and now have a first-time head coach in Sean Sweeney; their regular season starts at home against the Hawks on October 21.",
+      "details": [
+        {
+          "name": "Paolo Banchero",
+          "team": "Orlando Magic",
+          "position": "Forward (F)",
+          "lastGame": null,
+          "buzz": "Banchero is preparing for his fifth NBA season, and teammate Wendell Carter Jr. praised his offseason conditioning at the start of camp.",
+          "source": "CBS Sports (https://www.cbssports.com/nba/teams/ORL/orlando-magic/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "Basketball Reference (https://www.basketball-reference.com/playoffs/NBA_2026.html); Basketball Reference (https://www.basketball-reference.com/leagues/NBA_2026_standings.html); CBS Sports (https://www.cbssports.com/nba/news/nba-head-coach-rankings-2026-27-season/); CBS Sports (https://www.cbssports.com/nba/teams/ORL/orlando-magic/schedule/); CBS Sports (https://www.cbssports.com/nba/scoreboard/20261007/)",
+      "asOf": "2026-10-07"
+    },
+    "Philadelphia 76ers": {
+      "latestResult": "Beat the New York Knicks 120-97 at home in the preseason opener (1-0)",
+      "latestGameDate": "2026-10-05",
+      "storyline": "The 76ers signed LeBron James, who is entering a record 24th NBA season, and traded Paul George for Jaylen Brown, who scored 22 points in 17 minutes in his Philadelphia debut, a 120-97 preseason win over the Knicks.",
+      "bringUp": "Jaylen Brown scored 22 points in 17 minutes in his first game for the 76ers, a 120-97 preseason win over the Knicks on Monday, and that's before LeBron James, Joel Embiid and Tyrese Maxey, who all rested, have played.",
+      "details": [
+        {
+          "name": "Jaylen Brown",
+          "team": "Philadelphia 76ers",
+          "position": "Small forward (SF)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "vs New York Knicks, won 120-97 (preseason)",
+            "stats": [
+              "22 points in 17 minutes",
+              "8 of 13 shooting",
+              "3 of 5 from three",
+              "2 rebounds, 2 assists"
+            ]
+          },
+          "buzz": "Brown, acquired in the trade that sent Paul George away, led Philadelphia with 22 points on 8 of 13 shooting in his 76ers debut.",
+          "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_NY@PHI/); CBS Sports (https://www.cbssports.com/nba/news/lebron-james-begins-76ers-era/)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "VJ Edgecombe",
+          "team": "Philadelphia 76ers",
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "vs New York Knicks, won 120-97 (preseason)",
+            "stats": [
+              "12 points",
+              "4 rebounds",
+              "7 assists",
+              "4 of 9 shooting"
+            ]
+          },
+          "buzz": "Edgecombe ran the offense with 7 assists and 12 points in 19 minutes against the Knicks while Tyrese Maxey rested.",
+          "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_NY@PHI/); CBS Sports (https://www.cbssports.com/nba/teams/PHI/philadelphia-76ers/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/scoreboard/20261005/); CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_NY@PHI/); CBS Sports (https://www.cbssports.com/nba/news/lebron-james-begins-76ers-era/); CBS Sports (https://www.cbssports.com/nba/teams/PHI/philadelphia-76ers/)",
+      "asOf": "2026-10-07"
+    },
+    "Phoenix Suns": {
+      "latestResult": "Lost 109-107 at the Detroit Pistons in the preseason",
+      "latestGameDate": "2026-10-05",
+      "storyline": "The Suns led Detroit 68-50 at halftime of their preseason opener but were outscored 34-16 in the third quarter and lost 109-107, and center Mark Williams is expected to miss about five months after shoulder surgery.",
+      "bringUp": "The Suns were up 68-50 at halftime in Detroit on Monday and still lost 109-107 after the Pistons won the third quarter 34-16; they're also without center Mark Williams, who had shoulder surgery and is expected to miss about five months.",
+      "details": [
+        {
+          "name": "Devin Booker",
+          "team": "Phoenix Suns",
+          "position": "Shooting guard (SG)",
+          "lastGame": null,
+          "buzz": "Booker is entering his 12th season and is reportedly feeling the healthiest of his career, per The Arizona Republic.",
+          "source": "CBS Sports (https://www.cbssports.com/nba/teams/PHO/phoenix-suns/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/scoreboard/20261005/); CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_PHO@DET/); CBS Sports (https://www.cbssports.com/nba/teams/PHO/phoenix-suns/)",
+      "asOf": "2026-10-07"
+    },
+    "Portland Trail Blazers": {
+      "latestResult": "Finished 2025-26 at 42-40; lost 4-1 to the San Antonio Spurs in the first round",
+      "latestGameDate": null,
+      "storyline": "The Trail Blazers traded for Ja Morant this offseason and now have him, Damian Lillard and All-Star Deni Avdija under first-time head coach Micah Nori, while Shaedon Sharpe is expected to miss six months with a torn knee meniscus.",
+      "bringUp": "Portland added Ja Morant in a trade to a backcourt with Damian Lillard, but lost Shaedon Sharpe to a torn meniscus that's expected to keep him out six months; the Blazers open October 21 at home against Phoenix.",
+      "details": [
+        {
+          "name": "Ja Morant",
+          "team": "Portland Trail Blazers",
+          "position": "Point guard (PG)",
+          "lastGame": null,
+          "buzz": "Morant, 27, has come off the bench only twice in his career, and CBS Sports' Sam Quinn argued on October 2 that Portland should start him as a reserve.",
+          "source": "CBS Sports (https://www.cbssports.com/nba/news/blazers-ja-morant-starting-lineup-dilemma-damian-lillard-deni-avdija/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "Basketball Reference (https://www.basketball-reference.com/playoffs/NBA_2026.html); Basketball Reference (https://www.basketball-reference.com/leagues/NBA_2026_standings.html); CBS Sports (https://www.cbssports.com/nba/news/blazers-ja-morant-starting-lineup-dilemma-damian-lillard-deni-avdija/); CBS Sports (https://www.cbssports.com/nba/teams/POR/portland-trail-blazers/); CBS Sports (https://www.cbssports.com/nba/news/nba-head-coach-rankings-2026-27-season/); CBS Sports (https://www.cbssports.com/nba/teams/POR/portland-trail-blazers/schedule/)",
+      "asOf": "2026-10-07"
+    },
+    "Sacramento Kings": {
+      "latestResult": "Lost 127-103 at home to the Los Angeles Lakers in the preseason",
+      "latestGameDate": "2026-10-05",
+      "storyline": "Coming off a 22-60 season, the Kings made just 4 of 23 three-pointers while the Lakers made 20 of 44 in a 127-103 preseason loss in Sacramento.",
+      "bringUp": "The Kings got outshot 20 to 4 from three-point range in a 127-103 preseason loss to the Lakers on Monday, after a 22-60 season; Nique Clifford was the bright spot with 23 points and 9 rebounds.",
+      "details": [
+        {
+          "name": "Nique Clifford",
+          "team": "Sacramento Kings",
+          "position": "Shooting guard (SG)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "vs Los Angeles Lakers, lost 127-103 (preseason)",
+            "stats": [
+              "23 points",
+              "9 rebounds",
+              "2 assists",
+              "8 of 13 shooting"
+            ]
+          },
+          "buzz": "Clifford led Sacramento with 23 points on 8 of 13 shooting off the bench in the 127-103 preseason loss to the Lakers.",
+          "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_LAL@SAC/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/scoreboard/20261005/); CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261005_LAL@SAC/); Basketball Reference (https://www.basketball-reference.com/playoffs/NBA_2026.html); Basketball Reference (https://www.basketball-reference.com/leagues/NBA_2026_standings.html); CBS Sports (https://www.cbssports.com/nba/teams/SAC/sacramento-kings/)",
+      "asOf": "2026-10-07"
+    },
+    "San Antonio Spurs": {
+      "latestResult": "Finished 2025-26 at 62-20; lost the NBA Finals 4-1 to the New York Knicks",
+      "latestGameDate": null,
+      "storyline": "The Spurs beat Oklahoma City in seven games in the Western Conference finals before losing the Finals to the Knicks in five, and they open the 2026-27 season at home against the Thunder on October 20, 2026.",
+      "bringUp": "The Spurs open on October 20 at home against Oklahoma City, the team they beat in seven games in last season's conference finals before losing the Finals 4-1 to the Knicks.",
+      "details": [
+        {
+          "name": "Dylan Harper",
+          "team": "San Antonio Spurs",
+          "position": "Guard (G)",
+          "lastGame": null,
+          "buzz": "Harper averaged 18 points per game in the Finals as a rookie, including 56 points across Games 4 and 5, and told GQ, \"I ain't coming off no bench.\"",
+          "source": "CBS Sports (https://www.cbssports.com/nba/news/spurs-star-dylan-harper-too-good-come-off-bench/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "Basketball Reference (https://www.basketball-reference.com/playoffs/NBA_2026.html); Basketball Reference (https://www.basketball-reference.com/leagues/NBA_2026_standings.html); CBS Sports (https://www.cbssports.com/nba/teams/SA/san-antonio-spurs/schedule/); CBS Sports (https://www.cbssports.com/nba/news/spurs-star-dylan-harper-too-good-come-off-bench/)",
+      "asOf": "2026-10-07"
+    },
+    "Toronto Raptors": {
+      "latestResult": "Lost 129-105 to the Miami Heat in a preseason game in Quebec City (0-1)",
+      "latestGameDate": "2026-10-03",
+      "storyline": "Kawhi Leonard is back in Toronto after a trade with the Clippers and agreed to a two-year, $115 million extension through 2028-29; he was a full participant in practice on October 5.",
+      "bringUp": "Kawhi Leonard is a Raptor again after a trade from the Clippers and a new two-year, $115 million extension; he hasn't played yet this preseason, and Toronto lost its opener 129-105 to Miami in Quebec City.",
+      "details": [
+        {
+          "name": "Kawhi Leonard",
+          "team": "Toronto Raptors",
+          "position": "Small forward (SF)",
+          "lastGame": null,
+          "buzz": "Leonard played 65 games for the Clippers last season, averaging just under 28 points, before the trade back to Toronto.",
+          "source": "CBS Sports (https://www.cbssports.com/nba/news/kawhi-leonard-raptors-concerns-scottie-barnes-rj-barrett/); CBS Sports (https://www.cbssports.com/nba/teams/TOR/toronto-raptors/)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "RJ Barrett",
+          "team": "Toronto Raptors",
+          "position": "Shooting guard (SG)",
+          "lastGame": {
+            "date": "2026-10-03",
+            "label": "vs Miami Heat in Quebec City, lost 129-105 (preseason)",
+            "stats": [
+              "15 points in 17 minutes",
+              "3 of 9 shooting",
+              "7 of 8 free throws",
+              "3 rebounds, 1 assist"
+            ]
+          },
+          "buzz": "Barrett tied for Toronto's team lead with 15 points in 17 minutes in the 129-105 preseason loss to Miami.",
+          "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261003_MIA@TOR/); CBS Sports (https://www.cbssports.com/nba/teams/TOR/toronto-raptors/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/scoreboard/20261003/); CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261003_MIA@TOR/); CBS Sports (https://www.cbssports.com/nba/news/kawhi-leonard-raptors-concerns-scottie-barnes-rj-barrett/); CBS Sports (https://www.cbssports.com/nba/teams/TOR/toronto-raptors/); Basketball Reference (https://www.basketball-reference.com/playoffs/NBA_2026.html); Basketball Reference (https://www.basketball-reference.com/leagues/NBA_2026_standings.html)",
+      "asOf": "2026-10-07"
+    },
+    "Utah Jazz": {
+      "latestResult": "Lost 117-106 at home to the Denver Nuggets in the preseason (now 1-1)",
+      "latestGameDate": "2026-10-06",
+      "storyline": "After a 22-60 season, the Jazz split two preseason games with Denver, winning 109-97 in Boulder on October 4 behind Lauri Markkanen's 17 points before losing 117-106 in Salt Lake City on October 6 with Markkanen sitting out with neck soreness.",
+      "bringUp": "The Jazz beat Denver 109-97 in a preseason game in Boulder on Sunday, with Lauri Markkanen scoring 17 in 16 minutes, then lost the rematch 117-106 at home Tuesday while he rested a sore neck.",
+      "details": [
+        {
+          "name": "Lauri Markkanen",
+          "team": "Utah Jazz",
+          "position": "Power forward (PF)",
+          "lastGame": {
+            "date": "2026-10-04",
+            "label": "at Denver Nuggets in Boulder, won 109-97 (preseason)",
+            "stats": [
+              "17 points in 16 minutes",
+              "5 of 12 shooting",
+              "3 of 7 from three",
+              "2 rebounds"
+            ]
+          },
+          "buzz": "Markkanen sat out Tuesday's preseason game with minor neck soreness and is expected to be available Monday against the Spurs.",
+          "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261004_UTA@DEN/); CBS Sports (https://www.cbssports.com/nba/teams/UTA/utah-jazz/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261004_UTA@DEN/); CBS Sports (https://www.cbssports.com/nba/scoreboard/20261004/); CBS Sports (https://www.cbssports.com/nba/scoreboard/20261006/); FOX Sports (https://www.foxsports.com/nba/denver-nuggets-vs-utah-jazz-oct-06-2026-game-boxscore-106475); CBS Sports (https://www.cbssports.com/nba/teams/UTA/utah-jazz/); Basketball Reference (https://www.basketball-reference.com/playoffs/NBA_2026.html); Basketball Reference (https://www.basketball-reference.com/leagues/NBA_2026_standings.html)",
+      "asOf": "2026-10-07"
+    },
+    "Washington Wizards": {
+      "latestResult": "Finished 2025-26 at 17-65, last in the Eastern Conference; missed the playoffs",
+      "latestGameDate": null,
+      "storyline": "After a 17-65 season, the Wizards open the preseason on October 8 at the Knicks with Trae Young and Anthony Davis, acquired in midseason trades, on the training camp roster, and open the regular season at home against Milwaukee on October 21, 2026.",
+      "bringUp": "The Wizards went 17-65 last season, but they traded for Trae Young and Anthony Davis, who have 14 All-Star appearances between them; their preseason starts Thursday at Madison Square Garden.",
+      "details": [
+        {
+          "name": "Trae Young",
+          "team": "Washington Wizards",
+          "position": "Point guard (PG)",
+          "lastGame": null,
+          "buzz": "Young came to Washington in a January trade with Atlanta, and he and Anthony Davis have 14 All-Star appearances between them.",
+          "source": "NBA.com (https://www.nba.com/news/trae-young-closer-wizards-debut); CBS Sports (https://www.cbssports.com/nba/teams/WAS/washington-wizards/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "Basketball Reference (https://www.basketball-reference.com/playoffs/NBA_2026.html); Basketball Reference (https://www.basketball-reference.com/leagues/NBA_2026_standings.html); Roundtable (https://roundtable.io/sports/nba/wizards/news/washington-wizards-announce-training-camp-roster-practice-dates); NBA.com (https://www.nba.com/news/trae-young-closer-wizards-debut); CBS Sports (https://www.cbssports.com/nba/teams/WAS/washington-wizards/schedule/); CBS Sports (https://www.cbssports.com/nba/teams/WAS/washington-wizards/schedule/preseason/)",
+      "asOf": "2026-10-07"
+    }
+  }
+}

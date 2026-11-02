@@ -1,0 +1,1408 @@
+{
+  "sport": "mlb",
+  "asOf": "2026-10-07",
+  "season": "2026",
+  "phase": "Postseason: Division Series",
+  "buzzRounds": [
+    [
+      {
+        "id": "mlb-yankees-brink-rays",
+        "topic": "Yankees one loss from elimination",
+        "whatHappened": "The Rays beat the Yankees 5-2 on Monday in Game 2 of the American League Division Series and lead the best-of-five series 2-0. New York made four errors, including three in the first inning, and its only runs were two solo home runs by Ben Rice. Aaron Judge was out of the lineup with a calf injury.",
+        "whyCare": "New York became the first team to commit three errors in the first inning of a postseason game, and now it has to win three straight, starting with Game 3 at Yankee Stadium on Wednesday.",
+        "youCouldSay": "The Yankees made four errors and lost 5-2 to the Rays on Monday, and Ben Rice homered twice for both of their runs. They are down 0-2 and have to win Wednesday at Yankee Stadium, with Aaron Judge out with a calf injury.",
+        "gameDate": "2026-10-05",
+        "details": [
+          {
+            "name": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "Designated hitter (DH)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "at Tampa Bay Rays, lost 5-2 (Division Series Game 2)",
+              "stats": [
+                "2 for 3",
+                "2 home runs",
+                "2 runs batted in",
+                "2 runs scored"
+              ]
+            },
+            "buzz": "Rice hit two solo homers in Game 2, giving him four this postseason, after hitting 41 in the regular season.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_NYY@TB/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
+        "asOf": "2026-10-07"
+      },
+      {
+        "id": "mlb-white-sox-one-win-from-alcs",
+        "topic": "White Sox one win from the league championship series",
+        "whatHappened": "The White Sox beat the Guardians 4-3 in Cleveland on Monday to take a 2-0 lead in their American League Division Series. Braden Montgomery hit a two-run double in the sixth inning for the go-ahead runs, and Sean Burke won it with 5 1/3 innings of relief.",
+        "whyCare": "Chicago lost a post-1900 record 121 games in 2024 and is the first team to reach the postseason after three straight 100-loss seasons. One more win sends it to the American League Championship Series for the first time since 2005, the year it won the World Series.",
+        "youCouldSay": "The White Sox lost a record 121 games in 2024, and now they are up 2-0 on Cleveland after Braden Montgomery's two-run double won Game 2, 4-3, on Monday. One more win and they are in the American League Championship Series for the first time since 2005.",
+        "gameDate": "2026-10-05",
+        "details": [
+          {
+            "name": "Braden Montgomery",
+            "team": "Chicago White Sox",
+            "position": "Outfielder (OF)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "at Cleveland Guardians, won 4-3 (Division Series Game 2)",
+              "stats": [
+                "1 for 4",
+                "1 double",
+                "2 runs batted in",
+                "1 run scored"
+              ]
+            },
+            "buzz": "Montgomery hit the go-ahead two-run double on a first pitch from reliever Erik Sabrowski in the sixth inning of Game 2.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
+            "asOf": "2026-10-07"
+          },
+          {
+            "name": "Sean Burke",
+            "team": "Chicago White Sox",
+            "position": "Relief pitcher (RP)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "at Cleveland Guardians, won 4-3 (Division Series Game 2)",
+              "stats": [
+                "5 1/3 innings",
+                "6 strikeouts",
+                "1 earned run",
+                "1 hit allowed"
+              ]
+            },
+            "buzz": "Burke came on in the third inning behind opener Anthony Kay and got the win, allowing one hit in 5 1/3 innings.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
+        "asOf": "2026-10-07"
+      },
+      {
+        "id": "mlb-dodgers-yamamoto-game3",
+        "topic": "Yamamoto puts Dodgers one win from the next round",
+        "whatHappened": "Yoshinobu Yamamoto struck out 10 in seven innings and the Dodgers beat the Braves 3-1 in Atlanta on Tuesday. Freddie Freeman and Enrique Hernández both homered in the fourth inning off Chris Sale.",
+        "whyCare": "The two-time defending champion Dodgers lead the National League Division Series 2-1 and can finish it with a win in Game 4 in Atlanta on Wednesday.",
+        "youCouldSay": "Yoshinobu Yamamoto struck out 10 in seven innings as the Dodgers beat the Braves 3-1 on Tuesday, and Freddie Freeman homered against his old team. L.A. is up 2-1 and can close it out Wednesday in Atlanta.",
+        "gameDate": "2026-10-06",
+        "details": [
+          {
+            "name": "Yoshinobu Yamamoto",
+            "team": "Los Angeles Dodgers",
+            "position": "Starting pitcher (SP)",
+            "lastGame": {
+              "date": "2026-10-06",
+              "label": "at Atlanta Braves, won 3-1 (Division Series Game 3)",
+              "stats": [
+                "7 innings",
+                "10 strikeouts",
+                "1 earned run",
+                "4 hits allowed"
+              ]
+            },
+            "buzz": "Yamamoto out-dueled Chris Sale with 10 strikeouts over seven innings to put the Dodgers one win from the National League Championship Series.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_LAD@ATL/)",
+            "asOf": "2026-10-07"
+          },
+          {
+            "name": "Freddie Freeman",
+            "team": "Los Angeles Dodgers",
+            "position": "First baseman (1B)",
+            "lastGame": {
+              "date": "2026-10-06",
+              "label": "at Atlanta Braves, won 3-1 (Division Series Game 3)",
+              "stats": [
+                "1 for 4",
+                "1 home run",
+                "1 run batted in"
+              ]
+            },
+            "buzz": "Freeman, a former Brave, homered in Atlanta in Game 3, his second home run of this postseason.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_LAD@ATL/); MLB.com (https://www.mlb.com/news)",
+            "asOf": "2026-10-07"
+          },
+          {
+            "name": "Enrique Hernández",
+            "team": "Los Angeles Dodgers",
+            "position": "Third baseman (3B)",
+            "lastGame": {
+              "date": "2026-10-06",
+              "label": "at Atlanta Braves, won 3-1 (Division Series Game 3)",
+              "stats": [
+                "1 for 4",
+                "1 home run",
+                "2 runs batted in"
+              ]
+            },
+            "buzz": "Hernández hit a two-run homer off Chris Sale in the fourth inning, his first home run of this postseason.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_LAD@ATL/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_LAD@ATL/); MLB.com (https://www.mlb.com/news); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
+        "asOf": "2026-10-07"
+      }
+    ],
+    [
+      {
+        "id": "mlb-yankees-brink-rays",
+        "topic": "Yankees one loss from elimination",
+        "whatHappened": "The Rays beat the Yankees 5-2 on Monday in Game 2 of the American League Division Series and lead the best-of-five series 2-0. New York made four errors, including three in the first inning, and its only runs were two solo home runs by Ben Rice. Aaron Judge was out of the lineup with a calf injury.",
+        "whyCare": "New York became the first team to commit three errors in the first inning of a postseason game, and now it has to win three straight, starting with Game 3 at Yankee Stadium on Wednesday.",
+        "youCouldSay": "The Yankees made four errors and lost 5-2 to the Rays on Monday, and Ben Rice homered twice for both of their runs. They are down 0-2 and have to win Wednesday at Yankee Stadium, with Aaron Judge out with a calf injury.",
+        "gameDate": "2026-10-05",
+        "details": [
+          {
+            "name": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "Designated hitter (DH)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "at Tampa Bay Rays, lost 5-2 (Division Series Game 2)",
+              "stats": [
+                "2 for 3",
+                "2 home runs",
+                "2 runs batted in",
+                "2 runs scored"
+              ]
+            },
+            "buzz": "Rice hit two solo homers in Game 2, giving him four this postseason, after hitting 41 in the regular season.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_NYY@TB/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
+        "asOf": "2026-10-07"
+      },
+      {
+        "id": "mlb-white-sox-one-win-from-alcs",
+        "topic": "White Sox one win from the league championship series",
+        "whatHappened": "The White Sox beat the Guardians 4-3 in Cleveland on Monday to take a 2-0 lead in their American League Division Series. Braden Montgomery hit a two-run double in the sixth inning for the go-ahead runs, and Sean Burke won it with 5 1/3 innings of relief.",
+        "whyCare": "Chicago lost a post-1900 record 121 games in 2024 and is the first team to reach the postseason after three straight 100-loss seasons. One more win sends it to the American League Championship Series for the first time since 2005, the year it won the World Series.",
+        "youCouldSay": "The White Sox lost a record 121 games in 2024, and now they are up 2-0 on Cleveland after Braden Montgomery's two-run double won Game 2, 4-3, on Monday. One more win and they are in the American League Championship Series for the first time since 2005.",
+        "gameDate": "2026-10-05",
+        "details": [
+          {
+            "name": "Braden Montgomery",
+            "team": "Chicago White Sox",
+            "position": "Outfielder (OF)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "at Cleveland Guardians, won 4-3 (Division Series Game 2)",
+              "stats": [
+                "1 for 4",
+                "1 double",
+                "2 runs batted in",
+                "1 run scored"
+              ]
+            },
+            "buzz": "Montgomery hit the go-ahead two-run double on a first pitch from reliever Erik Sabrowski in the sixth inning of Game 2.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
+            "asOf": "2026-10-07"
+          },
+          {
+            "name": "Sean Burke",
+            "team": "Chicago White Sox",
+            "position": "Relief pitcher (RP)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "at Cleveland Guardians, won 4-3 (Division Series Game 2)",
+              "stats": [
+                "5 1/3 innings",
+                "6 strikeouts",
+                "1 earned run",
+                "1 hit allowed"
+              ]
+            },
+            "buzz": "Burke came on in the third inning behind opener Anthony Kay and got the win, allowing one hit in 5 1/3 innings.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
+        "asOf": "2026-10-07"
+      },
+      {
+        "id": "mlb-padres-stay-alive",
+        "topic": "Padres avoid elimination on a wild final play",
+        "whatHappened": "Facing elimination, the Padres beat the Brewers 4-3 in San Diego on Tuesday. Jake Cronenworth hit the tiebreaking homer in the fifth, and with two runners on in the ninth, Xander Bogaerts fielded Christian Yelich's 107 miles per hour line drive on a short hop on his knees, stepped on second and threw to first for a game-ending double play.",
+        "whyCare": "Milwaukee still leads the National League Division Series 2-1, and Game 4 is Wednesday in San Diego.",
+        "youCouldSay": "The Padres were one loss from going home and beat the Brewers 4-3 on Tuesday, and it ended when Xander Bogaerts fielded a 107 miles per hour line drive on his knees and turned a game-ending double play. Milwaukee still leads the series 2-1.",
+        "gameDate": "2026-10-06",
+        "details": [
+          {
+            "name": "Xander Bogaerts",
+            "team": "San Diego Padres",
+            "position": "Shortstop (SS)",
+            "lastGame": {
+              "date": "2026-10-06",
+              "label": "vs. Milwaukee Brewers, won 4-3 (Division Series Game 3)",
+              "stats": [
+                "1 for 3",
+                "1 run scored"
+              ]
+            },
+            "buzz": "Bogaerts singled and scored the Padres' fourth run on a hustle play in the sixth, then ended Game 3 with a double play on Christian Yelich's 107 miles per hour liner.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/)",
+            "asOf": "2026-10-07"
+          },
+          {
+            "name": "Jake Cronenworth",
+            "team": "San Diego Padres",
+            "position": "Second baseman (2B)",
+            "lastGame": {
+              "date": "2026-10-06",
+              "label": "vs. Milwaukee Brewers, won 4-3 (Division Series Game 3)",
+              "stats": [
+                "2 for 2",
+                "1 home run",
+                "1 run batted in"
+              ]
+            },
+            "buzz": "Cronenworth hit JoJo Romero's first pitch of the fifth inning over the right-field wall for the tiebreaking home run, only his second hit of this postseason.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
+        "asOf": "2026-10-07"
+      }
+    ],
+    [
+      {
+        "id": "mlb-yankees-brink-rays",
+        "topic": "Yankees one loss from elimination",
+        "whatHappened": "The Rays beat the Yankees 5-2 on Monday in Game 2 of the American League Division Series and lead the best-of-five series 2-0. New York made four errors, including three in the first inning, and its only runs were two solo home runs by Ben Rice. Aaron Judge was out of the lineup with a calf injury.",
+        "whyCare": "New York became the first team to commit three errors in the first inning of a postseason game, and now it has to win three straight, starting with Game 3 at Yankee Stadium on Wednesday.",
+        "youCouldSay": "The Yankees made four errors and lost 5-2 to the Rays on Monday, and Ben Rice homered twice for both of their runs. They are down 0-2 and have to win Wednesday at Yankee Stadium, with Aaron Judge out with a calf injury.",
+        "gameDate": "2026-10-05",
+        "details": [
+          {
+            "name": "Ben Rice",
+            "team": "New York Yankees",
+            "position": "Designated hitter (DH)",
+            "lastGame": {
+              "date": "2026-10-05",
+              "label": "at Tampa Bay Rays, lost 5-2 (Division Series Game 2)",
+              "stats": [
+                "2 for 3",
+                "2 home runs",
+                "2 runs batted in",
+                "2 runs scored"
+              ]
+            },
+            "buzz": "Rice hit two solo homers in Game 2, giving him four this postseason, after hitting 41 in the regular season.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_NYY@TB/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
+        "asOf": "2026-10-07"
+      },
+      {
+        "id": "mlb-padres-stay-alive",
+        "topic": "Padres avoid elimination on a wild final play",
+        "whatHappened": "Facing elimination, the Padres beat the Brewers 4-3 in San Diego on Tuesday. Jake Cronenworth hit the tiebreaking homer in the fifth, and with two runners on in the ninth, Xander Bogaerts fielded Christian Yelich's 107 miles per hour line drive on a short hop on his knees, stepped on second and threw to first for a game-ending double play.",
+        "whyCare": "Milwaukee still leads the National League Division Series 2-1, and Game 4 is Wednesday in San Diego.",
+        "youCouldSay": "The Padres were one loss from going home and beat the Brewers 4-3 on Tuesday, and it ended when Xander Bogaerts fielded a 107 miles per hour line drive on his knees and turned a game-ending double play. Milwaukee still leads the series 2-1.",
+        "gameDate": "2026-10-06",
+        "details": [
+          {
+            "name": "Xander Bogaerts",
+            "team": "San Diego Padres",
+            "position": "Shortstop (SS)",
+            "lastGame": {
+              "date": "2026-10-06",
+              "label": "vs. Milwaukee Brewers, won 4-3 (Division Series Game 3)",
+              "stats": [
+                "1 for 3",
+                "1 run scored"
+              ]
+            },
+            "buzz": "Bogaerts singled and scored the Padres' fourth run on a hustle play in the sixth, then ended Game 3 with a double play on Christian Yelich's 107 miles per hour liner.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/)",
+            "asOf": "2026-10-07"
+          },
+          {
+            "name": "Jake Cronenworth",
+            "team": "San Diego Padres",
+            "position": "Second baseman (2B)",
+            "lastGame": {
+              "date": "2026-10-06",
+              "label": "vs. Milwaukee Brewers, won 4-3 (Division Series Game 3)",
+              "stats": [
+                "2 for 2",
+                "1 home run",
+                "1 run batted in"
+              ]
+            },
+            "buzz": "Cronenworth hit JoJo Romero's first pitch of the fifth inning over the right-field wall for the tiebreaking home run, only his second hit of this postseason.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
+        "asOf": "2026-10-07"
+      },
+      {
+        "id": "mlb-skubal-dodgers-debut",
+        "topic": "Skubal wins first playoff start for the Dodgers",
+        "whatHappened": "Tarik Skubal, whom Detroit traded to the Dodgers just before the August 3 trade deadline, allowed one run on two hits in six innings as the Dodgers beat the Braves 5-3 in Game 1 of the National League Division Series on Saturday. The game-time temperature at Dodger Stadium was 100 degrees.",
+        "whyCare": "Skubal struck out seven, and his 63 strikeouts are the second-most by a pitcher in his first seven postseason appearances, behind only Bob Gibson.",
+        "youCouldSay": "Tarik Skubal, who Detroit traded to the Dodgers in August, gave up one run in six innings to win his first playoff start for L.A., 5-3 over Atlanta on Saturday, in 100-degree heat at Dodger Stadium.",
+        "gameDate": "2026-10-03",
+        "details": [
+          {
+            "name": "Tarik Skubal",
+            "team": "Los Angeles Dodgers",
+            "position": "Starting pitcher (SP)",
+            "lastGame": {
+              "date": "2026-10-03",
+              "label": "vs. Atlanta Braves, won 5-3 (Division Series Game 1)",
+              "stats": [
+                "6 innings",
+                "7 strikeouts",
+                "1 earned run",
+                "2 hits allowed"
+              ]
+            },
+            "buzz": "Skubal has 63 strikeouts in his first seven postseason appearances, second-most ever behind Bob Gibson.",
+            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261003_ATL@LAD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261003_ATL@LAD/)",
+            "asOf": "2026-10-07"
+          }
+        ],
+        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261003_ATL@LAD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261003_ATL@LAD/)",
+        "asOf": "2026-10-07"
+      }
+    ]
+  ],
+  "teams": {
+    "Arizona Diamondbacks": {
+      "latestResult": "Lost 9-4 at the Padres in the regular-season finale; finished 86-76, out of the playoffs",
+      "latestGameDate": "2026-09-27",
+      "storyline": "Arizona went 86-76, six wins better than its 80-82 record in 2025, but missed the playoffs for the eighth time in nine seasons when the Phillies clinched the last National League wild card spot.",
+      "bringUp": "The Diamondbacks won 86 games and still missed the playoffs, which is the eighth time in nine seasons they've sat out October; their only trip in that span was the 2023 World Series run.",
+      "details": [
+        {
+          "name": "Corbin Carroll",
+          "team": "Arizona Diamondbacks",
+          "position": "Outfielder (OF)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "at San Diego Padres, lost 9-4 (season finale)",
+            "stats": [
+              "1 for 3",
+              "1 run batted in",
+              "1 run scored"
+            ]
+          },
+          "buzz": "Carroll finished the season with a .239 batting average and a .467 slugging percentage, according to the CBS Sports box score of the finale.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_ARI@SD/)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "Geraldo Perdomo",
+          "team": "Arizona Diamondbacks",
+          "position": "Shortstop (SS)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "at San Diego Padres, lost 9-4 (season finale)",
+            "stats": [
+              "1 for 3",
+              "1 walk"
+            ]
+          },
+          "buzz": "Perdomo ended the year with a .370 on-base percentage, the share of trips to the plate where he reached base, per the finale's box score.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_ARI@SD/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_ARI@SD/)",
+      "asOf": "2026-10-07"
+    },
+    "Athletics": {
+      "latestResult": "Lost 9-0 to the Astros at home in the season finale; finished 64-98, out of the playoffs",
+      "latestGameDate": "2026-09-27",
+      "storyline": "The Athletics went 64-98 in their second season at a minor league ballpark in West Sacramento and drew a major-league-low 799,240 fans at home, ahead of a planned move to Las Vegas in 2028.",
+      "bringUp": "The A's drew 799,240 fans at home this year, the only team in the majors under a million, while playing in a minor league park in West Sacramento until their planned 2028 move to Las Vegas.",
+      "details": [
+        {
+          "name": "Lawrence Butler",
+          "team": "Athletics",
+          "position": "Outfielder (OF)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "vs Houston Astros, lost 9-0 (season finale)",
+            "stats": [
+              "2 for 4",
+              "0 runs batted in"
+            ]
+          },
+          "buzz": "Butler had two of the A's five hits in a 9-0 shutout loss to Houston that closed a 64-98 season.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_HOU@ATH/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_HOU@ATH/)",
+      "asOf": "2026-10-07"
+    },
+    "Atlanta Braves": {
+      "latestResult": "Lost 3-1 to the Dodgers at home in Game 3 of the National League Division Series (trail series 2-1)",
+      "latestGameDate": "2026-10-06",
+      "storyline": "Atlanta, which won the National League East at 94-68 and beat the Phillies 6-2 in Game 3 of the wild card round, now has to win Game 4 at home on Wednesday to stay alive against the Dodgers.",
+      "bringUp": "The Braves lost 3-1 to the Dodgers on Tuesday night on home runs by Freddie Freeman and Enrique Hernandez, so they're down 2-1 and facing elimination in Game 4 in Atlanta on Wednesday.",
+      "details": [
+        {
+          "name": "Chris Sale",
+          "team": "Atlanta Braves",
+          "position": "Starting pitcher (SP)",
+          "lastGame": {
+            "date": "2026-10-06",
+            "label": "vs Los Angeles Dodgers, lost 3-1 (Division Series Game 3)",
+            "stats": [
+              "5 innings",
+              "7 strikeouts",
+              "3 earned runs",
+              "7 hits allowed"
+            ]
+          },
+          "buzz": "Sale took the loss in Game 3, giving up both Dodgers home runs in a three-run fourth inning.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_LAD@ATL/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "MLB.com (https://www.mlb.com/scores/2026-10-06)",
+      "asOf": "2026-10-07"
+    },
+    "Baltimore Orioles": {
+      "latestResult": "Lost 6-3 at the Yankees in the second game of a doubleheader; finished 79-82, out of the playoffs",
+      "latestGameDate": "2026-09-25",
+      "storyline": "Baltimore finished 79-82 for its second straight losing season, while first-year Oriole Pete Alonso hit 43 home runs, the most in the American League at the time of the team's last game.",
+      "bringUp": "Pete Alonso hit 43 home runs for the Orioles, tops in the American League when their season ended, but Baltimore still finished 79-82 for a second straight losing year.",
+      "details": [
+        {
+          "name": "Pete Alonso",
+          "team": "Baltimore Orioles",
+          "position": "First baseman (1B)",
+          "lastGame": {
+            "date": "2026-09-25",
+            "label": "at New York Yankees, lost 6-3 (doubleheader Game 2)",
+            "stats": [
+              "1 for 3",
+              "2 runs scored",
+              "2 walks"
+            ]
+          },
+          "buzz": "Alonso homered twice in the first game of the September 25 doubleheader, a 10-2 Orioles win, to reach an American League-leading 43 home runs.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260925_BAL@NYY_2/)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "Coby Mayo",
+          "team": "Baltimore Orioles",
+          "position": "Third baseman (3B)",
+          "lastGame": {
+            "date": "2026-09-25",
+            "label": "at New York Yankees, lost 6-3 (doubleheader Game 2)",
+            "stats": [
+              "3 for 4",
+              "0 runs batted in"
+            ]
+          },
+          "buzz": "Mayo had three of Baltimore's 11 hits in the final game the Orioles played, a 6-3 loss in New York.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260925_BAL@NYY_2/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260925_BAL@NYY_2/)",
+      "asOf": "2026-10-07"
+    },
+    "Boston Red Sox": {
+      "latestResult": "Lost 9-2 at the Yankees in Game 2 of the American League Wild Card Series (swept 2-0); finished 87-75",
+      "latestGameDate": "2026-09-30",
+      "storyline": "Boston climbed out of a 32-46 start to make the playoffs under manager Chad Tracy, then was outscored 18-2 and hit .117 in a two-game wild card sweep by the Yankees.",
+      "bringUp": "The Red Sox came back from 32-46 to reach the playoffs, then the Yankees swept them and outscored them 18-2; Garrett Crochet gave up four runs without getting an out in his first outing since April.",
+      "details": [
+        {
+          "name": "Sonny Gray",
+          "team": "Boston Red Sox",
+          "position": "Starting pitcher (SP)",
+          "lastGame": {
+            "date": "2026-09-30",
+            "label": "at New York Yankees, lost 9-2 (Wild Card Game 2)",
+            "stats": [
+              "4.2 innings",
+              "5 strikeouts",
+              "2 earned runs",
+              "6 hits allowed"
+            ]
+          },
+          "buzz": "Gray went 18-6 in the regular season but took the loss in the elimination game after being pulled in the fifth inning.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260930_BOS@NYY/)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "Willson Contreras",
+          "team": "Boston Red Sox",
+          "position": "First baseman (1B)",
+          "lastGame": {
+            "date": "2026-09-30",
+            "label": "at New York Yankees, lost 9-2 (Wild Card Game 2)",
+            "stats": [
+              "2 for 2",
+              "1 home run",
+              "1 run batted in"
+            ]
+          },
+          "buzz": "Contreras's sixth-inning home run ended Boston's 26-inning postseason scoreless streak.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260930_BOS@NYY/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260930_BOS@NYY/)",
+      "asOf": "2026-10-07"
+    },
+    "Chicago Cubs": {
+      "latestResult": "Lost 4-1 at the Padres in Game 2 of the National League Wild Card Series (swept 2-0); finished 89-73",
+      "latestGameDate": "2026-09-30",
+      "storyline": "The Cubs led the majors in runs this season but scored once in Game 2 and were swept by a Padres team that went 20-3 from September 5 on, flipping last year's wild card result.",
+      "bringUp": "The Cubs scored the most runs in baseball this year, then got swept by San Diego in the wild card round, with Alex Bregman and Pete Crow-Armstrong going a combined 0 for 15.",
+      "details": [
+        {
+          "name": "Nico Hoerner",
+          "team": "Chicago Cubs",
+          "position": "Second baseman (2B)",
+          "lastGame": {
+            "date": "2026-09-30",
+            "label": "at San Diego Padres, lost 4-1 (Wild Card Game 2)",
+            "stats": [
+              "2 for 4",
+              "1 run batted in",
+              "1 double"
+            ]
+          },
+          "buzz": "Hoerner drove in the Cubs' only run of Game 2 and had half of Chicago's hits in the series.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260930_CHC@SD/)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "Pete Crow-Armstrong",
+          "team": "Chicago Cubs",
+          "position": "Outfielder (OF)",
+          "lastGame": {
+            "date": "2026-09-30",
+            "label": "at San Diego Padres, lost 4-1 (Wild Card Game 2)",
+            "stats": [
+              "0 for 4",
+              "1 strikeout"
+            ]
+          },
+          "buzz": "Crow-Armstrong and Alex Bregman went a combined 0 for 15 with eight strikeouts across the two wild card games.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260930_CHC@SD/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260930_CHC@SD/)",
+      "asOf": "2026-10-07"
+    },
+    "Chicago White Sox": {
+      "latestResult": "Won 4-3 at the Guardians in Game 2 of the American League Division Series (lead series 2-0)",
+      "latestGameDate": "2026-10-05",
+      "storyline": "Two years after a record 121-loss season, the White Sox are 4-0 in these playoffs, all on the road, and one win from their first American League Championship Series in 21 years.",
+      "bringUp": "The White Sox, who lost 121 games in 2024, are 4-0 this postseason and can reach the American League Championship Series for the first time in 21 years with a win at home in Game 3 on Wednesday.",
+      "details": [
+        {
+          "name": "Braden Montgomery",
+          "team": "Chicago White Sox",
+          "position": "Outfielder (OF)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "at Cleveland Guardians, won 4-3 (Division Series Game 2)",
+            "stats": [
+              "1 for 4",
+              "2 runs batted in",
+              "1 double"
+            ]
+          },
+          "buzz": "Montgomery's two-run double in the sixth inning turned a 2-1 deficit into the lead in Game 2.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "Munetaka Murakami",
+          "team": "Chicago White Sox",
+          "position": "First baseman (1B)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "at Cleveland Guardians, won 4-3 (Division Series Game 2)",
+            "stats": [
+              "1 for 4",
+              "1 run batted in"
+            ]
+          },
+          "buzz": "Murakami's run-scoring single in the fourth inning got Chicago on the board after it fell behind 2-0.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
+      "asOf": "2026-10-07"
+    },
+    "Cincinnati Reds": {
+      "latestResult": "Lost 5-1 at the Blue Jays in the season finale; finished 75-87, out of the playoffs",
+      "latestGameDate": "2026-09-27",
+      "storyline": "Cincinnati finished 75-87, while Elly De La Cruz ended the season hitting .283 with a .515 slugging percentage, per the finale's box score.",
+      "bringUp": "The Reds finished 75-87 and out of the playoffs, but Elly De La Cruz still hit .283 for the season.",
+      "details": [
+        {
+          "name": "Elly De La Cruz",
+          "team": "Cincinnati Reds",
+          "position": "Shortstop (SS)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "at Toronto Blue Jays, lost 5-1 (season finale)",
+            "stats": [
+              "1 for 4",
+              "2 strikeouts"
+            ]
+          },
+          "buzz": "De La Cruz finished with a .365 on-base percentage and .515 slugging percentage, according to the CBS Sports box score of the finale.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_CIN@TOR/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_CIN@TOR/)",
+      "asOf": "2026-10-07"
+    },
+    "Cleveland Guardians": {
+      "latestResult": "Lost 4-3 to the White Sox at home in Game 2 of the American League Division Series (trail series 2-0)",
+      "latestGameDate": "2026-10-05",
+      "storyline": "The 85-77 division champion Guardians were shut out in Game 1 and lost Game 2 by a run, so they face elimination in Game 3 in Chicago on Wednesday.",
+      "bringUp": "Gavin Williams struck out 11 White Sox in Game 2, tied for the second-most by a Cleveland pitcher in a playoff game, and the Guardians still lost 4-3 and are one loss from elimination.",
+      "details": [
+        {
+          "name": "Gavin Williams",
+          "team": "Cleveland Guardians",
+          "position": "Starting pitcher (SP)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "vs Chicago White Sox, lost 4-3 (Division Series Game 2)",
+            "stats": [
+              "5 innings",
+              "11 strikeouts",
+              "2 earned runs",
+              "4 hits allowed"
+            ]
+          },
+          "buzz": "Williams became the first Cleveland pitcher to strike out five batters in a row in a postseason game.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "Chase DeLauter",
+          "team": "Cleveland Guardians",
+          "position": "Outfielder (OF)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "vs Chicago White Sox, lost 4-3 (Division Series Game 2)",
+            "stats": [
+              "2 for 4",
+              "1 run scored"
+            ]
+          },
+          "buzz": "DeLauter had two of Cleveland's four hits in the 4-3 Game 2 loss.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
+      "asOf": "2026-10-07"
+    },
+    "Colorado Rockies": {
+      "latestResult": "Lost 4-2 at the White Sox in the season finale; finished 58-104, out of the playoffs",
+      "latestGameDate": "2026-09-27",
+      "storyline": "Colorado finished 58-104, the worst record in the majors for a second straight year, and became the first team with four straight 100-loss seasons since the 1962-65 New York Mets.",
+      "bringUp": "The Rockies lost 104 games, their fourth straight 100-loss season, something no team had done since the Mets of 1962 to 1965.",
+      "details": [
+        {
+          "name": "Cole Carrigg",
+          "team": "Colorado Rockies",
+          "position": "Outfielder (OF)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "at Chicago White Sox, lost 4-2 (season finale)",
+            "stats": [
+              "1 for 4",
+              "1 home run",
+              "1 run batted in"
+            ]
+          },
+          "buzz": "Carrigg hit his 12th home run of the season in the finale and finished with 53 runs batted in.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_COL@CHW/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_COL@CHW/)",
+      "asOf": "2026-10-07"
+    },
+    "Detroit Tigers": {
+      "latestResult": "Lost 4-2 to the Pittsburgh Pirates in the season finale; finished 76-86, fourth in the American League Central and out of the playoffs",
+      "latestGameDate": "2026-09-27",
+      "storyline": "Rookie Kevin McGonigle homered in the 4-2 finale loss and was named to MLB Pipeline's All-Rookie Team on October 6, a bright spot in a 76-86 season that also saw Justin Verlander make his final career start.",
+      "bringUp": "Justin Verlander made the last start of his career on September 26, striking out 6 in 5 1/3 innings, and the Tigers won it 4-3 on a walk-off two-run homer by Eduardo Valencia.",
+      "details": [
+        {
+          "name": "Kevin McGonigle",
+          "team": "Detroit Tigers",
+          "position": "Third baseman (3B)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "vs. Pittsburgh Pirates, lost 4-2 (season finale)",
+            "stats": [
+              "2 for 3",
+              "1 home run",
+              "1 run batted in"
+            ]
+          },
+          "buzz": "McGonigle was named to MLB Pipeline's All-Rookie Team on October 6 after a rookie year the Tigers capped by pulling him in the eighth inning of the finale so fans could give him a standing ovation.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_PIT@DET/); MLB.com (https://www.mlb.com/tigers/news/2026-mlb-all-rookie-team)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "Justin Verlander",
+          "team": "Detroit Tigers",
+          "position": "Starting pitcher (SP)",
+          "lastGame": null,
+          "buzz": "Verlander's final start on September 26 against Pittsburgh was the 557th of his career and included his 3,555th career strikeout.",
+          "source": "MLB.com (https://www.mlb.com/tigers/news/justin-verlander-final-mlb-start)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/standings/); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_PIT@DET/); MLB.com (https://www.mlb.com/tigers/news/justin-verlander-final-mlb-start)",
+      "asOf": "2026-10-07"
+    },
+    "Houston Astros": {
+      "latestResult": "Lost 7-3 to the Chicago White Sox in Game 2 of the American League Wild Card Series, swept 2-0; won the American League West at 81-81",
+      "latestGameDate": "2026-09-30",
+      "storyline": "Houston clinched the American League West on the final day with an 81-81 record, then got swept at home by the White Sox, 6-3 and 7-3, after parting ways with general manager Dana Brown in August.",
+      "bringUp": "Jose Altuve homered in the Astros' 7-3 elimination loss on September 30; it was his 28th career playoff home run, one behind Manny Ramirez for the most in postseason history.",
+      "details": [
+        {
+          "name": "Jose Altuve",
+          "team": "Houston Astros",
+          "position": "Second baseman (2B)",
+          "lastGame": {
+            "date": "2026-09-30",
+            "label": "vs. Chicago White Sox, lost 7-3 (Wild Card Game 2)",
+            "stats": [
+              "2 for 4",
+              "1 home run",
+              "1 run batted in"
+            ]
+          },
+          "buzz": "Altuve's home run was his 28th in the playoffs, in his 107th postseason game, leaving him one shy of Manny Ramirez's record.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260930_CHW@HOU/); MLB.com (https://www.mlb.com/astros/news/jose-altuve-nearing-postseason-home-run-record)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260930_CHW@HOU/); MLB.com (https://www.mlb.com/astros/news/astros-lose-2026-al-wild-card-series); MLB.com (https://www.mlb.com/astros/news)",
+      "asOf": "2026-10-07"
+    },
+    "Kansas City Royals": {
+      "latestResult": "Beat the Cleveland Guardians 3-2 in the season finale; finished 69-93, last in the American League Central",
+      "latestGameDate": "2026-09-27",
+      "storyline": "Rookie catcher Carter Jensen set a Royals rookie record for home runs (27 as of September 25) and passed Mike Piazza's 61 extra-base hits for the most by a rookie catcher since at least 1947, in a 69-93 season.",
+      "bringUp": "The Royals finished last in the American League Central at 69-93, but Vinnie Pasquantino homered twice in the 3-2 finale win over Cleveland and Bobby Witt Jr. is a finalist for the Hank Aaron Award, given to the best hitter in each league.",
+      "details": [
+        {
+          "name": "Vinnie Pasquantino",
+          "team": "Kansas City Royals",
+          "position": "First baseman (1B)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "vs. Cleveland Guardians, won 3-2 (season finale)",
+            "stats": [
+              "2 for 4",
+              "2 home runs",
+              "2 runs batted in"
+            ]
+          },
+          "buzz": "Pasquantino hit solo homers in the fifth and eighth innings of the finale, finishing with 17 home runs and 63 runs batted in.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_CLE@KC/)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "Carter Jensen",
+          "team": "Kansas City Royals",
+          "position": "Catcher (C)",
+          "lastGame": null,
+          "buzz": "Jensen's 27 home runs as of September 25 were already a Royals rookie record, and he was named the American League Player and Rookie of the Month for September.",
+          "source": "MLB.com (https://www.mlb.com/news/carter-jensen-passes-mike-piazza-for-most-homers-by-rookie-catcher); MLB.com (https://www.mlb.com/royals/news)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/standings/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_CLE@KC/); MLB.com (https://www.mlb.com/news/carter-jensen-passes-mike-piazza-for-most-homers-by-rookie-catcher)",
+      "asOf": "2026-10-07"
+    },
+    "Los Angeles Angels": {
+      "latestResult": "Lost 7-3 at the Seattle Mariners in the season finale; finished 62-100, last in the American League West",
+      "latestGameDate": "2026-09-27",
+      "storyline": "The 7-3 finale loss in Seattle was the Angels' 100th of the season, the first 100-loss year in franchise history, while Stan Kroenke agreed on September 1 to buy the team from Arte Moreno.",
+      "bringUp": "The Angels lost 100 games for the first time in franchise history, finishing 62-100, even though Mike Trout played 142 games, his most since 2016, and hit 22 home runs.",
+      "details": [
+        {
+          "name": "Mike Trout",
+          "team": "Los Angeles Angels",
+          "position": "Outfielder (OF)",
+          "lastGame": null,
+          "buzz": "Trout hit .242 with 22 home runs, 54 runs batted in and a .803 OPS (on-base plus slugging) in 142 games, and is under contract through 2030.",
+          "source": "MLB.com (https://www.mlb.com/news/mike-trout-plays-most-games-in-10-years-in-2026)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "Yusei Kikuchi",
+          "team": "Los Angeles Angels",
+          "position": "Starting pitcher (SP)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "at Seattle Mariners, lost 7-3 (season finale)",
+            "stats": [
+              "5.0 innings",
+              "7 strikeouts",
+              "3 earned runs",
+              "6 hits allowed"
+            ]
+          },
+          "buzz": "Kikuchi took the loss in the finale, falling to 1-7 as the Angels reached 100 losses.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_LAA@SEA/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/standings/); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_LAA@SEA/); MLB.com (https://www.mlb.com/news/mike-trout-plays-most-games-in-10-years-in-2026)",
+      "asOf": "2026-10-07"
+    },
+    "Los Angeles Dodgers": {
+      "latestResult": "Won 3-1 at the Atlanta Braves in Game 3 of the National League Division Series (lead the series 2-1)",
+      "latestGameDate": "2026-10-06",
+      "storyline": "After going 100-62 and winning the National League West, the Dodgers are one win from the National League Championship Series after Yoshinobu Yamamoto struck out 10 in Atlanta.",
+      "bringUp": "Yoshinobu Yamamoto struck out 10 over seven innings as the Dodgers beat the Braves 3-1 in Atlanta on Tuesday, so they lead the best-of-five series 2-1 with Game 4 tonight.",
+      "details": [
+        {
+          "name": "Yoshinobu Yamamoto",
+          "team": "Los Angeles Dodgers",
+          "position": "Starting pitcher (SP)",
+          "lastGame": {
+            "date": "2026-10-06",
+            "label": "at Atlanta Braves, won 3-1 (Division Series Game 3)",
+            "stats": [
+              "7.0 innings",
+              "10 strikeouts",
+              "1 earned run",
+              "4 hits allowed"
+            ]
+          },
+          "buzz": "Yamamoto was the winning pitcher in Game 3 and Edwin Diaz got the save, putting Los Angeles one win from the next round.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_LAD@ATL/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261006/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261006/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/); CBS Sports (https://www.cbssports.com/mlb/standings/)",
+      "asOf": "2026-10-07"
+    },
+    "Miami Marlins": {
+      "latestResult": "Beat the Atlanta Braves 5-3 in the season finale; finished 80-82, third in the National League East",
+      "latestGameDate": "2026-09-27",
+      "storyline": "Miami finished 80-82, two wins short of .500, and Otto Lopez ended the season with a major league-best 191 hits.",
+      "bringUp": "The Marlins closed at 80-82 by beating the 94-win Braves 5-3, with Sandy Alcantara pitching a hitless ninth for the save, and Otto Lopez led the majors with 191 hits.",
+      "details": [
+        {
+          "name": "Heriberto Hernández",
+          "team": "Miami Marlins",
+          "position": "Outfielder (OF)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "vs. Atlanta Braves, won 5-3 (season finale)",
+            "stats": [
+              "2 for 4",
+              "1 home run",
+              "1 run batted in"
+            ]
+          },
+          "buzz": "Hernández's solo homer in the fourth inning of the finale was his 25th of the season.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_ATL@MIA/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_ATL@MIA/)",
+          "asOf": "2026-10-07"
+        },
+        {
+          "name": "Sandy Alcantara",
+          "team": "Miami Marlins",
+          "position": "Starting pitcher (SP)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "vs. Atlanta Braves, won 5-3 (season finale)",
+            "stats": [
+              "1.0 inning",
+              "1 strikeout",
+              "0 earned runs",
+              "0 hits allowed"
+            ]
+          },
+          "buzz": "Miami's ace finished 13-11 with a 3.87 ERA (earned run average) in 33 starts, and saved the finale out of the bullpen.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_ATL@MIA/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_ATL@MIA/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/standings/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_ATL@MIA/)",
+      "asOf": "2026-10-07"
+    },
+    "Milwaukee Brewers": {
+      "latestResult": "Lost 4-3 at the San Diego Padres in Game 3 of the National League Division Series (lead the series 2-1)",
+      "latestGameDate": "2026-10-06",
+      "storyline": "Milwaukee had baseball's best record at 103-59 and won the first two games at home, but San Diego beat them 4-3 on Tuesday to stay alive.",
+      "bringUp": "The Brewers won 103 games, the most in baseball, and led the Padres 2-0, but San Diego won Game 3 4-3 on Tuesday despite William Contreras going 3 for 4 with a home run, so Milwaukee tries again tonight in Game 4.",
+      "details": [
+        {
+          "name": "William Contreras",
+          "team": "Milwaukee Brewers",
+          "position": "Catcher (C)",
+          "lastGame": {
+            "date": "2026-10-06",
+            "label": "at San Diego Padres, lost 4-3 (Division Series Game 3)",
+            "stats": [
+              "3 for 4",
+              "1 home run",
+              "1 run batted in",
+              "2 runs scored"
+            ]
+          },
+          "buzz": "Contreras homered in Game 3 after going 1 for 7 with a home run in the first two games of the series.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/); CBS Sports (https://www.cbssports.com/mlb/standings/)",
+      "asOf": "2026-10-07"
+    },
+    "Minnesota Twins": {
+      "latestResult": "Beat the Texas Rangers 6-4 in the season finale; finished 77-85, third in the American League Central",
+      "latestGameDate": "2026-09-27",
+      "storyline": "After a 77-85 season, Twins chairman Tom Pohlad said on September 29 that the team intends to \"meaningfully invest\" this offseason and that a $100 million payroll is not enough to compete consistently.",
+      "bringUp": "Twins chairman Tom Pohlad said on September 29 that a $100 million payroll \"is not sufficient,\" and the team cleared the way for a possible qualifying offer, meaning a one-year contract offer, to free-agent catcher Ryan Jeffers.",
+      "details": [
+        {
+          "name": "Ryan Jeffers",
+          "team": "Minnesota Twins",
+          "position": "Catcher (C)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "vs. Texas Rangers, won 6-4 (season finale)",
+            "stats": [
+              "2 for 3",
+              "1 run batted in"
+            ]
+          },
+          "buzz": "Jeffers, about to become a free agent, had two hits and drove in a run in the finale; the Twins have not decided whether to make him a qualifying offer.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_TEX@MIN/); MLB.com (https://www.mlb.com/twins/news/tom-pohlad-jeremy-zoll-derek-shelton-discuss-twins-offseason)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/standings/); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_TEX@MIN/); MLB.com (https://www.mlb.com/twins/news/tom-pohlad-jeremy-zoll-derek-shelton-discuss-twins-offseason)",
+      "asOf": "2026-10-07"
+    },
+    "New York Mets": {
+      "latestResult": "Lost 6-4 at the Washington Nationals in the season finale; finished 74-88, last in the National League East",
+      "latestGameDate": "2026-09-27",
+      "storyline": "The Mets finished 74-88 and last in the National League East, and in September they made interim manager Andy Green the full-time manager on a three-year deal after he went 37-38 replacing Carlos Mendoza.",
+      "bringUp": "Francisco Lindor hit his 300th career home run in the Mets' 6-4 finale loss in Washington, joining Carlos Beltrán as the only switch-hitters with 300 homers and 200 stolen bases.",
+      "details": [
+        {
+          "name": "Francisco Lindor",
+          "team": "New York Mets",
+          "position": "Shortstop (SS)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "at Washington Nationals, lost 6-4 (season finale)",
+            "stats": [
+              "2 for 4",
+              "1 home run",
+              "1 run batted in"
+            ]
+          },
+          "buzz": "Lindor's second-inning homer in the finale was the 300th of his career.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_NYM@WAS/); MLB.com (https://www.mlb.com/mets/news/francisco-lindor-hits-300th-career-home-run)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/standings/); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_NYM@WAS/); MLB.com (https://www.mlb.com/mets/news/andy-green-named-mets-manager-on-3-year-contract)",
+      "asOf": "2026-10-07"
+    },
+    "New York Yankees": {
+      "latestResult": "Lost 5-2 at the Tampa Bay Rays in Game 2 of the American League Division Series (trail the series 0-2)",
+      "latestGameDate": "2026-10-05",
+      "storyline": "After going 93-68 and sweeping the Red Sox in the Wild Card round, the Yankees lost the first two games in Tampa and face elimination tonight in Game 3 at Yankee Stadium.",
+      "bringUp": "Ben Rice hit two home runs in Game 2, but the Yankees still lost 5-2 to the Rays on Monday and now trail the best-of-five series 0-2, facing elimination tonight in the Bronx.",
+      "details": [
+        {
+          "name": "Ben Rice",
+          "team": "New York Yankees",
+          "position": "Designated hitter (DH)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "at Tampa Bay Rays, lost 5-2 (Division Series Game 2)",
+            "stats": [
+              "2 for 3",
+              "2 home runs",
+              "2 runs batted in"
+            ]
+          },
+          "buzz": "Rice drove in both Yankees runs in Game 2 and is a finalist for the American League Hank Aaron Award, given to the best hitter in each league.",
+          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); MLB.com (https://www.mlb.com/news/hank-aaron-award-finalists-for-2026)",
+          "asOf": "2026-10-07"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/); CBS Sports (https://www.cbssports.com/mlb/standings/)",
+      "asOf": "2026-10-07"
+    },
+    "Philadelphia Phillies": {
+      "latestResult": "Lost 6-2 at the Atlanta Braves in Game 3 of the NL Wild Card Series, eliminated 2-1 after an 88-74 regular season",
+      "latestGameDate": "2026-10-01",
+      "storyline": "Interim manager Don Mattingly took over on April 28 after Rob Thomson was fired following a 9-19 start, led the Phillies to the third NL Wild Card spot on the final day, and says he hasn't discussed 2027 with Dave Dombrowski yet.",
+      "bringUp": "The Phillies' season ended with a 6-2 loss in Atlanta in Game 3 of the Wild Card Series, and Aaron Nola got only five outs. Now the big question is whether interim manager Don Mattingly, who took over after a 9-19 start, gets the job for 2027.",
+      "details": [
+        {
+          "name": "Aaron Nola",
+          "team": "Philadelphia Phillies",
+          "position": "Starting pitcher (SP)",
+          "lastGame": {
+            "date": "2026-10-01",
+            "label": "at Atlanta Braves, lost 6-2, Wild Card Game 3",
+            "stats": [
+              "1.2 innings",
+              "3 earned runs",
+              "2 hits allowed",
+              "2 walks"
+            ]
+          },
+          "buzz": "Nola took the loss in Game 3, falling behind on a three-run homer by Michael Harris II in the first inning; he went 7-13 in the regular season.",
+          "source": "CBS Sports box score (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261001_PHI@ATL/)",
+          "asOf": "2026-10-01"
+        },
+        {
+          "name": "Kyle Schwarber",
+          "team": "Philadelphia Phillies",
+          "position": "Designated hitter (DH)",
+          "lastGame": {
+            "date": "2026-10-01",
+            "label": "at Atlanta Braves, lost 6-2, Wild Card Game 3",
+            "stats": [
+              "2 for 3",
+              "1 run scored"
+            ]
+          },
+          "buzz": "Schwarber was named a finalist for the 2026 Hank Aaron Award, which honors the best hitter in each league, and publicly backed Mattingly after the season ended.",
+          "source": "MLB.com (https://www.mlb.com/news/hank-aaron-award-finalists-for-2026)",
+          "asOf": "2026-10-05"
+        }
+      ],
+      "source": "MLB.com (https://www.mlb.com/news/don-mattingly-potential-future-phillies-2027-manager); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261001_PHI@ATL/)",
+      "asOf": "2026-10-02"
+    },
+    "Pittsburgh Pirates": {
+      "latestResult": "Won 4-2 at the Detroit Tigers in the season finale, finishing 82-80, out of the playoffs",
+      "latestGameDate": "2026-09-27",
+      "storyline": "At 82-80 the Pirates had their first winning season since 2018, an 11-win improvement under first-year manager Don Kelly, after going 15-9 in September.",
+      "bringUp": "The Pirates finished 82-80, their first winning season since 2018, and rookie shortstop Konnor Griffin homered in the finale at Detroit.",
+      "details": [
+        {
+          "name": "Konnor Griffin",
+          "team": "Pittsburgh Pirates",
+          "position": "Shortstop (SS)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "at Detroit Tigers, won 4-2",
+            "stats": [
+              "2 for 4",
+              "1 home run",
+              "2 runs batted in"
+            ]
+          },
+          "buzz": "Griffin was named to MLB Pipeline's All-Rookie Team on October 6 after homering in the season finale.",
+          "source": "CBS Sports box score (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_PIT@DET/); MLB.com (https://www.mlb.com/pirates/news/2026-mlb-all-rookie-team)",
+          "asOf": "2026-10-06"
+        }
+      ],
+      "source": "MLB.com (https://www.mlb.com/pirates/news/pirates-biggest-questions-entering-2026-27-offseason); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_PIT@DET/)",
+      "asOf": "2026-10-06"
+    },
+    "San Diego Padres": {
+      "latestResult": "Beat the Milwaukee Brewers 4-3 in Game 3 of the NL Division Series at home (Brewers lead series 2-1)",
+      "latestGameDate": "2026-10-06",
+      "storyline": "After sweeping the Cubs 2-0 in the Wild Card Series, the 91-71 Padres stayed alive against the 103-59 Brewers with a 4-3 Game 3 win and host Game 4 on Wednesday.",
+      "bringUp": "The Padres beat the Brewers 4-3 Tuesday to stay alive, down 2-1 in the Division Series, and Jake Cronenworth's solo home run was part of it. Game 4 is Wednesday in San Diego.",
+      "details": [
+        {
+          "name": "Jake Cronenworth",
+          "team": "San Diego Padres",
+          "position": "Second baseman (2B)",
+          "lastGame": {
+            "date": "2026-10-06",
+            "label": "vs Milwaukee Brewers, won 4-3, Division Series Game 3",
+            "stats": [
+              "2 for 2",
+              "1 home run (solo, 5th inning)",
+              "1 run scored"
+            ]
+          },
+          "buzz": "Cronenworth went 2 for 2 with a solo homer in the fifth inning of the Padres' Game 3 win.",
+          "source": "CBS Sports box score (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/)",
+          "asOf": "2026-10-06"
+        },
+        {
+          "name": "Michael King",
+          "team": "San Diego Padres",
+          "position": "Starting pitcher (SP)",
+          "lastGame": {
+            "date": "2026-10-06",
+            "label": "vs Milwaukee Brewers, won 4-3, Division Series Game 3",
+            "stats": [
+              "2.0 innings in relief",
+              "0 earned runs",
+              "1 hit allowed",
+              "1 strikeout"
+            ]
+          },
+          "buzz": "King, who won Wild Card Game 1 against the Cubs, pitched the final two innings of Game 3 out of the bullpen for the save.",
+          "source": "CBS Sports box score (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/)",
+          "asOf": "2026-10-06"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports scoreboard (https://www.cbssports.com/mlb/scoreboard/)",
+      "asOf": "2026-10-07"
+    },
+    "San Francisco Giants": {
+      "latestResult": "Lost 5-1 in 10 innings to the Los Angeles Dodgers in the season finale, finishing 65-97, out of the playoffs",
+      "latestGameDate": "2026-09-27",
+      "storyline": "The Giants lost 97 games, missed the playoffs for the ninth time in 10 years, and still publicly committed to first-year manager Tony Vitello, who was ejected a league-high seven times.",
+      "bringUp": "The Giants lost 97 games this year, but Buster Posey's front office is sticking with manager Tony Vitello for 2027, even after Vitello was ejected an MLB-high seven times, the last one in Game 162.",
+      "details": [
+        {
+          "name": "Scott Bandura",
+          "team": "San Francisco Giants",
+          "position": "Outfielder (OF)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "vs Los Angeles Dodgers, lost 5-1 in 10 innings",
+            "stats": [
+              "1 for 3",
+              "1 run batted in",
+              "1 strikeout"
+            ]
+          },
+          "buzz": "Bandura drove in the Giants' only run of the finale with a two-out single, his first major-league run batted in.",
+          "source": "CBS Sports recap and box (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_LAD@SF/)",
+          "asOf": "2026-09-27"
+        }
+      ],
+      "source": "MLB.com (https://www.mlb.com/giants/news/buster-posey-reflects-on-giants-2026-season); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_LAD@SF/)",
+      "asOf": "2026-09-30"
+    },
+    "Seattle Mariners": {
+      "latestResult": "Beat the Los Angeles Angels 7-3 in the season finale, finishing 76-86, third in the AL West and out of the playoffs",
+      "latestGameDate": "2026-09-27",
+      "storyline": "One year after winning the AL West and reaching the ALCS, the Mariners went 76-86 and moved on from manager Dan Wilson, who finished 187-171, and are now searching for a new manager.",
+      "bringUp": "The Mariners went from the ALCS last year to 76-86 this year, and they're replacing manager Dan Wilson. Cal Raleigh had a left shoulder surgery on Saturday after hitting .182.",
+      "details": [
+        {
+          "name": "Cal Raleigh",
+          "team": "Seattle Mariners",
+          "position": "Catcher (C)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "vs Los Angeles Angels, won 7-3",
+            "stats": [
+              "3 for 5",
+              "1 run batted in"
+            ]
+          },
+          "buzz": "Raleigh hit .182 with a .664 OPS (on-base plus slugging) in 2026 and had left shoulder surgery; the team expects him fully recovered by spring training.",
+          "source": "MLB.com (https://www.mlb.com/news/cal-raleigh-josh-naylor-undergo-offseason-surgeries)",
+          "asOf": "2026-10-05"
+        },
+        {
+          "name": "Randy Arozarena",
+          "team": "Seattle Mariners",
+          "position": "Outfielder (OF)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "vs Los Angeles Angels, won 7-3",
+            "stats": [
+              "1 for 3",
+              "2 runs batted in"
+            ]
+          },
+          "buzz": "Arozarena was named a finalist for the 2026 Hank Aaron Award, given to the best hitter in each league.",
+          "source": "MLB.com (https://www.mlb.com/news/hank-aaron-award-finalists-for-2026)",
+          "asOf": "2026-10-05"
+        }
+      ],
+      "source": "MLB.com (https://www.mlb.com/news/dan-wilson-won-t-return-mariners-manager-2027); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_LAA@SEA/)",
+      "asOf": "2026-10-05"
+    },
+    "St. Louis Cardinals": {
+      "latestResult": "Lost 6-4 at the Milwaukee Brewers in the season finale, finishing 77-85, out of the playoffs",
+      "latestGameDate": "2026-09-27",
+      "storyline": "Alec Burleson's pinch-hit homer on September 25 put him back on top of the MLB runs-batted-in lead with 115, just ahead of the Orioles' Pete Alonso at that point.",
+      "bringUp": "The Cardinals finished 77-85, but Alec Burleson hit a pinch-hit homer in the last series to retake the MLB lead in runs batted in with 115, and Jordan Walker is a Hank Aaron Award finalist.",
+      "details": [
+        {
+          "name": "Alec Burleson",
+          "team": "St. Louis Cardinals",
+          "position": "First baseman (1B)",
+          "lastGame": null,
+          "buzz": "Burleson's pinch-hit home run, hit at 109.6 mph, gave him 25 homers and 115 runs batted in with two games left.",
+          "source": "MLB.com (https://www.mlb.com/cardinals/news/alec-burleson-homers-to-regain-mlb-lead-in-rbis-in-2026)",
+          "asOf": "2026-09-26"
+        },
+        {
+          "name": "Jordan Walker",
+          "team": "St. Louis Cardinals",
+          "position": "Outfielder (OF)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "at Milwaukee Brewers, lost 6-4",
+            "stats": [
+              "0 for 4",
+              "1 run batted in",
+              "1 run scored"
+            ]
+          },
+          "buzz": "Walker hit 22 home runs with an .887 OPS (on-base plus slugging) in the first half and was named a Hank Aaron Award finalist on October 5.",
+          "source": "MLB.com (https://www.mlb.com/cardinals/news/jordan-walker-reflects-on-growth-in-first-full-mlb-season)",
+          "asOf": "2026-10-05"
+        }
+      ],
+      "source": "MLB.com (https://www.mlb.com/cardinals/news/alec-burleson-homers-to-regain-mlb-lead-in-rbis-in-2026); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_STL@MIL/)",
+      "asOf": "2026-09-27"
+    },
+    "Tampa Bay Rays": {
+      "latestResult": "Beat the New York Yankees 5-2 in Game 2 of the AL Division Series at home (Rays lead series 2-0)",
+      "latestGameDate": "2026-10-05",
+      "storyline": "The Rays, the American League's best team at 98-64, are one win from the AL Championship Series with Game 3 at Yankee Stadium on Wednesday.",
+      "bringUp": "The Rays beat the Yankees 5-2 in Game 2 and lead the Division Series 2-0, so they can finish it off Wednesday at Yankee Stadium. Junior Caminero had two hits.",
+      "details": [
+        {
+          "name": "Junior Caminero",
+          "team": "Tampa Bay Rays",
+          "position": "Third baseman (3B)",
+          "lastGame": {
+            "date": "2026-10-05",
+            "label": "vs New York Yankees, won 5-2, Division Series Game 2",
+            "stats": [
+              "2 for 4",
+              "1 run scored"
+            ]
+          },
+          "buzz": "Caminero is one of two Rays, with Yandy Diaz, named finalists for the 2026 Hank Aaron Award for the best hitter in each league.",
+          "source": "MLB.com (https://www.mlb.com/news/hank-aaron-award-finalists-for-2026)",
+          "asOf": "2026-10-05"
+        }
+      ],
+      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports scoreboard (https://www.cbssports.com/mlb/scoreboard/)",
+      "asOf": "2026-10-07"
+    },
+    "Texas Rangers": {
+      "latestResult": "Lost 6-4 at the Minnesota Twins on the final day, finishing 80-82, one game out of a playoff spot",
+      "latestGameDate": "2026-09-27",
+      "storyline": "The Rangers finished 80-82, one game out, their third straight year without the postseason, and president Chris Young said the roster he built 'wasn't good enough' and must get younger and healthier.",
+      "bringUp": "The Rangers missed the playoffs by one game at 80-82 after losing on the final day in Minnesota, even though Corey Seager homered.",
+      "details": [
+        {
+          "name": "Corey Seager",
+          "team": "Texas Rangers",
+          "position": "Shortstop (SS)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "at Minnesota Twins, lost 6-4",
+            "stats": [
+              "1 for 4",
+              "1 home run (his 20th)",
+              "2 runs batted in"
+            ]
+          },
+          "buzz": "Seager missed 63 days this season with back injuries and a concussion, and Chris Young named keeping him on the field a priority.",
+          "source": "MLB.com (https://www.mlb.com/rangers/news/chris-young-addresses-rangers-missing-2026-postseason)",
+          "asOf": "2026-09-29"
+        }
+      ],
+      "source": "MLB.com (https://www.mlb.com/rangers/news/chris-young-addresses-rangers-missing-2026-postseason); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_TEX@MIN/)",
+      "asOf": "2026-09-29"
+    },
+    "Toronto Blue Jays": {
+      "latestResult": "Beat the Cincinnati Reds 5-1 in the season finale, finishing 79-83, last in the AL East",
+      "latestGameDate": "2026-09-27",
+      "storyline": "Vladimir Guerrero Jr., who signed a 14-year, $500 million contract in April 2025, hit only nine home runs with a .688 OPS (on-base plus slugging) as Toronto finished last in the league in homers (152) and runs (648).",
+      "bringUp": "The Blue Jays finished last in the AL East at 79-83, and Vladimir Guerrero Jr. hit just nine home runs in 2026 despite his $500 million contract. Max Scherzer struck out seven in the finale.",
+      "details": [
+        {
+          "name": "Vladimir Guerrero Jr.",
+          "team": "Toronto Blue Jays",
+          "position": "First baseman (1B)",
+          "lastGame": null,
+          "buzz": "General manager Ross Atkins said Guerrero lost his rhythm and timing early and it hurt his confidence; the team says he has to rebound for its plans to work.",
+          "source": "MLB.com (https://www.mlb.com/bluejays/news/ross-atkins-mark-shapiro-address-blue-jays-offseason)",
+          "asOf": "2026-09-30"
+        },
+        {
+          "name": "Max Scherzer",
+          "team": "Toronto Blue Jays",
+          "position": "Starting pitcher (SP)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "vs Cincinnati Reds, won 5-1",
+            "stats": [
+              "7.0 innings",
+              "7 strikeouts",
+              "1 earned run",
+              "6 hits allowed"
+            ]
+          },
+          "buzz": "Scherzer won the finale to finish 4-9, striking out seven for the 225th win of his career.",
+          "source": "CBS Sports box score (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_CIN@TOR/)",
+          "asOf": "2026-09-27"
+        }
+      ],
+      "source": "MLB.com (https://www.mlb.com/bluejays/news/ross-atkins-mark-shapiro-address-blue-jays-offseason); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_CIN@TOR/)",
+      "asOf": "2026-09-30"
+    },
+    "Washington Nationals": {
+      "latestResult": "Beat the New York Mets 6-4 in the season finale, finishing 77-85, out of the playoffs",
+      "latestGameDate": "2026-09-27",
+      "storyline": "CJ Abrams became the first National with 100 runs batted in since 2019 and only the second with a 30-homer, 30-steal season, and on October 5 he was named a Hank Aaron Award finalist.",
+      "bringUp": "The Nationals finished 77-85, but CJ Abrams had a 30-homer, 30-steal season, only the second in team history after Alfonso Soriano in 2006, and he topped 100 runs batted in.",
+      "details": [
+        {
+          "name": "CJ Abrams",
+          "team": "Washington Nationals",
+          "position": "Second baseman (2B)",
+          "lastGame": {
+            "date": "2026-09-27",
+            "label": "vs New York Mets, won 6-4",
+            "stats": [
+              "1 for 4",
+              "1 run batted in"
+            ]
+          },
+          "buzz": "As of September 23, Abrams had 33 home runs, 33 stolen bases and 102 runs batted in, and he was the NL's starting shortstop in the All-Star Game.",
+          "source": "MLB.com (https://www.mlb.com/news/cj-abrams-hits-two-home-runs-against-tigers)",
+          "asOf": "2026-09-23"
+        }
+      ],
+      "source": "MLB.com (https://www.mlb.com/news/cj-abrams-hits-two-home-runs-against-tigers); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_NYM@WAS/)",
+      "asOf": "2026-10-05"
+    }
+  }
+}
