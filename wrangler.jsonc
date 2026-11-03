@@ -1,10 +1,20 @@
 {
   "name": "bizzytonelabs",
+  "main": "worker/index.js",
   "compatibility_date": "2026-10-01",
   // Lets Cloudflare build a preview for each pull request (`npx wrangler preview`).
   "previews": {},
   "assets": {
     "directory": "./public",
-    "not_found_handling": "404-page"
-  }
+    "binding": "ASSETS",
+    "not_found_handling": "404-page",
+    // Only /api/* runs the Worker; every other request is served as a static file.
+    "run_worker_first": ["/api/*"]
+  },
+  // Daily cleanup of usage events older than 24 months (03:17 UTC).
+  "triggers": { "crons": ["17 3 * * *"] },
+  // Request logs would include IP addresses, so they stay off.
+  "observability": { "enabled": false }
+  // Add after creating the database in the Cloudflare dashboard (see README):
+  // "d1_databases": [{ "binding": "DB", "database_name": "the-sports-analytics", "database_id": "<ID>" }]
 }
