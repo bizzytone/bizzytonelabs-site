@@ -1,1724 +1,1573 @@
 {
   "sport": "nhl",
-  "asOf": "2026-10-07",
+  "asOf": "2026-11-03",
   "season": "2026-27",
-  "phase": "Week 2",
+  "phase": "Regular season: early November",
   "buzzRounds": [
     [
       {
-        "id": "nhl-ovechkin-final-season",
-        "topic": "Ovechkin says this is his last season",
-        "whatHappened": "Alex Ovechkin, the NHL's all-time leading goal scorer, announced on Monday, October 5 that the 2026-27 season will be his last. He is 41, in his 22nd season, and has 929 career goals and 1,688 points in 1,575 games, all with the Washington Capitals.",
-        "whyCare": "It turns every Capitals game into a farewell. Ovechkin also holds the career records for power-play goals (331) and game-winning goals (141), and his 20 goals in home openers tie Mike Gartner for the most ever. His last home opener is Wednesday night against Sidney Crosby's Pittsburgh Penguins.",
-        "youCouldSay": "Ovechkin just announced this is his final season. He's 41 with 929 goals, the most in NHL history, and his last home opener is tonight against Crosby and the Penguins.",
-        "gameDate": null,
+        "id": "nhl-mcdavid-assist-record",
+        "topic": "McDavid breaks a Gretzky record",
+        "whatHappened": "Connor McDavid scored 50 seconds into the game and added an assist as the Edmonton Oilers beat the New York Rangers 4-1 on Sunday. He now has an assist in all 15 games this season, an NHL record to start a season, and his 30 assists are the fastest anyone has reached 30, beating Wayne Gretzky's 16 games from 1984-85.",
+        "whyCare": "Edmonton is 11-2-2, first in the Western Conference and 7-0-0 on the road, and defenseman Evan Bouchard has 26 points through 15 games.",
+        "youCouldSay": "McDavid has 30 assists in 15 games, the fastest anyone has ever done it. He just broke a Gretzky record from 1984, and the Oilers are 11-2-2.",
+        "gameDate": "2026-11-01",
         "details": [
           {
-            "name": "Alex Ovechkin",
-            "team": "Washington Capitals",
-            "position": "Left wing (LW)",
-            "lastGame": {
-              "date": "2026-10-03",
-              "label": "at Tampa Bay Lightning, lost 3-1",
-              "stats": [
-                "0 goals",
-                "0 assists",
-                "0 shots",
-                "13:34 ice time"
-              ]
-            },
-            "buzz": "Ovechkin said on October 5 that 2026-27 is his final NHL season. He has 929 career goals, first all-time.",
-            "source": "NHL.com (https://www.nhl.com/news/alex-ovechkin-1st-home-opener-was-one-for-the-ages); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610030TBL.html)",
-            "asOf": "2026-10-07"
-          }
-        ],
-        "source": "NHL.com (https://www.nhl.com/news/alex-ovechkin-1st-home-opener-was-one-for-the-ages); NHL.com (https://www.nhl.com/news/topic/short-shifts/social-media-reacts-to-ovechkins-retirement-announcement); NHL.com (https://www.nhl.com/news/penguins-crosby-capitals-ovechkin-meet-again-with-rivalry-in-final-season)",
-        "asOf": "2026-10-07"
-      },
-      {
-        "id": "nhl-mckenna-first-goal",
-        "topic": "No. 1 pick McKenna scores; Matthews wins it in overtime",
-        "whatHappened": "Gavin McKenna, the No. 1 pick in the 2026 NHL Draft, scored his first NHL goal and added an assist as the Toronto Maple Leafs came back from 3-0 down to beat the Nashville Predators 5-4 in overtime on Tuesday. Auston Matthews had four points (1 goal, 3 assists), including the winner with 14 seconds left in overtime.",
-        "whyCare": "McKenna had gone three games without a point, and Toronto (2-2-0) has had all four of its games decided by one goal.",
-        "youCouldSay": "Gavin McKenna, this year's No. 1 draft pick, scored his first NHL goal Tuesday, and Matthews won it for Toronto 5-4 with 14 seconds left in overtime after they'd been down 3-0.",
-        "gameDate": "2026-10-06",
-        "details": [
-          {
-            "name": "Gavin McKenna",
-            "team": "Toronto Maple Leafs",
-            "position": "Left wing (LW)",
-            "lastGame": {
-              "date": "2026-10-06",
-              "label": "vs Nashville Predators, won 5-4 in overtime",
-              "stats": [
-                "1 goal",
-                "1 assist",
-                "4 shots"
-              ]
-            },
-            "buzz": "The No. 1 pick in the 2026 draft got his first NHL goal and first assist in his fourth game.",
-            "source": "NHL.com (https://www.nhl.com/news/nashville-predators-toronto-maple-leafs-game-recap-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060TOR.html)",
-            "asOf": "2026-10-07"
-          },
-          {
-            "name": "Auston Matthews",
-            "team": "Toronto Maple Leafs",
+            "name": "Connor McDavid",
+            "team": "Edmonton Oilers",
             "position": "Center (C)",
             "lastGame": {
-              "date": "2026-10-06",
-              "label": "vs Nashville Predators, won 5-4 in overtime",
+              "date": "2026-11-01",
+              "label": "at New York Rangers, won 4-1",
               "stats": [
                 "1 goal",
-                "3 assists",
-                "4 shots",
-                "25:09 ice time"
+                "1 assist",
+                "6 shots",
+                "23:22 ice time"
               ]
             },
-            "buzz": "Matthews had four points against Nashville, including the overtime winner with 14 seconds left.",
-            "source": "NHL.com (https://www.nhl.com/news/nashville-predators-toronto-maple-leafs-game-recap-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060TOR.html)",
-            "asOf": "2026-10-07"
-          }
-        ],
-        "source": "NHL.com (https://www.nhl.com/news/nashville-predators-toronto-maple-leafs-game-recap-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060TOR.html)",
-        "asOf": "2026-10-07"
-      },
-      {
-        "id": "nhl-lafreniere-hat-trick",
-        "topic": "Lafreniere hat trick as Rangers beat the Islanders",
-        "whatHappened": "Alexis Lafreniere scored a hat trick, meaning three goals by one player, and added an assist as the New York Rangers beat the New York Islanders 5-2 on Tuesday. Two of his goals went into an empty net in the last two minutes.",
-        "whyCare": "The Rangers are 4-1-0 with four straight wins and 3-0-0 at home for the first time since 2009-10. Their goalie Igor Shesterkin even scored a goal on October 1, the first ever by a Rangers goalie.",
-        "youCouldSay": "Lafreniere had a hat trick in the Rangers' 5-2 win over the Islanders on Tuesday. That's four straight wins, and they're 3-0 at home to start a season for the first time since 2009.",
-        "gameDate": "2026-10-06",
-        "details": [
+            "buzz": "McDavid has an assist in all 15 of Edmonton's games, an NHL record to open a season, and reached 30 assists faster than anyone in league history.",
+            "source": "NHL.com recap (https://www.nhl.com/news/edmonton-oilers-new-york-rangers-game-recap-november-1-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010NYR.html)",
+            "asOf": "2026-11-02"
+          },
           {
-            "name": "Alexis Lafreniere",
-            "team": "New York Rangers",
-            "position": "Left wing (LW)",
+            "name": "Evan Bouchard",
+            "team": "Edmonton Oilers",
+            "position": "Defenseman (D)",
             "lastGame": {
-              "date": "2026-10-06",
-              "label": "vs New York Islanders, won 5-2",
+              "date": "2026-11-01",
+              "label": "at New York Rangers, won 4-1",
               "stats": [
-                "3 goals",
-                "1 assist",
+                "1 goal",
+                "2 assists",
                 "3 shots",
-                "18:54 ice time"
+                "25:42 ice time"
               ]
             },
-            "buzz": "Lafreniere's four-point night, with three goals, came in the Rangers' fourth straight win.",
-            "source": "NHL.com (https://www.nhl.com/news/new-york-islanders-new-york-rangers-game-recap-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060NYR.html)",
-            "asOf": "2026-10-07"
+            "buzz": "Bouchard has 26 points through 15 games, making him the fourth defenseman in NHL history with at least 25 points through his team's first 15 games.",
+            "source": "NHL.com recap (https://www.nhl.com/news/edmonton-oilers-new-york-rangers-game-recap-november-1-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010NYR.html)",
+            "asOf": "2026-11-02"
           }
         ],
-        "source": "NHL.com (https://www.nhl.com/news/new-york-islanders-new-york-rangers-game-recap-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060NYR.html); NHL.com (https://www.nhl.com/news/igor-shesterkin-evokes-memories-of-chuck-rayner-goalie-goal-with-new-york-rangers)",
-        "asOf": "2026-10-07"
-      }
-    ],
-    [
+        "source": "NHL.com recap (https://www.nhl.com/news/edmonton-oilers-new-york-rangers-game-recap-november-1-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010NYR.html)",
+        "asOf": "2026-11-02"
+      },
       {
-        "id": "nhl-ovechkin-final-season",
-        "topic": "Ovechkin says this is his last season",
-        "whatHappened": "Alex Ovechkin, the NHL's all-time leading goal scorer, announced on Monday, October 5 that the 2026-27 season will be his last. He is 41, in his 22nd season, and has 929 career goals and 1,688 points in 1,575 games, all with the Washington Capitals.",
-        "whyCare": "It turns every Capitals game into a farewell. Ovechkin also holds the career records for power-play goals (331) and game-winning goals (141), and his 20 goals in home openers tie Mike Gartner for the most ever. His last home opener is Wednesday night against Sidney Crosby's Pittsburgh Penguins.",
-        "youCouldSay": "Ovechkin just announced this is his final season. He's 41 with 929 goals, the most in NHL history, and his last home opener is tonight against Crosby and the Penguins.",
+        "id": "nhl-kucherov-trade-request",
+        "topic": "Kucherov asks Tampa Bay for a trade",
+        "whatHappened": "Nikita Kucherov, the Tampa Bay Lightning's all-time leading scorer, has told the team he won't re-sign and asked for a trade. On Monday he said money isn't the issue and cited \"poor communication and respect.\" General manager Julien BriseBois said the Lightning \"unequivocally have no intention of trading Nikita.\"",
+        "whyCare": "Kucherov, 33, won the Hart Trophy as the league's most valuable player in 2019 and 2026, has two Stanley Cups, and has 1,142 points for Tampa Bay. He can become a free agent after this season, and he has 18 points in 13 games for a Lightning team at 8-3-2.",
+        "youCouldSay": "Kucherov, a two-time league MVP with 1,142 points for Tampa Bay, just asked for a trade, and the Lightning say they won't trade him.",
         "gameDate": null,
         "details": [
           {
-            "name": "Alex Ovechkin",
-            "team": "Washington Capitals",
-            "position": "Left wing (LW)",
+            "name": "Nikita Kucherov",
+            "team": "Tampa Bay Lightning",
+            "position": "Right wing (RW)",
             "lastGame": {
-              "date": "2026-10-03",
-              "label": "at Tampa Bay Lightning, lost 3-1",
+              "date": "2026-10-31",
+              "label": "at Nashville Predators, lost 5-4 in a shootout",
               "stats": [
                 "0 goals",
-                "0 assists",
-                "0 shots",
-                "13:34 ice time"
-              ]
-            },
-            "buzz": "Ovechkin said on October 5 that 2026-27 is his final NHL season. He has 929 career goals, first all-time.",
-            "source": "NHL.com (https://www.nhl.com/news/alex-ovechkin-1st-home-opener-was-one-for-the-ages); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610030TBL.html)",
-            "asOf": "2026-10-07"
-          }
-        ],
-        "source": "NHL.com (https://www.nhl.com/news/alex-ovechkin-1st-home-opener-was-one-for-the-ages); NHL.com (https://www.nhl.com/news/topic/short-shifts/social-media-reacts-to-ovechkins-retirement-announcement); NHL.com (https://www.nhl.com/news/penguins-crosby-capitals-ovechkin-meet-again-with-rivalry-in-final-season)",
-        "asOf": "2026-10-07"
-      },
-      {
-        "id": "nhl-mckenna-first-goal",
-        "topic": "No. 1 pick McKenna scores; Matthews wins it in overtime",
-        "whatHappened": "Gavin McKenna, the No. 1 pick in the 2026 NHL Draft, scored his first NHL goal and added an assist as the Toronto Maple Leafs came back from 3-0 down to beat the Nashville Predators 5-4 in overtime on Tuesday. Auston Matthews had four points (1 goal, 3 assists), including the winner with 14 seconds left in overtime.",
-        "whyCare": "McKenna had gone three games without a point, and Toronto (2-2-0) has had all four of its games decided by one goal.",
-        "youCouldSay": "Gavin McKenna, this year's No. 1 draft pick, scored his first NHL goal Tuesday, and Matthews won it for Toronto 5-4 with 14 seconds left in overtime after they'd been down 3-0.",
-        "gameDate": "2026-10-06",
-        "details": [
-          {
-            "name": "Gavin McKenna",
-            "team": "Toronto Maple Leafs",
-            "position": "Left wing (LW)",
-            "lastGame": {
-              "date": "2026-10-06",
-              "label": "vs Nashville Predators, won 5-4 in overtime",
-              "stats": [
-                "1 goal",
-                "1 assist",
-                "4 shots"
-              ]
-            },
-            "buzz": "The No. 1 pick in the 2026 draft got his first NHL goal and first assist in his fourth game.",
-            "source": "NHL.com (https://www.nhl.com/news/nashville-predators-toronto-maple-leafs-game-recap-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060TOR.html)",
-            "asOf": "2026-10-07"
-          },
-          {
-            "name": "Auston Matthews",
-            "team": "Toronto Maple Leafs",
-            "position": "Center (C)",
-            "lastGame": {
-              "date": "2026-10-06",
-              "label": "vs Nashville Predators, won 5-4 in overtime",
-              "stats": [
-                "1 goal",
                 "3 assists",
-                "4 shots",
-                "25:09 ice time"
+                "1 shot",
+                "23:41 ice time"
               ]
             },
-            "buzz": "Matthews had four points against Nashville, including the overtime winner with 14 seconds left.",
-            "source": "NHL.com (https://www.nhl.com/news/nashville-predators-toronto-maple-leafs-game-recap-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060TOR.html)",
-            "asOf": "2026-10-07"
+            "buzz": "Kucherov, 33, has asked Tampa Bay for a trade and says he won't re-sign, citing poor communication and respect; the Lightning say they have no intention of trading him. He has 18 points in 13 games.",
+            "source": "NHL.com (https://www.nhl.com/news/nikita-kucherov-says-trade-request-to-tampa-bay-about-poor-communication-respect); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310NSH.html)",
+            "asOf": "2026-11-02"
           }
         ],
-        "source": "NHL.com (https://www.nhl.com/news/nashville-predators-toronto-maple-leafs-game-recap-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060TOR.html)",
-        "asOf": "2026-10-07"
+        "source": "NHL.com (https://www.nhl.com/news/nikita-kucherov-says-trade-request-to-tampa-bay-about-poor-communication-respect)",
+        "asOf": "2026-11-02"
       },
       {
-        "id": "nhl-panthers-marchand-barkov",
-        "topic": "Panthers lose Marchand to an injury, Barkov out 6-8 weeks",
-        "whatHappened": "Brad Marchand was helped off the ice holding his left knee late in the second period of the Florida Panthers' 2-1 win at the Los Angeles Kings on Tuesday, after a high stick from Kings defenseman Brandt Clarke. The team called it an apparent lower-body injury with no timetable. Captain Aleksander Barkov is already out 6 to 8 weeks with a lower-body injury from October 1; he won't need surgery.",
-        "whyCare": "Barkov captained Florida to back-to-back Stanley Cups in 2024 and 2025, and now two of its biggest names are hurt in the first week. Matthew Tkachuk scored the winner in LA, and Florida is 2-0-2.",
-        "youCouldSay": "Florida's had a rough first week: Barkov is out 6 to 8 weeks, and Marchand got helped off the ice holding his knee in Tuesday's 2-1 win in LA.",
-        "gameDate": "2026-10-06",
+        "id": "nhl-tage-thompson-star-week",
+        "topic": "Tage Thompson's five-point hat trick night",
+        "whatHappened": "Tage Thompson had a hat trick, meaning three goals by one player, plus two assists as the Buffalo Sabres won 7-6 at Anaheim on Thursday, October 29. He scored twice more, including the winner, in a 3-2 win at Los Angeles on Saturday.",
+        "whyCare": "It was his 10th career hat trick. He was named the NHL's First Star of the Week with 5 goals and 3 assists in three games, and Buffalo went 3-0 on its California trip to get to 7-4-3.",
+        "youCouldSay": "Tage Thompson had five points in Buffalo's 7-6 win in Anaheim, a hat trick and two assists, and he was the NHL's player of the week.",
+        "gameDate": "2026-10-29",
         "details": [
           {
-            "name": "Brad Marchand",
-            "team": "Florida Panthers",
-            "position": "Left wing (LW)",
-            "lastGame": {
-              "date": "2026-10-06",
-              "label": "at Los Angeles Kings, won 2-1",
-              "stats": [
-                "0 goals",
-                "0 assists",
-                "2 shots",
-                "9:36 ice time"
-              ]
-            },
-            "buzz": "Marchand left Tuesday's game in LA with an apparent lower-body injury; the Panthers gave no timetable.",
-            "source": "NHL.com (https://www.nhl.com/news/florida-panthers-brad-marchand-injury-status-update-october-7-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060LAK.html)",
-            "asOf": "2026-10-07"
-          },
-          {
-            "name": "Aleksander Barkov",
-            "team": "Florida Panthers",
+            "name": "Tage Thompson",
+            "team": "Buffalo Sabres",
             "position": "Center (C)",
             "lastGame": {
-              "date": "2026-10-01",
-              "label": "at San Jose Sharks, lost 4-3 in overtime",
+              "date": "2026-10-31",
+              "label": "at Los Angeles Kings, won 3-2",
               "stats": [
-                "0 goals",
+                "2 goals",
                 "0 assists",
-                "1 shot",
-                "9:15 ice time"
+                "8 shots",
+                "20:09 ice time"
               ]
             },
-            "buzz": "Coach Paul Maurice said Barkov is scheduled to be out 6-8 weeks with non-surgical rehab; he's on long-term injured reserve.",
-            "source": "NHL.com (https://www.nhl.com/news/aleksander-barkov-injury-status-update-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610010SJS.html)",
-            "asOf": "2026-10-07"
+            "buzz": "Thompson was named the NHL's First Star of the Week after 5 goals and 3 assists in three games, including his 10th career hat trick on October 29.",
+            "source": "NHL.com 3 Stars of the Week (https://www.nhl.com/news/thompson-jarry-carlsson-named-nhl-3-stars-of-week-november-2-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310LAK.html)",
+            "asOf": "2026-11-02"
           }
         ],
-        "source": "NHL.com (https://www.nhl.com/news/florida-panthers-brad-marchand-injury-status-update-october-7-2026); NHL.com (https://www.nhl.com/news/aleksander-barkov-injury-status-update-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060LAK.html); CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261006/)",
-        "asOf": "2026-10-07"
+        "source": "NHL.com 3 Stars of the Week (https://www.nhl.com/news/thompson-jarry-carlsson-named-nhl-3-stars-of-week-november-2-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610290ANA.html)",
+        "asOf": "2026-11-02"
       }
     ],
     [
       {
-        "id": "nhl-mckenna-first-goal",
-        "topic": "No. 1 pick McKenna scores; Matthews wins it in overtime",
-        "whatHappened": "Gavin McKenna, the No. 1 pick in the 2026 NHL Draft, scored his first NHL goal and added an assist as the Toronto Maple Leafs came back from 3-0 down to beat the Nashville Predators 5-4 in overtime on Tuesday. Auston Matthews had four points (1 goal, 3 assists), including the winner with 14 seconds left in overtime.",
-        "whyCare": "McKenna had gone three games without a point, and Toronto (2-2-0) has had all four of its games decided by one goal.",
-        "youCouldSay": "Gavin McKenna, this year's No. 1 draft pick, scored his first NHL goal Tuesday, and Matthews won it for Toronto 5-4 with 14 seconds left in overtime after they'd been down 3-0.",
-        "gameDate": "2026-10-06",
+        "id": "nhl-kucherov-trade-request",
+        "topic": "Kucherov asks Tampa Bay for a trade",
+        "whatHappened": "Nikita Kucherov, the Tampa Bay Lightning's all-time leading scorer, has told the team he won't re-sign and asked for a trade. On Monday he said money isn't the issue and cited \"poor communication and respect.\" General manager Julien BriseBois said the Lightning \"unequivocally have no intention of trading Nikita.\"",
+        "whyCare": "Kucherov, 33, won the Hart Trophy as the league's most valuable player in 2019 and 2026, has two Stanley Cups, and has 1,142 points for Tampa Bay. He can become a free agent after this season, and he has 18 points in 13 games for a Lightning team at 8-3-2.",
+        "youCouldSay": "Kucherov, a two-time league MVP with 1,142 points for Tampa Bay, just asked for a trade, and the Lightning say they won't trade him.",
+        "gameDate": null,
         "details": [
           {
-            "name": "Gavin McKenna",
-            "team": "Toronto Maple Leafs",
-            "position": "Left wing (LW)",
+            "name": "Nikita Kucherov",
+            "team": "Tampa Bay Lightning",
+            "position": "Right wing (RW)",
             "lastGame": {
-              "date": "2026-10-06",
-              "label": "vs Nashville Predators, won 5-4 in overtime",
+              "date": "2026-10-31",
+              "label": "at Nashville Predators, lost 5-4 in a shootout",
               "stats": [
-                "1 goal",
-                "1 assist",
-                "4 shots"
-              ]
-            },
-            "buzz": "The No. 1 pick in the 2026 draft got his first NHL goal and first assist in his fourth game.",
-            "source": "NHL.com (https://www.nhl.com/news/nashville-predators-toronto-maple-leafs-game-recap-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060TOR.html)",
-            "asOf": "2026-10-07"
-          },
-          {
-            "name": "Auston Matthews",
-            "team": "Toronto Maple Leafs",
-            "position": "Center (C)",
-            "lastGame": {
-              "date": "2026-10-06",
-              "label": "vs Nashville Predators, won 5-4 in overtime",
-              "stats": [
-                "1 goal",
+                "0 goals",
                 "3 assists",
-                "4 shots",
-                "25:09 ice time"
+                "1 shot",
+                "23:41 ice time"
               ]
             },
-            "buzz": "Matthews had four points against Nashville, including the overtime winner with 14 seconds left.",
-            "source": "NHL.com (https://www.nhl.com/news/nashville-predators-toronto-maple-leafs-game-recap-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060TOR.html)",
-            "asOf": "2026-10-07"
+            "buzz": "Kucherov, 33, has asked Tampa Bay for a trade and says he won't re-sign, citing poor communication and respect; the Lightning say they have no intention of trading him. He has 18 points in 13 games.",
+            "source": "NHL.com (https://www.nhl.com/news/nikita-kucherov-says-trade-request-to-tampa-bay-about-poor-communication-respect); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310NSH.html)",
+            "asOf": "2026-11-02"
           }
         ],
-        "source": "NHL.com (https://www.nhl.com/news/nashville-predators-toronto-maple-leafs-game-recap-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060TOR.html)",
-        "asOf": "2026-10-07"
+        "source": "NHL.com (https://www.nhl.com/news/nikita-kucherov-says-trade-request-to-tampa-bay-about-poor-communication-respect)",
+        "asOf": "2026-11-02"
       },
       {
-        "id": "nhl-panthers-marchand-barkov",
-        "topic": "Panthers lose Marchand to an injury, Barkov out 6-8 weeks",
-        "whatHappened": "Brad Marchand was helped off the ice holding his left knee late in the second period of the Florida Panthers' 2-1 win at the Los Angeles Kings on Tuesday, after a high stick from Kings defenseman Brandt Clarke. The team called it an apparent lower-body injury with no timetable. Captain Aleksander Barkov is already out 6 to 8 weeks with a lower-body injury from October 1; he won't need surgery.",
-        "whyCare": "Barkov captained Florida to back-to-back Stanley Cups in 2024 and 2025, and now two of its biggest names are hurt in the first week. Matthew Tkachuk scored the winner in LA, and Florida is 2-0-2.",
-        "youCouldSay": "Florida's had a rough first week: Barkov is out 6 to 8 weeks, and Marchand got helped off the ice holding his knee in Tuesday's 2-1 win in LA.",
-        "gameDate": "2026-10-06",
+        "id": "nhl-tage-thompson-star-week",
+        "topic": "Tage Thompson's five-point hat trick night",
+        "whatHappened": "Tage Thompson had a hat trick, meaning three goals by one player, plus two assists as the Buffalo Sabres won 7-6 at Anaheim on Thursday, October 29. He scored twice more, including the winner, in a 3-2 win at Los Angeles on Saturday.",
+        "whyCare": "It was his 10th career hat trick. He was named the NHL's First Star of the Week with 5 goals and 3 assists in three games, and Buffalo went 3-0 on its California trip to get to 7-4-3.",
+        "youCouldSay": "Tage Thompson had five points in Buffalo's 7-6 win in Anaheim, a hat trick and two assists, and he was the NHL's player of the week.",
+        "gameDate": "2026-10-29",
         "details": [
           {
-            "name": "Brad Marchand",
-            "team": "Florida Panthers",
-            "position": "Left wing (LW)",
-            "lastGame": {
-              "date": "2026-10-06",
-              "label": "at Los Angeles Kings, won 2-1",
-              "stats": [
-                "0 goals",
-                "0 assists",
-                "2 shots",
-                "9:36 ice time"
-              ]
-            },
-            "buzz": "Marchand left Tuesday's game in LA with an apparent lower-body injury; the Panthers gave no timetable.",
-            "source": "NHL.com (https://www.nhl.com/news/florida-panthers-brad-marchand-injury-status-update-october-7-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060LAK.html)",
-            "asOf": "2026-10-07"
-          },
-          {
-            "name": "Aleksander Barkov",
-            "team": "Florida Panthers",
+            "name": "Tage Thompson",
+            "team": "Buffalo Sabres",
             "position": "Center (C)",
             "lastGame": {
-              "date": "2026-10-01",
-              "label": "at San Jose Sharks, lost 4-3 in overtime",
+              "date": "2026-10-31",
+              "label": "at Los Angeles Kings, won 3-2",
               "stats": [
-                "0 goals",
+                "2 goals",
                 "0 assists",
-                "1 shot",
-                "9:15 ice time"
+                "8 shots",
+                "20:09 ice time"
               ]
             },
-            "buzz": "Coach Paul Maurice said Barkov is scheduled to be out 6-8 weeks with non-surgical rehab; he's on long-term injured reserve.",
-            "source": "NHL.com (https://www.nhl.com/news/aleksander-barkov-injury-status-update-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610010SJS.html)",
-            "asOf": "2026-10-07"
+            "buzz": "Thompson was named the NHL's First Star of the Week after 5 goals and 3 assists in three games, including his 10th career hat trick on October 29.",
+            "source": "NHL.com 3 Stars of the Week (https://www.nhl.com/news/thompson-jarry-carlsson-named-nhl-3-stars-of-week-november-2-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310LAK.html)",
+            "asOf": "2026-11-02"
           }
         ],
-        "source": "NHL.com (https://www.nhl.com/news/florida-panthers-brad-marchand-injury-status-update-october-7-2026); NHL.com (https://www.nhl.com/news/aleksander-barkov-injury-status-update-october-6-2026); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060LAK.html); CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261006/)",
-        "asOf": "2026-10-07"
+        "source": "NHL.com 3 Stars of the Week (https://www.nhl.com/news/thompson-jarry-carlsson-named-nhl-3-stars-of-week-november-2-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610290ANA.html)",
+        "asOf": "2026-11-02"
       },
       {
-        "id": "nhl-kane-chicago-return",
-        "topic": "Patrick Kane's homecoming in Chicago",
-        "whatHappened": "Patrick Kane got a video tribute and a standing ovation in his first home game back with the Chicago Blackhawks on Tuesday, and Chicago beat the St. Louis Blues 4-2 for its first win of the season. Kane signed a two-year, $16 million deal on July 23 to return.",
-        "whyCare": "Kane helped Chicago win the Stanley Cup in 2010, 2013 and 2015 before being traded during the 2022-23 season. Tuesday was 19 years to the day since his first game at the United Center.",
-        "youCouldSay": "Patrick Kane got a standing ovation in his first home game back in Chicago on Tuesday, and the Blackhawks beat the Blues 4-2 for their first win.",
-        "gameDate": "2026-10-06",
+        "id": "nhl-patrick-kane-injury",
+        "topic": "Patrick Kane hurt as Avalanche beat Chicago",
+        "whatHappened": "Patrick Kane left the Chicago Blackhawks' 5-2 home loss to the Colorado Avalanche on Monday after his last shift at 14:53 of the second period, with an upper-body injury. Coach Jeff Blashill said he will miss the next couple of games.",
+        "whyCare": "Kane is back in Chicago for a second stint, has 1,409 career points, and is second on the team with 9 points behind Connor Bedard. Chicago is 4-10-1 and has lost three straight.",
+        "youCouldSay": "Patrick Kane got hurt in Chicago's 5-2 loss to Colorado on Monday and is expected to miss the next couple of games, and the Blackhawks are already 4-10-1.",
+        "gameDate": "2026-11-02",
         "details": [
           {
             "name": "Patrick Kane",
             "team": "Chicago Blackhawks",
             "position": "Right wing (RW)",
             "lastGame": null,
-            "buzz": "Kane, who won three Stanley Cups in Chicago, is back on a two-year, $16 million contract signed July 23.",
-            "source": "NHL.com (https://www.nhl.com/news/topic/short-shifts/patrick-kane-welcomed-back-to-united-center-with-standing-ovation); NHL.com (https://www.nhl.com/news/st-louis-blues-chicago-blackhawks-game-recap-october-6-2026)",
-            "asOf": "2026-10-07"
+            "buzz": "Kane left Monday's 5-2 loss to Colorado in the second period with an upper-body injury, and coach Jeff Blashill said he will miss the next couple of games. He has 9 points in 14 games in his second stint with Chicago.",
+            "source": "NHL.com (https://www.nhl.com/news/patrick-kane-leaves-game-for-chicago-blackhawks-against-colorado-avalanche); NHL.com recap (https://www.nhl.com/news/colorado-avalanche-chicago-blackhawks-game-recap-november-2-2026)",
+            "asOf": "2026-11-03"
           }
         ],
-        "source": "NHL.com (https://www.nhl.com/news/topic/short-shifts/patrick-kane-welcomed-back-to-united-center-with-standing-ovation); NHL.com (https://www.nhl.com/news/st-louis-blues-chicago-blackhawks-game-recap-october-6-2026); CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261006/)",
-        "asOf": "2026-10-07"
+        "source": "NHL.com (https://www.nhl.com/news/patrick-kane-leaves-game-for-chicago-blackhawks-against-colorado-avalanche); NHL.com recap (https://www.nhl.com/news/colorado-avalanche-chicago-blackhawks-game-recap-november-2-2026)",
+        "asOf": "2026-11-03"
+      }
+    ],
+    [
+      {
+        "id": "nhl-tage-thompson-star-week",
+        "topic": "Tage Thompson's five-point hat trick night",
+        "whatHappened": "Tage Thompson had a hat trick, meaning three goals by one player, plus two assists as the Buffalo Sabres won 7-6 at Anaheim on Thursday, October 29. He scored twice more, including the winner, in a 3-2 win at Los Angeles on Saturday.",
+        "whyCare": "It was his 10th career hat trick. He was named the NHL's First Star of the Week with 5 goals and 3 assists in three games, and Buffalo went 3-0 on its California trip to get to 7-4-3.",
+        "youCouldSay": "Tage Thompson had five points in Buffalo's 7-6 win in Anaheim, a hat trick and two assists, and he was the NHL's player of the week.",
+        "gameDate": "2026-10-29",
+        "details": [
+          {
+            "name": "Tage Thompson",
+            "team": "Buffalo Sabres",
+            "position": "Center (C)",
+            "lastGame": {
+              "date": "2026-10-31",
+              "label": "at Los Angeles Kings, won 3-2",
+              "stats": [
+                "2 goals",
+                "0 assists",
+                "8 shots",
+                "20:09 ice time"
+              ]
+            },
+            "buzz": "Thompson was named the NHL's First Star of the Week after 5 goals and 3 assists in three games, including his 10th career hat trick on October 29.",
+            "source": "NHL.com 3 Stars of the Week (https://www.nhl.com/news/thompson-jarry-carlsson-named-nhl-3-stars-of-week-november-2-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310LAK.html)",
+            "asOf": "2026-11-02"
+          }
+        ],
+        "source": "NHL.com 3 Stars of the Week (https://www.nhl.com/news/thompson-jarry-carlsson-named-nhl-3-stars-of-week-november-2-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610290ANA.html)",
+        "asOf": "2026-11-02"
+      },
+      {
+        "id": "nhl-patrick-kane-injury",
+        "topic": "Patrick Kane hurt as Avalanche beat Chicago",
+        "whatHappened": "Patrick Kane left the Chicago Blackhawks' 5-2 home loss to the Colorado Avalanche on Monday after his last shift at 14:53 of the second period, with an upper-body injury. Coach Jeff Blashill said he will miss the next couple of games.",
+        "whyCare": "Kane is back in Chicago for a second stint, has 1,409 career points, and is second on the team with 9 points behind Connor Bedard. Chicago is 4-10-1 and has lost three straight.",
+        "youCouldSay": "Patrick Kane got hurt in Chicago's 5-2 loss to Colorado on Monday and is expected to miss the next couple of games, and the Blackhawks are already 4-10-1.",
+        "gameDate": "2026-11-02",
+        "details": [
+          {
+            "name": "Patrick Kane",
+            "team": "Chicago Blackhawks",
+            "position": "Right wing (RW)",
+            "lastGame": null,
+            "buzz": "Kane left Monday's 5-2 loss to Colorado in the second period with an upper-body injury, and coach Jeff Blashill said he will miss the next couple of games. He has 9 points in 14 games in his second stint with Chicago.",
+            "source": "NHL.com (https://www.nhl.com/news/patrick-kane-leaves-game-for-chicago-blackhawks-against-colorado-avalanche); NHL.com recap (https://www.nhl.com/news/colorado-avalanche-chicago-blackhawks-game-recap-november-2-2026)",
+            "asOf": "2026-11-03"
+          }
+        ],
+        "source": "NHL.com (https://www.nhl.com/news/patrick-kane-leaves-game-for-chicago-blackhawks-against-colorado-avalanche); NHL.com recap (https://www.nhl.com/news/colorado-avalanche-chicago-blackhawks-game-recap-november-2-2026)",
+        "asOf": "2026-11-03"
+      },
+      {
+        "id": "nhl-gauthier-hat-trick-comeback",
+        "topic": "Gauthier hat trick in Ducks comeback",
+        "whatHappened": "Cutter Gauthier scored a hat trick, three goals, as the Anaheim Ducks came back from 3-0 down after the first period to beat the Ottawa Senators 6-3 on Sunday. Anaheim scored six straight goals, four of them on the power play (while Ottawa had a player in the penalty box).",
+        "whyCare": "Leo Carlsson set up three goals, giving him three points in back-to-back games for the first time in his career; his 17 assists rank third in the NHL behind Connor McDavid and Evan Bouchard.",
+        "youCouldSay": "Gauthier had a hat trick Sunday as the Ducks came back from 3-0 down to beat Ottawa 6-3, and Carlsson set up three of the goals.",
+        "gameDate": "2026-11-01",
+        "details": [
+          {
+            "name": "Cutter Gauthier",
+            "team": "Anaheim Ducks",
+            "position": "Left wing (LW)",
+            "lastGame": {
+              "date": "2026-11-01",
+              "label": "vs Ottawa Senators, won 6-3",
+              "stats": [
+                "3 goals",
+                "0 assists",
+                "5 shots",
+                "19:02 ice time"
+              ]
+            },
+            "buzz": "Gauthier scored a hat trick, two of the goals on the power play, as Anaheim came back from 3-0 down to beat Ottawa 6-3. He has 7 goals this season.",
+            "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010ANA.html)",
+            "asOf": "2026-11-01"
+          },
+          {
+            "name": "Leo Carlsson",
+            "team": "Anaheim Ducks",
+            "position": "Center (C)",
+            "lastGame": {
+              "date": "2026-11-01",
+              "label": "vs Ottawa Senators, won 6-3",
+              "stats": [
+                "0 goals",
+                "3 assists",
+                "2 shots",
+                "20:40 ice time"
+              ]
+            },
+            "buzz": "Carlsson was the NHL's Third Star of the Week with 8 points in three games, and his 17 assists rank third in the league.",
+            "source": "NHL.com 3 Stars of the Week (https://www.nhl.com/news/thompson-jarry-carlsson-named-nhl-3-stars-of-week-november-2-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010ANA.html)",
+            "asOf": "2026-11-02"
+          }
+        ],
+        "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010ANA.html); NHL.com 3 Stars of the Week (https://www.nhl.com/news/thompson-jarry-carlsson-named-nhl-3-stars-of-week-november-2-2026)",
+        "asOf": "2026-11-02"
       }
     ]
   ],
   "teams": {
     "Anaheim Ducks": {
-      "latestResult": "Beat the Florida Panthers 3-2 in overtime at home on Sunday, October 4 (now 2-0-0)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Mikael Granlund won the home opener on a power-play goal (scored while Florida had a player in the penalty box) with 46 seconds left in overtime, giving Anaheim its 11th straight home-opener win, a team record.",
-      "bringUp": "The Ducks are 2-0 after beating the Florida Panthers 3-2 in overtime, and Cutter Gauthier had two goals and an assist in that one; they host Connor McDavid's Oilers tonight.",
+      "latestResult": "Won 6-3 against the Ottawa Senators at home on Sunday, November 1 (now 6-7-1)",
+      "latestGameDate": "2026-11-01",
+      "storyline": "Cutter Gauthier scored a hat trick and Leo Carlsson had three assists as Anaheim erased a 3-0 deficit with six straight goals.",
+      "bringUp": "The Ducks were down 3-0 to Ottawa on Sunday and won 6-3, with a Gauthier hat trick, meaning three goals.",
       "details": [
         {
           "name": "Cutter Gauthier",
           "team": "Anaheim Ducks",
           "position": "Left wing (LW)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "vs Florida Panthers, won 3-2 in overtime",
+            "date": "2026-11-01",
+            "label": "vs Ottawa Senators, won 6-3",
             "stats": [
-              "2 goals",
-              "1 assist",
-              "4 shots"
+              "3 goals",
+              "0 assists",
+              "5 shots",
+              "19:02 ice time"
             ]
           },
-          "buzz": "Gauthier scored both of his goals on the power play in the 3-2 overtime win over Florida.",
-          "source": "NHL.com (https://www.nhl.com/ducks/news/florida-panthers-anaheim-ducks-game-recap-october-4-2026-x9756)",
-          "asOf": "2026-10-07"
+          "buzz": "Gauthier scored a hat trick, two of the goals on the power play, as Anaheim came back from 3-0 down to beat Ottawa 6-3. He has 7 goals this season.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010ANA.html)",
+          "asOf": "2026-11-01"
         },
         {
-          "name": "Mikael Granlund",
+          "name": "Leo Carlsson",
           "team": "Anaheim Ducks",
           "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "vs Florida Panthers, won 3-2 in overtime",
+            "date": "2026-11-01",
+            "label": "vs Ottawa Senators, won 6-3",
             "stats": [
-              "1 goal (overtime winner)",
-              "0 assists",
-              "2 shots"
+              "0 goals",
+              "3 assists",
+              "2 shots",
+              "20:40 ice time"
             ]
           },
-          "buzz": "Granlund redirected a Leo Carlsson pass for the winning goal with 46 seconds left in overtime.",
-          "source": "NHL.com (https://www.nhl.com/ducks/news/florida-panthers-anaheim-ducks-game-recap-october-4-2026-x9756)",
-          "asOf": "2026-10-07"
+          "buzz": "Carlsson was the NHL's Third Star of the Week with 8 points in three games, and his 17 assists rank third in the league.",
+          "source": "NHL.com 3 Stars of the Week (https://www.nhl.com/news/thompson-jarry-carlsson-named-nhl-3-stars-of-week-november-2-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010ANA.html)",
+          "asOf": "2026-11-02"
         }
       ],
-      "source": "NHL.com (https://www.nhl.com/ducks/news/florida-panthers-anaheim-ducks-game-recap-october-4-2026-x9756)",
-      "asOf": "2026-10-07"
+      "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010ANA.html); NHL.com 3 Stars of the Week (https://www.nhl.com/news/thompson-jarry-carlsson-named-nhl-3-stars-of-week-november-2-2026)",
+      "asOf": "2026-11-02"
     },
     "Boston Bruins": {
-      "latestResult": "Lost 4-1 to the Ottawa Senators at home on Monday, October 5 (now 2-2-0, two straight losses)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "David Pastrnak was named the 28th captain in Bruins history on September 27, and Boston won his first game wearing the C, 3-0 over the Rangers on opening night.",
-      "bringUp": "The Bruins are 2-2 after a 4-1 home loss to Ottawa on Monday; James Hagens scored Boston's only goal, and defenseman Nikita Zadorov said it's on the players to \"make sure that never happens again.\"",
+      "latestResult": "Won 3-2 in a shootout against the Vegas Golden Knights at home on Monday, November 2 (now 11-4-1)",
+      "latestGameDate": "2026-11-02",
+      "storyline": "Boston has won six straight home games; against Vegas it blew a 2-0 lead and then won on David Pastrnak's shootout goal (a one-on-one tiebreaker after overtime).",
+      "bringUp": "The Bruins are 11-4-1 and have won six in a row at home, the latest 3-2 over Vegas on Monday with Hagens scoring and Swayman making 21 saves.",
       "details": [
         {
           "name": "James Hagens",
           "team": "Boston Bruins",
           "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "vs Ottawa Senators, lost 4-1",
+            "date": "2026-11-02",
+            "label": "vs Vegas Golden Knights, won 3-2 in a shootout",
             "stats": [
               "1 goal",
               "0 assists",
-              "2 shots"
+              "17:27 ice time"
             ]
           },
-          "buzz": "Hagens scored his first NHL goal in a 4-3 overtime win at Winnipeg on October 2 and added Boston's only goal against Ottawa.",
-          "source": "NHL.com (https://www.nhl.com/bruins/news/bruins-lose-4-1-to-the-senators-make-sure-that-never-happens-again)",
-          "asOf": "2026-10-07"
+          "buzz": "The rookie Hagens opened the scoring in Boston's 3-2 shootout win over Vegas on Monday.",
+          "source": "NHL.com recap (https://www.nhl.com/news/vegas-golden-knights-boston-bruins-game-recap-november-2-2026); ESPN box score (https://www.espn.com/nhl/boxscore/_/gameId/401892629)",
+          "asOf": "2026-11-03"
         },
         {
-          "name": "David Pastrnak",
+          "name": "Jeremy Swayman",
           "team": "Boston Bruins",
-          "position": "Right wing (RW)",
+          "position": "Goalie (G)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "vs Ottawa Senators, lost 4-1",
+            "date": "2026-11-02",
+            "label": "vs Vegas Golden Knights, won 3-2 in a shootout",
             "stats": [
-              "0 goals",
-              "0 assists",
-              "2 shots",
-              "21:00 on ice"
+              "21 saves on 23 shots"
             ]
           },
-          "buzz": "The 30-year-old Pastrnak became the 28th captain in franchise history on September 27.",
-          "source": "NHL.com (https://www.nhl.com/bruins/news/inside-david-pastrnak-s-first-game-as-bruins-captain-it-was-a-great-day)",
-          "asOf": "2026-10-07"
+          "buzz": "Swayman made 21 saves as Boston won its sixth straight home game.",
+          "source": "NHL.com recap (https://www.nhl.com/news/vegas-golden-knights-boston-bruins-game-recap-november-2-2026); ESPN box score (https://www.espn.com/nhl/boxscore/_/gameId/401892629)",
+          "asOf": "2026-11-03"
         }
       ],
-      "source": "NHL.com (https://www.nhl.com/bruins/news/bruins-lose-4-1-to-the-senators-make-sure-that-never-happens-again)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com recap (https://www.nhl.com/news/vegas-golden-knights-boston-bruins-game-recap-november-2-2026); ESPN box score (https://www.espn.com/nhl/boxscore/_/gameId/401892629)",
+      "asOf": "2026-11-03"
     },
     "Buffalo Sabres": {
-      "latestResult": "Beat the Minnesota Wild 3-2 in overtime at home on Tuesday, October 6 (now 2-1-0)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Tage Thompson's tying goal against Minnesota was his 400th point with Buffalo in 491 games, making him the 16th player in Sabres history to reach that mark.",
-      "bringUp": "Owen Power scored in overtime to beat Minnesota 3-2 on Tuesday, and Tage Thompson's goal that night was his 400th point as a Sabre.",
+      "latestResult": "Won 3-2 at the Los Angeles Kings on Saturday, October 31 (now 7-4-3)",
+      "latestGameDate": "2026-10-31",
+      "storyline": "Buffalo swept a three-game California trip, and Tage Thompson was the NHL's First Star of the Week with 5 goals and 3 assists, including a hat trick in a 7-6 win at Anaheim.",
+      "bringUp": "Tage Thompson scored twice, including the winner, as Buffalo beat the Kings 3-2 Saturday; he has 10 goals and the Sabres are 7-4-3.",
       "details": [
         {
           "name": "Tage Thompson",
           "team": "Buffalo Sabres",
           "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs Minnesota Wild, won 3-2 in overtime",
-            "stats": [
-              "1 goal",
-              "1 assist",
-              "9 shots"
-            ]
-          },
-          "buzz": "Thompson tied the game 2-2 at 9:38 of the third period for his 400th point with Buffalo.",
-          "source": "NHL.com (https://www.nhl.com/news/minnesota-wild-buffalo-sabres-game-recap-october-6-2026)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Owen Power",
-          "team": "Buffalo Sabres",
-          "position": "Defenseman (D)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs Minnesota Wild, won 3-2 in overtime",
-            "stats": [
-              "1 goal (overtime winner)",
-              "1 assist",
-              "2 shots"
-            ]
-          },
-          "buzz": "Power scored the winner at 4:22 of overtime and has at least one assist in each of Buffalo's first three games.",
-          "source": "NHL.com (https://www.nhl.com/news/minnesota-wild-buffalo-sabres-game-recap-october-6-2026)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "NHL.com (https://www.nhl.com/news/minnesota-wild-buffalo-sabres-game-recap-october-6-2026)",
-      "asOf": "2026-10-07"
-    },
-    "Calgary Flames": {
-      "latestResult": "Lost 6-1 at the Seattle Kraken on Sunday, October 4 (now 0-3-0)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "This is the last season at the Scotiabank Saddledome, and captain Mikael Backlund entered the season with 1,148 games for Calgary, second in team history behind Jarome Iginla's 1,219.",
-      "bringUp": "The Flames are 0-3 and have scored just one goal in each game, including a 6-1 loss in Seattle on Sunday; they host Colorado on Thursday.",
-      "details": [
-        {
-          "name": "Morgan Frost",
-          "team": "Calgary Flames",
-          "position": "Center (C)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "at Seattle Kraken, lost 6-1",
-            "stats": [
-              "1 goal",
-              "0 assists",
-              "3 shots"
-            ]
-          },
-          "buzz": "Frost scored Calgary's only goal on the power play with 5:35 left in the third period against Seattle.",
-          "source": "NHL.com (https://www.nhl.com/flames/news/flames-defeated-by-kraken-04-10-26)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Mikael Backlund",
-          "team": "Calgary Flames",
-          "position": "Center (C)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "at Seattle Kraken, lost 6-1",
-            "stats": [
-              "0 goals",
-              "0 assists",
-              "5 shots",
-              "15:16 on ice"
-            ]
-          },
-          "buzz": "The Flames captain entered this season with 1,148 games for Calgary, second only to Jarome Iginla in franchise history.",
-          "source": "NHL.com (https://www.nhl.com/flames/news/for-backlund-farewell-season-evokes-memories)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "NHL.com (https://www.nhl.com/flames/news/flames-defeated-by-kraken-04-10-26)",
-      "asOf": "2026-10-07"
-    },
-    "Carolina Hurricanes": {
-      "latestResult": "Won 6-4 at the Montreal Canadiens on Tuesday, October 6 (now 2-1-1)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Carolina raised the franchise's second Stanley Cup banner on opening night, September 29, in front of 19,250 fans, the biggest regular-season crowd ever at Lenovo Center.",
-      "bringUp": "The defending Stanley Cup champion Hurricanes won 6-4 in Montreal on Tuesday; Taylor Hall scored twice and Sebastian Aho had a goal and two assists.",
-      "details": [
-        {
-          "name": "Sebastian Aho",
-          "team": "Carolina Hurricanes",
-          "position": "Center (C)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Montreal Canadiens, won 6-4",
-            "stats": [
-              "1 goal",
-              "2 assists",
-              "3 shots"
-            ]
-          },
-          "buzz": "Aho's power-play goal was his 78th career, passing Jere Lehtinen for eighth-most by a Finnish player in NHL history, and he has goals in three straight games.",
-          "source": "NHL.com (https://www.nhl.com/hurricanes/news/recap-canes-outlast-canadiens-in-back-and-forth-battle)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Taylor Hall",
-          "team": "Carolina Hurricanes",
-          "position": "Left wing (LW)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Montreal Canadiens, won 6-4",
+            "date": "2026-10-31",
+            "label": "at Los Angeles Kings, won 3-2",
             "stats": [
               "2 goals",
               "0 assists",
-              "4 shots"
+              "8 shots",
+              "20:09 ice time"
             ]
           },
-          "buzz": "Hall's two goals in Montreal were his first points of the season.",
-          "source": "NHL.com (https://www.nhl.com/hurricanes/news/recap-canes-outlast-canadiens-in-back-and-forth-battle)",
-          "asOf": "2026-10-07"
+          "buzz": "Thompson was named the NHL's First Star of the Week after 5 goals and 3 assists in three games, including his 10th career hat trick on October 29.",
+          "source": "NHL.com 3 Stars of the Week (https://www.nhl.com/news/thompson-jarry-carlsson-named-nhl-3-stars-of-week-november-2-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310LAK.html)",
+          "asOf": "2026-11-02"
+        },
+        {
+          "name": "Rasmus Dahlin",
+          "team": "Buffalo Sabres",
+          "position": "Defenseman (D)",
+          "lastGame": {
+            "date": "2026-10-31",
+            "label": "at Los Angeles Kings, won 3-2",
+            "stats": [
+              "0 goals",
+              "2 assists",
+              "2 shots",
+              "23:21 ice time"
+            ]
+          },
+          "buzz": "Dahlin assisted on both of Buffalo's power-play goals in the 3-2 win at Los Angeles.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310LAK.html)",
+          "asOf": "2026-10-31"
         }
       ],
-      "source": "NHL.com (https://www.nhl.com/hurricanes/news/recap-canes-outlast-canadiens-in-back-and-forth-battle); NHL.com, Hurricanes (https://www.nhl.com/hurricanes/news/banner-raising-opening-night-brings-record-breaking-crowd); NHL.com (https://www.nhl.com/news/carolina-hurricanes-raise-stanley-cup-banner-prior-to-season-opener)",
-      "asOf": "2026-10-07"
+      "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310LAK.html); NHL.com 3 Stars of the Week (https://www.nhl.com/news/thompson-jarry-carlsson-named-nhl-3-stars-of-week-november-2-2026)",
+      "asOf": "2026-11-02"
+    },
+    "Calgary Flames": {
+      "latestResult": "Won 2-1 at the San Jose Sharks on Monday, November 2 (now 7-8-0)",
+      "latestGameDate": "2026-11-02",
+      "storyline": "William Stromgren scored his first NHL goal, in his 4th career game, for the winner in the 2-1 victory in San Jose, and Calgary has won 2 of its past 3.",
+      "bringUp": "Calgary beat San Jose 2-1 on Monday; Klapka scored and set up a rookie's first NHL goal for the winner, and Wolf made 26 saves.",
+      "details": [
+        {
+          "name": "Adam Klapka",
+          "team": "Calgary Flames",
+          "position": "Right wing (RW)",
+          "lastGame": null,
+          "buzz": "Klapka scored the first goal and set up the winner in Calgary's 2-1 win at San Jose on Monday.",
+          "source": "NHL.com recap (https://www.nhl.com/news/calgary-flames-san-jose-sharks-game-recap-november-2-2026)",
+          "asOf": "2026-11-03"
+        },
+        {
+          "name": "Dustin Wolf",
+          "team": "Calgary Flames",
+          "position": "Goalie (G)",
+          "lastGame": null,
+          "buzz": "Wolf made 26 saves in Monday's 2-1 win over the Sharks, according to the NHL.com recap.",
+          "source": "NHL.com recap (https://www.nhl.com/news/calgary-flames-san-jose-sharks-game-recap-november-2-2026)",
+          "asOf": "2026-11-03"
+        }
+      ],
+      "source": "NHL.com recap (https://www.nhl.com/news/calgary-flames-san-jose-sharks-game-recap-november-2-2026)",
+      "asOf": "2026-11-03"
+    },
+    "Carolina Hurricanes": {
+      "latestResult": "Won 7-0 against the Winnipeg Jets at home on Sunday, November 1 (now 12-2-2)",
+      "latestGameDate": "2026-11-01",
+      "storyline": "Carolina is 12-2-2, and six different players scored in the 7-0 rout of Winnipeg, led by Logan Stankoven's 10th goal of the season.",
+      "bringUp": "The Hurricanes beat Winnipeg 7-0 on Sunday, Kochetkov stopped all 26 shots, and they're 12-2-2.",
+      "details": [
+        {
+          "name": "Pyotr Kochetkov",
+          "team": "Carolina Hurricanes",
+          "position": "Goalie (G)",
+          "lastGame": {
+            "date": "2026-11-01",
+            "label": "vs Winnipeg Jets, won 7-0",
+            "stats": [
+              "26 saves on 26 shots"
+            ]
+          },
+          "buzz": "Kochetkov stopped all 26 shots for a shutout, meaning Winnipeg didn't score, in Sunday's 7-0 win.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010CAR.html)",
+          "asOf": "2026-11-01"
+        },
+        {
+          "name": "Logan Stankoven",
+          "team": "Carolina Hurricanes",
+          "position": "Right wing (RW)",
+          "lastGame": {
+            "date": "2026-11-01",
+            "label": "vs Winnipeg Jets, won 7-0",
+            "stats": [
+              "1 goal",
+              "2 assists",
+              "3 shots",
+              "13:26 ice time"
+            ]
+          },
+          "buzz": "Stankoven had three points against Winnipeg, and his goal was his 10th of the season.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010CAR.html)",
+          "asOf": "2026-11-01"
+        }
+      ],
+      "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010CAR.html)",
+      "asOf": "2026-11-01"
     },
     "Chicago Blackhawks": {
-      "latestResult": "Beat the St. Louis Blues 4-2 at home on Tuesday, October 6 (now 1-3-0)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Patrick Kane, 37, is back with Chicago on a two-year, $16 million contract signed in July, and got a video tribute and a big ovation in Tuesday's home opener, his first home game back.",
-      "bringUp": "Patrick Kane got a big ovation in his Blackhawks homecoming on Tuesday, and Chicago beat St. Louis 4-2 for its first win after an 0-3 start.",
+      "latestResult": "Lost 5-2 to the Colorado Avalanche at home on Monday, November 2 (now 4-10-1, three straight losses)",
+      "latestGameDate": "2026-11-02",
+      "storyline": "Chicago led 2-0 in the first period but lost Patrick Kane to an upper-body injury in the second, and coach Jeff Blashill said he will miss the next couple of games.",
+      "bringUp": "Chicago blew a 2-0 lead and lost 5-2 to Colorado on Monday, and Patrick Kane left hurt; the Blackhawks are 4-10-1.",
       "details": [
         {
           "name": "Patrick Kane",
           "team": "Chicago Blackhawks",
           "position": "Right wing (RW)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs St. Louis Blues, won 4-2",
-            "stats": [
-              "0 goals",
-              "0 assists",
-              "2 shots",
-              "20:55 on ice"
-            ]
-          },
-          "buzz": "Kane, who won three Stanley Cups in his first 16 seasons with Chicago, returned on a two-year, $16 million deal and called the homecoming \"special.\"",
-          "source": "NHL.com (https://www.nhl.com/news/st-louis-blues-chicago-blackhawks-game-recap-october-6-2026)",
-          "asOf": "2026-10-07"
+          "lastGame": null,
+          "buzz": "Kane left Monday's 5-2 loss to Colorado in the second period with an upper-body injury, and coach Jeff Blashill said he will miss the next couple of games. He has 9 points in 14 games in his second stint with Chicago.",
+          "source": "NHL.com (https://www.nhl.com/news/patrick-kane-leaves-game-for-chicago-blackhawks-against-colorado-avalanche); NHL.com recap (https://www.nhl.com/news/colorado-avalanche-chicago-blackhawks-game-recap-november-2-2026)",
+          "asOf": "2026-11-03"
         },
         {
-          "name": "Frank Nazar",
+          "name": "Spencer Knight",
           "team": "Chicago Blackhawks",
-          "position": "Center (C)",
+          "position": "Goalie (G)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs St. Louis Blues, won 4-2",
+            "date": "2026-11-02",
+            "label": "vs Colorado Avalanche, lost 5-2",
             "stats": [
-              "1 goal",
-              "1 assist",
-              "3 shots"
+              "24 saves on 28 shots"
             ]
           },
-          "buzz": "Nazar had a goal and an assist as Chicago won its home opener 4-2 for its first win of the season.",
-          "source": "NHL.com (https://www.nhl.com/news/st-louis-blues-chicago-blackhawks-game-recap-october-6-2026)",
-          "asOf": "2026-10-07"
+          "buzz": "Knight made 24 saves as Chicago lost its third straight game.",
+          "source": "NHL.com recap (https://www.nhl.com/news/colorado-avalanche-chicago-blackhawks-game-recap-november-2-2026); CBS Sports box score (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261102_COL@CHI/)",
+          "asOf": "2026-11-03"
         }
       ],
-      "source": "NHL.com (https://www.nhl.com/news/st-louis-blues-chicago-blackhawks-game-recap-october-6-2026)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com recap (https://www.nhl.com/news/colorado-avalanche-chicago-blackhawks-game-recap-november-2-2026); NHL.com (https://www.nhl.com/news/patrick-kane-leaves-game-for-chicago-blackhawks-against-colorado-avalanche)",
+      "asOf": "2026-11-03"
     },
     "Colorado Avalanche": {
-      "latestResult": "Beat the St. Louis Blues 6-1 at home on Saturday, October 3 (now 2-0-0)",
-      "latestGameDate": "2026-10-03",
-      "storyline": "Colorado scored 14 goals in its first two games (8-4 over Los Angeles, 6-1 over St. Louis), tying the franchise record set by the 1992-93 Quebec Nordiques.",
-      "bringUp": "The Avalanche have scored 14 goals in two games, tying a franchise record, and Nathan MacKinnon had three assists in Saturday's 6-1 win over St. Louis; they play at Winnipeg tonight.",
+      "latestResult": "Won 5-2 at the Chicago Blackhawks on Monday, November 2 (now 9-5-1, three straight wins)",
+      "latestGameDate": "2026-11-02",
+      "storyline": "Colorado came back from 2-0 down, and it has now beaten Chicago six straight times dating to March 10, 2025.",
+      "bringUp": "Kadri and Schwartz each scored twice as Colorado came back from 2-0 down to win 5-2 in Chicago on Monday, the Avalanche's third straight win.",
       "details": [
         {
-          "name": "Martin Necas",
+          "name": "Nazem Kadri",
           "team": "Colorado Avalanche",
           "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-03",
-            "label": "vs St. Louis Blues, won 6-1",
+            "date": "2026-11-02",
+            "label": "at Chicago Blackhawks, won 5-2",
             "stats": [
               "2 goals",
-              "1 assist",
-              "4 shots"
+              "0 assists",
+              "15:51 ice time"
             ]
           },
-          "buzz": "Necas scored twice on a line with Nathan MacKinnon and Artturi Lehkonen in the 6-1 win over St. Louis.",
-          "source": "NHL.com (https://www.nhl.com/avalanche/news/game-recap-10-03-26)",
-          "asOf": "2026-10-07"
+          "buzz": "Kadri scored twice in Chicago, including the go-ahead goal on the power play.",
+          "source": "NHL.com recap (https://www.nhl.com/news/colorado-avalanche-chicago-blackhawks-game-recap-november-2-2026); CBS Sports box score (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261102_COL@CHI/)",
+          "asOf": "2026-11-03"
         },
         {
-          "name": "Nathan MacKinnon",
+          "name": "Jaden Schwartz",
           "team": "Colorado Avalanche",
-          "position": "Center (C)",
-          "lastGame": {
-            "date": "2026-10-03",
-            "label": "vs St. Louis Blues, won 6-1",
-            "stats": [
-              "0 goals",
-              "3 assists",
-              "4 shots"
-            ]
-          },
-          "buzz": "MacKinnon scored twice and got into a fight in the 8-4 opener against Los Angeles, then set up three goals against St. Louis.",
-          "source": "NHL.com (https://www.nhl.com/avalanche/news/game-recap-10-03-26)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "NHL.com (https://www.nhl.com/avalanche/news/game-recap-10-03-26)",
-      "asOf": "2026-10-07"
-    },
-    "Columbus Blue Jackets": {
-      "latestResult": "Lost 4-1 to the Utah Mammoth at home on Saturday, October 3 (now 1-1-0)",
-      "latestGameDate": "2026-10-03",
-      "storyline": "On September 28 Columbus traded Kirill Marchenko, Elvis Merzlikins and Miles Wood to Toronto for Matthew Knies, Emil Andrae, Steven Lorentz and a conditional 2027 second-round pick.",
-      "bringUp": "Columbus traded for Matthew Knies on September 28, and he had two goals and an assist in his Blue Jackets debut, a 6-3 win over Buffalo.",
-      "details": [
-        {
-          "name": "Matthew Knies",
-          "team": "Columbus Blue Jackets",
           "position": "Left wing (LW)",
           "lastGame": {
-            "date": "2026-10-03",
-            "label": "vs Utah Mammoth, lost 4-1",
+            "date": "2026-11-02",
+            "label": "at Chicago Blackhawks, won 5-2",
+            "stats": [
+              "2 goals",
+              "0 assists",
+              "15:26 ice time"
+            ]
+          },
+          "buzz": "Schwartz scored twice, including the tying goal 26 seconds after Kadri's first.",
+          "source": "NHL.com recap (https://www.nhl.com/news/colorado-avalanche-chicago-blackhawks-game-recap-november-2-2026); CBS Sports box score (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261102_COL@CHI/)",
+          "asOf": "2026-11-03"
+        }
+      ],
+      "source": "NHL.com recap (https://www.nhl.com/news/colorado-avalanche-chicago-blackhawks-game-recap-november-2-2026); CBS Sports box score (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261102_COL@CHI/)",
+      "asOf": "2026-11-03"
+    },
+    "Columbus Blue Jackets": {
+      "latestResult": "Lost 3-1 at the Dallas Stars on Saturday, October 31 (now 5-7-0, two straight losses)",
+      "latestGameDate": "2026-10-31",
+      "storyline": "Columbus is 5-7-0 after back-to-back road losses at Carolina (3-2) and Dallas (3-1), managing just one goal against the Stars.",
+      "bringUp": "Columbus lost 3-1 in Dallas on Saturday for its second straight loss, with Werenski assisting on the only goal; the Blue Jackets are 5-7.",
+      "details": [
+        {
+          "name": "Zach Werenski",
+          "team": "Columbus Blue Jackets",
+          "position": "Defenseman (D)",
+          "lastGame": {
+            "date": "2026-10-31",
+            "label": "at Dallas Stars, lost 3-1",
             "stats": [
               "0 goals",
               "1 assist",
-              "1 shot"
+              "4 shots",
+              "28:01 ice time"
             ]
           },
-          "buzz": "Knies, acquired from Toronto on September 28, scored two goals and added an assist in his Columbus debut against Buffalo.",
-          "source": "NHL.com (https://www.nhl.com/bluejackets/news/blue-jackets-make-trade-with-toronto)",
-          "asOf": "2026-10-07"
-        },
+          "buzz": "Werenski played 28:01 in Dallas and assisted on Columbus's only goal.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310DAL.html)",
+          "asOf": "2026-10-31"
+        }
+      ],
+      "source": "NHL.com recap (https://www.nhl.com/news/columbus-blue-jackets-dallas-stars-game-recap-october-31-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310DAL.html); Hockey-Reference 2026-27 schedule and results (https://www.hockey-reference.com/leagues/NHL_2027_games.html)",
+      "asOf": "2026-11-03"
+    },
+    "Dallas Stars": {
+      "latestResult": "Won 3-1 against the Columbus Blue Jackets at home on Saturday, October 31 (now 8-5-1)",
+      "latestGameDate": "2026-10-31",
+      "storyline": "Dallas snapped a two-game losing streak (5-1 to New Jersey and 5-2 to Montreal) behind an early Mikko Rantanen power-play goal.",
+      "bringUp": "Rantanen scored on the power play two minutes in and Oettinger made 24 saves as Dallas beat Columbus 3-1 Saturday to get to 8-5-1.",
+      "details": [
         {
-          "name": "Kent Johnson",
-          "team": "Columbus Blue Jackets",
-          "position": "Center (C)",
+          "name": "Mikko Rantanen",
+          "team": "Dallas Stars",
+          "position": "Right wing (RW)",
           "lastGame": {
-            "date": "2026-10-03",
-            "label": "vs Utah Mammoth, lost 4-1",
+            "date": "2026-10-31",
+            "label": "vs Columbus Blue Jackets, won 3-1",
             "stats": [
               "1 goal",
               "0 assists",
-              "5 shots"
+              "3 shots",
+              "18:50 ice time"
             ]
           },
-          "buzz": "Johnson scored Columbus's only goal in the 4-1 loss to Utah.",
-          "source": "NHL.com (https://www.nhl.com/bluejackets/news/topic/olympics/utah-mammoth-columbus-blue-jackets-game-recap-october-3-2026-x9795)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "NHL.com (https://www.nhl.com/bluejackets/news/topic/olympics/utah-mammoth-columbus-blue-jackets-game-recap-october-3-2026-x9795)",
-      "asOf": "2026-10-07"
-    },
-    "Dallas Stars": {
-      "latestResult": "Beat the San Jose Sharks 5-0 at home on Monday, October 5 (now 1-2-0)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "After an 0-2 start, Dallas outshot San Jose 26-13 in a 5-0 win, and Jake Oettinger earned the 17th shutout of his career.",
-      "bringUp": "The Stars got their first win Monday, 5-0 over San Jose, with Jamie Benn, Jason Robertson and Mikko Rantanen all scoring and Jake Oettinger stopping all 13 shots.",
-      "details": [
+          "buzz": "Rantanen opened the scoring on the power play 2:16 into Saturday's win, his 7th goal of the season.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310DAL.html)",
+          "asOf": "2026-10-31"
+        },
         {
           "name": "Jake Oettinger",
           "team": "Dallas Stars",
           "position": "Goalie (G)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "vs San Jose Sharks, won 5-0",
+            "date": "2026-10-31",
+            "label": "vs Columbus Blue Jackets, won 3-1",
             "stats": [
-              "13 saves on 13 shots",
-              "0 goals allowed"
+              "24 saves on 25 shots"
             ]
           },
-          "buzz": "Oettinger's 13-save shutout, meaning he allowed no goals, was the 17th of his career.",
-          "source": "NHL.com (https://www.nhl.com/stars/news/heika-s-take-stars-break-early-season-slump-with-offensive-outburst-shut-out-sharks-100626)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Jason Robertson",
-          "team": "Dallas Stars",
-          "position": "Left wing (LW)",
-          "lastGame": {
-            "date": "2026-10-05",
-            "label": "vs San Jose Sharks, won 5-0",
-            "stats": [
-              "1 goal",
-              "1 assist",
-              "4 shots"
-            ]
-          },
-          "buzz": "Robertson scored from the slot late in the second period as Dallas broke out of a two-game scoring slump.",
-          "source": "NHL.com (https://www.nhl.com/stars/news/heika-s-take-stars-break-early-season-slump-with-offensive-outburst-shut-out-sharks-100626)",
-          "asOf": "2026-10-07"
+          "buzz": "Oettinger made 24 saves against Columbus as Dallas bounced back from a 5-1 loss to New Jersey and a 5-2 loss to Montreal.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310DAL.html); Hockey-Reference 2026-27 schedule and results (https://www.hockey-reference.com/leagues/NHL_2027_games.html)",
+          "asOf": "2026-11-03"
         }
       ],
-      "source": "NHL.com (https://www.nhl.com/stars/news/heika-s-take-stars-break-early-season-slump-with-offensive-outburst-shut-out-sharks-100626)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com recap (https://www.nhl.com/news/columbus-blue-jackets-dallas-stars-game-recap-october-31-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310DAL.html); NHL.com Devils recap (https://www.nhl.com/news/new-jersey-devils-vegas-golden-knights-game-recap-october-30-2026); Hockey-Reference 2026-27 schedule and results (https://www.hockey-reference.com/leagues/NHL_2027_games.html)",
+      "asOf": "2026-11-03"
     },
     "Detroit Red Wings": {
-      "latestResult": "Beat the Ottawa Senators 5-3 at home on Tuesday, October 6 (now 1-2-0)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Dylan Larkin returned from an offseason upper-body injury with a goal and an assist on October 6 and was named first star as Detroit won for the first time this season.",
-      "bringUp": "Detroit got its first win Tuesday, 5-3 over Ottawa, with Alex DeBrincat scoring twice and Dylan Larkin scoring in his season debut.",
+      "latestResult": "Won 5-3 at the Florida Panthers on Monday, November 2 (now 7-5-3)",
+      "latestGameDate": "2026-11-02",
+      "storyline": "Detroit has won 3 of its past 4, and Michigan-born Carter Mazur scored his first NHL goal in the win at Florida.",
+      "bringUp": "Detroit beat the Panthers 5-3 in Florida on Monday; Brandsegg-Nygard scored the winner and Faulk had a goal and an assist.",
       "details": [
         {
-          "name": "Alex DeBrincat",
+          "name": "Michael Brandsegg-Nygard",
           "team": "Detroit Red Wings",
           "position": "Right wing (RW)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs Ottawa Senators, won 5-3",
-            "stats": [
-              "2 goals",
-              "1 assist",
-              "3 shots"
-            ]
-          },
-          "buzz": "DeBrincat sealed the 5-3 win with his second goal, into an empty net (Ottawa had pulled its goalie), at 19:10 of the third period.",
-          "source": "NHL.com (https://www.nhl.com/redwings/news/recap-contributions-from-a-lot-of-different-people-in-different-ways-key-to-red-wings-5-3-victory-over-senators)",
-          "asOf": "2026-10-07"
+          "lastGame": null,
+          "buzz": "Brandsegg-Nygard scored his first career game-winning goal at Florida; at 21 he is the youngest of the six Norwegians with an NHL game-winner, per NHL.com.",
+          "source": "NHL.com recap (https://www.nhl.com/news/detroit-red-wings-florida-panthers-game-recap-november-2-2026)",
+          "asOf": "2026-11-03"
         },
         {
-          "name": "Dylan Larkin",
+          "name": "Justin Faulk",
           "team": "Detroit Red Wings",
-          "position": "Center (C)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs Ottawa Senators, won 5-3",
-            "stats": [
-              "1 goal",
-              "1 assist",
-              "4 shots"
-            ]
-          },
-          "buzz": "Larkin had a goal and an assist in his season debut after an offseason upper-body injury and was the game's first star.",
-          "source": "NHL.com (https://www.nhl.com/redwings/news/recap-contributions-from-a-lot-of-different-people-in-different-ways-key-to-red-wings-5-3-victory-over-senators)",
-          "asOf": "2026-10-07"
+          "position": "Defenseman (D)",
+          "lastGame": null,
+          "buzz": "Faulk scored a power-play goal and added an assist in Detroit's 5-3 win in Florida.",
+          "source": "NHL.com recap (https://www.nhl.com/news/detroit-red-wings-florida-panthers-game-recap-november-2-2026)",
+          "asOf": "2026-11-03"
         }
       ],
-      "source": "NHL.com (https://www.nhl.com/redwings/news/recap-contributions-from-a-lot-of-different-people-in-different-ways-key-to-red-wings-5-3-victory-over-senators)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com recap (https://www.nhl.com/news/detroit-red-wings-florida-panthers-game-recap-november-2-2026)",
+      "asOf": "2026-11-03"
     },
     "Edmonton Oilers": {
-      "latestResult": "Beat the Seattle Kraken 3-1 at home on Saturday, October 3 (now 2-0-1)",
-      "latestGameDate": "2026-10-03",
-      "storyline": "Mike Babcock was brought out of retirement on June 23 to replace Kris Knoblauch as Edmonton's coach, and the Oilers are 2-0-1 under him.",
-      "bringUp": "Leon Draisaitl scored the go-ahead goal with 2:27 left and Connor McDavid added an empty-net goal in a 3-1 win over Seattle Saturday; the Oilers, now coached by Mike Babcock, play at Anaheim tonight.",
+      "latestResult": "Won 4-1 at the New York Rangers on Sunday, November 1 (now 11-2-2, three straight wins)",
+      "latestGameDate": "2026-11-01",
+      "storyline": "Connor McDavid has an assist in all 15 games, an NHL record to open a season, and Edmonton is 7-0-0 on the road and first in the West.",
+      "bringUp": "McDavid scored 50 seconds in and became the fastest player ever to 30 assists, in 15 games, as Edmonton beat the Rangers 4-1 Sunday.",
       "details": [
-        {
-          "name": "Leon Draisaitl",
-          "team": "Edmonton Oilers",
-          "position": "Center (C)",
-          "lastGame": {
-            "date": "2026-10-03",
-            "label": "vs Seattle Kraken, won 3-1",
-            "stats": [
-              "1 goal (game-winner)",
-              "0 assists",
-              "6 shots"
-            ]
-          },
-          "buzz": "Draisaitl's winner against Seattle gave him 35 career points against the Kraken, the most by any player against Seattle.",
-          "source": "NHL.com (https://www.nhl.com/oilers/news/seattle-kraken-edmonton-oilers-game-recap-october-3-2026-x2593)",
-          "asOf": "2026-10-07"
-        },
         {
           "name": "Connor McDavid",
           "team": "Edmonton Oilers",
           "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-03",
-            "label": "vs Seattle Kraken, won 3-1",
+            "date": "2026-11-01",
+            "label": "at New York Rangers, won 4-1",
             "stats": [
               "1 goal",
               "1 assist",
-              "4 shots"
+              "6 shots",
+              "23:22 ice time"
             ]
           },
-          "buzz": "McDavid had a goal and an assist against Seattle, scoring into an empty net (Seattle had pulled its goalie) at 18:55 of the third period.",
-          "source": "NHL.com (https://www.nhl.com/oilers/news/seattle-kraken-edmonton-oilers-game-recap-october-3-2026-x2593)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "NHL.com (https://www.nhl.com/oilers/news/seattle-kraken-edmonton-oilers-game-recap-october-3-2026-x2593); NHL.com, Oilers (https://www.nhl.com/oilers/news/edmonton-oilers-have-serious-work-to-do-under-mike-babcock-x0683)",
-      "asOf": "2026-10-07"
-    },
-    "Florida Panthers": {
-      "latestResult": "Won 2-1 at the Los Angeles Kings (now 2-0-2)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Captain Aleksander Barkov will be out 6 to 8 weeks with a lower-body injury, and Brad Marchand was helped off the ice with an apparent lower-body injury in Tuesday's win at Los Angeles, with no timetable given.",
-      "bringUp": "Matthew Tkachuk scored the winning goal in the third period as the Panthers beat the Kings 2-1 on Tuesday, but they lost Brad Marchand to an apparent lower-body injury in the same game, and captain Aleksander Barkov is already out 6 to 8 weeks.",
-      "details": [
-        {
-          "name": "Matthew Tkachuk",
-          "team": "Florida Panthers",
-          "position": "Left wing (LW)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Los Angeles Kings, won 2-1",
-            "stats": [
-              "1 goal (game-winner, his 2nd of the season)",
-              "2 shots on goal"
-            ]
-          },
-          "buzz": "Tkachuk broke a 1-1 tie at 11:20 of the third period on Tuesday with his second goal of the season.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060LAK.html); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261006_FLA@LA/)",
-          "asOf": "2026-10-07"
+          "buzz": "McDavid has an assist in all 15 of Edmonton's games, an NHL record to open a season, and reached 30 assists faster than anyone in league history.",
+          "source": "NHL.com recap (https://www.nhl.com/news/edmonton-oilers-new-york-rangers-game-recap-november-1-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010NYR.html)",
+          "asOf": "2026-11-02"
         },
         {
-          "name": "Jacob Markström",
-          "team": "Florida Panthers",
-          "position": "Goalie (G)",
+          "name": "Evan Bouchard",
+          "team": "Edmonton Oilers",
+          "position": "Defenseman (D)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Los Angeles Kings, won 2-1",
+            "date": "2026-11-01",
+            "label": "at New York Rangers, won 4-1",
             "stats": [
-              "19 saves on 20 shots"
+              "1 goal",
+              "2 assists",
+              "3 shots",
+              "25:42 ice time"
             ]
           },
-          "buzz": "Markström allowed only one goal on 20 shots to win in Los Angeles on Tuesday.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060LAK.html)",
-          "asOf": "2026-10-07"
+          "buzz": "Bouchard has 26 points through 15 games, making him the fourth defenseman in NHL history with at least 25 points through his team's first 15 games.",
+          "source": "NHL.com recap (https://www.nhl.com/news/edmonton-oilers-new-york-rangers-game-recap-november-1-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010NYR.html)",
+          "asOf": "2026-11-02"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261006/); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060LAK.html); NHL.com (https://www.nhl.com/news/florida-panthers-brad-marchand-injury-status-update-october-7-2026)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com recap (https://www.nhl.com/news/edmonton-oilers-new-york-rangers-game-recap-november-1-2026); Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010NYR.html)",
+      "asOf": "2026-11-02"
     },
-    "Los Angeles Kings": {
-      "latestResult": "Lost 2-1 at home to the Florida Panthers (now 0-2-1)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "The Kings lost their home opener 2-1 to the Panthers on Tuesday and are still looking for their first win of the season at 0-2-1.",
-      "bringUp": "The Kings are still winless at 0-2-1 after losing their home opener 2-1 to Florida on Tuesday; Alex Laferriere scored their only goal and Darcy Kuemper made 26 saves.",
+    "Florida Panthers": {
+      "latestResult": "Lost 5-3 to the Detroit Red Wings at home on Monday, November 2 (now 8-5-2)",
+      "latestGameDate": "2026-11-02",
+      "storyline": "The loss ended Florida's three-game winning streak in goalie Jacob Markstrom's first start since October 17.",
+      "bringUp": "Florida's three-game win streak ended with a 5-3 home loss to Detroit on Monday, in Markstrom's first game back from an upper-body injury.",
       "details": [
         {
-          "name": "Alex Laferriere",
+          "name": "Jacob Markstrom",
+          "team": "Florida Panthers",
+          "position": "Goalie (G)",
+          "lastGame": null,
+          "buzz": "Markstrom made 24 saves against Detroit in his first start since October 17, after missing five games with an upper-body injury.",
+          "source": "NHL.com recap (https://www.nhl.com/news/detroit-red-wings-florida-panthers-game-recap-november-2-2026); NHL.com Status Report (https://www.nhl.com/news/nhl-status-report-news-and-notes-november-2-2026)",
+          "asOf": "2026-11-03"
+        },
+        {
+          "name": "Sam Reinhart",
+          "team": "Florida Panthers",
+          "position": "Center (C)",
+          "lastGame": null,
+          "buzz": "Reinhart scored Florida's first goal, tying the game 1-1 in the first period against Detroit.",
+          "source": "NHL.com recap (https://www.nhl.com/news/detroit-red-wings-florida-panthers-game-recap-november-2-2026)",
+          "asOf": "2026-11-03"
+        }
+      ],
+      "source": "NHL.com recap (https://www.nhl.com/news/detroit-red-wings-florida-panthers-game-recap-november-2-2026); NHL.com Status Report (https://www.nhl.com/news/nhl-status-report-news-and-notes-november-2-2026)",
+      "asOf": "2026-11-03"
+    },
+    "Los Angeles Kings": {
+      "latestResult": "Lost 3-2 to the Buffalo Sabres at home on Saturday, October 31 (now 4-7-2)",
+      "latestGameDate": "2026-10-31",
+      "storyline": "Los Angeles is 4-7-2 and lost to Buffalo on a third-period power-play goal by Tage Thompson after rallying from 2-0 down to tie it.",
+      "bringUp": "The Kings came back from 2-0 down to tie Buffalo but lost 3-2 on Saturday; Perry scored and had 9 shots, and they're 4-7-2.",
+      "details": [
+        {
+          "name": "Corey Perry",
           "team": "Los Angeles Kings",
           "position": "Right wing (RW)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs. Florida Panthers, lost 2-1",
+            "date": "2026-10-31",
+            "label": "vs Buffalo Sabres, lost 3-2",
             "stats": [
               "1 goal",
-              "3 shots on goal"
+              "0 assists",
+              "9 shots",
+              "19:42 ice time"
             ]
           },
-          "buzz": "Laferriere opened the scoring at 19:00 of the first period for his first goal of the season.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060LAK.html); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261006_FLA@LA/)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Darcy Kuemper",
-          "team": "Los Angeles Kings",
-          "position": "Goalie (G)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs. Florida Panthers, lost 2-1",
-            "stats": [
-              "26 saves on 28 shots"
-            ]
-          },
-          "buzz": "Kuemper stopped 26 of 28 shots in the 2-1 home-opener loss.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060LAK.html)",
-          "asOf": "2026-10-07"
+          "buzz": "Perry scored his first goal of the season, on the power play, and had 9 shots against Buffalo.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310LAK.html)",
+          "asOf": "2026-10-31"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261006/); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060LAK.html); Daily Faceoff (https://www.dailyfaceoff.com/news/nhl-releases-2026-27-opening-night-schedule-32-teams-florida-toronto-montreal-vegas-chicago-new-york-boston-carolina-vancouver-edmonton)",
-      "asOf": "2026-10-07"
+      "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310LAK.html)",
+      "asOf": "2026-10-31"
     },
     "Minnesota Wild": {
-      "latestResult": "Lost 3-2 in overtime at the Buffalo Sabres (now 2-0-1)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "The Wild led 2-0 in Buffalo on Tuesday before the Sabres scored twice in the third period and won 3-2 on Owen Power's overtime goal, handing Minnesota its first loss (2-0-1).",
-      "bringUp": "The Wild blew a 2-0 lead in Buffalo on Tuesday and lost 3-2 in overtime, their first loss of the season; they are 2-0-1, and Quinn Hughes set up one of their goals.",
+      "latestResult": "Won 5-1 at the Washington Capitals on Sunday, November 1 (now 10-3-3)",
+      "latestGameDate": "2026-11-01",
+      "storyline": "Minnesota is 10-3-3, and goalie Jesper Wallstedt made 26 saves on 27 shots in the win in Washington.",
+      "bringUp": "Hughes and Kaprizov both scored as the Wild beat Washington 5-1 on Sunday, and Minnesota is now 10-3-3.",
       "details": [
+        {
+          "name": "Kirill Kaprizov",
+          "team": "Minnesota Wild",
+          "position": "Left wing (LW)",
+          "lastGame": {
+            "date": "2026-11-01",
+            "label": "at Washington Capitals, won 5-1",
+            "stats": [
+              "1 goal",
+              "0 assists",
+              "2 shots",
+              "21:43 ice time"
+            ]
+          },
+          "buzz": "Kaprizov scored in the third period of Minnesota's 5-1 win in Washington on Sunday.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010WSH.html)",
+          "asOf": "2026-11-01"
+        },
         {
           "name": "Quinn Hughes",
           "team": "Minnesota Wild",
           "position": "Defenseman (D)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Buffalo Sabres, lost 3-2 in overtime",
+            "date": "2026-11-01",
+            "label": "at Washington Capitals, won 5-1",
             "stats": [
-              "1 assist",
-              "1 shot on goal"
+              "1 goal",
+              "0 assists",
+              "3 shots",
+              "29:41 ice time"
             ]
           },
-          "buzz": "Hughes assisted on Maksim Shabanov's second-period goal that made it 2-0 Minnesota.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060BUF.html); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261006_MIN@BUF/)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Jesper Wallstedt",
-          "team": "Minnesota Wild",
-          "position": "Goalie (G)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Buffalo Sabres, lost 3-2 in overtime",
-            "stats": [
-              "25 saves on 28 shots"
-            ]
-          },
-          "buzz": "Wallstedt had a 2-0 lead going into the third period before Buffalo scored three unanswered goals.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060BUF.html)",
-          "asOf": "2026-10-07"
+          "buzz": "Hughes opened the scoring against Washington and played 29:41.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010WSH.html)",
+          "asOf": "2026-11-01"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261006/); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060BUF.html)",
-      "asOf": "2026-10-07"
+      "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010WSH.html)",
+      "asOf": "2026-11-01"
     },
     "Montreal Canadiens": {
-      "latestResult": "Lost 6-4 at home to the Carolina Hurricanes (now 1-1-1)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Montreal lost its home opener 6-4 to Carolina on Tuesday even though Zachary Bolduc scored twice to reach 3 goals on the season.",
-      "bringUp": "The Canadiens dropped their home opener 6-4 to Carolina on Tuesday; Zachary Bolduc scored twice and Nick Suzuki had a goal and an assist, and Montreal is 1-1-1.",
+      "latestResult": "Won 5-4 against the Pittsburgh Penguins at home on Saturday, October 31 (now 9-3-2)",
+      "latestGameDate": "2026-10-31",
+      "storyline": "Montreal is 9-3-2 even with captain Nick Suzuki out for five games with an upper-body injury; he is questionable for Tuesday against Winnipeg.",
+      "bringUp": "Josh Anderson scored twice as Montreal beat Crosby's Penguins 5-4 on Saturday, and the Canadiens are 9-3-2 without Suzuki.",
       "details": [
         {
-          "name": "Zachary Bolduc",
+          "name": "Josh Anderson",
           "team": "Montreal Canadiens",
           "position": "Right wing (RW)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs. Carolina Hurricanes, lost 6-4",
+            "date": "2026-10-31",
+            "label": "vs Pittsburgh Penguins, won 5-4",
             "stats": [
               "2 goals",
-              "3 shots on goal"
+              "1 assist",
+              "2 shots",
+              "14:58 ice time"
             ]
           },
-          "buzz": "Bolduc scored twice in the first period on Tuesday, giving him 3 goals this season.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060MTL.html); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261006_CAR@MON/)",
-          "asOf": "2026-10-07"
+          "buzz": "Anderson scored twice, including the eventual winner, and had an assist against Pittsburgh.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310MTL.html)",
+          "asOf": "2026-10-31"
         },
         {
-          "name": "Nick Suzuki",
+          "name": "Lane Hutson",
           "team": "Montreal Canadiens",
-          "position": "Center (C)",
+          "position": "Defenseman (D)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs. Carolina Hurricanes, lost 6-4",
+            "date": "2026-10-31",
+            "label": "vs Pittsburgh Penguins, won 5-4",
             "stats": [
-              "1 goal",
-              "1 assist",
-              "2 shots on goal"
+              "0 goals",
+              "2 assists",
+              "1 shot",
+              "23:47 ice time"
             ]
           },
-          "buzz": "Suzuki scored his second goal of the season and set up Juraj Slafkovsky's late goal on Tuesday.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060MTL.html); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261006_CAR@MON/)",
-          "asOf": "2026-10-07"
+          "buzz": "Hutson had two assists and played 23:47 as Montreal held off Pittsburgh.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310MTL.html)",
+          "asOf": "2026-10-31"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261006/); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060MTL.html); Daily Faceoff (https://www.dailyfaceoff.com/news/nhl-releases-2026-27-opening-night-schedule-32-teams-florida-toronto-montreal-vegas-chicago-new-york-boston-carolina-vancouver-edmonton)",
-      "asOf": "2026-10-07"
+      "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310MTL.html); NHL.com Status Report (https://www.nhl.com/news/nhl-status-report-news-and-notes-november-2-2026)",
+      "asOf": "2026-11-02"
     },
     "Nashville Predators": {
-      "latestResult": "Lost 5-4 in overtime at the Toronto Maple Leafs (now 1-1-1)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Steven Stamkos scored twice in Toronto on Tuesday to reach 3 goals this season, but the Predators blew a 4-3 lead and lost 5-4 when Auston Matthews scored in overtime.",
-      "bringUp": "Steven Stamkos and Nils Höglander each scored twice for Nashville in Toronto on Tuesday, but Auston Matthews won it 5-4 for the Leafs in overtime, leaving the Predators at 1-1-1.",
+      "latestResult": "Won 5-4 in a shootout against the Tampa Bay Lightning at home on Saturday, October 31 (now 5-4-5)",
+      "latestGameDate": "2026-10-31",
+      "storyline": "Nashville traded forward Matthew Wood to Seattle for Shane Wright, the No. 4 pick in the 2022 draft, on Sunday.",
+      "bringUp": "Stamkos beat his old team Saturday: he tied it in the third and won it in the fourth round of the shootout, and Nashville just traded for Shane Wright.",
       "details": [
         {
           "name": "Steven Stamkos",
           "team": "Nashville Predators",
           "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Toronto Maple Leafs, lost 5-4 in overtime",
+            "date": "2026-10-31",
+            "label": "vs Tampa Bay Lightning, won 5-4 in a shootout",
             "stats": [
-              "2 goals (1 on the power play)",
-              "3 shots on goal"
+              "1 goal",
+              "0 assists",
+              "6 shots",
+              "16:18 ice time"
             ]
           },
-          "buzz": "Stamkos scored his 2nd and 3rd goals of the season on Tuesday, one of them on the power play.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060TOR.html); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261006_NSH@TOR/)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Juuse Saros",
-          "team": "Nashville Predators",
-          "position": "Goalie (G)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Toronto Maple Leafs, lost 5-4 in overtime",
-            "stats": [
-              "32 saves on 37 shots"
-            ]
-          },
-          "buzz": "Saros faced 37 shots in Toronto and took the overtime loss.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060TOR.html)",
-          "asOf": "2026-10-07"
+          "buzz": "Against his old team, Stamkos tied the game on a third-period power play and scored the only goal of the shootout, in round 4.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310NSH.html)",
+          "asOf": "2026-10-31"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261006/); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060TOR.html)",
-      "asOf": "2026-10-07"
+      "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310NSH.html); NHL.com (https://www.nhl.com/news/topic/trade-coverage/shane-wright-traded-to-nashville-predators-by-seattle-kraken-for-matthew-wood)",
+      "asOf": "2026-11-02"
     },
     "New Jersey Devils": {
-      "latestResult": "Lost 5-3 at home to the Utah Mammoth (now 1-2)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Luke Evangelista scored both of his first two goals of the season on Tuesday, but the Devils fell 5-3 to Utah and are 1-2.",
-      "bringUp": "The Devils lost 5-3 at home to Utah on Tuesday to fall to 1-2; Luke Evangelista scored twice and Jack Hughes set up the first one on a power play.",
+      "latestResult": "Won 5-2 at the Vegas Golden Knights (now 9-5-0)",
+      "latestGameDate": "2026-10-30",
+      "storyline": "Connor Hellebuyck, acquired from the Winnipeg Jets in an October 23 trade, won his second straight start for New Jersey with 19 saves, and the Devils have won five of their past six games.",
+      "bringUp": "The Devils beat Vegas 5-2 on Friday with their new goalie Connor Hellebuyck, and Jack Hughes and his brother Luke both scored, the 11th time the brothers have scored in the same game.",
       "details": [
         {
           "name": "Jack Hughes",
           "team": "New Jersey Devils",
           "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs. Utah Mammoth, lost 5-3",
+            "date": "2026-10-30",
+            "label": "at Vegas Golden Knights, won 5-2",
             "stats": [
-              "1 assist"
+              "2 goals",
+              "0 assists",
+              "7 shots"
             ]
           },
-          "buzz": "Hughes assisted on Luke Evangelista's power-play goal in the first period on Tuesday.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060NJD.html); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261006_UTA@NJ/)",
-          "asOf": "2026-10-07"
+          "buzz": "Hughes scored twice in Vegas, including an empty-net goal (scored after the other team pulled its goalie for an extra attacker), and the Devils are 10-1-0 when he and brother Luke both score.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610300VEG.html)",
+          "asOf": "2026-10-30"
         },
         {
-          "name": "Luke Evangelista",
+          "name": "Connor Hellebuyck",
           "team": "New Jersey Devils",
-          "position": "Right wing (RW)",
+          "position": "Goalie (G)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs. Utah Mammoth, lost 5-3",
+            "date": "2026-10-30",
+            "label": "at Vegas Golden Knights, won 5-2",
             "stats": [
-              "2 goals (1 on the power play)"
+              "19 saves on 21 shots"
             ]
           },
-          "buzz": "Evangelista scored his first two goals of the season against Utah on Tuesday.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060NJD.html); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261006_UTA@NJ/)",
-          "asOf": "2026-10-07"
+          "buzz": "Hellebuyck won his first two starts with New Jersey after the Devils sent Dawson Mercer, Nick Bjugstad and picks to Winnipeg for him on October 23.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610300VEG.html)",
+          "asOf": "2026-10-30"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261006/); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060NJD.html); Daily Faceoff (https://www.dailyfaceoff.com/news/nhl-releases-2026-27-opening-night-schedule-32-teams-florida-toronto-montreal-vegas-chicago-new-york-boston-carolina-vancouver-edmonton)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com game recap (https://www.nhl.com/news/new-jersey-devils-vegas-golden-knights-game-recap-october-30-2026)",
+      "asOf": "2026-10-31"
     },
     "New York Islanders": {
-      "latestResult": "Lost 5-2 at the New York Rangers (now 1-2)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "The Islanders lost 5-2 to the rival Rangers at Madison Square Garden on Tuesday, with Alexis Lafrenière scoring a hat trick against them, and they are 1-2.",
-      "bringUp": "The Islanders lost 5-2 to the Rangers on Tuesday after tying it 2-2 in the second period; Bo Horvat scored his second goal of the season on a power play, and they are 1-2.",
+      "latestResult": "Lost 4-0 against the Edmonton Oilers at home (now 7-5-2)",
+      "latestGameDate": "2026-10-31",
+      "storyline": "The Islanders were shut out for the first time this season with a season-low 18 shots, and defenseman Ryan Pulock is out 2 to 4 weeks with an upper-body injury.",
+      "bringUp": "The Islanders got blanked 4-0 by Connor McDavid's Oilers on Halloween, and Ilya Sorokin still made 20 saves; they're off until hosting Carolina on Thursday.",
       "details": [
         {
-          "name": "Bo Horvat",
-          "team": "New York Islanders",
-          "position": "Center (C)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "at New York Rangers, lost 5-2",
-            "stats": [
-              "1 goal (power play)",
-              "2 shots on goal"
-            ]
-          },
-          "buzz": "Horvat scored on the power play in the second period for his second goal of the season.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060NYR.html); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261006_NYI@NYR/)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Semyon Varlamov",
+          "name": "Ilya Sorokin",
           "team": "New York Islanders",
           "position": "Goalie (G)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "at New York Rangers, lost 5-2",
+            "date": "2026-10-31",
+            "label": "vs Edmonton Oilers, lost 4-0",
             "stats": [
-              "19 saves on 22 shots"
+              "20 saves on 23 shots"
             ]
           },
-          "buzz": "Varlamov allowed three goals on 22 shots; the Rangers' last two goals went into an empty net.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060NYR.html)",
-          "asOf": "2026-10-07"
+          "buzz": "Sorokin stopped 20 shots in the 4-0 loss, as the Islanders were shorthanded a season-high six times and went 0-for-4 on the power play (time with an extra skater while the other team has a player in the penalty box).",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310NYI.html)",
+          "asOf": "2026-10-31"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261006/); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060NYR.html)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com Islanders takeaways (https://www.nhl.com/islanders/news/takeaways-islanders-oilers-oct-31-2026)",
+      "asOf": "2026-10-31"
     },
     "New York Rangers": {
-      "latestResult": "Beat the New York Islanders 5-2 at home (now 4-1)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Alexis Lafrenière scored a hat trick, meaning three goals by one player, in a 5-2 win over the Islanders on Tuesday, and the Rangers are off to a 4-1 start.",
-      "bringUp": "Alexis Lafrenière had a hat trick, meaning three goals, as the Rangers beat the Islanders 5-2 on Tuesday; his last two went into an empty net 32 seconds apart, and the Rangers are 4-1.",
+      "latestResult": "Lost 4-1 against the Edmonton Oilers at home (now 7-7-1)",
+      "latestGameDate": "2026-11-01",
+      "storyline": "The Rangers have lost four straight games, and Connor McDavid scored 50 seconds into Sunday's game at Madison Square Garden.",
+      "bringUp": "The Rangers have dropped four in a row after a 4-1 loss to Edmonton on Sunday; Pavel Dorofeyev scored their only goal off a Mika Zibanejad assist and Dylan Garand made 21 saves.",
       "details": [
         {
-          "name": "Alexis Lafrenière",
-          "team": "New York Rangers",
-          "position": "Left wing (LW)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs. New York Islanders, won 5-2",
-            "stats": [
-              "3 goals (hat trick)",
-              "1 assist",
-              "3 shots on goal"
-            ]
-          },
-          "buzz": "Lafrenière scored at 18:22 and 18:54 of the third period, both into an empty net, to finish his first hat trick of the season.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060NYR.html); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261006_NYI@NYR/)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Igor Shesterkin",
+          "name": "Dylan Garand",
           "team": "New York Rangers",
           "position": "Goalie (G)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs. New York Islanders, won 5-2",
+            "date": "2026-11-01",
+            "label": "vs Edmonton Oilers, lost 4-1",
             "stats": [
-              "17 saves on 19 shots"
+              "21 saves on 24 shots"
             ]
           },
-          "buzz": "Shesterkin stopped 17 of 19 shots for the win over the Islanders.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060NYR.html)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261006/); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610060NYR.html)",
-      "asOf": "2026-10-07"
-    },
-    "Ottawa Senators": {
-      "latestResult": "Lost 5-3 at the Detroit Red Wings (now 2-1)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Tim Stutzle had five points (three goals, two assists) across Ottawa's back-to-back games on Monday and Tuesday, a 4-1 win at Boston and a 5-3 loss at Detroit; the Senators play their home opener on Thursday, October 8 against Philadelphia.",
-      "bringUp": "Tim Stutzle had five points in two nights for Ottawa, but the Senators lost 5-3 in Detroit on Tuesday after beating Boston 4-1 on Monday; they are 2-1 and open at home Thursday against the Flyers.",
-      "details": [
+          "buzz": "Garand made 21 saves against Edmonton, which got a goal from Connor McDavid in the first minute.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010NYR.html)",
+          "asOf": "2026-11-01"
+        },
         {
-          "name": "Tim Stutzle",
-          "team": "Ottawa Senators",
+          "name": "Mika Zibanejad",
+          "team": "New York Rangers",
           "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Detroit Red Wings, lost 5-3",
+            "date": "2026-11-01",
+            "label": "vs Edmonton Oilers, lost 4-1",
+            "stats": [
+              "0 goals",
+              "1 assist",
+              "5 shots"
+            ]
+          },
+          "buzz": "Zibanejad assisted on Pavel Dorofeyev's goal, the Rangers' only score in the 4-1 loss.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010NYR.html)",
+          "asOf": "2026-11-01"
+        }
+      ],
+      "source": "NHL.com game recap (https://www.nhl.com/news/edmonton-oilers-new-york-rangers-game-recap-november-1-2026)",
+      "asOf": "2026-11-02"
+    },
+    "Ottawa Senators": {
+      "latestResult": "Lost 6-3 at the Anaheim Ducks (now 9-6-1)",
+      "latestGameDate": "2026-11-01",
+      "storyline": "Ottawa led 3-0 in the first period and then gave up six straight goals, four on the power play; it was only the second time in Ducks history they won by three or more goals after trailing by three or more.",
+      "bringUp": "The Senators blew a 3-0 lead and lost 6-3 in Anaheim on Sunday, though Drake Batherson stretched his point streak to eight games, meaning he has a goal or assist in eight straight.",
+      "details": [
+        {
+          "name": "Drake Batherson",
+          "team": "Ottawa Senators",
+          "position": "Right wing (RW)",
+          "lastGame": {
+            "date": "2026-11-01",
+            "label": "at Anaheim Ducks, lost 6-3",
+            "stats": [
+              "0 goals",
+              "1 assist",
+              "1 shot"
+            ]
+          },
+          "buzz": "Batherson extended his point streak to eight games with an assist in the loss at Anaheim.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010ANA.html)",
+          "asOf": "2026-11-01"
+        },
+        {
+          "name": "Jonas Johansson",
+          "team": "Ottawa Senators",
+          "position": "Goalie (G)",
+          "lastGame": {
+            "date": "2026-11-01",
+            "label": "at Anaheim Ducks, lost 6-3",
+            "stats": [
+              "27 saves on 33 shots"
+            ]
+          },
+          "buzz": "Johansson made 27 saves but allowed six goals as Anaheim's Cutter Gauthier scored a hat trick (three goals by one player).",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010ANA.html)",
+          "asOf": "2026-11-01"
+        }
+      ],
+      "source": "NHL.com game recap (https://www.nhl.com/news/ottawa-senators-anaheim-ducks-game-recap-november-1-2026)",
+      "asOf": "2026-11-02"
+    },
+    "Philadelphia Flyers": {
+      "latestResult": "Won 6-3 against the Utah Mammoth at home (now 4-8-4)",
+      "latestGameDate": "2026-11-01",
+      "storyline": "The Flyers entered with the league's lowest scoring average at 1.93 goals per game, then scored a season-high six to snap a three-game losing streak as Travis Konecny returned from a 10-game absence.",
+      "bringUp": "Matvei Michkov scored again in the Flyers' 6-3 win over Utah on Sunday, giving him 10 goals in 16 games, only the fifth Flyer in the past 20 seasons to hit 10 that fast.",
+      "details": [
+        {
+          "name": "Matvei Michkov",
+          "team": "Philadelphia Flyers",
+          "position": "Right wing (RW)",
+          "lastGame": {
+            "date": "2026-11-01",
+            "label": "vs Utah Mammoth, won 6-3",
             "stats": [
               "1 goal",
-              "1 assist",
+              "0 assists",
               "2 shots"
             ]
           },
-          "buzz": "Stutzle had five points (three goals, two assists) across Monday and Tuesday, per NHL.com.",
-          "source": "NHL.com (https://www.nhl.com/news/ottawa-senators-detroit-red-wings-game-recap-october-6-2026); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261006_OTT@DET/); NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020046/boxscore); NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020041/boxscore)",
-          "asOf": "2026-10-07"
+          "buzz": "Michkov has 10 goals in 16 games, carrying a Flyers team that has struggled to score.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010PHI.html)",
+          "asOf": "2026-11-01"
         },
         {
-          "name": "Samuel Ersson",
-          "team": "Ottawa Senators",
-          "position": "Goalie (G)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Detroit Red Wings, lost 5-3",
-            "stats": [
-              "31 saves on 35 shots"
-            ]
-          },
-          "buzz": "Ersson made 31 saves in Detroit on the second night of a back-to-back.",
-          "source": "NHL.com (https://www.nhl.com/news/ottawa-senators-detroit-red-wings-game-recap-october-6-2026); NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020046/boxscore)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261006/); CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261005/); NHL.com (https://www.nhl.com/news/ottawa-senators-detroit-red-wings-game-recap-october-6-2026); Daily Faceoff (https://www.dailyfaceoff.com/news/nhl-releases-2026-27-opening-night-schedule-32-teams-florida-toronto-montreal-vegas-chicago-new-york-boston-carolina-vancouver-edmonton)",
-      "asOf": "2026-10-07"
-    },
-    "Philadelphia Flyers": {
-      "latestResult": "Lost 4-1 at the Tampa Bay Lightning (now 0-2-2)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "The Flyers are still looking for their first win at 0-2-2 after a 4-1 loss in Tampa on Monday, and they play at Ottawa on Thursday, October 8, the Senators' home opener.",
-      "bringUp": "The Flyers are 0-2-2 and still winless after losing 4-1 at Tampa Bay on Monday; Tyson Foerster scored their only goal and Daniel Vladař made 32 saves.",
-      "details": [
-        {
-          "name": "Tyson Foerster",
+          "name": "Travis Konecny",
           "team": "Philadelphia Flyers",
           "position": "Right wing (RW)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "at Tampa Bay Lightning, lost 4-1",
-            "stats": [
-              "1 goal",
-              "4 shots on goal"
-            ]
-          },
-          "buzz": "Foerster scored Philadelphia's only goal, his first of the season, in the second period on Monday.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610050TBL.html); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261005_PHI@TB/)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Daniel Vladař",
-          "team": "Philadelphia Flyers",
-          "position": "Goalie (G)",
-          "lastGame": {
-            "date": "2026-10-05",
-            "label": "at Tampa Bay Lightning, lost 4-1",
-            "stats": [
-              "32 saves on 35 shots"
-            ]
-          },
-          "buzz": "Vladař stopped 32 of 35 shots while the Flyers managed only 15 shots on goal.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610050TBL.html)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261005/); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610050TBL.html); Daily Faceoff (https://www.dailyfaceoff.com/news/nhl-releases-2026-27-opening-night-schedule-32-teams-florida-toronto-montreal-vegas-chicago-new-york-boston-carolina-vancouver-edmonton)",
-      "asOf": "2026-10-07"
-    },
-    "Pittsburgh Penguins": {
-      "latestResult": "Lost 3-2 at home to the Winnipeg Jets (now 2-1)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "The Penguins (2-1) took their first loss 3-2 to Winnipeg on Monday after the Jets scored three goals in the third period, and they play at Washington on Wednesday night.",
-      "bringUp": "The Penguins lost 3-2 at home to Winnipeg on Monday, their first loss after a 2-0 start; center Benjamin Kindel had a goal and an assist, and they visit Washington Wednesday night.",
-      "details": [
-        {
-          "name": "Benjamin Kindel",
-          "team": "Pittsburgh Penguins",
-          "position": "Center (C)",
-          "lastGame": {
-            "date": "2026-10-05",
-            "label": "vs. Winnipeg Jets, lost 3-2",
+            "date": "2026-11-01",
+            "label": "vs Utah Mammoth, won 6-3",
             "stats": [
               "1 goal",
               "1 assist",
-              "2 shots on goal"
+              "1 shot"
             ]
           },
-          "buzz": "Kindel scored his second goal of the season and assisted on Declan Carlile's goal on Monday.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610050PIT.html); CBS Sports (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261005_WPG@PIT/)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Sergei Murashov",
-          "team": "Pittsburgh Penguins",
-          "position": "Goalie (G)",
-          "lastGame": {
-            "date": "2026-10-05",
-            "label": "vs. Winnipeg Jets, lost 3-2",
-            "stats": [
-              "32 saves on 35 shots"
-            ]
-          },
-          "buzz": "Murashov stopped 32 of 35 shots in the 3-2 loss.",
-          "source": "Hockey-Reference (https://www.hockey-reference.com/boxscores/202610050PIT.html)",
-          "asOf": "2026-10-07"
+          "buzz": "Konecny had a goal and an assist in his first game back after missing 10 games with a lower-body injury.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010PHI.html)",
+          "asOf": "2026-11-01"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261005/); Hockey-Reference (https://www.hockey-reference.com/boxscores/202610050PIT.html); CBS Sports (https://www.cbssports.com/nhl/scoreboard/20261007/)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com game recap (https://www.nhl.com/news/utah-mammoth-philadelphia-flyers-game-recap-november-1-2026)",
+      "asOf": "2026-11-02"
     },
-    "San Jose Sharks": {
-      "latestResult": "Lost 5-0 at the Dallas Stars on Monday, October 5, 2026 (now 2-1-0)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "Macklin Celebrini, named the Sharks' 11th full-time captain on September 25, missed Monday's 5-0 loss in Dallas with a lower-body injury after taking part in warmups, and coach Ryan Warsofsky said he is still being evaluated.",
-      "bringUp": "The Sharks got shut out 5-0 in Dallas on Monday without their new captain Macklin Celebrini, who was scratched after warmups with a lower-body injury; before that they had won their first two games in overtime, 4-3 over Florida and 5-4 over Los Angeles.",
+    "Pittsburgh Penguins": {
+      "latestResult": "Lost 5-4 at the Montreal Canadiens (now 5-7-2)",
+      "latestGameDate": "2026-10-31",
+      "storyline": "Sidney Crosby passed Ray Bourque for the most assists by a player with one team, 1,113, and tied Marcel Dionne for sixth on the all-time points list at 1,771, but Pittsburgh lost on a Josh Anderson goal that deflected in off Kris Letang.",
+      "bringUp": "Sidney Crosby now has 1,113 assists, the most anyone has ever had with one team, and Erik Karlsson also had a goal and two assists in Saturday's 5-4 loss in Montreal.",
       "details": [
         {
-          "name": "Macklin Celebrini",
-          "team": "San Jose Sharks",
+          "name": "Sidney Crosby",
+          "team": "Pittsburgh Penguins",
           "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-03",
-            "label": "vs Los Angeles Kings, won 5-4 in overtime",
+            "date": "2026-10-31",
+            "label": "at Montreal Canadiens, lost 5-4",
             "stats": [
-              "0 goals",
+              "1 goal",
               "2 assists",
               "2 shots"
             ]
           },
-          "buzz": "Named the Sharks' 11th full-time captain on September 25, he had five assists in the first two games, then sat out Monday's game in Dallas with a lower-body injury; the team says he is still being evaluated.",
-          "source": "NHL.com, Sharks (https://www.nhl.com/sharks/news/macklin-celebrini-out-with-lower-body-injury-for-san-jose-sharks-x7098)",
-          "asOf": "2026-10-07"
+          "buzz": "Crosby passed Ray Bourque's 1,111 assists with Boston for the one-team record and tied Marcel Dionne at 1,771 career points.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310MTL.html)",
+          "asOf": "2026-10-31"
+        },
+        {
+          "name": "Erik Karlsson",
+          "team": "Pittsburgh Penguins",
+          "position": "Defenseman (D)",
+          "lastGame": {
+            "date": "2026-10-31",
+            "label": "at Montreal Canadiens, lost 5-4",
+            "stats": [
+              "1 goal",
+              "2 assists",
+              "4 shots"
+            ]
+          },
+          "buzz": "Karlsson's three points gave him 952 for his career, passing Brent Burns for 10th among defensemen in league history.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310MTL.html)",
+          "asOf": "2026-10-31"
+        }
+      ],
+      "source": "NHL.com game recap (https://www.nhl.com/news/pittsburgh-penguins-montreal-canadiens-game-recap-october-31-2026)",
+      "asOf": "2026-11-01"
+    },
+    "San Jose Sharks": {
+      "latestResult": "Lost 2-1 against the Calgary Flames at home (now 7-8-1)",
+      "latestGameDate": "2026-11-02",
+      "storyline": "San Jose has lost four of its past five games, and Monday's only Sharks goal came from rookie defenseman Sam Dickinson, his second career goal, exactly one year after his first.",
+      "bringUp": "The Sharks lost 2-1 to Calgary on Monday for their fourth loss in five games; Yaroslav Askarov made 20 saves and Sam Dickinson scored the lone goal.",
+      "details": [
+        {
+          "name": "Sam Dickinson",
+          "team": "San Jose Sharks",
+          "position": "Defenseman (D)",
+          "lastGame": {
+            "date": "2026-11-02",
+            "label": "vs Calgary Flames, lost 2-1",
+            "stats": [
+              "1 goal",
+              "0 assists",
+              "2 shots"
+            ]
+          },
+          "buzz": "Dickinson's third-period goal was the second of his career; his first came on November 2, 2025, against Detroit.",
+          "source": "CBS Sports box score (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261102_CGY@SJ/)",
+          "asOf": "2026-11-02"
         },
         {
           "name": "Yaroslav Askarov",
           "team": "San Jose Sharks",
           "position": "Goalie (G)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "at Dallas Stars, lost 5-0",
+            "date": "2026-11-02",
+            "label": "vs Calgary Flames, lost 2-1",
             "stats": [
-              "21 saves on 26 shots"
+              "20 saves on 22 shots"
             ]
           },
-          "buzz": "He took the loss in Dallas after earning the win two nights earlier, when he stopped 31 of 35 shots in a 5-4 overtime win over the Kings.",
-          "source": "NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020043/boxscore)",
-          "asOf": "2026-10-07"
+          "buzz": "Askarov allowed two goals on 22 shots, but San Jose managed only one goal against Calgary's Dustin Wolf.",
+          "source": "CBS Sports box score (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261102_CGY@SJ/)",
+          "asOf": "2026-11-02"
         }
       ],
-      "source": "NHL.com, Sharks (https://www.nhl.com/sharks/news/macklin-celebrini-out-with-lower-body-injury-for-san-jose-sharks-x7098)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com game recap (https://www.nhl.com/news/calgary-flames-san-jose-sharks-game-recap-november-2-2026)",
+      "asOf": "2026-11-03"
     },
     "Seattle Kraken": {
-      "latestResult": "Lost 6-2 at home to the Vegas Golden Knights on Tuesday, October 6, 2026 (now 2-2-0)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "The Kraken scored six goals in both of their games against Calgary (6-1 each time) but were beaten 6-2 at home by Vegas on Tuesday, dropping them to 2-2-0 under head coach Lane Lambert.",
-      "bringUp": "Seattle beat Calgary 6-1 twice in its first week, then got handled 6-2 at home by Vegas on Tuesday; Jared McCann put 7 shots on goal and scored on the power play, but it came too late.",
+      "latestResult": "Lost 6-2 at the Calgary Flames (now 8-5-1)",
+      "latestGameDate": "2026-10-30",
+      "storyline": "Seattle had beaten Calgary 6-1 twice earlier this season but lost 6-2 in Calgary, where Philipp Grubauer was pulled after allowing four goals on 14 shots and coach Lane Lambert called the last two periods the worst 40 minutes since he arrived.",
+      "bringUp": "Berkly Catton has a point (a goal or assist) in six straight games, a career-best streak, but the Kraken lost 6-2 in Calgary on Friday after beating the Flames 6-1 twice earlier this season.",
       "details": [
         {
-          "name": "Jared McCann",
-          "team": "Seattle Kraken",
-          "position": "Left wing (LW)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs Vegas Golden Knights, lost 6-2",
-            "stats": [
-              "1 goal (power play)",
-              "0 assists",
-              "7 shots"
-            ]
-          },
-          "buzz": "His 7 shots led the Kraken on Tuesday, and his third-period power-play goal was one of only two Seattle scored against Vegas.",
-          "source": "NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020051/boxscore)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Shane Wright",
+          "name": "Berkly Catton",
           "team": "Seattle Kraken",
           "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs Vegas Golden Knights, lost 6-2",
+            "date": "2026-10-30",
+            "label": "at Calgary Flames, lost 6-2",
             "stats": [
-              "1 goal",
-              "0 assists",
-              "4 shots"
+              "0 goals",
+              "1 assist",
+              "1 shot"
             ]
           },
-          "buzz": "He scored Seattle's first goal against Vegas at 4:52 of the third period, assisted by Kaapo Kakko and Cale Fleury.",
-          "source": "NHL.com, Kraken (https://www.nhl.com/kraken/news/final-buzzer-vegas-golden-knights-seattle-kraken-game-recap-100626)",
-          "asOf": "2026-10-07"
+          "buzz": "Catton extended his career-long point streak to six games, with two goals and five assists in that stretch.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610300CGY.html)",
+          "asOf": "2026-10-30"
+        },
+        {
+          "name": "Philipp Grubauer",
+          "team": "Seattle Kraken",
+          "position": "Goalie (G)",
+          "lastGame": {
+            "date": "2026-10-30",
+            "label": "at Calgary Flames, lost 6-2",
+            "stats": [
+              "10 saves on 14 shots"
+            ]
+          },
+          "buzz": "Grubauer was pulled midway through the second period after allowing four goals; Joey Daccord finished the game.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610300CGY.html)",
+          "asOf": "2026-10-30"
         }
       ],
-      "source": "NHL.com, Kraken (https://www.nhl.com/kraken/news/final-buzzer-vegas-golden-knights-seattle-kraken-game-recap-100626)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com game recap (https://www.nhl.com/news/seattle-kraken-calgary-flames-game-recap-october-30-2026)",
+      "asOf": "2026-10-31"
     },
     "St. Louis Blues": {
-      "latestResult": "Lost 4-2 at the Chicago Blackhawks on Tuesday, October 6, 2026 (now 1-2-0)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Colton Parayko played his 803rd game for the Blues on Tuesday, tying Barret Jackman for the most games by a defenseman in franchise history, but St. Louis lost 4-2 in Chicago on Patrick Kane's return to the Blackhawks.",
-      "bringUp": "The Blues lost 4-2 in Chicago on Tuesday, the night Patrick Kane came back to the Blackhawks; Connor McMichael, who signed a six-year deal with St. Louis in July, had a goal and an assist.",
+      "latestResult": "Won 5-4 at the Detroit Red Wings (now 7-6-1)",
+      "latestGameDate": "2026-10-31",
+      "storyline": "The Blues scored three times in the third period to rally, and Aleksanteri Kaskimaki's first NHL goal, in his 11th game, was the winner.",
+      "bringUp": "Aleksanteri Kaskimaki's first NHL goal won it for the Blues, 5-4 in Detroit on Saturday, after Justin Barron tied it in the third period.",
       "details": [
         {
-          "name": "Connor McMichael",
+          "name": "Aleksanteri Kaskimaki",
           "team": "St. Louis Blues",
-          "position": "Left wing (LW)",
+          "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Chicago Blackhawks, lost 4-2",
+            "date": "2026-10-31",
+            "label": "at Detroit Red Wings, won 5-4",
+            "stats": [
+              "1 goal (game-winner)",
+              "0 assists",
+              "1 shot"
+            ]
+          },
+          "buzz": "Kaskimaki is the second Blues player in 10 years whose first NHL goal was a game-winner, after Jake Neighbours in 2021.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310DET.html)",
+          "asOf": "2026-10-31"
+        },
+        {
+          "name": "Justin Barron",
+          "team": "St. Louis Blues",
+          "position": "Defenseman (D)",
+          "lastGame": {
+            "date": "2026-10-31",
+            "label": "at Detroit Red Wings, won 5-4",
             "stats": [
               "1 goal",
               "1 assist",
-              "5 shots"
+              "1 shot"
             ]
           },
-          "buzz": "Signed to a six-year contract in July, he scored a 6-on-4 power-play goal at 19:22 of the third period in Chicago.",
-          "source": "NHL.com, Blues (https://www.nhl.com/blues/news/st-louis-blues-chicago-blackhawks-game-recap-october-6-2026-x3548); NHL.com (https://www.nhl.com/news/connor-mcmichael-signs-six-year-contract-with-st-louis-blues)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Mason McTavish",
-          "team": "St. Louis Blues",
-          "position": "Center (C)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Chicago Blackhawks, lost 4-2",
-            "stats": [
-              "1 goal",
-              "0 assists",
-              "2 shots"
-            ]
-          },
-          "buzz": "The Blues' new second-line center opened the scoring in Chicago at 15:38 of the first period.",
-          "source": "NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020050/boxscore)",
-          "asOf": "2026-10-07"
+          "buzz": "Barron tied the game 4-4 midway through the third period before Kaskimaki's winner.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310DET.html)",
+          "asOf": "2026-10-31"
         }
       ],
-      "source": "NHL.com, Blues (https://www.nhl.com/blues/news/st-louis-blues-chicago-blackhawks-game-recap-october-6-2026-x3548)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com game recap (https://www.nhl.com/news/st-louis-blues-detroit-red-wings-game-recap-october-31-2026)",
+      "asOf": "2026-10-31"
     },
     "Tampa Bay Lightning": {
-      "latestResult": "Beat the Philadelphia Flyers 4-1 at home on Monday, October 5, 2026 (now 2-1-0)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "John Carlson, the longtime Washington defenseman who was traded to Anaheim in March, signed a two-year, $17 million deal with Tampa Bay and set up Brayden Point's goal in Monday's 4-1 win, with the Lightning outshooting Philadelphia 36-15.",
-      "bringUp": "Tampa Bay outshot Philadelphia 36-15 in a 4-1 win on Monday, and ex-Capital John Carlson, now on a two-year, $17 million deal with the Lightning, assisted on Brayden Point's opening goal.",
+      "latestResult": "Lost 5-4 in a shootout at the Nashville Predators (now 8-3-2)",
+      "latestGameDate": "2026-10-31",
+      "storyline": "Sportsnet's Elliotte Friedman reported that Nikita Kucherov, the reigning most valuable player (Hart Trophy winner), told Tampa Bay he won't re-sign and wants a trade; general manager Julien BriseBois said the team has no intention of trading him, and Vasilevskiy made 29 saves in the shootout loss that followed.",
+      "bringUp": "Nikita Kucherov had three assists in a shootout loss in Nashville on Saturday, a day after Sportsnet reported he asked for a trade; the Lightning say they won't move him.",
       "details": [
         {
           "name": "Nikita Kucherov",
           "team": "Tampa Bay Lightning",
           "position": "Right wing (RW)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "vs Philadelphia Flyers, won 4-1",
+            "date": "2026-10-31",
+            "label": "at Nashville Predators, lost 5-4 in a shootout",
             "stats": [
               "0 goals",
-              "2 assists",
+              "3 assists",
               "1 shot"
             ]
           },
-          "buzz": "He slid the puck to John Carlson to start the play on Brayden Point's first-period goal in Monday's 4-1 win, one of his two assists.",
-          "source": "NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020040/boxscore)",
-          "asOf": "2026-10-07"
+          "buzz": "Kucherov set up Tampa Bay's first three goals in Nashville; he is in the final season of an eight-year, $76 million contract.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310NSH.html)",
+          "asOf": "2026-10-31"
         },
         {
-          "name": "John Carlson",
+          "name": "Andrei Vasilevskiy",
           "team": "Tampa Bay Lightning",
-          "position": "Defenseman (D)",
+          "position": "Goalie (G)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "vs Philadelphia Flyers, won 4-1",
+            "date": "2026-10-31",
+            "label": "at Nashville Predators, lost 5-4 in a shootout",
             "stats": [
-              "0 goals",
-              "1 assist",
-              "1 shot"
+              "29 saves on 33 shots"
             ]
           },
-          "buzz": "The 36-year-old was in his 17th season with Washington when he was traded to Anaheim on March 6, then signed a two-year, $17 million contract with Tampa Bay.",
-          "source": "NHL.com, Capitals (https://www.nhl.com/capitals/news/caps-face-carlson-strome-skates-in-600th-nhl-game)",
-          "asOf": "2026-10-07"
+          "buzz": "Vasilevskiy made 29 saves, but former Lightning captain Steven Stamkos won it for Nashville in the shootout (a one-on-one shooting contest after overtime).",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310NSH.html)",
+          "asOf": "2026-10-31"
         }
       ],
-      "source": "NHL.com, Lightning (https://www.nhl.com/lightning/news/mishkins-extra-shift-tampa-bay-lightning-4-philadelphia-flyers-1-oct-5-2026); NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020040/boxscore); NHL.com, Capitals (https://www.nhl.com/capitals/news/caps-face-carlson-strome-skates-in-600th-nhl-game)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com game recap (https://www.nhl.com/news/tampa-bay-lightning-nashville-predators-game-recap-october-31-2026)",
+      "asOf": "2026-10-31"
     },
     "Toronto Maple Leafs": {
-      "latestResult": "Beat the Nashville Predators 5-4 in overtime at home on Tuesday, October 6, 2026 (now 2-2-0)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Gavin McKenna, the first overall pick in the 2026 draft, scored his first NHL goal at 18 years, 290 days old on Tuesday, and Auston Matthews won it 5-4 with 14 seconds left in overtime.",
-      "bringUp": "Number one draft pick Gavin McKenna scored his first NHL goal Tuesday, and Auston Matthews finished with a goal and three assists, scoring the overtime winner with 14 seconds left to beat Nashville 5-4.",
+      "latestResult": "Won 4-2 at the Vancouver Canucks (now 8-6-2)",
+      "latestGameDate": "2026-10-31",
+      "storyline": "Auston Matthews has a point (a goal or an assist) in all eight of Toronto's road games this season, 15 points in all, and scored his 11th goal as the go-ahead marker in Vancouver.",
+      "bringUp": "Auston Matthews scored his 11th goal in the Leafs' 4-2 win in Vancouver on Halloween, and he has a point in every road game this season; William Nylander added a goal and an assist.",
       "details": [
-        {
-          "name": "Gavin McKenna",
-          "team": "Toronto Maple Leafs",
-          "position": "Left wing (LW)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs Nashville Predators, won 5-4 in overtime",
-            "stats": [
-              "1 goal",
-              "1 assist",
-              "4 shots"
-            ]
-          },
-          "buzz": "The 2026 first overall pick got his first NHL point on John Tavares's goal and then his first NHL goal, at 18 years, 290 days old.",
-          "source": "NHL.com, Maple Leafs (https://www.nhl.com/mapleleafs/news/mckenna-scores-first-nhl-goal-in-5-4-ot-win)",
-          "asOf": "2026-10-07"
-        },
         {
           "name": "Auston Matthews",
           "team": "Toronto Maple Leafs",
           "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs Nashville Predators, won 5-4 in overtime",
+            "date": "2026-10-31",
+            "label": "at Vancouver Canucks, won 4-2",
             "stats": [
               "1 goal",
-              "3 assists",
-              "4 shots"
+              "0 assists",
+              "2 shots"
             ]
           },
-          "buzz": "His overtime winner was his 15th overtime goal for Toronto, passing Mats Sundin for second in team history, and it was his 18th career four-point game.",
-          "source": "NHL.com, Maple Leafs (https://www.nhl.com/mapleleafs/news/mckenna-scores-first-nhl-goal-in-5-4-ot-win)",
-          "asOf": "2026-10-07"
+          "buzz": "Matthews' go-ahead goal extended his season-opening road point streak to eight games, with seven goals and eight assists.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310VAN.html)",
+          "asOf": "2026-10-31"
+        },
+        {
+          "name": "William Nylander",
+          "team": "Toronto Maple Leafs",
+          "position": "Right wing (RW)",
+          "lastGame": {
+            "date": "2026-10-31",
+            "label": "at Vancouver Canucks, won 4-2",
+            "stats": [
+              "1 goal",
+              "1 assist",
+              "2 shots"
+            ]
+          },
+          "buzz": "Nylander opened the scoring 1:23 into the game, his 10th goal of the season.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310VAN.html)",
+          "asOf": "2026-10-31"
         }
       ],
-      "source": "NHL.com, Maple Leafs (https://www.nhl.com/mapleleafs/news/mckenna-scores-first-nhl-goal-in-5-4-ot-win)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com game recap (https://www.nhl.com/news/toronto-maple-leafs-vancouver-canucks-game-recap-october-31-2026)",
+      "asOf": "2026-11-01"
     },
     "Utah Mammoth": {
-      "latestResult": "Won 5-3 at the New Jersey Devils on Tuesday, October 6, 2026 (now 3-1-0, first in the Central Division)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Nick Schmaltz scored his league-leading 5th goal in Tuesday's 5-3 win in New Jersey, and Mikhail Sergachev's 300th career assist helped Utah to a 3-1-0 start, first in the Central Division.",
-      "bringUp": "Utah is 3-1-0 and leads the Central after winning 5-3 in New Jersey on Tuesday; Nick Schmaltz had a goal and two assists and leads the NHL with 5 goals.",
+      "latestResult": "Lost 6-3 at the Philadelphia Flyers (now 9-6-0)",
+      "latestGameDate": "2026-11-01",
+      "storyline": "Utah gave up six goals to a Flyers team that came in averaging a league-low 1.93 per game, though Mikhail Sergachev stretched his point streak to seven games.",
+      "bringUp": "Logan Cooley scored again in Utah's 6-3 loss in Philadelphia on Sunday and has five goals in his last three games, and Mikhail Sergachev has a point (a goal or assist) in seven straight games.",
       "details": [
         {
-          "name": "Nick Schmaltz",
+          "name": "Logan Cooley",
           "team": "Utah Mammoth",
           "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "at New Jersey Devils, won 5-3",
+            "date": "2026-11-01",
+            "label": "at Philadelphia Flyers, lost 6-3",
             "stats": [
-              "1 goal (power play)",
-              "2 assists",
-              "4 shots"
+              "1 goal",
+              "1 assist",
+              "2 shots"
             ]
           },
-          "buzz": "His power-play goal in New Jersey was his league-leading 5th of the season.",
-          "source": "NHL.com, Utah (https://www.nhl.com/utah/news/utah-vs-new-jersey-game-4-live-blog-10-6-26)",
-          "asOf": "2026-10-07"
+          "buzz": "Cooley has six points (five goals, one assist) during a three-game point streak, including a power-play goal in Philadelphia.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010PHI.html)",
+          "asOf": "2026-11-01"
         },
         {
           "name": "Mikhail Sergachev",
           "team": "Utah Mammoth",
           "position": "Defenseman (D)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "at New Jersey Devils, won 5-3",
+            "date": "2026-11-01",
+            "label": "at Philadelphia Flyers, lost 6-3",
             "stats": [
-              "0 goals",
-              "3 assists",
+              "1 goal",
+              "0 assists",
               "2 shots"
             ]
           },
-          "buzz": "He assisted on three of Utah's five goals in New Jersey, and the one on MacKenzie Weegar's goal was his 300th career assist.",
-          "source": "NHL.com, Utah (https://www.nhl.com/utah/news/utah-vs-new-jersey-game-4-live-blog-10-6-26)",
-          "asOf": "2026-10-07"
+          "buzz": "Sergachev has eight points (three goals, five assists) during a seven-game point streak.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010PHI.html)",
+          "asOf": "2026-11-01"
         }
       ],
-      "source": "NHL.com, Utah (https://www.nhl.com/utah/news/utah-vs-new-jersey-game-4-live-blog-10-6-26)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com game recap (https://www.nhl.com/news/utah-mammoth-philadelphia-flyers-game-recap-november-1-2026)",
+      "asOf": "2026-11-02"
     },
     "Vancouver Canucks": {
-      "latestResult": "Lost 3-2 at home to the Vegas Golden Knights on Sunday, October 4, 2026 (now 2-2-0)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Manny Malhotra, hired June 1, 2026 as the Canucks' 23rd head coach after winning the Calder Cup with their minor-league affiliate, has a 2-2-0 start that included a 9-7 loss to Edmonton; the team opens a road trip at Carolina on Thursday, October 8.",
-      "bringUp": "The Canucks scored 17 goals in their first three games under new coach Manny Malhotra, including a wild 9-7 loss to Edmonton, then lost 3-2 to Vegas on Sunday; they head out on the road starting Thursday in Carolina.",
+      "latestResult": "Lost 4-2 against the Toronto Maple Leafs at home (now 3-12-1)",
+      "latestGameDate": "2026-10-31",
+      "storyline": "Vancouver is 1-11-1 in its past 13 games, leaving it with 3 wins in 16 games this season.",
+      "bringUp": "The Canucks are 3-12-1 after a 4-2 home loss to Toronto on Halloween; Brock Boeser scored on the power play and Leevi Merilainen made 24 saves.",
       "details": [
         {
-          "name": "Elias Pettersson",
-          "team": "Vancouver Canucks",
-          "position": "Center (C)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "vs Vegas Golden Knights, lost 3-2",
-            "stats": [
-              "0 goals",
-              "1 assist",
-              "3 shots"
-            ]
-          },
-          "buzz": "He assisted on one of Vancouver's two goals in Sunday's 3-2 loss to Vegas, the Canucks' last game before a road trip that starts Thursday in Carolina.",
-          "source": "NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020039/boxscore)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Jonathan Lekkerimaki",
+          "name": "Brock Boeser",
           "team": "Vancouver Canucks",
           "position": "Right wing (RW)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "vs Vegas Golden Knights, lost 3-2",
+            "date": "2026-10-31",
+            "label": "vs Toronto Maple Leafs, lost 4-2",
             "stats": [
               "1 goal",
               "0 assists",
               "1 shot"
             ]
           },
-          "buzz": "He scored one of Vancouver's two goals against Vegas on his only shot of the night.",
-          "source": "NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020039/boxscore)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "NHL.com, Canucks (https://www.nhl.com/canucks/news/game-notes-canucks-vs-golden-knights-100426)",
-      "asOf": "2026-10-07"
-    },
-    "Vegas Golden Knights": {
-      "latestResult": "Won 6-2 at the Seattle Kraken on Tuesday, October 6, 2026 (now 3-1-0, first in the Pacific Division)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Jack Eichel had a goal and three assists in Tuesday's 6-2 win at Seattle and leads the NHL with 10 points, while Mark Stone reached 400 points with Vegas and recorded a Gordie Howe hat trick, meaning a goal, an assist and a fight in one game.",
-      "bringUp": "Jack Eichel leads the NHL with 10 points after a goal and three assists in Vegas's 6-2 win in Seattle on Tuesday, and Tomas Hertl added two power-play goals and two assists.",
-      "details": [
-        {
-          "name": "Jack Eichel",
-          "team": "Vegas Golden Knights",
-          "position": "Center (C)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Seattle Kraken, won 6-2",
-            "stats": [
-              "1 goal",
-              "3 assists",
-              "2 shots"
-            ]
-          },
-          "buzz": "His 10 points through four games lead the NHL, and he has a four-game point streak to start the season.",
-          "source": "NHL.com, Golden Knights (https://www.nhl.com/goldenknights/news/golden-knights-sweep-first-road-trip-with-spirited-6-2-win-in-seattle)",
-          "asOf": "2026-10-07"
+          "buzz": "Boeser scored his fifth goal, a power-play breakaway that tied the game 1-1, and credited Filip Hronek's pass.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310VAN.html)",
+          "asOf": "2026-10-31"
         },
         {
-          "name": "Tomas Hertl",
-          "team": "Vegas Golden Knights",
-          "position": "Center (C)",
+          "name": "Leevi Merilainen",
+          "team": "Vancouver Canucks",
+          "position": "Goalie (G)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Seattle Kraken, won 6-2",
+            "date": "2026-10-31",
+            "label": "vs Toronto Maple Leafs, lost 4-2",
             "stats": [
-              "2 goals (both power play)",
-              "2 assists",
-              "3 shots"
+              "24 saves on 27 shots"
             ]
           },
-          "buzz": "He matched Eichel with four points in Seattle, scoring both of his goals on the power play.",
-          "source": "NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020051/boxscore)",
-          "asOf": "2026-10-07"
+          "buzz": "Merilainen made 24 saves, including a stop on Toronto rookie Gavin McKenna's backdoor chance.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202610310VAN.html)",
+          "asOf": "2026-10-31"
         }
       ],
-      "source": "NHL.com, Golden Knights (https://www.nhl.com/goldenknights/news/golden-knights-sweep-first-road-trip-with-spirited-6-2-win-in-seattle)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com game recap (https://www.nhl.com/news/toronto-maple-leafs-vancouver-canucks-game-recap-october-31-2026)",
+      "asOf": "2026-11-01"
+    },
+    "Vegas Golden Knights": {
+      "latestResult": "Lost 3-2 in a shootout at the Boston Bruins (now 9-5-2)",
+      "latestGameDate": "2026-11-02",
+      "storyline": "Vegas rallied from 2-0 down on goals by Mark Stone and Trevor Connelly to force a shootout (a one-on-one shooting contest after overtime) before David Pastrnak scored the only shootout goal, leaving the Golden Knights 1-3-2 in their past six games.",
+      "bringUp": "Mitch Marner had two assists in Boston on Monday and has a point (a goal or assist) in 10 straight games, but Vegas lost 3-2 in a shootout and is 1-3-2 in its last six.",
+      "details": [
+        {
+          "name": "Mitch Marner",
+          "team": "Vegas Golden Knights",
+          "position": "Right wing (RW)",
+          "lastGame": {
+            "date": "2026-11-02",
+            "label": "at Boston Bruins, lost 3-2 in a shootout",
+            "stats": [
+              "0 goals",
+              "2 assists",
+              "1 shot"
+            ]
+          },
+          "buzz": "Marner's two assists stretched his point streak to 10 games, with one goal and 13 assists in that span.",
+          "source": "NHL.com recap (https://www.nhl.com/news/vegas-golden-knights-boston-bruins-game-recap-november-2-2026); ESPN box score (https://www.espn.com/nhl/boxscore/_/gameId/401892629)",
+          "asOf": "2026-11-02"
+        },
+        {
+          "name": "Mark Stone",
+          "team": "Vegas Golden Knights",
+          "position": "Right wing (RW)",
+          "lastGame": {
+            "date": "2026-11-02",
+            "label": "at Boston Bruins, lost 3-2 in a shootout",
+            "stats": [
+              "1 goal (power play)"
+            ]
+          },
+          "buzz": "Stone's power-play goal was his 10th of the season and started the Vegas comeback.",
+          "source": "NHL.com recap (https://www.nhl.com/news/vegas-golden-knights-boston-bruins-game-recap-november-2-2026)",
+          "asOf": "2026-11-02"
+        }
+      ],
+      "source": "NHL.com game recap (https://www.nhl.com/news/vegas-golden-knights-boston-bruins-game-recap-november-2-2026)",
+      "asOf": "2026-11-03"
     },
     "Washington Capitals": {
-      "latestResult": "Lost 3-1 at the Tampa Bay Lightning on Saturday, October 3, 2026 (now 1-1-0)",
-      "latestGameDate": "2026-10-03",
-      "storyline": "Alex Ovechkin announced on October 5 that 2026-27, his 22nd season, will be his last in the NHL; he is the league's all-time goals leader with 929, and the Capitals' home opener against Pittsburgh is Wednesday, October 7.",
-      "bringUp": "Alex Ovechkin, the NHL's all-time leader with 929 goals, announced Monday that this is his final season, so the Capitals' home opener against Pittsburgh on Wednesday, October 7 starts his farewell year in Washington.",
+      "latestResult": "Lost 5-1 against the Minnesota Wild at home (now 8-5-0)",
+      "latestGameDate": "2026-11-01",
+      "storyline": "Minnesota's Kirill Kaprizov reached 500 career points against Washington in his 413th game, tying Evgeni Malkin as the fourth-fastest active player to get there; Alex Ovechkin, one of the three ahead of him, did it in 373 games.",
+      "bringUp": "The Capitals lost 5-1 at home to Minnesota on Sunday despite 24 saves from Logan Thompson, and Kirill Kaprizov got his 500th point against them, a mark Alex Ovechkin reached in 373 games.",
       "details": [
         {
           "name": "Alex Ovechkin",
           "team": "Washington Capitals",
           "position": "Left wing (LW)",
           "lastGame": {
-            "date": "2026-10-03",
-            "label": "at Tampa Bay Lightning, lost 3-1",
+            "date": "2026-11-01",
+            "label": "vs Minnesota Wild, lost 5-1",
             "stats": [
               "0 goals",
               "0 assists",
-              "0 shots"
+              "2 shots"
             ]
           },
-          "buzz": "He announced that 2026-27 will be his final NHL season, 21 years to the day after his NHL debut; he has 929 goals and 1,688 points in 1,575 games, all with Washington.",
-          "source": "NHL.com, Capitals (https://www.nhl.com/capitals/news/alex-ovechkin-announces-2026-27-will-be-his-final-nhl-season)",
-          "asOf": "2026-10-07"
+          "buzz": "Ovechkin was held without a point; a Cole Hutson shot deflected off his skate at the post, but Washington couldn't convert the loose puck.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010WSH.html)",
+          "asOf": "2026-11-01"
+        },
+        {
+          "name": "Logan Thompson",
+          "team": "Washington Capitals",
+          "position": "Goalie (G)",
+          "lastGame": {
+            "date": "2026-11-01",
+            "label": "vs Minnesota Wild, lost 5-1",
+            "stats": [
+              "24 saves on 28 shots"
+            ]
+          },
+          "buzz": "Thompson made 24 saves in the loss as Minnesota pulled away.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010WSH.html)",
+          "asOf": "2026-11-01"
         }
       ],
-      "source": "NHL.com, Capitals (https://www.nhl.com/capitals/news/alex-ovechkin-announces-2026-27-will-be-his-final-nhl-season)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com game recap (https://www.nhl.com/news/minnesota-wild-washington-capitals-game-recap-november-1-2026)",
+      "asOf": "2026-11-02"
     },
     "Winnipeg Jets": {
-      "latestResult": "Won 3-2 at the Pittsburgh Penguins on Monday, October 5, 2026 (now 2-0-1)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "Clay Stevenson, claimed off waivers in late September, made 29 saves in Monday's 3-2 win in Pittsburgh, and the Jets have points in all three of their games.",
-      "bringUp": "Winnipeg has points in all three games at 2-0-1, and waiver pickup Clay Stevenson stopped 29 of 31 shots in Monday's 3-2 win in Pittsburgh.",
+      "latestResult": "Lost 7-0 at the Carolina Hurricanes (now 4-8-3)",
+      "latestGameDate": "2026-11-01",
+      "storyline": "Winnipeg has lost nine straight games (0-7-2), and goalie Stuart Skinner was pulled after allowing five goals for the second straight start; the Jets traded Connor Hellebuyck to New Jersey on October 23.",
+      "bringUp": "The Jets have lost nine in a row after a 7-0 loss in Carolina on Sunday; Stuart Skinner was pulled after five goals on 17 shots and Mark Scheifele had four shots but no points.",
       "details": [
         {
-          "name": "Clay Stevenson",
+          "name": "Stuart Skinner",
           "team": "Winnipeg Jets",
           "position": "Goalie (G)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "at Pittsburgh Penguins, won 3-2",
+            "date": "2026-11-01",
+            "label": "at Carolina Hurricanes, lost 7-0",
             "stats": [
-              "29 saves on 31 shots"
+              "12 saves on 17 shots"
             ]
           },
-          "buzz": "Claimed off waivers by Winnipeg on September 28, he earned the win in Pittsburgh with 29 saves.",
-          "source": "NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020042/boxscore)",
-          "asOf": "2026-10-07"
+          "buzz": "Skinner was pulled at 9:09 of the second period, the second straight start in which he gave up five goals.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010CAR.html)",
+          "asOf": "2026-11-01"
         },
         {
-          "name": "Alex Iafallo",
+          "name": "Mark Scheifele",
           "team": "Winnipeg Jets",
-          "position": "Left wing (LW)",
+          "position": "Center (C)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "at Pittsburgh Penguins, won 3-2",
+            "date": "2026-11-01",
+            "label": "at Carolina Hurricanes, lost 7-0",
             "stats": [
-              "1 goal",
-              "1 assist",
-              "3 shots"
+              "0 goals",
+              "0 assists",
+              "4 shots"
             ]
           },
-          "buzz": "He had a goal and an assist in Pittsburgh as the Jets swept their two-game opening road trip.",
-          "source": "NHL.com, Jets (https://www.nhl.com/jets/news/30-saves-for-stevenson-in-jets-win-over-pens)",
-          "asOf": "2026-10-07"
+          "buzz": "Scheifele had four shots but no points as Carolina goalie Pyotr Kochetkov won his 10th straight game to open the season.",
+          "source": "Hockey-Reference box score (https://www.hockey-reference.com/boxscores/202611010CAR.html)",
+          "asOf": "2026-11-01"
         }
       ],
-      "source": "NHL.com box score (https://api-web.nhle.com/v1/gamecenter/2026020042/boxscore); NHL.com, Jets (https://www.nhl.com/jets/news/30-saves-for-stevenson-in-jets-win-over-pens)",
-      "asOf": "2026-10-07"
+      "source": "NHL.com game recap (https://www.nhl.com/news/winnipeg-jets-carolina-hurricanes-game-recap-november-1-2026); NHL.com Devils recap (https://www.nhl.com/news/new-jersey-devils-vegas-golden-knights-game-recap-october-30-2026)",
+      "asOf": "2026-11-01"
     }
   }
 }
