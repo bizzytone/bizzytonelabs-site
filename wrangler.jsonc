@@ -14,7 +14,8 @@
   // Daily cleanup of usage events older than 24 months (03:17 UTC).
   "triggers": { "crons": ["17 3 * * *"] },
   // Request logs would include IP addresses, so they stay off.
-  "observability": { "enabled": false }
-  // Add after creating the database in the Cloudflare dashboard (see README):
-  // "d1_databases": [{ "binding": "DB", "database_name": "the-sports-analytics", "database_id": "<ID>" }]
+  "observability": { "enabled": false },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "the-sports-analytics", "database_id": "9821e6c6-1a17-45b9-8634-1bc76fc41b02" }
+  ]
 }
