@@ -120,13 +120,12 @@ async function deleteInstall(request, db) {
 }
 
 function authorized(request, env) {
-  const token = env.STATS_TOKEN;
+  const token = typeof env.STATS_TOKEN === 'string' ? env.STATS_TOKEN.trim() : '';
   if (!token) return false;
-  const given = request.headers.get('Authorization') ?? '';
-  const want = `Bearer ${token}`;
-  if (given.length !== want.length) return false;
+  const given = (request.headers.get('Authorization') ?? '').replace(/^Bearer\s+/i, '').trim();
+  if (given.length !== token.length) return false;
   let diff = 0;
-  for (let i = 0; i < want.length; i++) diff |= given.charCodeAt(i) ^ want.charCodeAt(i);
+  for (let i = 0; i < token.length; i++) diff |= given.charCodeAt(i) ^ token.charCodeAt(i);
   return diff === 0;
 }
 
@@ -211,7 +210,11 @@ export default {
       if (pathname === '/api/events' && request.method === 'POST') return await recordEvents(request, env.DB);
       if (pathname === '/api/delete' && request.method === 'POST') return await deleteInstall(request, env.DB);
       if (pathname === '/api/stats' && request.method === 'GET') {
-        return authorized(request, env) ? json(await stats(env.DB)) : json({ error: 'unauthorized' }, 401);
+        if (authorized(request, env)) return json(await stats(env.DB));
+        // TEMPORARY diagnostic (remove after setup): never reveals the value.
+        const t = typeof env.STATS_TOKEN === 'string' ? env.STATS_TOKEN.trim() : '';
+        const g = (request.headers.get('Authorization') ?? '').replace(/^Bearer\s+/i, '').trim();
+        return json({ error: 'unauthorized', secretSeen: t.length > 0, lengthMatches: t.length > 0 && t.length === g.length }, 401);
       }
       return json({ error: 'not found' }, 404);
     } catch {
