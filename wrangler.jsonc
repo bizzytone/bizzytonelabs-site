@@ -2,6 +2,8 @@
   "name": "bizzytonelabs-site",
   "main": "worker/index.js",
   "compatibility_date": "2026-10-01",
+  // Keep variables and secrets set in the Cloudflare dashboard (STATS_TOKEN) when deploying from GitHub.
+  "keep_vars": true,
   // Lets Cloudflare build a preview for each pull request (`npx wrangler preview`).
   "previews": {},
   "assets": {
