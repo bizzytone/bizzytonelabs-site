@@ -17,6 +17,8 @@
   "triggers": { "crons": ["17 3 * * *"] },
   // Request logs would include IP addresses, so they stay off.
   "observability": { "enabled": false },
+  // SHA-256 fingerprint of the stats token (not the token). Safe to keep in the repo.
+  "vars": { "STATS_TOKEN_SHA256": "cf74ffce4be500153bf8a11110bd3c74ce938a409cd87ed300d9b8b34c9d10ef" },
   "d1_databases": [
     { "binding": "DB", "database_name": "the-sports-analytics", "database_id": "9821e6c6-1a17-45b9-8634-1bc76fc41b02" }
   ]

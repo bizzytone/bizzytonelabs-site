@@ -119,14 +119,29 @@ async function deleteInstall(request, db) {
   return json({ ok: true });
 }
 
-function authorized(request, env) {
-  const token = typeof env.STATS_TOKEN === 'string' ? env.STATS_TOKEN.trim() : '';
-  if (!token) return false;
+const hex = (buf) => [...new Uint8Array(buf)].map((b) => b.toString(16).padStart(2, '0')).join('');
+
+/**
+ * The stats token is checked against a SHA-256 fingerprint (STATS_TOKEN_SHA256, set in
+ * wrangler.jsonc: a hash is safe to keep in the repo, the token itself is not). A plain
+ * STATS_TOKEN secret from the dashboard still works if present.
+ */
+async function authorized(request, env) {
   const given = (request.headers.get('Authorization') ?? '').replace(/^Bearer\s+/i, '').trim();
-  if (given.length !== token.length) return false;
-  let diff = 0;
-  for (let i = 0; i < token.length; i++) diff |= given.charCodeAt(i) ^ token.charCodeAt(i);
-  return diff === 0;
+  if (!given) return false;
+  const wantHash = String(env.STATS_TOKEN_SHA256 ?? '').trim().toLowerCase();
+  const plain = typeof env.STATS_TOKEN === 'string' ? env.STATS_TOKEN.trim() : '';
+  const check = (a, b) => {
+    if (!a || a.length !== b.length) return false;
+    let diff = 0;
+    for (let i = 0; i < a.length; i++) diff |= a.charCodeAt(i) ^ b.charCodeAt(i);
+    return diff === 0;
+  };
+  if (wantHash) {
+    const h = hex(await crypto.subtle.digest('SHA-256', new TextEncoder().encode(given)));
+    if (check(h, wantHash)) return true;
+  }
+  return check(given, plain);
 }
 
 /** Totals only. Nothing in the response identifies an install. */
@@ -210,11 +225,8 @@ export default {
       if (pathname === '/api/events' && request.method === 'POST') return await recordEvents(request, env.DB);
       if (pathname === '/api/delete' && request.method === 'POST') return await deleteInstall(request, env.DB);
       if (pathname === '/api/stats' && request.method === 'GET') {
-        if (authorized(request, env)) return json(await stats(env.DB));
-        // TEMPORARY diagnostic (remove after setup): never reveals the value.
-        const t = typeof env.STATS_TOKEN === 'string' ? env.STATS_TOKEN.trim() : '';
-        const g = (request.headers.get('Authorization') ?? '').replace(/^Bearer\s+/i, '').trim();
-        return json({ error: 'unauthorized', secretSeen: t.length > 0, lengthMatches: t.length > 0 && t.length === g.length }, 401);
+        if (await authorized(request, env)) return json(await stats(env.DB));
+        return json({ error: 'unauthorized' }, 401);
       }
       return json({ error: 'not found' }, 404);
     } catch {

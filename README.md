@@ -31,5 +31,5 @@ One-time setup:
 
 1. Cloudflare dashboard, Storage & Databases, D1, create `the-sports-analytics`. Copy its Database ID.
 2. The database ID is already in `wrangler.jsonc` (`d1_databases`).
-3. Workers & Pages, bizzytonelabs-site, Settings, Variables and Secrets: add a **secret** named `STATS_TOKEN` (a long random string). Without it `/api/stats` refuses everyone.
+3. Pick a long random token. Put its SHA-256 fingerprint (`printf '%s' 'TOKEN' | sha256sum`) in `wrangler.jsonc` as `vars.STATS_TOKEN_SHA256`. Never commit the token. (A dashboard secret named `STATS_TOKEN` also works if the dashboard shows it to the Worker.)
 4. Read totals: `curl -H "Authorization: Bearer $STATS_TOKEN" https://bizzytonelabs.com/api/stats`
