@@ -1457,5 +1457,18 @@
       "leadersSource": "ESPN, Wizards 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/wsh/washington-wizards)",
       "leadersAsOf": "2026-11-13"
     }
-  }
+  },
+  "hotGoss": [
+    {
+      "id": "smart-suspended-three-games-bassey-punch",
+      "topic": "NBA suspends Marcus Smart three games for punching Charles Bassey",
+      "whatHappened": "The NBA suspended Houston Rockets guard Marcus Smart three games without pay for throwing a punch that hit Golden State Warriors forward-center Charles Bassey in the face with 0:21 left in the third quarter of Houston's 115-108 win on Wednesday, November 11. Smart was called for a Flagrant Foul 2, the more serious of the NBA's two flagrant levels, and ejected. The league announced the suspension the next day, with James Jones, its head of basketball operations, named as the announcer.",
+      "whyTalking": "A punch that lands on someone's face is a moment fans remember, and the league answered it within a day. Smart starts serving the suspension on Friday, November 13, when the Rockets host the Utah Jazz.",
+      "youCouldSay": "The NBA suspended Marcus Smart three games without pay for punching the Warriors' Charles Bassey in the face, and he starts serving it Friday when Houston plays Utah.",
+      "storyDate": "2026-11-12",
+      "reportedBy": "NBA.com",
+      "source": "NBA.com, league announcement (https://official.nba.com/rockets-smart-suspended)",
+      "asOf": "2026-11-13"
+    }
+  ]
 }

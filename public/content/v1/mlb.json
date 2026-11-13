@@ -1642,5 +1642,18 @@
       "leadersSource": "ESPN, Nationals 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/wsh/nationals)",
       "leadersAsOf": "2026-11-13"
     }
-  }
+  },
+  "hotGoss": [
+    {
+      "id": "contreras-analytics-criticism-breslow-talking",
+      "topic": "Willson Contreras and Red Sox leaders are still talking after his analytics criticism",
+      "whatHappened": "The Boston Globe reports that Red Sox first baseman Willson Contreras criticized the team for relying too much on analytics (decisions driven by numbers) after Boston's season ended with a 9-2 loss to the Yankees in the Wild Card Series on September 30. That led to a meeting with team officials at Fenway Park. On Wednesday, November 11, president of baseball operations Craig Breslow said he and Contreras have \"spoken a bunch\" since, and called Contreras's feedback the view of \"somebody who cares about winning above everything else.\"",
+      "whyTalking": "It stands out when a player questions how his own team makes decisions, and this one came right after the Yankees knocked Boston out of the playoffs.",
+      "youCouldSay": "Red Sox first baseman Willson Contreras criticized the team for leaning too hard on analytics after the Yankees knocked them out, and the Boston Globe says president Craig Breslow is still talking with him about it.",
+      "storyDate": "2026-11-11",
+      "reportedBy": "Boston Globe",
+      "source": "Boston Globe (https://www.bostonglobe.com/2026/11/11/sports/red-sox-gm-meetings/)",
+      "asOf": "2026-11-13"
+    }
+  ]
 }
