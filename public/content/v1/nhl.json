@@ -1,6 +1,6 @@
 {
   "sport": "nhl",
-  "asOf": "2026-11-10",
+  "asOf": "2026-11-13",
   "season": "2026-27",
   "phase": "Regular season: early to mid-November (teams have played 15 to 20 of 82 games)",
   "buzzRounds": [
@@ -499,7 +499,26 @@
         }
       ],
       "source": "NHL.com recap (https://www.nhl.com/news/vegas-golden-knights-buffalo-sabres-game-recap-november-8-2026); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Tage Thompson",
+          "value": "21"
+        },
+        {
+          "label": "Goals",
+          "player": "Tage Thompson",
+          "value": "12"
+        },
+        {
+          "label": "Assists",
+          "player": "Zach Benson",
+          "value": "13"
+        }
+      ],
+      "leadersSource": "CBS Sports, Sabres team stats and leaders 2026-27 (https://cbssports.com/nhl/teams/BUF/buffalo-sabres/stats/regular)",
+      "leadersAsOf": "2026-11-13"
     },
     "Calgary Flames": {
       "latestResult": "Won 4-3 in overtime at home against the Philadelphia Flyers on Sunday, November 8 (now 8-9-1)",
@@ -539,7 +558,26 @@
         }
       ],
       "source": "TheScore box score (https://www.thescore.com/nhl/event/35260); NHL.com On Tap (https://www.nhl.com/news/nhl-on-tap-news-and-notes-november-8-2026); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Joel Farabee",
+          "value": "17"
+        },
+        {
+          "label": "Goals",
+          "player": "Joel Farabee",
+          "value": "7"
+        },
+        {
+          "label": "Assists",
+          "player": "Matthew Coronato",
+          "value": "11"
+        }
+      ],
+      "leadersSource": "CBS Sports, Flames team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/CGY/calgary-flames/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Carolina Hurricanes": {
       "latestResult": "Won 9-2 at home against the Chicago Blackhawks on Saturday, November 7 (now 14-3-2)",
@@ -620,7 +658,26 @@
         }
       ],
       "source": "NHL.com recap (https://www.nhl.com/news/chicago-blackhawks-carolina-hurricanes-game-recap-november-7-2026); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Connor Bedard",
+          "value": "14"
+        },
+        {
+          "label": "Goals",
+          "player": "Roman Kantserov",
+          "value": "9"
+        },
+        {
+          "label": "Assists",
+          "player": "Connor Bedard",
+          "value": "9"
+        }
+      ],
+      "leadersSource": "CBS Sports, Blackhawks team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/chi/chicago-blackhawks/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Colorado Avalanche": {
       "latestResult": "Won 4-0 at home against the Detroit Red Wings on Saturday, November 7 (now 10-6-2)",
@@ -720,7 +777,26 @@
         }
       ],
       "source": "NHL.com recap (https://www.nhl.com/news/columbus-blue-jackets-buffalo-sabres-game-recap-november-6-2026); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Kent Johnson",
+          "value": "16"
+        },
+        {
+          "label": "Goals",
+          "player": "Kent Johnson",
+          "value": "8"
+        },
+        {
+          "label": "Assists",
+          "player": "Zach Werenski",
+          "value": "12"
+        }
+      ],
+      "leadersSource": "CBS Sports, Blue Jackets team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/CLB/columbus-blue-jackets/stats/regular/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Dallas Stars": {
       "latestResult": "Won 4-3 at home against the San Jose Sharks on Saturday, November 7 (now 10-5-2)",
@@ -958,7 +1034,26 @@
         }
       ],
       "source": "NHL.com recap (https://nhl.com/news/pittsburgh-penguins-los-angeles-kings-game-recap-november-7-2026); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Artemi Panarin",
+          "value": "13"
+        },
+        {
+          "label": "Goals",
+          "player": "Artemi Panarin",
+          "value": "8"
+        },
+        {
+          "label": "Goalie wins",
+          "player": "Darcy Kuemper",
+          "value": "4"
+        }
+      ],
+      "leadersSource": "CBS Sports, Kings team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/LA/los-angeles-kings/stats/regular/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Minnesota Wild": {
       "latestResult": "Lost 4-3 in overtime at home against the Tampa Bay Lightning on Saturday, November 7 (now 12-3-4)",
@@ -1101,7 +1196,26 @@
         }
       ],
       "source": "NHL.com recap (https://www.nhl.com/blues/news/st-louis-blues-nashville-predators-game-recap-november-7-2026-x4373); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Filip Forsberg",
+          "value": "17"
+        },
+        {
+          "label": "Goals",
+          "player": "Steven Stamkos",
+          "value": "8"
+        },
+        {
+          "label": "Assists",
+          "player": "Roman Josi",
+          "value": "14"
+        }
+      ],
+      "leadersSource": "CBS Sports, Predators team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/NSH/nashville-predators/stats/regular/)",
+      "leadersAsOf": "2026-11-13"
     },
     "New Jersey Devils": {
       "latestResult": "Won 4-0 at the Toronto Maple Leafs on Sunday, November 8 (now 13-5-0)",
@@ -1191,7 +1305,21 @@
         }
       ],
       "source": "Statmuse game page (https://www.statmuse.com/nhl/game/11-9-2026-nyi-at-sjs-70777); CBS Sports (https://www.cbssports.com/nhl/scoreboard/); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Goals",
+          "player": "Bo Horvat",
+          "value": "8"
+        },
+        {
+          "label": "Assists",
+          "player": "Matthew Schaefer",
+          "value": "12"
+        }
+      ],
+      "leadersSource": "CBS Sports, Islanders team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/NYI/new-york-islanders/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "New York Rangers": {
       "latestResult": "Lost 3-1 at the Edmonton Oilers on Monday, November 9 (now 10-8-1)",
@@ -1231,7 +1359,26 @@
         }
       ],
       "source": "ESPN game page (https://www.espn.com/nhl/game/_/gameId/401892680/rangers-oilers); NHL.com recap (https://www.nhl.com/news/new-york-rangers-edmonton-oilers-game-recap-november-9-2026); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Adam Fox",
+          "value": "22"
+        },
+        {
+          "label": "Goals",
+          "player": "Alexis Lafreniere",
+          "value": "9"
+        },
+        {
+          "label": "Assists",
+          "player": "Adam Fox",
+          "value": "20"
+        }
+      ],
+      "leadersSource": "CBS Sports, Rangers team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/NYR/new-york-rangers/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Ottawa Senators": {
       "latestResult": "Won 4-2 at home against the Utah Mammoth on Saturday, November 7 (now 11-6-1)",
@@ -1325,7 +1472,26 @@
         }
       ],
       "source": "NHL.com recap (https://www.nhl.com/news/philadelphia-flyers-vancouver-canucks-game-recap-november-9-2026); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Matvei Michkov",
+          "value": "15"
+        },
+        {
+          "label": "Goals",
+          "player": "Matvei Michkov",
+          "value": "10"
+        },
+        {
+          "label": "Assists",
+          "player": "Trevor Zegras",
+          "value": "10"
+        }
+      ],
+      "leadersSource": "CBS Sports, Flyers team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/PHI/philadelphia-flyers/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Pittsburgh Penguins": {
       "latestResult": "Lost 5-2 at the Anaheim Ducks on Sunday, November 8 (now 6-10-2)",
@@ -1359,7 +1525,21 @@
         }
       ],
       "source": "TheScore box score (https://www.thescore.com/nhl/event/35262); NHL.com recap (https://nhl.com/news/pittsburgh-penguins-los-angeles-kings-game-recap-november-7-2026); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Erik Karlsson",
+          "value": "17"
+        },
+        {
+          "label": "Assists",
+          "player": "Erik Karlsson",
+          "value": "14"
+        }
+      ],
+      "leadersSource": "CBS Sports, Penguins team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/PIT/pittsburgh-penguins/stats/regular/)",
+      "leadersAsOf": "2026-11-13"
     },
     "San Jose Sharks": {
       "latestResult": "Won 3-2 in a shootout at home against the New York Islanders on Monday, November 9 (now 8-11-1)",
@@ -1451,7 +1631,26 @@
         }
       ],
       "source": "NHL.com recap (https://www.nhl.com/news/new-york-rangers-seattle-kraken-game-recap-november-7-2026); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Berkly Catton",
+          "value": "14"
+        },
+        {
+          "label": "Goals",
+          "player": "Frederick Gaudreau",
+          "value": "8"
+        },
+        {
+          "label": "Assists",
+          "player": "Chandler Stephenson",
+          "value": "11"
+        }
+      ],
+      "leadersSource": "CBS Sports, Kraken team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/SEA/seattle-kraken/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "St. Louis Blues": {
       "latestResult": "Lost 3-1 at the Nashville Predators on Saturday, November 7 (now 7-8-2)",
@@ -1491,7 +1690,26 @@
         }
       ],
       "source": "NHL.com recap (https://www.nhl.com/blues/news/st-louis-blues-nashville-predators-game-recap-november-7-2026-x4373); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Dylan Holloway",
+          "value": "12"
+        },
+        {
+          "label": "Goals",
+          "player": "Jimmy Snuggerud",
+          "value": "8"
+        },
+        {
+          "label": "Assists",
+          "player": "Dylan Holloway",
+          "value": "9"
+        }
+      ],
+      "leadersSource": "CBS Sports, Blues team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/stl/st-louis-blues/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Tampa Bay Lightning": {
       "latestResult": "Lost 4-3 at the Winnipeg Jets on Sunday, November 8 (now 11-4-2)",
@@ -1534,7 +1752,26 @@
         }
       ],
       "source": "CBS Sports box score (https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261108_TB@WPG/); AP via ABC News (https://abcnews.com/Sports/wireStory/scheifele-scores-power-play-16-seconds-left-lift-137963470); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Nikita Kucherov",
+          "value": "22"
+        },
+        {
+          "label": "Goals",
+          "player": "Jake Guentzel",
+          "value": "10"
+        },
+        {
+          "label": "Assists",
+          "player": "Nikita Kucherov",
+          "value": "17"
+        }
+      ],
+      "leadersSource": "CBS Sports, Lightning team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/TB/tampa-bay-lightning/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Toronto Maple Leafs": {
       "latestResult": "Lost 4-0 at home to the New Jersey Devils on Sunday, November 8 (now 8-9-2)",
@@ -1562,7 +1799,21 @@
         }
       ],
       "source": "ESPN game page (https://africa.espn.com/nhl/game/_/gameId/401892676/devils-maple-leafs); NHL.com recap (https://nhl.com/news/montreal-canadiens-toronto-maple-leafs-game-recap-november-7-2026); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Auston Matthews",
+          "value": "27"
+        },
+        {
+          "label": "Assists",
+          "player": "Auston Matthews",
+          "value": "16"
+        }
+      ],
+      "leadersSource": "CBS Sports, Maple Leafs team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/TOR/toronto-maple-leafs/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Utah Mammoth": {
       "latestResult": "Lost 4-2 at the Ottawa Senators on Saturday, November 7 (now 10-7-1)",
@@ -1602,7 +1853,26 @@
         }
       ],
       "source": "AP story via Your Valley (https://www.yourvalley.net/stories/cousins-breaks-tie-with-218-left-in-the-senators-4-2-victory-over-the-mammoth,738882); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Clayton Keller",
+          "value": "25"
+        },
+        {
+          "label": "Goals",
+          "player": "Logan Cooley",
+          "value": "11"
+        },
+        {
+          "label": "Assists",
+          "player": "Clayton Keller",
+          "value": "20"
+        }
+      ],
+      "leadersSource": "CBS Sports, Mammoth team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/UTA/utah-mammoth/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Vancouver Canucks": {
       "latestResult": "Lost 3-1 at home to the Philadelphia Flyers on Monday, November 9 (now 3-16-1)",
@@ -1642,7 +1912,21 @@
         }
       ],
       "source": "NHL.com recap (https://www.nhl.com/news/philadelphia-flyers-vancouver-canucks-game-recap-november-9-2026); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Elias Pettersson",
+          "value": "20"
+        },
+        {
+          "label": "Assists",
+          "player": "Elias Pettersson",
+          "value": "16"
+        }
+      ],
+      "leadersSource": "CBS Sports, Canucks team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/van/vancouver-canucks/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Vegas Golden Knights": {
       "latestResult": "Won 4-1 at the Buffalo Sabres on Sunday, November 8 (now 12-5-2)",
@@ -1682,7 +1966,26 @@
         }
       ],
       "source": "NHL.com recap (https://www.nhl.com/news/vegas-golden-knights-buffalo-sabres-game-recap-november-8-2026); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points",
+          "player": "Jack Eichel",
+          "value": "20"
+        },
+        {
+          "label": "Goals",
+          "player": "Mark Stone",
+          "value": "8"
+        },
+        {
+          "label": "Assists",
+          "player": "Jack Eichel",
+          "value": "13"
+        }
+      ],
+      "leadersSource": "CBS Sports, Golden Knights team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/LV/vegas-golden-knights/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Washington Capitals": {
       "latestResult": "Won 4-3 at home against the Florida Panthers on Saturday, November 7 (now 9-6-0)",
@@ -1724,7 +2027,21 @@
         }
       ],
       "source": "Fox Sports box score (https://www.foxsports.com/nhl/florida-panthers-vs-washington-capitals-nov-07-2026-game-boxscore-44820); Hockey-Reference standings (https://www.hockey-reference.com/leagues/NHL_2027.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Goals",
+          "player": "Alex Tuch",
+          "value": "11"
+        },
+        {
+          "label": "Assists",
+          "player": "Dylan Strome",
+          "value": "11"
+        }
+      ],
+      "leadersSource": "CBS Sports, Capitals team stats and leaders 2026-27 (https://www.cbssports.com/nhl/teams/WAS/washington-capitals/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Winnipeg Jets": {
       "latestResult": "Won 4-3 at home against the Tampa Bay Lightning on Sunday, November 8 (now 7-8-3)",

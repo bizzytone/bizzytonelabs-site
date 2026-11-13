@@ -1,6 +1,6 @@
 {
   "sport": "nba",
-  "asOf": "2026-11-10",
+  "asOf": "2026-11-13",
   "season": "2026-27",
   "phase": "Regular season: Week 4",
   "buzzRounds": [
@@ -272,7 +272,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Nickeil Alexander-Walker",
+          "value": "22.1 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Jalen Johnson",
+          "value": "8.8 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Jalen Johnson",
+          "value": "7.6 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Hawks 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/atl)",
+      "leadersAsOf": "2026-11-07"
     },
     "Boston Celtics": {
       "latestResult": "Beat the Milwaukee Bucks 117-97 on November 8",
@@ -291,7 +310,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Jayson Tatum",
+          "value": "27.1 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Neemias Queta",
+          "value": "6.2 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Jayson Tatum",
+          "value": "7.8 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Celtics 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/bos/boston-ce)",
+      "leadersAsOf": "2026-11-08"
     },
     "Brooklyn Nets": {
       "latestResult": "Lost 130-93 to the Dallas Mavericks on November 8",
@@ -310,7 +348,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Michael Porter Jr.",
+          "value": "21.4 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Michael Porter Jr.",
+          "value": "7.4 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Julius Randle",
+          "value": "4.8 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Nets 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/bkn/beat-the-keeper)",
+      "leadersAsOf": "2026-11-04"
     },
     "Charlotte Hornets": {
       "latestResult": "Beat the Cleveland Cavaliers 124-112 on November 9",
@@ -329,7 +386,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Brandon Miller",
+          "value": "20.6 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Moussa Diabate",
+          "value": "9.1 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Dennis Schroder",
+          "value": "4.9 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Hornets 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/cha)",
+      "leadersAsOf": "2026-11-13"
     },
     "Chicago Bulls": {
       "latestResult": "Lost 127-121 to the Philadelphia 76ers on November 8",
@@ -348,7 +424,21 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Rebounds per game",
+          "player": "Jalen Smith",
+          "value": "7.8 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Josh Giddey",
+          "value": "8.4 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Bulls 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/chi)",
+      "leadersAsOf": "2026-11-08"
     },
     "Cleveland Cavaliers": {
       "latestResult": "Lost 124-112 to the Charlotte Hornets on November 9",
@@ -367,7 +457,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Donovan Mitchell",
+          "value": "22.8 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Jarrett Allen",
+          "value": "7.7 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "James Harden",
+          "value": "5.7 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Cavaliers 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/cle)",
+      "leadersAsOf": "2026-11-13"
     },
     "Dallas Mavericks": {
       "latestResult": "Beat the Indiana Pacers 125-122 on November 9",
@@ -386,7 +495,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Cooper Flagg",
+          "value": "25.9 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "P.J. Washington",
+          "value": "7.5 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Cooper Flagg",
+          "value": "6.9 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Mavericks 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/dal)",
+      "leadersAsOf": "2026-11-13"
     },
     "Denver Nuggets": {
       "latestResult": "Lost 110-100 to the Houston Rockets on November 9",
@@ -405,7 +533,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Jamal Murray",
+          "value": "25.8 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Nikola Jokic",
+          "value": "10.8 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Nikola Jokic",
+          "value": "9.1 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Nuggets 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/den)",
+      "leadersAsOf": "2026-11-13"
     },
     "Detroit Pistons": {
       "latestResult": "Beat the Washington Wizards 122-111 on November 9",
@@ -424,7 +571,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Cade Cunningham",
+          "value": "22.3 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Ausar Thompson",
+          "value": "8.4 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Cade Cunningham",
+          "value": "7.6 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Pistons 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/det/_nr=0)",
+      "leadersAsOf": "2026-11-13"
     },
     "Golden State Warriors": {
       "latestResult": "Beat the New Orleans Pelicans 138-87 on November 9",
@@ -443,7 +609,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Stephen Curry",
+          "value": "27.8 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Yaxel Lendeborg",
+          "value": "7.4 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Draymond Green",
+          "value": "7.5 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Warriors 2026-27 team stats (https://www.espn.com/nba/teams/stats?team=gsw)",
+      "leadersAsOf": "2026-11-11"
     },
     "Houston Rockets": {
       "latestResult": "Beat the Denver Nuggets 110-100 on November 9",
@@ -462,7 +647,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Alperen Sengun",
+          "value": "21.3 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Alperen Sengun",
+          "value": "9.0 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Alperen Sengun",
+          "value": "7.8 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Rockets 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/hou/houston-rockets))",
+      "leadersAsOf": "2026-11-13"
     },
     "Indiana Pacers": {
       "latestResult": "Lost 125-122 to the Dallas Mavericks on November 9",
@@ -490,7 +694,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Pascal Siakam",
+          "value": "22.7 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Ivica Zubac",
+          "value": "8.3 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Andrew Nembhard",
+          "value": "7.8 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Pacers 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/Ind)",
+      "leadersAsOf": "2026-11-11"
     },
     "LA Clippers": {
       "latestResult": "Beat the New Orleans Pelicans 139-123 on November 8",
@@ -509,7 +732,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Darius Garland",
+          "value": "21.2 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Isaiah Jackson",
+          "value": "6.1 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Darius Garland",
+          "value": "7.0 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Clippers 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/lac)",
+      "leadersAsOf": "2026-11-13"
     },
     "Los Angeles Lakers": {
       "latestResult": "Beat the Atlanta Hawks 124-114 on November 9",
@@ -537,7 +779,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Luka Doncic",
+          "value": "38.6 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Walker Kessler",
+          "value": "10.8 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Luka Doncic",
+          "value": "7.6 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Lakers 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/lal/sort/threeP)",
+      "leadersAsOf": "2026-11-13"
     },
     "Memphis Grizzlies": {
       "latestResult": "Beat the Toronto Raptors 118-102 on November 9",
@@ -556,7 +817,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Ty Jerome",
+          "value": "26.7 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Cameron Boozer",
+          "value": "9.7 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Cameron Boozer",
+          "value": "5.5 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Grizzlies 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/mem/[tickets-link])",
+      "leadersAsOf": "2026-11-13"
     },
     "Miami Heat": {
       "latestResult": "Beat the Sacramento Kings 114-108 on November 8",
@@ -575,7 +855,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Giannis Antetokounmpo",
+          "value": "27.5 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Giannis Antetokounmpo",
+          "value": "12.8 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Davion Mitchell",
+          "value": "8.5 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Heat 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/mia/miami-heat)",
+      "leadersAsOf": "2026-11-13"
     },
     "Milwaukee Bucks": {
       "latestResult": "Lost 117-97 to the Boston Celtics on November 8",
@@ -594,7 +893,21 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Tyler Herro",
+          "value": "21.4 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Kel'el Ware",
+          "value": "6.9 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Bucks 2026-27 regular season team stats (https://www.espn.com/nba/teams/stats?team=mil)",
+      "leadersAsOf": "2026-11-13"
     },
     "Minnesota Timberwolves": {
       "latestResult": "Beat the Utah Jazz 115-100 on November 8",
@@ -613,7 +926,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "LaMelo Ball",
+          "value": "18.3 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Rudy Gobert",
+          "value": "12.1 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "LaMelo Ball",
+          "value": "6.0 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Timberwolves 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/min/minnesota-timberwolves)",
+      "leadersAsOf": "2026-11-13"
     },
     "New Orleans Pelicans": {
       "latestResult": "Lost 138-87 to the Golden State Warriors on November 9",
@@ -632,7 +964,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Zion Williamson",
+          "value": "21.7 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Derik Queen",
+          "value": "6.3 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Jeremiah Fears",
+          "value": "4.9 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Pelicans 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/no/new-orleans-pelicans)",
+      "leadersAsOf": "2026-11-13"
     },
     "New York Knicks": {
       "latestResult": "Beat the Cleveland Cavaliers 109-97 on November 7",
@@ -660,7 +1011,26 @@
         }
       ],
       "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Jalen Brunson",
+          "value": "26.0 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Karl-Anthony Towns",
+          "value": "13.5 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Jalen Brunson",
+          "value": "5.2 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Knicks 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/ny/new-york-knicks)",
+      "leadersAsOf": "2026-11-13"
     },
     "Oklahoma City Thunder": {
       "latestResult": "Beat the Washington Wizards 114-75 on November 7",
@@ -688,7 +1058,26 @@
         }
       ],
       "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Shai Gilgeous-Alexander",
+          "value": "29.5 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Isaiah Hartenstein",
+          "value": "10.0 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Shai Gilgeous-Alexander",
+          "value": "4.7 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Thunder 2026-27 team stats (https://www.espn.com/nba/team/stats/_/name/okc)",
+      "leadersAsOf": "2026-11-13"
     },
     "Orlando Magic": {
       "latestResult": "Lost 126-119 in overtime to the Golden State Warriors on November 7",
@@ -716,7 +1105,26 @@
         }
       ],
       "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Franz Wagner",
+          "value": "23.5 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Wendell Carter Jr.",
+          "value": "9.5 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Franz Wagner",
+          "value": "7.9 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Magic 2026-27 team stats (https://www.espn.com.au/nba/team/stats/_/name/Orl)",
+      "leadersAsOf": "2026-11-13"
     },
     "Philadelphia 76ers": {
       "latestResult": "Beat the Chicago Bulls 127-121 on November 8",
@@ -735,7 +1143,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Tyrese Maxey",
+          "value": "26.7 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Joel Embiid",
+          "value": "9.3 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "LeBron James",
+          "value": "6.5 per game"
+        }
+      ],
+      "leadersSource": "ESPN, 76ers 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/phi/philadelphia-76ers)",
+      "leadersAsOf": "2026-11-13"
     },
     "Phoenix Suns": {
       "latestResult": "Lost 122-96 to the San Antonio Spurs on November 9",
@@ -763,7 +1190,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Devin Booker",
+          "value": "25.5 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Miles Bridges",
+          "value": "7.3 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Devin Booker",
+          "value": "5.0 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Suns 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/phx/phoenix-suns)",
+      "leadersAsOf": "2026-11-13"
     },
     "Portland Trail Blazers": {
       "latestResult": "Lost 125-103 to the San Antonio Spurs on November 7",
@@ -782,7 +1228,26 @@
         }
       ],
       "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Deni Avdija",
+          "value": "23.0 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Donovan Clingan",
+          "value": "10.5 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Deni Avdija",
+          "value": "6.5 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Trail Blazers 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/por/portland-trail-blazers)",
+      "leadersAsOf": "2026-11-13"
     },
     "Sacramento Kings": {
       "latestResult": "Lost 114-108 to the Miami Heat on November 8",
@@ -810,7 +1275,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Darius Acuff Jr.",
+          "value": "25.9 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Domantas Sabonis",
+          "value": "14.6 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Darius Acuff Jr.",
+          "value": "7.4 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Kings 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/sac/sacramento-kings)",
+      "leadersAsOf": "2026-11-13"
     },
     "San Antonio Spurs": {
       "latestResult": "Beat the Phoenix Suns 122-96 on November 9",
@@ -829,7 +1313,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Victor Wembanyama",
+          "value": "29.1 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Victor Wembanyama",
+          "value": "12.0 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "De'Aaron Fox",
+          "value": "5.9 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Spurs 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/sa/san-antonio-spurs)",
+      "leadersAsOf": "2026-11-13"
     },
     "Toronto Raptors": {
       "latestResult": "Lost 118-102 to the Memphis Grizzlies on November 9",
@@ -848,7 +1351,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Scottie Barnes",
+          "value": "23.5 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Scottie Barnes",
+          "value": "7.6 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Jamal Shead",
+          "value": "7.0 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Raptors 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/tor/toronto-raptors)",
+      "leadersAsOf": "2026-11-13"
     },
     "Utah Jazz": {
       "latestResult": "Lost 115-100 to the Minnesota Timberwolves on November 8",
@@ -867,7 +1389,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Keyonte George",
+          "value": "21.1 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Lauri Markkanen",
+          "value": "6.8 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Keyonte George",
+          "value": "6.4 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Jazz 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/utah/utah-jazz)",
+      "leadersAsOf": "2026-11-13"
     },
     "Washington Wizards": {
       "latestResult": "Lost 122-111 to the Detroit Pistons on November 9",
@@ -895,7 +1436,26 @@
         }
       ],
       "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Anthony Davis",
+          "value": "25.6 per game"
+        },
+        {
+          "label": "Rebounds per game",
+          "player": "Anthony Davis",
+          "value": "10.5 per game"
+        },
+        {
+          "label": "Assists per game",
+          "player": "Trae Young",
+          "value": "8.8 per game"
+        }
+      ],
+      "leadersSource": "ESPN, Wizards 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/wsh/washington-wizards)",
+      "leadersAsOf": "2026-11-13"
     }
   }
 }

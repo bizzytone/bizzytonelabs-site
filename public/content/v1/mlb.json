@@ -1,6 +1,6 @@
 {
   "sport": "mlb",
-  "asOf": "2026-11-10",
+  "asOf": "2026-11-13",
   "season": "2026",
   "phase": "Offseason",
   "buzzRounds": [
@@ -326,7 +326,21 @@
         }
       ],
       "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Nolan Arenado",
+          "value": "30"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Nolan Arenado",
+          "value": "86"
+        }
+      ],
+      "leadersSource": "ESPN, Diamondbacks 2026 regular season batting stats (https://www.espn.com/mlb/team/stats/_/name/ARI)",
+      "leadersAsOf": "2026-11-13"
     },
     "Athletics": {
       "latestResult": "Season ended 64-98, fourth in the American League West and out of the playoffs",
@@ -345,7 +359,21 @@
         }
       ],
       "source": "MLB.com, Cam Castro named A's GM (https://www.mlb.com/news/cam-castro-new-a-s-gm); MLB.com, Taylor Smith named A's president of baseball operations (https://www.mlb.com/news/taylor-smith-named-a-s-president-of-baseball-operations); Associated Press via KSAT, option decisions (https://www.ksat.com/sports/2026/10/30/marlins-exercise-alcantara-option-king-leaves-padres-and-bichette-stays-with-mets/); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-04"
+      "asOf": "2026-11-04",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Shea Langeliers",
+          "value": "23"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Nick Kurtz",
+          "value": "69"
+        }
+      ],
+      "leadersSource": "ESPN UK, Athletics 2026 regular season batting stats (https://www.espn.co.uk/mlb/team/stats/_/name/ath)",
+      "leadersAsOf": "2026-11-13"
     },
     "Atlanta Braves": {
       "latestResult": "Season ended 94-68; beat the Phillies 2-1 in the Wild Card Series, then lost the Division Series 3-1 to the Dodgers",
@@ -373,7 +401,26 @@
         }
       ],
       "source": "NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-09"
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Matt Olson",
+          "value": "41"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Matt Olson",
+          "value": "93"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Chris Sale",
+          "value": "200"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Atlanta Braves Statistics (regular season) (https://www.baseball-reference.com/teams/ATL/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Baltimore Orioles": {
       "latestResult": "Season ended 79-82, fourth in the American League East and out of the playoffs; the final game against the Yankees was called off for weather",
@@ -401,7 +448,26 @@
         }
       ],
       "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Pete Alonso",
+          "value": "43"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Pete Alonso",
+          "value": "113"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Trevor Rogers",
+          "value": "157"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Baltimore Orioles Statistics (regular season) (https://www.baseball-reference.com/teams/BAL/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Boston Red Sox": {
       "latestResult": "Season ended 87-75; swept 2-0 by the Yankees in the Wild Card Series, losing 9-0 and 9-2",
@@ -429,7 +495,26 @@
         }
       ],
       "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-09"
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Willson Contreras",
+          "value": "27"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Willson Contreras",
+          "value": "81"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Payton Tolle",
+          "value": "171"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Boston Red Sox Statistics (regular season) (https://www.baseball-reference.com/teams/BOS/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Chicago Cubs": {
       "latestResult": "Season ended 89-73; swept 2-0 by the Padres in the Wild Card Series, losing 8-0 and 4-1",
@@ -458,13 +543,23 @@
       ],
       "leaders": [
         {
-          "label": "Home runs",
+          "label": "Home runs (2026 season)",
           "player": "Pete Crow-Armstrong",
           "value": "45"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Pete Crow-Armstrong",
+          "value": "107"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Shota Imanaga",
+          "value": "174"
         }
       ],
-      "leadersSource": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
-      "leadersAsOf": "2026-11-02",
+      "leadersSource": "Baseball-Reference, 2026 Chicago Cubs Statistics (regular season) (https://www.baseball-reference.com/teams/CHC/2026.shtml)",
+      "leadersAsOf": "2026-11-13",
       "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9); Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
       "asOf": "2026-11-09"
     },
@@ -494,7 +589,26 @@
         }
       ],
       "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Munetaka Murakami",
+          "value": "35"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Miguel Vargas",
+          "value": "93"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Sean Burke",
+          "value": "185"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Chicago White Sox Statistics (regular season) (https://www.baseball-reference.com/teams/CHW/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Cincinnati Reds": {
       "latestResult": "Season ended 75-87, fifth in the National League Central and out of the playoffs",
@@ -522,7 +636,21 @@
         }
       ],
       "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); CBS Sports, 2026 Rookie of the Year (https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-09"
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Sal Stewart",
+          "value": "32"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Chase Burns",
+          "value": "185"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Cincinnati Reds Statistics (regular season) (https://www.baseball-reference.com/teams/CIN/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Cleveland Guardians": {
       "latestResult": "Season ended 85-77; beat the White Sox 3-2 in the Division Series, then lost the American League Championship Series 4-2 to the Rays, falling 7-3 in Game 6 on Monday, October 19",
@@ -551,13 +679,23 @@
       ],
       "leaders": [
         {
-          "label": "Saves",
-          "player": "Cade Smith",
-          "value": "41"
+          "label": "Home runs (2026 season)",
+          "player": "Angel Martínez",
+          "value": "18"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Brayan Rocchio",
+          "value": "73"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Gavin Williams",
+          "value": "248"
         }
       ],
-      "leadersSource": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
-      "leadersAsOf": "2026-11-02",
+      "leadersSource": "Baseball-Reference, 2026 Cleveland Guardians Statistics (regular season) (https://www.baseball-reference.com/teams/CLE/2026.shtml)",
+      "leadersAsOf": "2026-11-13",
       "source": "Associated Press via WDBJ7, ALCS Game 6 (https://www.wdbj7.com/2026/10/20/daz-caminero-peralta-lead-rays-7-3-win-over-guardians-trip-world-series/?outputType=amp); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); CBS Sports, 2026 Rookie of the Year (https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/); ESPN standings (https://www.espn.com/mlb/standings)",
       "asOf": "2026-11-09"
     },
@@ -578,7 +716,26 @@
         }
       ],
       "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Hunter Goodman",
+          "value": "41"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Hunter Goodman",
+          "value": "88"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Kyle Freeland",
+          "value": "108"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Colorado Rockies Statistics (regular season) (https://www.baseball-reference.com/teams/COL/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Detroit Tigers": {
       "latestResult": "Season ended 76-86, fourth in the American League Central and out of the playoffs",
@@ -606,7 +763,26 @@
         }
       ],
       "source": "CBS Sports, 2026 Rookie of the Year (https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/); BBWAA, AL Rookie of the Year (https://bbwaa.com/26-al-roy/); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-09"
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Dillon Dingler",
+          "value": "27"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Dillon Dingler",
+          "value": "91"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Framber Valdez",
+          "value": "135"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Detroit Tigers Statistics (regular season) (https://www.baseball-reference.com/teams/DET/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Houston Astros": {
       "latestResult": "Season ended 81-81 as American League West champions; swept 2-0 by the White Sox in the Wild Card Series, losing 6-3 and 7-3",
@@ -635,13 +811,23 @@
       ],
       "leaders": [
         {
-          "label": "Batting average",
+          "label": "Home runs (2026 season)",
           "player": "Yordan Alvarez",
-          "value": ".316"
+          "value": "42"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Yordan Alvarez",
+          "value": "106"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Peter Lambert",
+          "value": "154"
         }
       ],
-      "leadersSource": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
-      "leadersAsOf": "2026-11-02",
+      "leadersSource": "Baseball-Reference, 2026 Houston Astros Statistics (regular season) (https://www.baseball-reference.com/teams/HOU/2026.shtml)",
+      "leadersAsOf": "2026-11-13",
       "source": "Associated Press via NY1, Astros hire Flores (https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/31/astros-hire-randy-flores-as-general-manager-former-pitcher-had-been-assistant-gm-with-cardinals); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
       "asOf": "2026-11-09"
     },
@@ -671,7 +857,21 @@
         }
       ],
       "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Carter Jensen",
+          "value": "27"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Carter Jensen",
+          "value": "81"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Kansas City Royals Statistics (regular season) (https://www.baseball-reference.com/teams/KCR/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Los Angeles Angels": {
       "latestResult": "Season ended 62-100, the first 100-loss season in franchise history",
@@ -699,7 +899,26 @@
         }
       ],
       "source": "MLB.com, Angels decline Suzuki's option (https://www.mlb.com/mets/news/angels-decline-manager-kurt-suzuki-contract-option); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Zach Neto",
+          "value": "27"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Zach Neto",
+          "value": "77"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Reid Detmers",
+          "value": "211"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Los Angeles Angels Statistics (regular season) (https://www.baseball-reference.com/teams/LAA/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Los Angeles Dodgers": {
       "latestResult": "Season ended 100-62; beat the Braves 3-1 in the Division Series, then were swept 4-0 by the Brewers in the National League Championship Series, losing Game 4 6-4",
@@ -727,7 +946,26 @@
         }
       ],
       "source": "NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, Tarik Skubal free agent profile (https://www.mlb.com/mets/news/tarik-skubal-2026-free-agent-profile); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-09"
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Shohei Ohtani",
+          "value": "30"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Andy Pages",
+          "value": "85"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Yoshinobu Yamamoto",
+          "value": "182"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Los Angeles Dodgers Statistics (regular season) (https://www.baseball-reference.com/teams/LAD/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Miami Marlins": {
       "latestResult": "Season ended 80-82, third in the National League East and out of the playoffs",
@@ -755,7 +993,26 @@
         }
       ],
       "source": "Associated Press via KSAT, option decisions (https://www.ksat.com/sports/2026/10/30/marlins-exercise-alcantara-option-king-leaves-padres-and-bichette-stays-with-mets/); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Heriberto Hernandez",
+          "value": "25"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Otto Lopez",
+          "value": ".305"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Otto Lopez",
+          "value": "71"
+        }
+      ],
+      "leadersSource": "ESPN, Marlins 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/mia/data)",
+      "leadersAsOf": "2026-11-13"
     },
     "Milwaukee Brewers": {
       "latestResult": "Won the World Series 4-1 by beating the Rays 4-1 in Game 5 at Tampa Bay on Wednesday, October 28; finished 103-59, then went 11-2 in the postseason",
@@ -801,13 +1058,18 @@
       ],
       "leaders": [
         {
-          "label": "Strikeouts",
-          "player": "Jacob Misiorowski",
-          "value": "252"
+          "label": "Home runs (2026 season)",
+          "player": "Jake Bauers",
+          "value": "26"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Jackson Chourio",
+          "value": ".291"
         }
       ],
-      "leadersSource": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
-      "leadersAsOf": "2026-11-02",
+      "leadersSource": "FanGraphs, 2026 Milwaukee Brewers team stats page (https://www.fangraphs.com/teams/brewers/stats?mm-view=app)",
+      "leadersAsOf": "2026-11-13",
       "source": "CBS Sports, World Series Game 5 box score and recap (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261028_MIL@TB/); CBS Sports, Brewers capture first title (https://www.cbssports.com/mlb/news/brewers-capture-first-world-series-title-with-game-5-win-over-rays/); MLB.com, Brewers win the World Series (https://www.mlb.com/brewers/news/brewers-win-world-series-2026); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
       "asOf": "2026-11-02"
     },
@@ -837,7 +1099,26 @@
         }
       ],
       "source": "Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Kody Clemens",
+          "value": "27"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Luke Keaschall",
+          "value": ".282"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Josh Bell",
+          "value": "96"
+        }
+      ],
+      "leadersSource": "ESPN, Twins 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/min/data)",
+      "leadersAsOf": "2026-11-13"
     },
     "New York Mets": {
       "latestResult": "Season ended 74-88, last in the National League East and out of the playoffs",
@@ -865,7 +1146,26 @@
         }
       ],
       "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); Associated Press via KSAT, option decisions (https://www.ksat.com/sports/2026/10/30/marlins-exercise-alcantara-option-king-leaves-padres-and-bichette-stays-with-mets/); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-09"
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Juan Soto",
+          "value": "27"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Carson Benge",
+          "value": ".282"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Bo Bichette",
+          "value": "78"
+        }
+      ],
+      "leadersSource": "ESPN, Mets 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/nym/bats)",
+      "leadersAsOf": "2026-11-13"
     },
     "New York Yankees": {
       "latestResult": "Season ended 93-68; swept the Red Sox 2-0 in the Wild Card Series, then were swept 3-0 by the Rays in the Division Series, losing Game 3 4-3",
@@ -894,13 +1194,13 @@
       ],
       "leaders": [
         {
-          "label": "Earned run average",
-          "player": "Cam Schlittler",
-          "value": "1.95"
+          "label": "Home runs (2026 season)",
+          "player": "Ben Rice",
+          "value": "41"
         }
       ],
-      "leadersSource": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
-      "leadersAsOf": "2026-11-02",
+      "leadersSource": "FanGraphs, 2026 New York Yankees team stats page (https://www.fangraphs.com/teams/yankees/stats)",
+      "leadersAsOf": "2026-11-13",
       "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
       "asOf": "2026-11-09"
     },
@@ -931,13 +1231,18 @@
       ],
       "leaders": [
         {
-          "label": "Home runs",
+          "label": "Home runs (2026 season)",
           "player": "Kyle Schwarber",
           "value": "45"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Bryce Harper",
+          "value": ".269"
         }
       ],
-      "leadersSource": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
-      "leadersAsOf": "2026-11-05",
+      "leadersSource": "FanGraphs, 2026 Philadelphia Phillies team stats page (https://www.fangraphs.com/teams/phillies/stats)",
+      "leadersAsOf": "2026-11-13",
       "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
       "asOf": "2026-11-09"
     },
@@ -958,7 +1263,26 @@
         }
       ],
       "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Brandon Lowe",
+          "value": "35"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Nick Gonzales",
+          "value": ".303"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Brandon Lowe",
+          "value": "96"
+        }
+      ],
+      "leadersSource": "ESPN, Pirates 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/pit/data)",
+      "leadersAsOf": "2026-11-13"
     },
     "San Diego Padres": {
       "latestResult": "Season ended 91-71; swept the Cubs 2-0 in the Wild Card Series, then lost the Division Series 3-1 to the Brewers",
@@ -987,13 +1311,18 @@
       ],
       "leaders": [
         {
-          "label": "Saves",
-          "player": "Mason Miller",
-          "value": "38"
+          "label": "Home runs (2026 season)",
+          "player": "Manny Machado",
+          "value": "30"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Fernando Tatis Jr.",
+          "value": ".289"
         }
       ],
-      "leadersSource": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
-      "leadersAsOf": "2026-11-02",
+      "leadersSource": "FanGraphs, 2026 San Diego Padres team stats page (https://www.fangraphs.com/teams/padres/stats)",
+      "leadersAsOf": "2026-11-13",
       "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); Associated Press via KSAT, option decisions (https://www.ksat.com/sports/2026/10/30/marlins-exercise-alcantara-option-king-leaves-padres-and-bichette-stays-with-mets/); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
       "asOf": "2026-11-09"
     },
@@ -1014,7 +1343,26 @@
         }
       ],
       "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Rafael Devers",
+          "value": "37"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Jung Hoo Lee",
+          "value": ".276"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Rafael Devers",
+          "value": "98"
+        }
+      ],
+      "leadersSource": "ESPN, Giants 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/sf/bats)",
+      "leadersAsOf": "2026-11-13"
     },
     "Seattle Mariners": {
       "latestResult": "Season ended 76-86, third in the American League West and out of the playoffs",
@@ -1042,7 +1390,26 @@
         }
       ],
       "source": "Associated Press via News4JAX, Mariners hire Kanzler (https://www.news4jax.com/sports/2026/11/03/seattle-mariners-hire-chicago-cubs-farm-director-jason-kanzler-as-manager/); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Randy Arozarena",
+          "value": "26"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Randy Arozarena",
+          "value": ".281"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Randy Arozarena",
+          "value": "79"
+        }
+      ],
+      "leadersSource": "ESPN, Mariners 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/sea/data)",
+      "leadersAsOf": "2026-11-13"
     },
     "St. Louis Cardinals": {
       "latestResult": "Season ended 77-85, fourth in the National League Central and out of the playoffs",
@@ -1071,13 +1438,23 @@
       ],
       "leaders": [
         {
-          "label": "Runs batted in",
+          "label": "Home runs (2026 season)",
+          "player": "Jordan Walker",
+          "value": "29"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Alec Burleson",
+          "value": ".279"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
           "player": "Alec Burleson",
           "value": "116"
         }
       ],
-      "leadersSource": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
-      "leadersAsOf": "2026-11-05",
+      "leadersSource": "ESPN, Cardinals 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/stl/index)",
+      "leadersAsOf": "2026-11-13",
       "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
       "asOf": "2026-11-09"
     },
@@ -1123,13 +1500,18 @@
       ],
       "leaders": [
         {
-          "label": "Saves",
-          "player": "Bryan Baker",
-          "value": "41"
+          "label": "Home runs (2026 season)",
+          "player": "Junior Caminero",
+          "value": "42"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Chandler Simpson",
+          "value": ".306"
         }
       ],
-      "leadersSource": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
-      "leadersAsOf": "2026-11-02",
+      "leadersSource": "FanGraphs, 2026 Tampa Bay Rays team stats page (https://www.fangraphs.com/teams/rays/stats)",
+      "leadersAsOf": "2026-11-13",
       "source": "CBS Sports, World Series Game 5 box score and recap (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261028_MIL@TB/); Associated Press via WDBJ7, ALCS Game 6 (https://www.wdbj7.com/2026/10/20/daz-caminero-peralta-lead-rays-7-3-win-over-guardians-trip-world-series/?outputType=amp); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
       "asOf": "2026-11-02"
     },
@@ -1150,7 +1532,21 @@
         }
       ],
       "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Jake Burger",
+          "value": "28"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Jake Burger",
+          "value": "90"
+        }
+      ],
+      "leadersSource": "ESPN, Rangers 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/tex/throws)",
+      "leadersAsOf": "2026-11-13"
     },
     "Toronto Blue Jays": {
       "latestResult": "Season ended 79-83, fifth in the American League East and out of the playoffs",
@@ -1178,7 +1574,26 @@
         }
       ],
       "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-09"
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Kazuma Okamoto",
+          "value": "33"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Vladimir Guerrero Jr.",
+          "value": ".260"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Kazuma Okamoto",
+          "value": "92"
+        }
+      ],
+      "leadersSource": "ESPN, Blue Jays 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/tor/throws)",
+      "leadersAsOf": "2026-11-13"
     },
     "Washington Nationals": {
       "latestResult": "Season ended 77-85, fourth in the National League East and out of the playoffs",
@@ -1206,7 +1621,26 @@
         }
       ],
       "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); Associated Press via News4JAX, Mariners hire Kanzler (https://www.news4jax.com/sports/2026/11/03/seattle-mariners-hire-chicago-cubs-farm-director-jason-kanzler-as-manager/); ESPN standings (https://www.espn.com/mlb/standings)",
-      "asOf": "2026-11-05"
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "CJ Abrams",
+          "value": "33"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "James Wood",
+          "value": ".265"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "CJ Abrams",
+          "value": "106"
+        }
+      ],
+      "leadersSource": "ESPN, Nationals 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/wsh/nationals)",
+      "leadersAsOf": "2026-11-13"
     }
   }
 }
