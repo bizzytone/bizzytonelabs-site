@@ -1,26 +1,26 @@
 {
   "schema": 1,
   "killSwitch": false,
-  "publishedAt": "2026-11-10",
+  "publishedAt": "2026-11-13",
   "sports": {
     "nfl": {
-      "asOf": "2026-11-10",
-      "version": "2026-11-10",
+      "asOf": "2026-11-13",
+      "version": "2026-11-13",
       "file": "nfl.json"
     },
     "mlb": {
-      "asOf": "2026-11-10",
-      "version": "2026-11-10",
+      "asOf": "2026-11-13",
+      "version": "2026-11-13",
       "file": "mlb.json"
     },
     "nba": {
-      "asOf": "2026-11-10",
-      "version": "2026-11-10",
+      "asOf": "2026-11-13",
+      "version": "2026-11-13",
       "file": "nba.json"
     },
     "nhl": {
-      "asOf": "2026-11-10",
-      "version": "2026-11-10",
+      "asOf": "2026-11-13",
+      "version": "2026-11-13",
       "file": "nhl.json"
     }
   }

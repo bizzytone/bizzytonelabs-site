@@ -1,6 +1,6 @@
 {
   "sport": "nfl",
-  "asOf": "2026-11-10",
+  "asOf": "2026-11-13",
   "season": "2026",
   "phase": "Week 9 complete (Week 10 next)",
   "buzzRounds": [
@@ -460,7 +460,21 @@
         }
       ],
       "source": "thescore.com game page (https://www.thescore.com/nfl/event/140710)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Rushing yards",
+          "player": "Tyler Allgeier",
+          "value": "369"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Trey McBride",
+          "value": "598"
+        }
+      ],
+      "leadersSource": "FOX Sports, Cardinals team stats & leaders (https://www.foxsports.com/nfl/arizona-cardinals-team-stats)",
+      "leadersAsOf": "2026-11-13"
     },
     "Atlanta Falcons": {
       "latestResult": "Lost 34-17 to the Cincinnati Bengals in Madrid in Week 9 (now 3-6)",
@@ -558,7 +572,26 @@
         }
       ],
       "source": "Jaguars team site box score (https://www.jaguars.com/game-day/2026/reg-week9/jaguars-at-ravens/box-score); FOX Sports (https://foxsports.com/stories/nfl/baltimore-never-stood-chance-3-takeaways-from-jaguars-win-over-ravens)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Lamar Jackson",
+          "value": "967"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Derrick Henry",
+          "value": "689"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Zay Flowers",
+          "value": "614"
+        }
+      ],
+      "leadersSource": "FOX Sports, Ravens team stats & leaders (https://www.foxsports.com/nfl/baltimore-ravens-team-stats)",
+      "leadersAsOf": "2026-11-12"
     },
     "Buffalo Bills": {
       "latestResult": "Won 23-6 at the Minnesota Vikings on Monday night in Week 9 (now 7-1)",
@@ -661,7 +694,26 @@
         }
       ],
       "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-denver-broncos-vs-carolina-panthers-nov-08-2026-game-boxscore-11270)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Bryce Young",
+          "value": "2,197"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Chuba Hubbard",
+          "value": "619"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Tetairoa McMillan",
+          "value": "625"
+        }
+      ],
+      "leadersSource": "FOX Sports, Panthers team stats & leaders (https://www.foxsports.com/nfl/carolina-panthers-team-stats)",
+      "leadersAsOf": "2026-11-12"
     },
     "Chicago Bears": {
       "latestResult": "Won 27-24 against the Tampa Bay Buccaneers in Week 9 (now 7-2)",
@@ -706,7 +758,26 @@
         }
       ],
       "source": "Buccaneers team site box score (https://www.buccaneers.com/game-day/2026/reg-week9/buccaneers-at-bears/box-score); FOX Sports (https://www.foxsports.com/nfl/week-9-tampa-bay-buccaneers-vs-chicago-bears-nov-08-2026-game-boxscore-11276)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Caleb Williams",
+          "value": "1546"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "D'Andre Swift",
+          "value": "576"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Luther Burden III",
+          "value": "644"
+        }
+      ],
+      "leadersSource": "CBS Sports, Bears stats and team leaders (https://www.cbssports.com/nfl/teams/CHI/chicago-bears/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Cincinnati Bengals": {
       "latestResult": "Won 34-17 against the Atlanta Falcons in Madrid in Week 9 (now 6-2)",
@@ -810,7 +881,26 @@
         }
       ],
       "source": "Saints team site box score (https://www.neworleanssaints.com/game-day/2026/reg-week9/browns-at-saints/box-score)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Deshaun Watson",
+          "value": "1,806"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Quinshon Judkins",
+          "value": "385"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Denzel Boston",
+          "value": "507"
+        }
+      ],
+      "leadersSource": "FOX Sports, Browns team stats & leaders (https://www.foxsports.com/nfl/cleveland-browns-team-stats)",
+      "leadersAsOf": "2026-11-10"
     },
     "Dallas Cowboys": {
       "latestResult": "Won 27-23 at the Indianapolis Colts in Week 9 (now 4-5)",
@@ -912,7 +1002,26 @@
         }
       ],
       "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-denver-broncos-vs-carolina-panthers-nov-08-2026-game-boxscore-11270); Denver Broncos team site (https://www.denverbroncos.com/news/cover-4-key-takeaways-go-ahead-fourth-quarter-drive-lead-broncos-to-26-21-win-over-panthers)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Bo Nix",
+          "value": "1730"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "J.K. Dobbins",
+          "value": "324"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Jaylen Waddle",
+          "value": "337"
+        }
+      ],
+      "leadersSource": "CBS Sports, Broncos stats and team leaders (https://www.cbssports.com/nfl/teams/DEN/denver-broncos/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Detroit Lions": {
       "latestResult": "Won 19-9 at the Miami Dolphins in Week 9 (now 6-2)",
@@ -1127,7 +1236,26 @@
         }
       ],
       "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-dallas-cowboys-vs-indianapolis-colts-nov-08-2026-game-boxscore-11265?tab=boxscore)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Daniel Jones",
+          "value": "1,722"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Jonathan Taylor",
+          "value": "656"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Josh Downs",
+          "value": "354"
+        }
+      ],
+      "leadersSource": "FOX Sports, Colts team stats & leaders (https://www.foxsports.com/nfl/indianapolis-colts-team-stats)",
+      "leadersAsOf": "2026-11-10"
     },
     "Jacksonville Jaguars": {
       "latestResult": "Won 33-10 at the Baltimore Ravens on Thursday night in Week 9 (now 6-2)",
@@ -1172,7 +1300,26 @@
         }
       ],
       "source": "Jaguars team site box score (https://www.jaguars.com/game-day/2026/reg-week9/jaguars-at-ravens/box-score); FOX Sports (https://foxsports.com/stories/nfl/baltimore-never-stood-chance-3-takeaways-from-jaguars-win-over-ravens)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Trevor Lawrence",
+          "value": "1,932"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Bhayshul Tuten",
+          "value": "521"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Parker Washington",
+          "value": "493"
+        }
+      ],
+      "leadersSource": "FOX Sports, Jaguars team stats & leaders (https://www.foxsports.com/nfl/jacksonville-jaguars-team-stats)",
+      "leadersAsOf": "2026-11-12"
     },
     "Kansas City Chiefs": {
       "latestResult": "Won 35-12 against the New York Jets in Week 9 (now 6-2)",
@@ -1307,7 +1454,26 @@
         }
       ],
       "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708); FOX Sports (https://www.foxsports.com/nfl/houston-texans-vs-los-angeles-chargers-nov-08-2026-game-boxscore-11273)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Justin Herbert",
+          "value": "1,591"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Omarion Hampton",
+          "value": "369"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Ladd McConkey",
+          "value": "286"
+        }
+      ],
+      "leadersSource": "FOX Sports, Chargers team stats & leaders (https://www.foxsports.com/nfl/los-angeles-chargers-team-stats)",
+      "leadersAsOf": "2026-11-12"
     },
     "Los Angeles Rams": {
       "latestResult": "Won 20-13 at the Washington Commanders in Week 9 (now 5-4)",
@@ -1405,7 +1571,26 @@
         }
       ],
       "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-detroit-lions-vs-miami-dolphins-nov-08-2026-game-boxscore-11269?tab=boxscore)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Malik Willis",
+          "value": "1,396"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Ollie Gordon II",
+          "value": "463"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Malik Washington",
+          "value": "350"
+        }
+      ],
+      "leadersSource": "FOX Sports, Dolphins team stats & leaders (https://foxsports.com/nfl/miami-dolphins-team-stats)",
+      "leadersAsOf": "2026-11-13"
     },
     "Minnesota Vikings": {
       "latestResult": "Lost 23-6 against the Buffalo Bills on Monday night in Week 9 (now 6-2)",
@@ -1485,7 +1670,26 @@
         }
       ],
       "source": "thescore.com game page (https://www.thescore.com/nfl/event/140709); FOX Sports (https://www.foxsports.com/nfl/week-9-green-bay-packers-vs-new-england-patriots-nov-08-2026-game-boxscore-11274?tab=boxscore)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Drake Maye",
+          "value": "2,282"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Rhamondre Stevenson",
+          "value": "399"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "DeMario Douglas",
+          "value": "434"
+        }
+      ],
+      "leadersSource": "FOX Sports, Patriots team stats & leaders (https://www.foxsports.com/nfl/new-england-patriots-team-stats)",
+      "leadersAsOf": "2026-11-12"
     },
     "New Orleans Saints": {
       "latestResult": "Won 23-22 in overtime against the Cleveland Browns in Week 9 (now 3-5)",
@@ -1566,7 +1770,26 @@
         }
       ],
       "source": "Giants team site (https://www.giants.com/news/instant-analysis-giants-defeat-eagles-19-11-in-philadelphia); Eagles team site scoring summary (https://www.philadelphiaeagles.com/game-day/2026/reg-week9/giants-at-eagles/scoring-summary)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Jameis Winston",
+          "value": "1,028"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Cam Skattebo",
+          "value": "418"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Malik Nabers",
+          "value": "648"
+        }
+      ],
+      "leadersSource": "FOX Sports, Giants team stats & leaders (https://www.foxsports.com/nfl/new-york-giants-team-stats)",
+      "leadersAsOf": "2026-11-11"
     },
     "New York Jets": {
       "latestResult": "Lost 35-12 at the Kansas City Chiefs in Week 9 (now 2-7)",
@@ -1611,7 +1834,26 @@
         }
       ],
       "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-new-york-jets-vs-kansas-city-chiefs-nov-08-2026-game-boxscore-11268); New York Jets team site (https://www.newyorkjets.com/news/jets-chiefs-game-recap-11-08-2026)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Geno Smith",
+          "value": "1,913"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Braelon Allen",
+          "value": "565"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Garrett Wilson",
+          "value": "527"
+        }
+      ],
+      "leadersSource": "FOX Sports, Jets team stats & leaders (https://www.foxsports.com/nfl/new-york-jets-team-stats)",
+      "leadersAsOf": "2026-11-05"
     },
     "Philadelphia Eagles": {
       "latestResult": "Lost 19-11 against the New York Giants in Week 9 (now 2-7)",
@@ -1639,7 +1881,26 @@
         }
       ],
       "source": "Giants team site (https://www.giants.com/news/instant-analysis-giants-defeat-eagles-19-11-in-philadelphia); Eagles team site scoring summary (https://www.philadelphiaeagles.com/game-day/2026/reg-week9/giants-at-eagles/scoring-summary)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Jalen Hurts",
+          "value": "933"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Saquon Barkley",
+          "value": "296"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Makai Lemon",
+          "value": "312"
+        }
+      ],
+      "leadersSource": "FOX Sports, Eagles team stats & leaders (https://www.foxsports.com/nfl/philadelphia-eagles-team-stats)",
+      "leadersAsOf": "2026-11-11"
     },
     "Pittsburgh Steelers": {
       "latestResult": "Won 27-6 against the Cleveland Browns in Week 8 (now 6-2); on a bye in Week 9",
@@ -1737,7 +1998,26 @@
         }
       ],
       "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-las-vegas-raiders-vs-san-francisco-49ers-nov-08-2026-game-boxscore-11272)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Brock Purdy",
+          "value": "1,980"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Christian McCaffrey",
+          "value": "457"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "George Kittle",
+          "value": "483"
+        }
+      ],
+      "leadersSource": "FOX Sports, 49ers team stats & leaders (https://www.foxsports.com/nfl/san-francisco-49ers-team-stats)",
+      "leadersAsOf": "2026-11-12"
     },
     "Seattle Seahawks": {
       "latestResult": "Won 17-3 against the Arizona Cardinals in Week 9 (now 5-4)",
@@ -1943,7 +2223,26 @@
         }
       ],
       "source": "thescore.com game page (https://www.thescore.com/nfl/event/140701); Associated Press via KSL (https://www.ksl.com/article/51644581/puka-nacua-myles-garrett-lead-rams-to-20-13-win-over-commanders)",
-      "asOf": "2026-11-10"
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Jayden Daniels",
+          "value": "1,250"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Jayden Daniels",
+          "value": "252"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Stefon Diggs",
+          "value": "303"
+        }
+      ],
+      "leadersSource": "FOX Sports, Commanders team stats & leaders (https://www.foxsports.com/nfl/washington-commanders-team-stats)",
+      "leadersAsOf": "2026-11-11"
     }
   }
 }
