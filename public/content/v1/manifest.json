@@ -5,22 +5,22 @@
   "sports": {
     "nfl": {
       "asOf": "2026-11-13",
-      "version": "2026-11-13",
+      "version": "2026-11-13.2",
       "file": "nfl.json"
     },
     "mlb": {
       "asOf": "2026-11-13",
-      "version": "2026-11-13",
+      "version": "2026-11-13.2",
       "file": "mlb.json"
     },
     "nba": {
       "asOf": "2026-11-13",
-      "version": "2026-11-13",
+      "version": "2026-11-13.2",
       "file": "nba.json"
     },
     "nhl": {
       "asOf": "2026-11-13",
-      "version": "2026-11-13",
+      "version": "2026-11-13.2",
       "file": "nhl.json"
     }
   }
