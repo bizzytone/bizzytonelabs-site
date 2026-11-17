@@ -1,1408 +1,1659 @@
 {
   "sport": "mlb",
-  "asOf": "2026-10-07",
+  "asOf": "2026-11-13",
   "season": "2026",
-  "phase": "Postseason: Division Series",
+  "phase": "Offseason",
   "buzzRounds": [
     [
       {
-        "id": "mlb-yankees-brink-rays",
-        "topic": "Yankees one loss from elimination",
-        "whatHappened": "The Rays beat the Yankees 5-2 on Monday in Game 2 of the American League Division Series and lead the best-of-five series 2-0. New York made four errors, including three in the first inning, and its only runs were two solo home runs by Ben Rice. Aaron Judge was out of the lineup with a calf injury.",
-        "whyCare": "New York became the first team to commit three errors in the first inning of a postseason game, and now it has to win three straight, starting with Game 3 at Yankee Stadium on Wednesday.",
-        "youCouldSay": "The Yankees made four errors and lost 5-2 to the Rays on Monday, and Ben Rice homered twice for both of their runs. They are down 0-2 and have to win Wednesday at Yankee Stadium, with Aaron Judge out with a calf injury.",
-        "gameDate": "2026-10-05",
+        "id": "mlb-rookies-of-the-year",
+        "topic": "Rookie of the Year winners named",
+        "whatHappened": "The Baseball Writers' Association of America named its Rookies of the Year on Monday, November 9. Tigers shortstop Kevin McGonigle won the American League award with 204 points and 28 of 30 first-place votes, ahead of Parker Messick's 122, and Reds first baseman Sal Stewart won the National League award after hitting 32 home runs.",
+        "whyCare": "CBS Sports notes Stewart is one of just 15 rookies ever with at least 30 home runs and 100 runs batted in, and the awards kick off a week that ends with Most Valuable Player on Thursday, November 12.",
+        "youCouldSay": "Kevin McGonigle won American League Rookie of the Year with 28 of 30 first-place votes, and Sal Stewart took the National League award after hitting 32 home runs as a Reds rookie.",
+        "gameDate": null,
         "details": [
           {
-            "name": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "Designated hitter (DH)",
-            "lastGame": {
-              "date": "2026-10-05",
-              "label": "at Tampa Bay Rays, lost 5-2 (Division Series Game 2)",
-              "stats": [
-                "2 for 3",
-                "2 home runs",
-                "2 runs batted in",
-                "2 runs scored"
-              ]
-            },
-            "buzz": "Rice hit two solo homers in Game 2, giving him four this postseason, after hitting 41 in the regular season.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_NYY@TB/)",
-            "asOf": "2026-10-07"
-          }
-        ],
-        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
-        "asOf": "2026-10-07"
-      },
-      {
-        "id": "mlb-white-sox-one-win-from-alcs",
-        "topic": "White Sox one win from the league championship series",
-        "whatHappened": "The White Sox beat the Guardians 4-3 in Cleveland on Monday to take a 2-0 lead in their American League Division Series. Braden Montgomery hit a two-run double in the sixth inning for the go-ahead runs, and Sean Burke won it with 5 1/3 innings of relief.",
-        "whyCare": "Chicago lost a post-1900 record 121 games in 2024 and is the first team to reach the postseason after three straight 100-loss seasons. One more win sends it to the American League Championship Series for the first time since 2005, the year it won the World Series.",
-        "youCouldSay": "The White Sox lost a record 121 games in 2024, and now they are up 2-0 on Cleveland after Braden Montgomery's two-run double won Game 2, 4-3, on Monday. One more win and they are in the American League Championship Series for the first time since 2005.",
-        "gameDate": "2026-10-05",
-        "details": [
-          {
-            "name": "Braden Montgomery",
-            "team": "Chicago White Sox",
-            "position": "Outfielder (OF)",
-            "lastGame": {
-              "date": "2026-10-05",
-              "label": "at Cleveland Guardians, won 4-3 (Division Series Game 2)",
-              "stats": [
-                "1 for 4",
-                "1 double",
-                "2 runs batted in",
-                "1 run scored"
-              ]
-            },
-            "buzz": "Montgomery hit the go-ahead two-run double on a first pitch from reliever Erik Sabrowski in the sixth inning of Game 2.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
-            "asOf": "2026-10-07"
+            "name": "Kevin McGonigle",
+            "team": "Detroit Tigers",
+            "position": "Shortstop (SS)",
+            "lastGame": null,
+            "buzz": "McGonigle hit .278 with 18 home runs and 12 stolen bases, and split his time between shortstop and third base.",
+            "source": "CBS Sports, 2026 Rookie of the Year (https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/); BBWAA, AL Rookie of the Year (https://bbwaa.com/26-al-roy/); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+            "asOf": "2026-11-09"
           },
           {
-            "name": "Sean Burke",
-            "team": "Chicago White Sox",
-            "position": "Relief pitcher (RP)",
-            "lastGame": {
-              "date": "2026-10-05",
-              "label": "at Cleveland Guardians, won 4-3 (Division Series Game 2)",
-              "stats": [
-                "5 1/3 innings",
-                "6 strikeouts",
-                "1 earned run",
-                "1 hit allowed"
-              ]
-            },
-            "buzz": "Burke came on in the third inning behind opener Anthony Kay and got the win, allowing one hit in 5 1/3 innings.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
-            "asOf": "2026-10-07"
+            "name": "Sal Stewart",
+            "team": "Cincinnati Reds",
+            "position": "First baseman (1B)",
+            "lastGame": null,
+            "buzz": "Stewart hit 32 home runs with 15 stolen bases and a .263 average in his first full season.",
+            "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); CBS Sports, 2026 Rookie of the Year (https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/)",
+            "asOf": "2026-11-09"
           }
         ],
-        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
-        "asOf": "2026-10-07"
+        "source": "CBS Sports, 2026 Rookie of the Year (https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/); BBWAA, AL Rookie of the Year (https://bbwaa.com/26-al-roy/); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+        "asOf": "2026-11-09"
       },
       {
-        "id": "mlb-dodgers-yamamoto-game3",
-        "topic": "Yamamoto puts Dodgers one win from the next round",
-        "whatHappened": "Yoshinobu Yamamoto struck out 10 in seven innings and the Dodgers beat the Braves 3-1 in Atlanta on Tuesday. Freddie Freeman and Enrique Hernández both homered in the fourth inning off Chris Sale.",
-        "whyCare": "The two-time defending champion Dodgers lead the National League Division Series 2-1 and can finish it with a win in Game 4 in Atlanta on Wednesday.",
-        "youCouldSay": "Yoshinobu Yamamoto struck out 10 in seven innings as the Dodgers beat the Braves 3-1 on Tuesday, and Freddie Freeman homered against his old team. L.A. is up 2-1 and can close it out Wednesday in Atlanta.",
-        "gameDate": "2026-10-06",
+        "id": "mlb-awards-week",
+        "topic": "Awards week: Cy Young and MVP are this week",
+        "whatHappened": "Baseball's big awards are announced this week: Manager of the Year on Tuesday, November 10, the Cy Young Awards (best pitcher) on Wednesday, November 11, and Most Valuable Player on Thursday, November 12. Brewers righty Jacob Misiorowski, a National League Cy Young finalist, led the majors with 252 strikeouts and a 1.80 earned run average, Astros slugger Yordan Alvarez is an American League MVP finalist after hitting .316 with 42 home runs, and Cubs outfielder Pete Crow-Armstrong is a National League MVP finalist after 45 home runs and 41 stolen bases.",
+        "whyCare": "ESPN notes Alvarez fell one home run and seven runs batted in short of a Triple Crown (leading the league in batting average, home runs and runs batted in), and the World Series champion Brewers have a Cy Young finalist and an MVP finalist in Brice Turang.",
+        "youCouldSay": "Jacob Misiorowski led the majors with 252 strikeouts and a 1.80 earned run average and is a Cy Young finalist, and Yordan Alvarez hit .316 with 42 homers, one short of a Triple Crown. The Cy Young is announced Wednesday and the MVP Thursday.",
+        "gameDate": null,
         "details": [
           {
-            "name": "Yoshinobu Yamamoto",
-            "team": "Los Angeles Dodgers",
+            "name": "Jacob Misiorowski",
+            "team": "Milwaukee Brewers",
             "position": "Starting pitcher (SP)",
             "lastGame": {
-              "date": "2026-10-06",
-              "label": "at Atlanta Braves, won 3-1 (Division Series Game 3)",
+              "date": "2026-10-28",
+              "label": "at Tampa Bay Rays, won 4-1 (World Series Game 5)",
               "stats": [
-                "7 innings",
-                "10 strikeouts",
-                "1 earned run",
-                "4 hits allowed"
+                "5 2/3 innings",
+                "2 hits allowed",
+                "0 earned runs",
+                "2 strikeouts"
               ]
             },
-            "buzz": "Yamamoto out-dueled Chris Sale with 10 strikeouts over seven innings to put the Dodgers one win from the National League Championship Series.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_LAD@ATL/)",
-            "asOf": "2026-10-07"
+            "buzz": "Misiorowski led the majors with 252 strikeouts and finished with a 1.80 earned run average, then won World Series Game 5 with 5 2/3 scoreless innings.",
+            "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); CBS Sports, World Series Game 5 box score and recap (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261028_MIL@TB/)",
+            "asOf": "2026-11-09"
           },
           {
-            "name": "Freddie Freeman",
-            "team": "Los Angeles Dodgers",
-            "position": "First baseman (1B)",
-            "lastGame": {
-              "date": "2026-10-06",
-              "label": "at Atlanta Braves, won 3-1 (Division Series Game 3)",
-              "stats": [
-                "1 for 4",
-                "1 home run",
-                "1 run batted in"
-              ]
-            },
-            "buzz": "Freeman, a former Brave, homered in Atlanta in Game 3, his second home run of this postseason.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_LAD@ATL/); MLB.com (https://www.mlb.com/news)",
-            "asOf": "2026-10-07"
-          },
-          {
-            "name": "Enrique Hernández",
-            "team": "Los Angeles Dodgers",
-            "position": "Third baseman (3B)",
-            "lastGame": {
-              "date": "2026-10-06",
-              "label": "at Atlanta Braves, won 3-1 (Division Series Game 3)",
-              "stats": [
-                "1 for 4",
-                "1 home run",
-                "2 runs batted in"
-              ]
-            },
-            "buzz": "Hernández hit a two-run homer off Chris Sale in the fourth inning, his first home run of this postseason.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_LAD@ATL/)",
-            "asOf": "2026-10-07"
-          }
-        ],
-        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_LAD@ATL/); MLB.com (https://www.mlb.com/news); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
-        "asOf": "2026-10-07"
-      }
-    ],
-    [
-      {
-        "id": "mlb-yankees-brink-rays",
-        "topic": "Yankees one loss from elimination",
-        "whatHappened": "The Rays beat the Yankees 5-2 on Monday in Game 2 of the American League Division Series and lead the best-of-five series 2-0. New York made four errors, including three in the first inning, and its only runs were two solo home runs by Ben Rice. Aaron Judge was out of the lineup with a calf injury.",
-        "whyCare": "New York became the first team to commit three errors in the first inning of a postseason game, and now it has to win three straight, starting with Game 3 at Yankee Stadium on Wednesday.",
-        "youCouldSay": "The Yankees made four errors and lost 5-2 to the Rays on Monday, and Ben Rice homered twice for both of their runs. They are down 0-2 and have to win Wednesday at Yankee Stadium, with Aaron Judge out with a calf injury.",
-        "gameDate": "2026-10-05",
-        "details": [
-          {
-            "name": "Ben Rice",
-            "team": "New York Yankees",
+            "name": "Yordan Alvarez",
+            "team": "Houston Astros",
             "position": "Designated hitter (DH)",
-            "lastGame": {
-              "date": "2026-10-05",
-              "label": "at Tampa Bay Rays, lost 5-2 (Division Series Game 2)",
-              "stats": [
-                "2 for 3",
-                "2 home runs",
-                "2 runs batted in",
-                "2 runs scored"
-              ]
-            },
-            "buzz": "Rice hit two solo homers in Game 2, giving him four this postseason, after hitting 41 in the regular season.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_NYY@TB/)",
-            "asOf": "2026-10-07"
-          }
-        ],
-        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
-        "asOf": "2026-10-07"
-      },
-      {
-        "id": "mlb-white-sox-one-win-from-alcs",
-        "topic": "White Sox one win from the league championship series",
-        "whatHappened": "The White Sox beat the Guardians 4-3 in Cleveland on Monday to take a 2-0 lead in their American League Division Series. Braden Montgomery hit a two-run double in the sixth inning for the go-ahead runs, and Sean Burke won it with 5 1/3 innings of relief.",
-        "whyCare": "Chicago lost a post-1900 record 121 games in 2024 and is the first team to reach the postseason after three straight 100-loss seasons. One more win sends it to the American League Championship Series for the first time since 2005, the year it won the World Series.",
-        "youCouldSay": "The White Sox lost a record 121 games in 2024, and now they are up 2-0 on Cleveland after Braden Montgomery's two-run double won Game 2, 4-3, on Monday. One more win and they are in the American League Championship Series for the first time since 2005.",
-        "gameDate": "2026-10-05",
-        "details": [
+            "lastGame": null,
+            "buzz": "Alvarez led all qualifying hitters with a .316 batting average and set career highs with 42 home runs and 106 runs batted in.",
+            "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); ESPN, 2026 awards week (https://www.espn.com/mlb/story/_/id/50391276/2026-season-awards-mvp-cy-young-al-nl)",
+            "asOf": "2026-11-09"
+          },
           {
-            "name": "Braden Montgomery",
-            "team": "Chicago White Sox",
+            "name": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
             "position": "Outfielder (OF)",
-            "lastGame": {
-              "date": "2026-10-05",
-              "label": "at Cleveland Guardians, won 4-3 (Division Series Game 2)",
-              "stats": [
-                "1 for 4",
-                "1 double",
-                "2 runs batted in",
-                "1 run scored"
-              ]
-            },
-            "buzz": "Montgomery hit the go-ahead two-run double on a first pitch from reliever Erik Sabrowski in the sixth inning of Game 2.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
-            "asOf": "2026-10-07"
-          },
-          {
-            "name": "Sean Burke",
-            "team": "Chicago White Sox",
-            "position": "Relief pitcher (RP)",
-            "lastGame": {
-              "date": "2026-10-05",
-              "label": "at Cleveland Guardians, won 4-3 (Division Series Game 2)",
-              "stats": [
-                "5 1/3 innings",
-                "6 strikeouts",
-                "1 earned run",
-                "1 hit allowed"
-              ]
-            },
-            "buzz": "Burke came on in the third inning behind opener Anthony Kay and got the win, allowing one hit in 5 1/3 innings.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
-            "asOf": "2026-10-07"
+            "lastGame": null,
+            "buzz": "Crow-Armstrong hit 45 home runs and stole 41 bases and won his second straight Gold Glove in center field.",
+            "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners)",
+            "asOf": "2026-11-09"
           }
         ],
-        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
-        "asOf": "2026-10-07"
+        "source": "ESPN, 2026 awards week (https://www.espn.com/mlb/story/_/id/50391276/2026-season-awards-mvp-cy-young-al-nl); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); Yahoo Sports, important dates for the offseason (https://sports.yahoo.com/articles/important-dates-currently-scheduled-2026-140000155.html); CBS Sports, World Series Game 5 box score and recap (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261028_MIL@TB/)",
+        "asOf": "2026-11-09"
       },
       {
-        "id": "mlb-padres-stay-alive",
-        "topic": "Padres avoid elimination on a wild final play",
-        "whatHappened": "Facing elimination, the Padres beat the Brewers 4-3 in San Diego on Tuesday. Jake Cronenworth hit the tiebreaking homer in the fifth, and with two runners on in the ninth, Xander Bogaerts fielded Christian Yelich's 107 miles per hour line drive on a short hop on his knees, stepped on second and threw to first for a game-ending double play.",
-        "whyCare": "Milwaukee still leads the National League Division Series 2-1, and Game 4 is Wednesday in San Diego.",
-        "youCouldSay": "The Padres were one loss from going home and beat the Brewers 4-3 on Tuesday, and it ended when Xander Bogaerts fielded a 107 miles per hour line drive on his knees and turned a game-ending double play. Milwaukee still leads the series 2-1.",
-        "gameDate": "2026-10-06",
+        "id": "mlb-gm-meetings-lockout",
+        "topic": "GM meetings open with a lockout looming",
+        "whatHappened": "The general managers' meetings opened Monday, November 9, in Las Vegas with no major deals yet, and reporter Jon Paul Morosi says team officials told him trade talks are more advanced than is typical for this point in November. MLB's labor contract expires December 1 at 11:59 p.m. Eastern, and the Associated Press reports MLB is likely to lock out the players when it does. Morosi also reported that the Braves will not engage with teams asking about Ronald Acuña Jr., and named Guardians outfielder Steven Kwan as a possible trade example.",
+        "whyCare": "The 2027 season is scheduled to start March 24, and the last lockout, in 2021-22, lasted 99 days, so teams may try to make moves before December 1.",
+        "youCouldSay": "Baseball's labor contract expires December 1 and a lockout, meaning owners stop the players from working, is expected, and reporter Jon Paul Morosi says trade talks at this week's general managers' meetings are further along than usual for November.",
+        "gameDate": null,
         "details": [
           {
-            "name": "Xander Bogaerts",
-            "team": "San Diego Padres",
-            "position": "Shortstop (SS)",
-            "lastGame": {
-              "date": "2026-10-06",
-              "label": "vs. Milwaukee Brewers, won 4-3 (Division Series Game 3)",
-              "stats": [
-                "1 for 3",
-                "1 run scored"
-              ]
-            },
-            "buzz": "Bogaerts singled and scored the Padres' fourth run on a hustle play in the sixth, then ended Game 3 with a double play on Christian Yelich's 107 miles per hour liner.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/)",
-            "asOf": "2026-10-07"
+            "name": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "Outfielder (OF)",
+            "lastGame": null,
+            "buzz": "Morosi named Kwan, a 29-year-old two-time All-Star, as a possible example of the trades teams are discussing, though the report says Cleveland would likely keep him if teams won't offer prospects.",
+            "source": "Fastball On SI via Yahoo Sports, Jon Morosi on the offseason (https://sports.yahoo.com/articles/jon-morosi-explains-mlb-offseason-080445939.html)",
+            "asOf": "2026-11-09"
           },
           {
-            "name": "Jake Cronenworth",
-            "team": "San Diego Padres",
-            "position": "Second baseman (2B)",
-            "lastGame": {
-              "date": "2026-10-06",
-              "label": "vs. Milwaukee Brewers, won 4-3 (Division Series Game 3)",
-              "stats": [
-                "2 for 2",
-                "1 home run",
-                "1 run batted in"
-              ]
-            },
-            "buzz": "Cronenworth hit JoJo Romero's first pitch of the fifth inning over the right-field wall for the tiebreaking home run, only his second hit of this postseason.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/)",
-            "asOf": "2026-10-07"
+            "name": "Ronald Acuña Jr.",
+            "team": "Atlanta Braves",
+            "position": "Outfielder (OF)",
+            "lastGame": null,
+            "buzz": "Morosi reported Monday that Atlanta has no interest in moving Acuña and will not engage with teams that ask about him.",
+            "source": "MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9)",
+            "asOf": "2026-11-09"
           }
         ],
-        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
-        "asOf": "2026-10-07"
+        "source": "Fastball On SI via Yahoo Sports, Jon Morosi on the offseason (https://sports.yahoo.com/articles/jon-morosi-explains-mlb-offseason-080445939.html); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9); Yahoo Sports, important dates for the offseason (https://sports.yahoo.com/articles/important-dates-currently-scheduled-2026-140000155.html); Associated Press via News4JAX, lockout (https://www.news4jax.com/sports/2026/10/29/mlbs-2027-season-threatened-with-lockout-looming-when-labor-deal-expires-dec-1/)",
+        "asOf": "2026-11-09"
       }
     ],
     [
       {
-        "id": "mlb-yankees-brink-rays",
-        "topic": "Yankees one loss from elimination",
-        "whatHappened": "The Rays beat the Yankees 5-2 on Monday in Game 2 of the American League Division Series and lead the best-of-five series 2-0. New York made four errors, including three in the first inning, and its only runs were two solo home runs by Ben Rice. Aaron Judge was out of the lineup with a calf injury.",
-        "whyCare": "New York became the first team to commit three errors in the first inning of a postseason game, and now it has to win three straight, starting with Game 3 at Yankee Stadium on Wednesday.",
-        "youCouldSay": "The Yankees made four errors and lost 5-2 to the Rays on Monday, and Ben Rice homered twice for both of their runs. They are down 0-2 and have to win Wednesday at Yankee Stadium, with Aaron Judge out with a calf injury.",
-        "gameDate": "2026-10-05",
+        "id": "mlb-awards-week",
+        "topic": "Awards week: Cy Young and MVP are this week",
+        "whatHappened": "Baseball's big awards are announced this week: Manager of the Year on Tuesday, November 10, the Cy Young Awards (best pitcher) on Wednesday, November 11, and Most Valuable Player on Thursday, November 12. Brewers righty Jacob Misiorowski, a National League Cy Young finalist, led the majors with 252 strikeouts and a 1.80 earned run average, Astros slugger Yordan Alvarez is an American League MVP finalist after hitting .316 with 42 home runs, and Cubs outfielder Pete Crow-Armstrong is a National League MVP finalist after 45 home runs and 41 stolen bases.",
+        "whyCare": "ESPN notes Alvarez fell one home run and seven runs batted in short of a Triple Crown (leading the league in batting average, home runs and runs batted in), and the World Series champion Brewers have a Cy Young finalist and an MVP finalist in Brice Turang.",
+        "youCouldSay": "Jacob Misiorowski led the majors with 252 strikeouts and a 1.80 earned run average and is a Cy Young finalist, and Yordan Alvarez hit .316 with 42 homers, one short of a Triple Crown. The Cy Young is announced Wednesday and the MVP Thursday.",
+        "gameDate": null,
         "details": [
           {
-            "name": "Ben Rice",
-            "team": "New York Yankees",
-            "position": "Designated hitter (DH)",
+            "name": "Jacob Misiorowski",
+            "team": "Milwaukee Brewers",
+            "position": "Starting pitcher (SP)",
             "lastGame": {
-              "date": "2026-10-05",
-              "label": "at Tampa Bay Rays, lost 5-2 (Division Series Game 2)",
+              "date": "2026-10-28",
+              "label": "at Tampa Bay Rays, won 4-1 (World Series Game 5)",
               "stats": [
-                "2 for 3",
-                "2 home runs",
-                "2 runs batted in",
-                "2 runs scored"
+                "5 2/3 innings",
+                "2 hits allowed",
+                "0 earned runs",
+                "2 strikeouts"
               ]
             },
-            "buzz": "Rice hit two solo homers in Game 2, giving him four this postseason, after hitting 41 in the regular season.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_NYY@TB/)",
-            "asOf": "2026-10-07"
-          }
-        ],
-        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
-        "asOf": "2026-10-07"
-      },
-      {
-        "id": "mlb-padres-stay-alive",
-        "topic": "Padres avoid elimination on a wild final play",
-        "whatHappened": "Facing elimination, the Padres beat the Brewers 4-3 in San Diego on Tuesday. Jake Cronenworth hit the tiebreaking homer in the fifth, and with two runners on in the ninth, Xander Bogaerts fielded Christian Yelich's 107 miles per hour line drive on a short hop on his knees, stepped on second and threw to first for a game-ending double play.",
-        "whyCare": "Milwaukee still leads the National League Division Series 2-1, and Game 4 is Wednesday in San Diego.",
-        "youCouldSay": "The Padres were one loss from going home and beat the Brewers 4-3 on Tuesday, and it ended when Xander Bogaerts fielded a 107 miles per hour line drive on his knees and turned a game-ending double play. Milwaukee still leads the series 2-1.",
-        "gameDate": "2026-10-06",
-        "details": [
-          {
-            "name": "Xander Bogaerts",
-            "team": "San Diego Padres",
-            "position": "Shortstop (SS)",
-            "lastGame": {
-              "date": "2026-10-06",
-              "label": "vs. Milwaukee Brewers, won 4-3 (Division Series Game 3)",
-              "stats": [
-                "1 for 3",
-                "1 run scored"
-              ]
-            },
-            "buzz": "Bogaerts singled and scored the Padres' fourth run on a hustle play in the sixth, then ended Game 3 with a double play on Christian Yelich's 107 miles per hour liner.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/)",
-            "asOf": "2026-10-07"
+            "buzz": "Misiorowski led the majors with 252 strikeouts and finished with a 1.80 earned run average, then won World Series Game 5 with 5 2/3 scoreless innings.",
+            "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); CBS Sports, World Series Game 5 box score and recap (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261028_MIL@TB/)",
+            "asOf": "2026-11-09"
           },
           {
-            "name": "Jake Cronenworth",
-            "team": "San Diego Padres",
-            "position": "Second baseman (2B)",
-            "lastGame": {
-              "date": "2026-10-06",
-              "label": "vs. Milwaukee Brewers, won 4-3 (Division Series Game 3)",
-              "stats": [
-                "2 for 2",
-                "1 home run",
-                "1 run batted in"
-              ]
-            },
-            "buzz": "Cronenworth hit JoJo Romero's first pitch of the fifth inning over the right-field wall for the tiebreaking home run, only his second hit of this postseason.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/)",
-            "asOf": "2026-10-07"
+            "name": "Yordan Alvarez",
+            "team": "Houston Astros",
+            "position": "Designated hitter (DH)",
+            "lastGame": null,
+            "buzz": "Alvarez led all qualifying hitters with a .316 batting average and set career highs with 42 home runs and 106 runs batted in.",
+            "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); ESPN, 2026 awards week (https://www.espn.com/mlb/story/_/id/50391276/2026-season-awards-mvp-cy-young-al-nl)",
+            "asOf": "2026-11-09"
+          },
+          {
+            "name": "Pete Crow-Armstrong",
+            "team": "Chicago Cubs",
+            "position": "Outfielder (OF)",
+            "lastGame": null,
+            "buzz": "Crow-Armstrong hit 45 home runs and stole 41 bases and won his second straight Gold Glove in center field.",
+            "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners)",
+            "asOf": "2026-11-09"
           }
         ],
-        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/)",
-        "asOf": "2026-10-07"
+        "source": "ESPN, 2026 awards week (https://www.espn.com/mlb/story/_/id/50391276/2026-season-awards-mvp-cy-young-al-nl); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); Yahoo Sports, important dates for the offseason (https://sports.yahoo.com/articles/important-dates-currently-scheduled-2026-140000155.html); CBS Sports, World Series Game 5 box score and recap (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261028_MIL@TB/)",
+        "asOf": "2026-11-09"
       },
       {
-        "id": "mlb-skubal-dodgers-debut",
-        "topic": "Skubal wins first playoff start for the Dodgers",
-        "whatHappened": "Tarik Skubal, whom Detroit traded to the Dodgers just before the August 3 trade deadline, allowed one run on two hits in six innings as the Dodgers beat the Braves 5-3 in Game 1 of the National League Division Series on Saturday. The game-time temperature at Dodger Stadium was 100 degrees.",
-        "whyCare": "Skubal struck out seven, and his 63 strikeouts are the second-most by a pitcher in his first seven postseason appearances, behind only Bob Gibson.",
-        "youCouldSay": "Tarik Skubal, who Detroit traded to the Dodgers in August, gave up one run in six innings to win his first playoff start for L.A., 5-3 over Atlanta on Saturday, in 100-degree heat at Dodger Stadium.",
-        "gameDate": "2026-10-03",
+        "id": "mlb-gm-meetings-lockout",
+        "topic": "GM meetings open with a lockout looming",
+        "whatHappened": "The general managers' meetings opened Monday, November 9, in Las Vegas with no major deals yet, and reporter Jon Paul Morosi says team officials told him trade talks are more advanced than is typical for this point in November. MLB's labor contract expires December 1 at 11:59 p.m. Eastern, and the Associated Press reports MLB is likely to lock out the players when it does. Morosi also reported that the Braves will not engage with teams asking about Ronald Acuña Jr., and named Guardians outfielder Steven Kwan as a possible trade example.",
+        "whyCare": "The 2027 season is scheduled to start March 24, and the last lockout, in 2021-22, lasted 99 days, so teams may try to make moves before December 1.",
+        "youCouldSay": "Baseball's labor contract expires December 1 and a lockout, meaning owners stop the players from working, is expected, and reporter Jon Paul Morosi says trade talks at this week's general managers' meetings are further along than usual for November.",
+        "gameDate": null,
+        "details": [
+          {
+            "name": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "Outfielder (OF)",
+            "lastGame": null,
+            "buzz": "Morosi named Kwan, a 29-year-old two-time All-Star, as a possible example of the trades teams are discussing, though the report says Cleveland would likely keep him if teams won't offer prospects.",
+            "source": "Fastball On SI via Yahoo Sports, Jon Morosi on the offseason (https://sports.yahoo.com/articles/jon-morosi-explains-mlb-offseason-080445939.html)",
+            "asOf": "2026-11-09"
+          },
+          {
+            "name": "Ronald Acuña Jr.",
+            "team": "Atlanta Braves",
+            "position": "Outfielder (OF)",
+            "lastGame": null,
+            "buzz": "Morosi reported Monday that Atlanta has no interest in moving Acuña and will not engage with teams that ask about him.",
+            "source": "MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9)",
+            "asOf": "2026-11-09"
+          }
+        ],
+        "source": "Fastball On SI via Yahoo Sports, Jon Morosi on the offseason (https://sports.yahoo.com/articles/jon-morosi-explains-mlb-offseason-080445939.html); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9); Yahoo Sports, important dates for the offseason (https://sports.yahoo.com/articles/important-dates-currently-scheduled-2026-140000155.html); Associated Press via News4JAX, lockout (https://www.news4jax.com/sports/2026/10/29/mlbs-2027-season-threatened-with-lockout-looming-when-labor-deal-expires-dec-1/)",
+        "asOf": "2026-11-09"
+      },
+      {
+        "id": "mlb-skubal-free-agent",
+        "topic": "Tarik Skubal hits free agency",
+        "whatHappened": "Tarik Skubal, a two-time American League Cy Young winner, is a free agent after the Dodgers traded for him from Detroit before the trade deadline, reportedly for three prospects. He went 12-7 with a 2.72 earned run average and 186 strikeouts in 158 2/3 innings, and MLB.com's November 9 roundup passes along Jon Heyman's report that the Mets are probably the favorite to land him.",
+        "whyCare": "Because he was traded during the season, Skubal could not receive a qualifying offer (a one-year offer that gives the old team a draft pick if the player signs elsewhere), and MLB.com's November 9 free-agent roundup names the Padres, Giants, Phillies and Blue Jays as possible suitors, with the Dodgers also in the mix.",
+        "youCouldSay": "Tarik Skubal, a two-time Cy Young winner, went 12-7 with a 2.72 earned run average and 186 strikeouts and is now a free agent after the Dodgers got him from Detroit at the deadline. Jon Heyman reports the Mets are probably the favorite.",
+        "gameDate": null,
         "details": [
           {
             "name": "Tarik Skubal",
             "team": "Los Angeles Dodgers",
             "position": "Starting pitcher (SP)",
-            "lastGame": {
-              "date": "2026-10-03",
-              "label": "vs. Atlanta Braves, won 5-3 (Division Series Game 1)",
-              "stats": [
-                "6 innings",
-                "7 strikeouts",
-                "1 earned run",
-                "2 hits allowed"
-              ]
-            },
-            "buzz": "Skubal has 63 strikeouts in his first seven postseason appearances, second-most ever behind Bob Gibson.",
-            "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261003_ATL@LAD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261003_ATL@LAD/)",
-            "asOf": "2026-10-07"
+            "lastGame": null,
+            "buzz": "Skubal posted a 2.61 earned run average in 10 starts for the Dodgers after the trade, and he said he would love to return to Detroit.",
+            "source": "MLB.com, Tarik Skubal free agent profile (https://www.mlb.com/mets/news/tarik-skubal-2026-free-agent-profile); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9)",
+            "asOf": "2026-11-09"
           }
         ],
-        "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261003_ATL@LAD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261003_ATL@LAD/)",
-        "asOf": "2026-10-07"
+        "source": "MLB.com, Tarik Skubal free agent profile (https://www.mlb.com/mets/news/tarik-skubal-2026-free-agent-profile); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9)",
+        "asOf": "2026-11-09"
+      }
+    ],
+    [
+      {
+        "id": "mlb-gm-meetings-lockout",
+        "topic": "GM meetings open with a lockout looming",
+        "whatHappened": "The general managers' meetings opened Monday, November 9, in Las Vegas with no major deals yet, and reporter Jon Paul Morosi says team officials told him trade talks are more advanced than is typical for this point in November. MLB's labor contract expires December 1 at 11:59 p.m. Eastern, and the Associated Press reports MLB is likely to lock out the players when it does. Morosi also reported that the Braves will not engage with teams asking about Ronald Acuña Jr., and named Guardians outfielder Steven Kwan as a possible trade example.",
+        "whyCare": "The 2027 season is scheduled to start March 24, and the last lockout, in 2021-22, lasted 99 days, so teams may try to make moves before December 1.",
+        "youCouldSay": "Baseball's labor contract expires December 1 and a lockout, meaning owners stop the players from working, is expected, and reporter Jon Paul Morosi says trade talks at this week's general managers' meetings are further along than usual for November.",
+        "gameDate": null,
+        "details": [
+          {
+            "name": "Steven Kwan",
+            "team": "Cleveland Guardians",
+            "position": "Outfielder (OF)",
+            "lastGame": null,
+            "buzz": "Morosi named Kwan, a 29-year-old two-time All-Star, as a possible example of the trades teams are discussing, though the report says Cleveland would likely keep him if teams won't offer prospects.",
+            "source": "Fastball On SI via Yahoo Sports, Jon Morosi on the offseason (https://sports.yahoo.com/articles/jon-morosi-explains-mlb-offseason-080445939.html)",
+            "asOf": "2026-11-09"
+          },
+          {
+            "name": "Ronald Acuña Jr.",
+            "team": "Atlanta Braves",
+            "position": "Outfielder (OF)",
+            "lastGame": null,
+            "buzz": "Morosi reported Monday that Atlanta has no interest in moving Acuña and will not engage with teams that ask about him.",
+            "source": "MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9)",
+            "asOf": "2026-11-09"
+          }
+        ],
+        "source": "Fastball On SI via Yahoo Sports, Jon Morosi on the offseason (https://sports.yahoo.com/articles/jon-morosi-explains-mlb-offseason-080445939.html); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9); Yahoo Sports, important dates for the offseason (https://sports.yahoo.com/articles/important-dates-currently-scheduled-2026-140000155.html); Associated Press via News4JAX, lockout (https://www.news4jax.com/sports/2026/10/29/mlbs-2027-season-threatened-with-lockout-looming-when-labor-deal-expires-dec-1/)",
+        "asOf": "2026-11-09"
+      },
+      {
+        "id": "mlb-skubal-free-agent",
+        "topic": "Tarik Skubal hits free agency",
+        "whatHappened": "Tarik Skubal, a two-time American League Cy Young winner, is a free agent after the Dodgers traded for him from Detroit before the trade deadline, reportedly for three prospects. He went 12-7 with a 2.72 earned run average and 186 strikeouts in 158 2/3 innings, and MLB.com's November 9 roundup passes along Jon Heyman's report that the Mets are probably the favorite to land him.",
+        "whyCare": "Because he was traded during the season, Skubal could not receive a qualifying offer (a one-year offer that gives the old team a draft pick if the player signs elsewhere), and MLB.com's November 9 free-agent roundup names the Padres, Giants, Phillies and Blue Jays as possible suitors, with the Dodgers also in the mix.",
+        "youCouldSay": "Tarik Skubal, a two-time Cy Young winner, went 12-7 with a 2.72 earned run average and 186 strikeouts and is now a free agent after the Dodgers got him from Detroit at the deadline. Jon Heyman reports the Mets are probably the favorite.",
+        "gameDate": null,
+        "details": [
+          {
+            "name": "Tarik Skubal",
+            "team": "Los Angeles Dodgers",
+            "position": "Starting pitcher (SP)",
+            "lastGame": null,
+            "buzz": "Skubal posted a 2.61 earned run average in 10 starts for the Dodgers after the trade, and he said he would love to return to Detroit.",
+            "source": "MLB.com, Tarik Skubal free agent profile (https://www.mlb.com/mets/news/tarik-skubal-2026-free-agent-profile); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9)",
+            "asOf": "2026-11-09"
+          }
+        ],
+        "source": "MLB.com, Tarik Skubal free agent profile (https://www.mlb.com/mets/news/tarik-skubal-2026-free-agent-profile); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9)",
+        "asOf": "2026-11-09"
+      },
+      {
+        "id": "mlb-mariners-hire-kanzler",
+        "topic": "Mariners hire a manager who has never managed",
+        "whatHappened": "The Mariners hired Jason Kanzler, 36, as manager on Tuesday, November 3. He was the Cubs' director of player development, has never managed at any level, and replaces Dan Wilson after Seattle went 76-86, a year after reaching Game 7 of the American League Championship Series.",
+        "whyCare": "Kanzler is the second-youngest manager in baseball behind the Nationals' Blake Butera, 34, and catcher Cal Raleigh hit .182 with 23 homers and 69 runs batted in for a Seattle offense that scored the third-fewest runs in the majors.",
+        "youCouldSay": "The Mariners hired 36-year-old Jason Kanzler, who has never managed anywhere, after a 76-86 season. Catcher Cal Raleigh hit just .182 and Randy Arozarena got a qualifying offer, so he has until November 17 to decide.",
+        "gameDate": null,
+        "details": [
+          {
+            "name": "Cal Raleigh",
+            "team": "Seattle Mariners",
+            "position": "Catcher (C)",
+            "lastGame": null,
+            "buzz": "Raleigh hit .182 with 23 home runs and 69 runs batted in in 2026, according to the Associated Press.",
+            "source": "Associated Press via News4JAX, Mariners hire Kanzler (https://www.news4jax.com/sports/2026/11/03/seattle-mariners-hire-chicago-cubs-farm-director-jason-kanzler-as-manager/)",
+            "asOf": "2026-11-03"
+          },
+          {
+            "name": "Randy Arozarena",
+            "team": "Seattle Mariners",
+            "position": "Outfielder (OF)",
+            "lastGame": null,
+            "buzz": "Arozarena received a one-year qualifying offer and has until November 17 to accept; he scored 113 runs and is a Silver Slugger finalist (an award for the best hitter at a position).",
+            "source": "Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+            "asOf": "2026-11-05"
+          }
+        ],
+        "source": "Associated Press via News4JAX, Mariners hire Kanzler (https://www.news4jax.com/sports/2026/11/03/seattle-mariners-hire-chicago-cubs-farm-director-jason-kanzler-as-manager/); Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+        "asOf": "2026-11-05"
       }
     ]
   ],
   "teams": {
     "Arizona Diamondbacks": {
-      "latestResult": "Lost 9-4 at the Padres in the regular-season finale; finished 86-76, out of the playoffs",
-      "latestGameDate": "2026-09-27",
-      "storyline": "Arizona went 86-76, six wins better than its 80-82 record in 2025, but missed the playoffs for the eighth time in nine seasons when the Phillies clinched the last National League wild card spot.",
-      "bringUp": "The Diamondbacks won 86 games and still missed the playoffs, which is the eighth time in nine seasons they've sat out October; their only trip in that span was the 2023 World Series run.",
+      "latestResult": "Season ended 86-76, third in the National League West and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Arizona won three Gold Gloves (the award for the best fielder at each position), tied with Boston for the most, and catcher Gabriel Moreno is only the second catcher to win a Gold Glove and a batting title in the same year, after Joe Mauer.",
+      "bringUp": "Gabriel Moreno won a Gold Glove and the National League batting title in the same year, only the second catcher ever to do that, and the Diamondbacks won three Gold Gloves in all.",
       "details": [
+        {
+          "name": "Gabriel Moreno",
+          "team": "Arizona Diamondbacks",
+          "position": "Catcher (C)",
+          "lastGame": null,
+          "buzz": "Moreno won the Gold Glove at catcher and hit .311, and he is a Silver Slugger finalist (an award for the best hitter at a position).",
+          "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
+        },
         {
           "name": "Corbin Carroll",
           "team": "Arizona Diamondbacks",
           "position": "Outfielder (OF)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "at San Diego Padres, lost 9-4 (season finale)",
-            "stats": [
-              "1 for 3",
-              "1 run batted in",
-              "1 run scored"
-            ]
-          },
-          "buzz": "Carroll finished the season with a .239 batting average and a .467 slugging percentage, according to the CBS Sports box score of the finale.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_ARI@SD/)",
-          "asOf": "2026-10-07"
+          "lastGame": null,
+          "buzz": "Carroll won the Gold Glove in right field and is the fifth Diamondbacks outfielder to win one.",
+          "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners)",
+          "asOf": "2026-11-01"
+        }
+      ],
+      "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Nolan Arenado",
+          "value": "30"
         },
         {
-          "name": "Geraldo Perdomo",
-          "team": "Arizona Diamondbacks",
-          "position": "Shortstop (SS)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "at San Diego Padres, lost 9-4 (season finale)",
-            "stats": [
-              "1 for 3",
-              "1 walk"
-            ]
-          },
-          "buzz": "Perdomo ended the year with a .370 on-base percentage, the share of trips to the plate where he reached base, per the finale's box score.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_ARI@SD/)",
-          "asOf": "2026-10-07"
+          "label": "Runs batted in (2026 season)",
+          "player": "Nolan Arenado",
+          "value": "86"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_ARI@SD/)",
-      "asOf": "2026-10-07"
+      "leadersSource": "ESPN, Diamondbacks 2026 regular season batting stats (https://www.espn.com/mlb/team/stats/_/name/ARI)",
+      "leadersAsOf": "2026-11-13"
     },
     "Athletics": {
-      "latestResult": "Lost 9-0 to the Astros at home in the season finale; finished 64-98, out of the playoffs",
-      "latestGameDate": "2026-09-27",
-      "storyline": "The Athletics went 64-98 in their second season at a minor league ballpark in West Sacramento and drew a major-league-low 799,240 fans at home, ahead of a planned move to Las Vegas in 2028.",
-      "bringUp": "The A's drew 799,240 fans at home this year, the only team in the majors under a million, while playing in a minor league park in West Sacramento until their planned 2028 move to Las Vegas.",
+      "latestResult": "Season ended 64-98, fourth in the American League West and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "The A's rebuilt their front office, naming 31-year-old Taylor Smith president of baseball operations on October 19 and 36-year-old Brewers executive Cam Castro general manager on November 4, ahead of a 2028 move to Las Vegas.",
+      "bringUp": "The A's just hired 31-year-old Taylor Smith to run baseball operations and 36-year-old Cam Castro, from the champion Brewers, as general manager, after a 98-loss season.",
       "details": [
         {
-          "name": "Lawrence Butler",
+          "name": "Jeffrey Springs",
           "team": "Athletics",
-          "position": "Outfielder (OF)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "vs Houston Astros, lost 9-0 (season finale)",
-            "stats": [
-              "2 for 4",
-              "0 runs batted in"
-            ]
-          },
-          "buzz": "Butler had two of the A's five hits in a 9-0 shutout loss to Houston that closed a 64-98 season.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_HOU@ATH/)",
-          "asOf": "2026-10-07"
+          "position": "Starting pitcher (SP)",
+          "lastGame": null,
+          "buzz": "The A's declined their option on left-hander Jeffrey Springs, the Associated Press reported on October 30.",
+          "source": "Associated Press via KSAT, option decisions (https://www.ksat.com/sports/2026/10/30/marlins-exercise-alcantara-option-king-leaves-padres-and-bichette-stays-with-mets/)",
+          "asOf": "2026-10-30"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_HOU@ATH/)",
-      "asOf": "2026-10-07"
+      "source": "MLB.com, Cam Castro named A's GM (https://www.mlb.com/news/cam-castro-new-a-s-gm); MLB.com, Taylor Smith named A's president of baseball operations (https://www.mlb.com/news/taylor-smith-named-a-s-president-of-baseball-operations); Associated Press via KSAT, option decisions (https://www.ksat.com/sports/2026/10/30/marlins-exercise-alcantara-option-king-leaves-padres-and-bichette-stays-with-mets/); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-04",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Shea Langeliers",
+          "value": "23"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Nick Kurtz",
+          "value": "69"
+        }
+      ],
+      "leadersSource": "ESPN UK, Athletics 2026 regular season batting stats (https://www.espn.co.uk/mlb/team/stats/_/name/ath)",
+      "leadersAsOf": "2026-11-13"
     },
     "Atlanta Braves": {
-      "latestResult": "Lost 3-1 to the Dodgers at home in Game 3 of the National League Division Series (trail series 2-1)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Atlanta, which won the National League East at 94-68 and beat the Phillies 6-2 in Game 3 of the wild card round, now has to win Game 4 at home on Wednesday to stay alive against the Dodgers.",
-      "bringUp": "The Braves lost 3-1 to the Dodgers on Tuesday night on home runs by Freddie Freeman and Enrique Hernandez, so they're down 2-1 and facing elimination in Game 4 in Atlanta on Wednesday.",
+      "latestResult": "Season ended 94-68; beat the Phillies 2-1 in the Wild Card Series, then lost the Division Series 3-1 to the Dodgers",
+      "latestGameDate": null,
+      "storyline": "Chris Sale is a National League Cy Young finalist after a 2.16 earned run average and 200 strikeouts, Matt Olson won a Gold Glove, and reporter Jon Paul Morosi says the Braves will not engage on trade offers for Ronald Acuña Jr.",
+      "bringUp": "Chris Sale is a Cy Young finalist with 200 strikeouts and a 2.16 earned run average, and Jon Paul Morosi reports the Braves won't even talk trade about Ronald Acuña Jr.",
       "details": [
         {
           "name": "Chris Sale",
           "team": "Atlanta Braves",
           "position": "Starting pitcher (SP)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs Los Angeles Dodgers, lost 3-1 (Division Series Game 3)",
-            "stats": [
-              "5 innings",
-              "7 strikeouts",
-              "3 earned runs",
-              "7 hits allowed"
-            ]
-          },
-          "buzz": "Sale took the loss in Game 3, giving up both Dodgers home runs in a three-run fourth inning.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_LAD@ATL/)",
-          "asOf": "2026-10-07"
+          "lastGame": null,
+          "buzz": "Sale is a National League Cy Young finalist after a 2.16 earned run average and 200 strikeouts in 162 2/3 innings.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+          "asOf": "2026-11-09"
+        },
+        {
+          "name": "Ronald Acuña Jr.",
+          "team": "Atlanta Braves",
+          "position": "Outfielder (OF)",
+          "lastGame": null,
+          "buzz": "Morosi reported Monday that Atlanta will not engage with teams asking about a trade for Acuña.",
+          "source": "MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9)",
+          "asOf": "2026-11-09"
         }
       ],
-      "source": "MLB.com (https://www.mlb.com/scores/2026-10-06)",
-      "asOf": "2026-10-07"
+      "source": "NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Matt Olson",
+          "value": "41"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Matt Olson",
+          "value": "93"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Chris Sale",
+          "value": "200"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Atlanta Braves Statistics (regular season) (https://www.baseball-reference.com/teams/ATL/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Baltimore Orioles": {
-      "latestResult": "Lost 6-3 at the Yankees in the second game of a doubleheader; finished 79-82, out of the playoffs",
-      "latestGameDate": "2026-09-25",
-      "storyline": "Baltimore finished 79-82 for its second straight losing season, while first-year Oriole Pete Alonso hit 43 home runs, the most in the American League at the time of the team's last game.",
-      "bringUp": "Pete Alonso hit 43 home runs for the Orioles, tops in the American League when their season ended, but Baltimore still finished 79-82 for a second straight losing year.",
+      "latestResult": "Season ended 79-82, fourth in the American League East and out of the playoffs; the final game against the Yankees was called off for weather",
+      "latestGameDate": null,
+      "storyline": "Pete Alonso hit 43 home runs with 113 runs batted in and is a Silver Slugger finalist at first base, and Baltimore made left-hander Trevor Rogers a qualifying offer, a one-year offer he has until November 17 to accept.",
+      "bringUp": "Pete Alonso hit 43 home runs with 113 runs batted in for the Orioles, and Trevor Rogers has until November 17 to accept a qualifying offer.",
       "details": [
         {
           "name": "Pete Alonso",
           "team": "Baltimore Orioles",
           "position": "First baseman (1B)",
-          "lastGame": {
-            "date": "2026-09-25",
-            "label": "at New York Yankees, lost 6-3 (doubleheader Game 2)",
-            "stats": [
-              "1 for 3",
-              "2 runs scored",
-              "2 walks"
-            ]
-          },
-          "buzz": "Alonso homered twice in the first game of the September 25 doubleheader, a 10-2 Orioles win, to reach an American League-leading 43 home runs.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260925_BAL@NYY_2/)",
-          "asOf": "2026-10-07"
+          "lastGame": null,
+          "buzz": "Alonso hit 43 home runs with 113 runs batted in and is a Silver Slugger finalist at first base.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         },
         {
-          "name": "Coby Mayo",
+          "name": "Trevor Rogers",
           "team": "Baltimore Orioles",
-          "position": "Third baseman (3B)",
-          "lastGame": {
-            "date": "2026-09-25",
-            "label": "at New York Yankees, lost 6-3 (doubleheader Game 2)",
-            "stats": [
-              "3 for 4",
-              "0 runs batted in"
-            ]
-          },
-          "buzz": "Mayo had three of Baltimore's 11 hits in the final game the Orioles played, a 6-3 loss in New York.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260925_BAL@NYY_2/)",
-          "asOf": "2026-10-07"
+          "position": "Starting pitcher (SP)",
+          "lastGame": null,
+          "buzz": "Rogers received a qualifying offer and has until November 17 to accept it.",
+          "source": "Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/)",
+          "asOf": "2026-11-02"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260925_BAL@NYY_2/)",
-      "asOf": "2026-10-07"
+      "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Pete Alonso",
+          "value": "43"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Pete Alonso",
+          "value": "113"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Trevor Rogers",
+          "value": "157"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Baltimore Orioles Statistics (regular season) (https://www.baseball-reference.com/teams/BAL/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Boston Red Sox": {
-      "latestResult": "Lost 9-2 at the Yankees in Game 2 of the American League Wild Card Series (swept 2-0); finished 87-75",
-      "latestGameDate": "2026-09-30",
-      "storyline": "Boston climbed out of a 32-46 start to make the playoffs under manager Chad Tracy, then was outscored 18-2 and hit .117 in a two-game wild card sweep by the Yankees.",
-      "bringUp": "The Red Sox came back from 32-46 to reach the playoffs, then the Yankees swept them and outscored them 18-2; Garrett Crochet gave up four runs without getting an out in his first outing since April.",
+      "latestResult": "Season ended 87-75; swept 2-0 by the Yankees in the Wild Card Series, losing 9-0 and 9-2",
+      "latestGameDate": null,
+      "storyline": "Boston won three Gold Gloves, tied for the most of any team, including Wilyer Abreu's third straight in right field, and Chad Tracy is a Manager of the Year finalist after going 77-58 as interim manager.",
+      "bringUp": "The Red Sox won three Gold Gloves, Wilyer Abreu got his third straight in right field, and rookie Payton Tolle struck out 171 batters in 148 2/3 innings.",
       "details": [
         {
-          "name": "Sonny Gray",
+          "name": "Wilyer Abreu",
+          "team": "Boston Red Sox",
+          "position": "Outfielder (OF)",
+          "lastGame": null,
+          "buzz": "Abreu won his third straight Gold Glove in right field and is a Silver Slugger finalist after 38 doubles and 24 home runs.",
+          "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
+        },
+        {
+          "name": "Payton Tolle",
           "team": "Boston Red Sox",
           "position": "Starting pitcher (SP)",
-          "lastGame": {
-            "date": "2026-09-30",
-            "label": "at New York Yankees, lost 9-2 (Wild Card Game 2)",
-            "stats": [
-              "4.2 innings",
-              "5 strikeouts",
-              "2 earned runs",
-              "6 hits allowed"
-            ]
-          },
-          "buzz": "Gray went 18-6 in the regular season but took the loss in the elimination game after being pulled in the fifth inning.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260930_BOS@NYY/)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Willson Contreras",
-          "team": "Boston Red Sox",
-          "position": "First baseman (1B)",
-          "lastGame": {
-            "date": "2026-09-30",
-            "label": "at New York Yankees, lost 9-2 (Wild Card Game 2)",
-            "stats": [
-              "2 for 2",
-              "1 home run",
-              "1 run batted in"
-            ]
-          },
-          "buzz": "Contreras's sixth-inning home run ended Boston's 26-inning postseason scoreless streak.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260930_BOS@NYY/)",
-          "asOf": "2026-10-07"
+          "lastGame": null,
+          "buzz": "Tolle was an American League Rookie of the Year finalist after striking out 171 batters in 148 2/3 innings.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+          "asOf": "2026-11-09"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260930_BOS@NYY/)",
-      "asOf": "2026-10-07"
+      "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Willson Contreras",
+          "value": "27"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Willson Contreras",
+          "value": "81"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Payton Tolle",
+          "value": "171"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Boston Red Sox Statistics (regular season) (https://www.baseball-reference.com/teams/BOS/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Chicago Cubs": {
-      "latestResult": "Lost 4-1 at the Padres in Game 2 of the National League Wild Card Series (swept 2-0); finished 89-73",
-      "latestGameDate": "2026-09-30",
-      "storyline": "The Cubs led the majors in runs this season but scored once in Game 2 and were swept by a Padres team that went 20-3 from September 5 on, flipping last year's wild card result.",
-      "bringUp": "The Cubs scored the most runs in baseball this year, then got swept by San Diego in the wild card round, with Alex Bregman and Pete Crow-Armstrong going a combined 0 for 15.",
+      "latestResult": "Season ended 89-73; swept 2-0 by the Padres in the Wild Card Series, losing 8-0 and 4-1",
+      "latestGameDate": null,
+      "storyline": "Pete Crow-Armstrong is a National League MVP finalist after 45 home runs and 41 stolen bases, Alex Bregman won a Gold Glove, and MLB.com notes all five of the Cubs' 2026 starting pitchers are free agents.",
+      "bringUp": "Pete Crow-Armstrong hit 45 home runs and stole 41 bases and is an MVP finalist, and all five Cubs starters from this year are free agents.",
       "details": [
-        {
-          "name": "Nico Hoerner",
-          "team": "Chicago Cubs",
-          "position": "Second baseman (2B)",
-          "lastGame": {
-            "date": "2026-09-30",
-            "label": "at San Diego Padres, lost 4-1 (Wild Card Game 2)",
-            "stats": [
-              "2 for 4",
-              "1 run batted in",
-              "1 double"
-            ]
-          },
-          "buzz": "Hoerner drove in the Cubs' only run of Game 2 and had half of Chicago's hits in the series.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260930_CHC@SD/)",
-          "asOf": "2026-10-07"
-        },
         {
           "name": "Pete Crow-Armstrong",
           "team": "Chicago Cubs",
           "position": "Outfielder (OF)",
-          "lastGame": {
-            "date": "2026-09-30",
-            "label": "at San Diego Padres, lost 4-1 (Wild Card Game 2)",
-            "stats": [
-              "0 for 4",
-              "1 strikeout"
-            ]
-          },
-          "buzz": "Crow-Armstrong and Alex Bregman went a combined 0 for 15 with eight strikeouts across the two wild card games.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260930_CHC@SD/)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260930_CHC@SD/)",
-      "asOf": "2026-10-07"
-    },
-    "Chicago White Sox": {
-      "latestResult": "Won 4-3 at the Guardians in Game 2 of the American League Division Series (lead series 2-0)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "Two years after a record 121-loss season, the White Sox are 4-0 in these playoffs, all on the road, and one win from their first American League Championship Series in 21 years.",
-      "bringUp": "The White Sox, who lost 121 games in 2024, are 4-0 this postseason and can reach the American League Championship Series for the first time in 21 years with a win at home in Game 3 on Wednesday.",
-      "details": [
-        {
-          "name": "Braden Montgomery",
-          "team": "Chicago White Sox",
-          "position": "Outfielder (OF)",
-          "lastGame": {
-            "date": "2026-10-05",
-            "label": "at Cleveland Guardians, won 4-3 (Division Series Game 2)",
-            "stats": [
-              "1 for 4",
-              "2 runs batted in",
-              "1 double"
-            ]
-          },
-          "buzz": "Montgomery's two-run double in the sixth inning turned a 2-1 deficit into the lead in Game 2.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
-          "asOf": "2026-10-07"
+          "lastGame": null,
+          "buzz": "Crow-Armstrong hit .280 with 45 home runs and 41 stolen bases and won his second straight Gold Glove in center field.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners)",
+          "asOf": "2026-11-09"
         },
         {
-          "name": "Munetaka Murakami",
-          "team": "Chicago White Sox",
-          "position": "First baseman (1B)",
-          "lastGame": {
-            "date": "2026-10-05",
-            "label": "at Cleveland Guardians, won 4-3 (Division Series Game 2)",
-            "stats": [
-              "1 for 4",
-              "1 run batted in"
-            ]
-          },
-          "buzz": "Murakami's run-scoring single in the fourth inning got Chicago on the board after it fell behind 2-0.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/)",
-          "asOf": "2026-10-07"
+          "name": "Seiya Suzuki",
+          "team": "Chicago Cubs",
+          "position": "Outfielder (OF)",
+          "lastGame": null,
+          "buzz": "Suzuki received a one-year qualifying offer, has until November 17 to accept, and is a Silver Slugger finalist after 26 home runs.",
+          "source": "Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
-      "asOf": "2026-10-07"
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Pete Crow-Armstrong",
+          "value": "45"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Pete Crow-Armstrong",
+          "value": "107"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Shota Imanaga",
+          "value": "174"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Chicago Cubs Statistics (regular season) (https://www.baseball-reference.com/teams/CHC/2026.shtml)",
+      "leadersAsOf": "2026-11-13",
+      "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9); Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09"
+    },
+    "Chicago White Sox": {
+      "latestResult": "Season ended 84-78; swept the Astros 2-0 in the Wild Card Series, then lost the Division Series 3-2 to the Guardians, 2-0 in Game 5",
+      "latestGameDate": null,
+      "storyline": "Will Venable is an American League Manager of the Year finalist after an 84-78 season, and third baseman Miguel Vargas is a Silver Slugger finalist after 33 home runs.",
+      "bringUp": "The White Sox won 84 games and swept the Astros in the Wild Card round, and Will Venable is a Manager of the Year finalist.",
+      "details": [
+        {
+          "name": "Miguel Vargas",
+          "team": "Chicago White Sox",
+          "position": "Third baseman (3B)",
+          "lastGame": null,
+          "buzz": "Vargas hit 33 home runs and is a Silver Slugger finalist at third base (an award for the best hitter at a position).",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
+        },
+        {
+          "name": "Chase Meidroth",
+          "team": "Chicago White Sox",
+          "position": "Second baseman (2B)",
+          "lastGame": null,
+          "buzz": "Meidroth hit 16 home runs and is a Silver Slugger finalist at second base.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
+        }
+      ],
+      "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Munetaka Murakami",
+          "value": "35"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Miguel Vargas",
+          "value": "93"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Sean Burke",
+          "value": "185"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Chicago White Sox Statistics (regular season) (https://www.baseball-reference.com/teams/CHW/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Cincinnati Reds": {
-      "latestResult": "Lost 5-1 at the Blue Jays in the season finale; finished 75-87, out of the playoffs",
-      "latestGameDate": "2026-09-27",
-      "storyline": "Cincinnati finished 75-87, while Elly De La Cruz ended the season hitting .283 with a .515 slugging percentage, per the finale's box score.",
-      "bringUp": "The Reds finished 75-87 and out of the playoffs, but Elly De La Cruz still hit .283 for the season.",
+      "latestResult": "Season ended 75-87, fifth in the National League Central and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Sal Stewart won National League Rookie of the Year on November 9 after hitting 32 home runs, and shortstop Elly De La Cruz is a Silver Slugger finalist with 30 home runs and 30 stolen bases.",
+      "bringUp": "Sal Stewart just won National League Rookie of the Year with 32 home runs, and Elly De La Cruz had 30 homers and 30 steals.",
       "details": [
+        {
+          "name": "Sal Stewart",
+          "team": "Cincinnati Reds",
+          "position": "First baseman (1B)",
+          "lastGame": null,
+          "buzz": "Stewart hit 32 home runs with 15 stolen bases and was named National League Rookie of the Year.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); CBS Sports, 2026 Rookie of the Year (https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/)",
+          "asOf": "2026-11-09"
+        },
         {
           "name": "Elly De La Cruz",
           "team": "Cincinnati Reds",
           "position": "Shortstop (SS)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "at Toronto Blue Jays, lost 5-1 (season finale)",
-            "stats": [
-              "1 for 4",
-              "2 strikeouts"
-            ]
-          },
-          "buzz": "De La Cruz finished with a .365 on-base percentage and .515 slugging percentage, according to the CBS Sports box score of the finale.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_CIN@TOR/)",
-          "asOf": "2026-10-07"
+          "lastGame": null,
+          "buzz": "De La Cruz hit 30 home runs and stole 30 bases and is a Silver Slugger finalist at shortstop.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_CIN@TOR/)",
-      "asOf": "2026-10-07"
-    },
-    "Cleveland Guardians": {
-      "latestResult": "Lost 4-3 to the White Sox at home in Game 2 of the American League Division Series (trail series 2-0)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "The 85-77 division champion Guardians were shut out in Game 1 and lost Game 2 by a run, so they face elimination in Game 3 in Chicago on Wednesday.",
-      "bringUp": "Gavin Williams struck out 11 White Sox in Game 2, tied for the second-most by a Cleveland pitcher in a playoff game, and the Guardians still lost 4-3 and are one loss from elimination.",
-      "details": [
+      "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); CBS Sports, 2026 Rookie of the Year (https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09",
+      "leaders": [
         {
-          "name": "Gavin Williams",
-          "team": "Cleveland Guardians",
-          "position": "Starting pitcher (SP)",
-          "lastGame": {
-            "date": "2026-10-05",
-            "label": "vs Chicago White Sox, lost 4-3 (Division Series Game 2)",
-            "stats": [
-              "5 innings",
-              "11 strikeouts",
-              "2 earned runs",
-              "4 hits allowed"
-            ]
-          },
-          "buzz": "Williams became the first Cleveland pitcher to strike out five batters in a row in a postseason game.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
-          "asOf": "2026-10-07"
+          "label": "Home runs (2026 season)",
+          "player": "Sal Stewart",
+          "value": "32"
         },
         {
-          "name": "Chase DeLauter",
-          "team": "Cleveland Guardians",
-          "position": "Outfielder (OF)",
-          "lastGame": {
-            "date": "2026-10-05",
-            "label": "vs Chicago White Sox, lost 4-3 (Division Series Game 2)",
-            "stats": [
-              "2 for 4",
-              "1 run scored"
-            ]
-          },
-          "buzz": "DeLauter had two of Cleveland's four hits in the 4-3 Game 2 loss.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_CHW@CLE/)",
-          "asOf": "2026-10-07"
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Chase Burns",
+          "value": "185"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261005_CHW@CLE/)",
-      "asOf": "2026-10-07"
+      "leadersSource": "Baseball-Reference, 2026 Cincinnati Reds Statistics (regular season) (https://www.baseball-reference.com/teams/CIN/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
-    "Colorado Rockies": {
-      "latestResult": "Lost 4-2 at the White Sox in the season finale; finished 58-104, out of the playoffs",
-      "latestGameDate": "2026-09-27",
-      "storyline": "Colorado finished 58-104, the worst record in the majors for a second straight year, and became the first team with four straight 100-loss seasons since the 1962-65 New York Mets.",
-      "bringUp": "The Rockies lost 104 games, their fourth straight 100-loss season, something no team had done since the Mets of 1962 to 1965.",
+    "Cleveland Guardians": {
+      "latestResult": "Season ended 85-77; beat the White Sox 3-2 in the Division Series, then lost the American League Championship Series 4-2 to the Rays, falling 7-3 in Game 6 on Monday, October 19",
+      "latestGameDate": "2026-10-19",
+      "storyline": "Parker Messick finished second to Kevin McGonigle in Rookie of the Year voting and is a Cy Young finalist with a 2.56 earned run average, and closer Cade Smith saved 41 games.",
+      "bringUp": "Parker Messick had a 2.56 earned run average as a rookie and is a Cy Young finalist, and Cleveland came within two wins of the World Series.",
       "details": [
         {
-          "name": "Cole Carrigg",
-          "team": "Colorado Rockies",
-          "position": "Outfielder (OF)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "at Chicago White Sox, lost 4-2 (season finale)",
-            "stats": [
-              "1 for 4",
-              "1 home run",
-              "1 run batted in"
-            ]
-          },
-          "buzz": "Carrigg hit his 12th home run of the season in the finale and finished with 53 runs batted in.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_COL@CHW/)",
-          "asOf": "2026-10-07"
+          "name": "Parker Messick",
+          "team": "Cleveland Guardians",
+          "position": "Starting pitcher (SP)",
+          "lastGame": null,
+          "buzz": "Messick had a 2.56 earned run average and 193 strikeouts in 186 1/3 innings, and finished second in Rookie of the Year voting with 122 points.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); CBS Sports, 2026 Rookie of the Year (https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/)",
+          "asOf": "2026-11-09"
+        },
+        {
+          "name": "Cade Smith",
+          "team": "Cleveland Guardians",
+          "position": "Relief pitcher (RP)",
+          "lastGame": null,
+          "buzz": "Smith saved 41 games with 107 strikeouts in 74 innings and is a Reliever of the Year finalist.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+          "asOf": "2026-11-09"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_COL@CHW/)",
-      "asOf": "2026-10-07"
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Angel Martínez",
+          "value": "18"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Brayan Rocchio",
+          "value": "73"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Gavin Williams",
+          "value": "248"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Cleveland Guardians Statistics (regular season) (https://www.baseball-reference.com/teams/CLE/2026.shtml)",
+      "leadersAsOf": "2026-11-13",
+      "source": "Associated Press via WDBJ7, ALCS Game 6 (https://www.wdbj7.com/2026/10/20/daz-caminero-peralta-lead-rays-7-3-win-over-guardians-trip-world-series/?outputType=amp); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); CBS Sports, 2026 Rookie of the Year (https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09"
+    },
+    "Colorado Rockies": {
+      "latestResult": "Season ended 58-104, last in the National League West and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Catcher Hunter Goodman hit 41 home runs and is a Silver Slugger finalist.",
+      "bringUp": "Hunter Goodman hit 41 home runs for the Rockies, a Silver Slugger finalist, but the team lost 104 games.",
+      "details": [
+        {
+          "name": "Hunter Goodman",
+          "team": "Colorado Rockies",
+          "position": "Catcher (C)",
+          "lastGame": null,
+          "buzz": "Goodman hit 41 home runs and is a Silver Slugger finalist at catcher (an award for the best hitter at a position).",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
+        }
+      ],
+      "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Hunter Goodman",
+          "value": "41"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Hunter Goodman",
+          "value": "88"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Kyle Freeland",
+          "value": "108"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Colorado Rockies Statistics (regular season) (https://www.baseball-reference.com/teams/COL/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Detroit Tigers": {
-      "latestResult": "Lost 4-2 to the Pittsburgh Pirates in the season finale; finished 76-86, fourth in the American League Central and out of the playoffs",
-      "latestGameDate": "2026-09-27",
-      "storyline": "Rookie Kevin McGonigle homered in the 4-2 finale loss and was named to MLB Pipeline's All-Rookie Team on October 6, a bright spot in a 76-86 season that also saw Justin Verlander make his final career start.",
-      "bringUp": "Justin Verlander made the last start of his career on September 26, striking out 6 in 5 1/3 innings, and the Tigers won it 4-3 on a walk-off two-run homer by Eduardo Valencia.",
+      "latestResult": "Season ended 76-86, fourth in the American League Central and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Shortstop Kevin McGonigle won American League Rookie of the Year with 28 of 30 first-place votes, and catcher Dillon Dingler won a Gold Glove and is a Silver Slugger finalist after 27 home runs.",
+      "bringUp": "Kevin McGonigle just won American League Rookie of the Year with 204 points, and catcher Dillon Dingler hit 27 home runs and won a Gold Glove.",
       "details": [
         {
           "name": "Kevin McGonigle",
           "team": "Detroit Tigers",
-          "position": "Third baseman (3B)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "vs. Pittsburgh Pirates, lost 4-2 (season finale)",
-            "stats": [
-              "2 for 3",
-              "1 home run",
-              "1 run batted in"
-            ]
-          },
-          "buzz": "McGonigle was named to MLB Pipeline's All-Rookie Team on October 6 after a rookie year the Tigers capped by pulling him in the eighth inning of the finale so fans could give him a standing ovation.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_PIT@DET/); MLB.com (https://www.mlb.com/tigers/news/2026-mlb-all-rookie-team)",
-          "asOf": "2026-10-07"
+          "position": "Shortstop (SS)",
+          "lastGame": null,
+          "buzz": "McGonigle hit .278 with 18 home runs and 12 stolen bases, and won American League Rookie of the Year on November 9.",
+          "source": "CBS Sports, 2026 Rookie of the Year (https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/); BBWAA, AL Rookie of the Year (https://bbwaa.com/26-al-roy/); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+          "asOf": "2026-11-09"
         },
         {
-          "name": "Justin Verlander",
+          "name": "Dillon Dingler",
           "team": "Detroit Tigers",
-          "position": "Starting pitcher (SP)",
+          "position": "Catcher (C)",
           "lastGame": null,
-          "buzz": "Verlander's final start on September 26 against Pittsburgh was the 557th of his career and included his 3,555th career strikeout.",
-          "source": "MLB.com (https://www.mlb.com/tigers/news/justin-verlander-final-mlb-start)",
-          "asOf": "2026-10-07"
+          "buzz": "Dingler won the American League Gold Glove at catcher and hit 27 home runs.",
+          "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/standings/); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_PIT@DET/); MLB.com (https://www.mlb.com/tigers/news/justin-verlander-final-mlb-start)",
-      "asOf": "2026-10-07"
+      "source": "CBS Sports, 2026 Rookie of the Year (https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/); BBWAA, AL Rookie of the Year (https://bbwaa.com/26-al-roy/); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Dillon Dingler",
+          "value": "27"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Dillon Dingler",
+          "value": "91"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Framber Valdez",
+          "value": "135"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Detroit Tigers Statistics (regular season) (https://www.baseball-reference.com/teams/DET/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Houston Astros": {
-      "latestResult": "Lost 7-3 to the Chicago White Sox in Game 2 of the American League Wild Card Series, swept 2-0; won the American League West at 81-81",
-      "latestGameDate": "2026-09-30",
-      "storyline": "Houston clinched the American League West on the final day with an 81-81 record, then got swept at home by the White Sox, 6-3 and 7-3, after parting ways with general manager Dana Brown in August.",
-      "bringUp": "Jose Altuve homered in the Astros' 7-3 elimination loss on September 30; it was his 28th career playoff home run, one behind Manny Ramirez for the most in postseason history.",
+      "latestResult": "Season ended 81-81 as American League West champions; swept 2-0 by the White Sox in the Wild Card Series, losing 6-3 and 7-3",
+      "latestGameDate": null,
+      "storyline": "Houston did not renew manager Joe Espada, hired 51-year-old Randy Flores as general manager on October 30 and still needs a manager, while Yordan Alvarez is an MVP finalist after hitting .316 with 42 home runs.",
+      "bringUp": "The Astros won the division at 81-81, then let manager Joe Espada go and hired Randy Flores as general manager, and Yordan Alvarez hit .316 with 42 homers.",
       "details": [
         {
-          "name": "Jose Altuve",
+          "name": "Yordan Alvarez",
           "team": "Houston Astros",
-          "position": "Second baseman (2B)",
-          "lastGame": {
-            "date": "2026-09-30",
-            "label": "vs. Chicago White Sox, lost 7-3 (Wild Card Game 2)",
-            "stats": [
-              "2 for 4",
-              "1 home run",
-              "1 run batted in"
-            ]
-          },
-          "buzz": "Altuve's home run was his 28th in the playoffs, in his 107th postseason game, leaving him one shy of Manny Ramirez's record.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260930_CHW@HOU/); MLB.com (https://www.mlb.com/astros/news/jose-altuve-nearing-postseason-home-run-record)",
-          "asOf": "2026-10-07"
+          "position": "Designated hitter (DH)",
+          "lastGame": null,
+          "buzz": "Alvarez led all qualifying hitters with a .316 average and hit 42 home runs, one short of a Triple Crown.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); ESPN, 2026 awards week (https://www.espn.com/mlb/story/_/id/50391276/2026-season-awards-mvp-cy-young-al-nl)",
+          "asOf": "2026-11-09"
+        },
+        {
+          "name": "Christian Walker",
+          "team": "Houston Astros",
+          "position": "First baseman (1B)",
+          "lastGame": null,
+          "buzz": "Walker won the American League Gold Glove at first base.",
+          "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners)",
+          "asOf": "2026-11-01"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260930_CHW@HOU/); MLB.com (https://www.mlb.com/astros/news/astros-lose-2026-al-wild-card-series); MLB.com (https://www.mlb.com/astros/news)",
-      "asOf": "2026-10-07"
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Yordan Alvarez",
+          "value": "42"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Yordan Alvarez",
+          "value": "106"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Peter Lambert",
+          "value": "154"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Houston Astros Statistics (regular season) (https://www.baseball-reference.com/teams/HOU/2026.shtml)",
+      "leadersAsOf": "2026-11-13",
+      "source": "Associated Press via NY1, Astros hire Flores (https://ny1.com/nyc/all-boroughs/ap-top-news/2026/10/31/astros-hire-randy-flores-as-general-manager-former-pitcher-had-been-assistant-gm-with-cardinals); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09"
     },
     "Kansas City Royals": {
-      "latestResult": "Beat the Cleveland Guardians 3-2 in the season finale; finished 69-93, last in the American League Central",
-      "latestGameDate": "2026-09-27",
-      "storyline": "Rookie catcher Carter Jensen set a Royals rookie record for home runs (27 as of September 25) and passed Mike Piazza's 61 extra-base hits for the most by a rookie catcher since at least 1947, in a 69-93 season.",
-      "bringUp": "The Royals finished last in the American League Central at 69-93, but Vinnie Pasquantino homered twice in the 3-2 finale win over Cleveland and Bobby Witt Jr. is a finalist for the Hank Aaron Award, given to the best hitter in each league.",
+      "latestResult": "Season ended 69-93, fifth in the American League Central and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Bobby Witt Jr. is an American League MVP finalist after 18 home runs and 45 stolen bases, and catcher Carter Jensen is a Silver Slugger finalist with 27 home runs.",
+      "bringUp": "Bobby Witt Jr. stole 45 bases and is an MVP finalist even though the Royals lost 93 games, and catcher Carter Jensen hit 27 home runs.",
       "details": [
         {
-          "name": "Vinnie Pasquantino",
+          "name": "Bobby Witt Jr.",
           "team": "Kansas City Royals",
-          "position": "First baseman (1B)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "vs. Cleveland Guardians, won 3-2 (season finale)",
-            "stats": [
-              "2 for 4",
-              "2 home runs",
-              "2 runs batted in"
-            ]
-          },
-          "buzz": "Pasquantino hit solo homers in the fifth and eighth innings of the finale, finishing with 17 home runs and 63 runs batted in.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_CLE@KC/)",
-          "asOf": "2026-10-07"
+          "position": "Shortstop (SS)",
+          "lastGame": null,
+          "buzz": "Witt hit .281 with 18 home runs and 45 stolen bases and is an American League MVP finalist.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         },
         {
           "name": "Carter Jensen",
           "team": "Kansas City Royals",
           "position": "Catcher (C)",
           "lastGame": null,
-          "buzz": "Jensen's 27 home runs as of September 25 were already a Royals rookie record, and he was named the American League Player and Rookie of the Month for September.",
-          "source": "MLB.com (https://www.mlb.com/news/carter-jensen-passes-mike-piazza-for-most-homers-by-rookie-catcher); MLB.com (https://www.mlb.com/royals/news)",
-          "asOf": "2026-10-07"
+          "buzz": "Jensen hit 27 home runs and is a Silver Slugger finalist at catcher.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/standings/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_CLE@KC/); MLB.com (https://www.mlb.com/news/carter-jensen-passes-mike-piazza-for-most-homers-by-rookie-catcher)",
-      "asOf": "2026-10-07"
+      "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Carter Jensen",
+          "value": "27"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Carter Jensen",
+          "value": "81"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Kansas City Royals Statistics (regular season) (https://www.baseball-reference.com/teams/KCR/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Los Angeles Angels": {
-      "latestResult": "Lost 7-3 at the Seattle Mariners in the season finale; finished 62-100, last in the American League West",
-      "latestGameDate": "2026-09-27",
-      "storyline": "The 7-3 finale loss in Seattle was the Angels' 100th of the season, the first 100-loss year in franchise history, while Stan Kroenke agreed on September 1 to buy the team from Arte Moreno.",
-      "bringUp": "The Angels lost 100 games for the first time in franchise history, finishing 62-100, even though Mike Trout played 142 games, his most since 2016, and hit 22 home runs.",
+      "latestResult": "Season ended 62-100, the first 100-loss season in franchise history",
+      "latestGameDate": null,
+      "storyline": "The Angels declined manager Kurt Suzuki's option on October 21 after one season, and the search for a permanent general manager comes before the next manager hire, with Kroenke Sports & Entertainment's purchase of the team expected to finish in early 2027.",
+      "bringUp": "The Angels lost 100 games for the first time ever, parted ways with Kurt Suzuki after one season, and will hire a new general manager before a new manager.",
       "details": [
+        {
+          "name": "Zach Neto",
+          "team": "Los Angeles Angels",
+          "position": "Shortstop (SS)",
+          "lastGame": null,
+          "buzz": "Neto hit 27 home runs and is a Silver Slugger finalist at shortstop (an award for the best hitter at a position).",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
+        },
         {
           "name": "Mike Trout",
           "team": "Los Angeles Angels",
           "position": "Outfielder (OF)",
           "lastGame": null,
-          "buzz": "Trout hit .242 with 22 home runs, 54 runs batted in and a .803 OPS (on-base plus slugging) in 142 games, and is under contract through 2030.",
-          "source": "MLB.com (https://www.mlb.com/news/mike-trout-plays-most-games-in-10-years-in-2026)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Yusei Kikuchi",
-          "team": "Los Angeles Angels",
-          "position": "Starting pitcher (SP)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "at Seattle Mariners, lost 7-3 (season finale)",
-            "stats": [
-              "5.0 innings",
-              "7 strikeouts",
-              "3 earned runs",
-              "6 hits allowed"
-            ]
-          },
-          "buzz": "Kikuchi took the loss in the finale, falling to 1-7 as the Angels reached 100 losses.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_LAA@SEA/)",
-          "asOf": "2026-10-07"
+          "buzz": "Trout played 142 games and is a Silver Slugger finalist in the outfield.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/standings/); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_LAA@SEA/); MLB.com (https://www.mlb.com/news/mike-trout-plays-most-games-in-10-years-in-2026)",
-      "asOf": "2026-10-07"
+      "source": "MLB.com, Angels decline Suzuki's option (https://www.mlb.com/mets/news/angels-decline-manager-kurt-suzuki-contract-option); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Zach Neto",
+          "value": "27"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Zach Neto",
+          "value": "77"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Reid Detmers",
+          "value": "211"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Los Angeles Angels Statistics (regular season) (https://www.baseball-reference.com/teams/LAA/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Los Angeles Dodgers": {
-      "latestResult": "Won 3-1 at the Atlanta Braves in Game 3 of the National League Division Series (lead the series 2-1)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "After going 100-62 and winning the National League West, the Dodgers are one win from the National League Championship Series after Yoshinobu Yamamoto struck out 10 in Atlanta.",
-      "bringUp": "Yoshinobu Yamamoto struck out 10 over seven innings as the Dodgers beat the Braves 3-1 in Atlanta on Tuesday, so they lead the best-of-five series 2-1 with Game 4 tonight.",
+      "latestResult": "Season ended 100-62; beat the Braves 3-1 in the Division Series, then were swept 4-0 by the Brewers in the National League Championship Series, losing Game 4 6-4",
+      "latestGameDate": null,
+      "storyline": "Shohei Ohtani is a National League MVP finalist after hitting 30 home runs and posting a 1.79 earned run average with 95 strikeouts in 85 2/3 innings, and Tarik Skubal, acquired before the deadline, is now a free agent.",
+      "bringUp": "Shohei Ohtani hit 30 home runs and had a 1.79 earned run average as a pitcher and is an MVP finalist, and Tarik Skubal is now a free agent.",
       "details": [
         {
-          "name": "Yoshinobu Yamamoto",
+          "name": "Shohei Ohtani",
+          "team": "Los Angeles Dodgers",
+          "position": "Two-way player (TWP)",
+          "lastGame": null,
+          "buzz": "Ohtani is an MVP finalist after 30 home runs and a 1.79 earned run average with 95 strikeouts in 85 2/3 innings.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-09"
+        },
+        {
+          "name": "Tarik Skubal",
           "team": "Los Angeles Dodgers",
           "position": "Starting pitcher (SP)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "at Atlanta Braves, won 3-1 (Division Series Game 3)",
-            "stats": [
-              "7.0 innings",
-              "10 strikeouts",
-              "1 earned run",
-              "4 hits allowed"
-            ]
-          },
-          "buzz": "Yamamoto was the winning pitcher in Game 3 and Edwin Diaz got the save, putting Los Angeles one win from the next round.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_LAD@ATL/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261006/)",
-          "asOf": "2026-10-07"
+          "lastGame": null,
+          "buzz": "Skubal went 12-7 with a 2.72 earned run average and is a free agent after the Dodgers traded for him before the deadline.",
+          "source": "MLB.com, Tarik Skubal free agent profile (https://www.mlb.com/mets/news/tarik-skubal-2026-free-agent-profile); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9)",
+          "asOf": "2026-11-09"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261006/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/); CBS Sports (https://www.cbssports.com/mlb/standings/)",
-      "asOf": "2026-10-07"
+      "source": "NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, Tarik Skubal free agent profile (https://www.mlb.com/mets/news/tarik-skubal-2026-free-agent-profile); MLB.com, rumors and free agent news, November 9 (https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-9); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Shohei Ohtani",
+          "value": "30"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Andy Pages",
+          "value": "85"
+        },
+        {
+          "label": "Strikeouts (pitcher) (2026 season)",
+          "player": "Yoshinobu Yamamoto",
+          "value": "182"
+        }
+      ],
+      "leadersSource": "Baseball-Reference, 2026 Los Angeles Dodgers Statistics (regular season) (https://www.baseball-reference.com/teams/LAD/2026.shtml)",
+      "leadersAsOf": "2026-11-13"
     },
     "Miami Marlins": {
-      "latestResult": "Beat the Atlanta Braves 5-3 in the season finale; finished 80-82, third in the National League East",
-      "latestGameDate": "2026-09-27",
-      "storyline": "Miami finished 80-82, two wins short of .500, and Otto Lopez ended the season with a major league-best 191 hits.",
-      "bringUp": "The Marlins closed at 80-82 by beating the 94-win Braves 5-3, with Sandy Alcantara pitching a hitless ninth for the save, and Otto Lopez led the majors with 191 hits.",
+      "latestResult": "Season ended 80-82, third in the National League East and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Sandy Alcantara went 13-11 with a 3.87 earned run average and Miami exercised his option for 2027, and shortstop Otto Lopez is a Silver Slugger finalist after hitting .305 with 191 hits.",
+      "bringUp": "Sandy Alcantara went 13-11 with a 3.87 earned run average and the Marlins picked up his option for 2027, and Otto Lopez got 191 hits.",
       "details": [
-        {
-          "name": "Heriberto Hernández",
-          "team": "Miami Marlins",
-          "position": "Outfielder (OF)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "vs. Atlanta Braves, won 5-3 (season finale)",
-            "stats": [
-              "2 for 4",
-              "1 home run",
-              "1 run batted in"
-            ]
-          },
-          "buzz": "Hernández's solo homer in the fourth inning of the finale was his 25th of the season.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_ATL@MIA/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_ATL@MIA/)",
-          "asOf": "2026-10-07"
-        },
         {
           "name": "Sandy Alcantara",
           "team": "Miami Marlins",
           "position": "Starting pitcher (SP)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "vs. Atlanta Braves, won 5-3 (season finale)",
-            "stats": [
-              "1.0 inning",
-              "1 strikeout",
-              "0 earned runs",
-              "0 hits allowed"
-            ]
-          },
-          "buzz": "Miami's ace finished 13-11 with a 3.87 ERA (earned run average) in 33 starts, and saved the finale out of the bullpen.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_ATL@MIA/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_ATL@MIA/)",
-          "asOf": "2026-10-07"
+          "lastGame": null,
+          "buzz": "Alcantara went 13-11 with a 3.87 earned run average in 33 starts, in his second season after Tommy John elbow surgery, and Miami exercised his option for 2027.",
+          "source": "Associated Press via KSAT, option decisions (https://www.ksat.com/sports/2026/10/30/marlins-exercise-alcantara-option-king-leaves-padres-and-bichette-stays-with-mets/)",
+          "asOf": "2026-10-30"
+        },
+        {
+          "name": "Otto Lopez",
+          "team": "Miami Marlins",
+          "position": "Shortstop (SS)",
+          "lastGame": null,
+          "buzz": "Lopez hit .305 with 191 hits and is a Silver Slugger finalist at shortstop.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/standings/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_ATL@MIA/)",
-      "asOf": "2026-10-07"
+      "source": "Associated Press via KSAT, option decisions (https://www.ksat.com/sports/2026/10/30/marlins-exercise-alcantara-option-king-leaves-padres-and-bichette-stays-with-mets/); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Heriberto Hernandez",
+          "value": "25"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Otto Lopez",
+          "value": ".305"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Otto Lopez",
+          "value": "71"
+        }
+      ],
+      "leadersSource": "ESPN, Marlins 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/mia/data)",
+      "leadersAsOf": "2026-11-13"
     },
     "Milwaukee Brewers": {
-      "latestResult": "Lost 4-3 at the San Diego Padres in Game 3 of the National League Division Series (lead the series 2-1)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "Milwaukee had baseball's best record at 103-59 and won the first two games at home, but San Diego beat them 4-3 on Tuesday to stay alive.",
-      "bringUp": "The Brewers won 103 games, the most in baseball, and led the Padres 2-0, but San Diego won Game 3 4-3 on Tuesday despite William Contreras going 3 for 4 with a home run, so Milwaukee tries again tonight in Game 4.",
+      "latestResult": "Won the World Series 4-1 by beating the Rays 4-1 in Game 5 at Tampa Bay on Wednesday, October 28; finished 103-59, then went 11-2 in the postseason",
+      "latestGameDate": "2026-10-28",
+      "storyline": "The Brewers won the first World Series title in their history, catcher William Contreras was named Series MVP, and Jacob Misiorowski is a Cy Young finalist after leading the majors with 252 strikeouts.",
+      "bringUp": "The Brewers won their first World Series ever, going 11-2 in the playoffs, and Jacob Misiorowski led the majors with 252 strikeouts and is a Cy Young finalist.",
       "details": [
         {
           "name": "William Contreras",
           "team": "Milwaukee Brewers",
           "position": "Catcher (C)",
           "lastGame": {
-            "date": "2026-10-06",
-            "label": "at San Diego Padres, lost 4-3 (Division Series Game 3)",
+            "date": "2026-10-28",
+            "label": "at Tampa Bay Rays, won 4-1 (World Series Game 5)",
             "stats": [
-              "3 for 4",
-              "1 home run",
+              "1 for 4",
               "1 run batted in",
-              "2 runs scored"
+              "1 run scored"
             ]
           },
-          "buzz": "Contreras homered in Game 3 after going 1 for 7 with a home run in the first two games of the series.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261006_MIL@SD/)",
-          "asOf": "2026-10-07"
+          "buzz": "Contreras was named World Series MVP after batting .381 with four runs batted in, including a run-scoring double in the Game 5 clincher.",
+          "source": "Sports Illustrated, Brewers win Game 5 (https://www.si.com/mlb/brewers/2026-world-series-brewers-win-first-title-after-taking-down-rays-in-game-5); MLB.com, Brewers win the World Series (https://www.mlb.com/brewers/news/brewers-win-world-series-2026); CBS Sports, World Series Game 5 box score and recap (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261028_MIL@TB/)",
+          "asOf": "2026-10-28"
+        },
+        {
+          "name": "Jacob Misiorowski",
+          "team": "Milwaukee Brewers",
+          "position": "Starting pitcher (SP)",
+          "lastGame": {
+            "date": "2026-10-28",
+            "label": "at Tampa Bay Rays, won 4-1 (World Series Game 5)",
+            "stats": [
+              "5 2/3 innings",
+              "2 hits allowed",
+              "0 earned runs",
+              "2 strikeouts"
+            ]
+          },
+          "buzz": "Misiorowski won two World Series games and threw 5 2/3 scoreless innings in Game 5, and is a National League Cy Young finalist.",
+          "source": "CBS Sports, Brewers capture first title (https://www.cbssports.com/mlb/news/brewers-capture-first-world-series-title-with-game-5-win-over-rays/); CBS Sports, World Series Game 5 box score and recap (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261028_MIL@TB/); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+          "asOf": "2026-11-02"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/); CBS Sports (https://www.cbssports.com/mlb/standings/)",
-      "asOf": "2026-10-07"
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Jake Bauers",
+          "value": "26"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Jackson Chourio",
+          "value": ".291"
+        }
+      ],
+      "leadersSource": "FanGraphs, 2026 Milwaukee Brewers team stats page (https://www.fangraphs.com/teams/brewers/stats?mm-view=app)",
+      "leadersAsOf": "2026-11-13",
+      "source": "CBS Sports, World Series Game 5 box score and recap (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261028_MIL@TB/); CBS Sports, Brewers capture first title (https://www.cbssports.com/mlb/news/brewers-capture-first-world-series-title-with-game-5-win-over-rays/); MLB.com, Brewers win the World Series (https://www.mlb.com/brewers/news/brewers-win-world-series-2026); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-02"
     },
     "Minnesota Twins": {
-      "latestResult": "Beat the Texas Rangers 6-4 in the season finale; finished 77-85, third in the American League Central",
-      "latestGameDate": "2026-09-27",
-      "storyline": "After a 77-85 season, Twins chairman Tom Pohlad said on September 29 that the team intends to \"meaningfully invest\" this offseason and that a $100 million payroll is not enough to compete consistently.",
-      "bringUp": "Twins chairman Tom Pohlad said on September 29 that a $100 million payroll \"is not sufficient,\" and the team cleared the way for a possible qualifying offer, meaning a one-year contract offer, to free-agent catcher Ryan Jeffers.",
+      "latestResult": "Season ended 77-85, third in the American League Central and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Catcher Ryan Jeffers received a qualifying offer and has until November 17 to accept, and second baseman Kody Clemens hit 27 home runs and is a Silver Slugger finalist.",
+      "bringUp": "Catcher Ryan Jeffers has until November 17 to accept a qualifying offer from the Twins, and Kody Clemens hit 27 home runs with 7 triples.",
       "details": [
         {
           "name": "Ryan Jeffers",
           "team": "Minnesota Twins",
           "position": "Catcher (C)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "vs. Texas Rangers, won 6-4 (season finale)",
-            "stats": [
-              "2 for 3",
-              "1 run batted in"
-            ]
-          },
-          "buzz": "Jeffers, about to become a free agent, had two hits and drove in a run in the finale; the Twins have not decided whether to make him a qualifying offer.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_TEX@MIN/); MLB.com (https://www.mlb.com/twins/news/tom-pohlad-jeremy-zoll-derek-shelton-discuss-twins-offseason)",
-          "asOf": "2026-10-07"
+          "lastGame": null,
+          "buzz": "Jeffers received a one-year qualifying offer and has until November 17 to accept; if he signs elsewhere, Minnesota gets draft pick compensation.",
+          "source": "Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/)",
+          "asOf": "2026-11-02"
+        },
+        {
+          "name": "Kody Clemens",
+          "team": "Minnesota Twins",
+          "position": "Second baseman (2B)",
+          "lastGame": null,
+          "buzz": "Clemens hit 27 home runs with 7 triples and is a Silver Slugger finalist at second base.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/standings/); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_TEX@MIN/); MLB.com (https://www.mlb.com/twins/news/tom-pohlad-jeremy-zoll-derek-shelton-discuss-twins-offseason)",
-      "asOf": "2026-10-07"
+      "source": "Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Kody Clemens",
+          "value": "27"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Luke Keaschall",
+          "value": ".282"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Josh Bell",
+          "value": "96"
+        }
+      ],
+      "leadersSource": "ESPN, Twins 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/min/data)",
+      "leadersAsOf": "2026-11-13"
     },
     "New York Mets": {
-      "latestResult": "Lost 6-4 at the Washington Nationals in the season finale; finished 74-88, last in the National League East",
-      "latestGameDate": "2026-09-27",
-      "storyline": "The Mets finished 74-88 and last in the National League East, and in September they made interim manager Andy Green the full-time manager on a three-year deal after he went 37-38 replacing Carlos Mendoza.",
-      "bringUp": "Francisco Lindor hit his 300th career home run in the Mets' 6-4 finale loss in Washington, joining Carlos Beltrán as the only switch-hitters with 300 homers and 200 stolen bases.",
+      "latestResult": "Season ended 74-88, last in the National League East and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Nolan McLean became the first rookie pitcher to win a Gold Glove and the first Mets winner since 2014, and outfielder Carson Benge is a Rookie of the Year finalist after 20 home runs and 22 stolen bases.",
+      "bringUp": "Nolan McLean is the first rookie pitcher ever to win a Gold Glove, and Carson Benge hit 20 home runs with 22 steals as a Rookie of the Year finalist.",
       "details": [
         {
-          "name": "Francisco Lindor",
+          "name": "Nolan McLean",
           "team": "New York Mets",
-          "position": "Shortstop (SS)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "at Washington Nationals, lost 6-4 (season finale)",
-            "stats": [
-              "2 for 4",
-              "1 home run",
-              "1 run batted in"
-            ]
-          },
-          "buzz": "Lindor's second-inning homer in the finale was the 300th of his career.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_NYM@WAS/); MLB.com (https://www.mlb.com/mets/news/francisco-lindor-hits-300th-career-home-run)",
-          "asOf": "2026-10-07"
+          "position": "Starting pitcher (SP)",
+          "lastGame": null,
+          "buzz": "McLean won the National League Gold Glove at pitcher, the first Mets winner at any position since 2014.",
+          "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners)",
+          "asOf": "2026-11-01"
+        },
+        {
+          "name": "Carson Benge",
+          "team": "New York Mets",
+          "position": "Outfielder (OF)",
+          "lastGame": null,
+          "buzz": "Benge hit .282 with 20 home runs and 22 stolen bases and was a National League Rookie of the Year finalist.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+          "asOf": "2026-11-09"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/standings/); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_NYM@WAS/); MLB.com (https://www.mlb.com/mets/news/andy-green-named-mets-manager-on-3-year-contract)",
-      "asOf": "2026-10-07"
+      "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); Associated Press via KSAT, option decisions (https://www.ksat.com/sports/2026/10/30/marlins-exercise-alcantara-option-king-leaves-padres-and-bichette-stays-with-mets/); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Juan Soto",
+          "value": "27"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Carson Benge",
+          "value": ".282"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Bo Bichette",
+          "value": "78"
+        }
+      ],
+      "leadersSource": "ESPN, Mets 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/nym/bats)",
+      "leadersAsOf": "2026-11-13"
     },
     "New York Yankees": {
-      "latestResult": "Lost 5-2 at the Tampa Bay Rays in Game 2 of the American League Division Series (trail the series 0-2)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "After going 93-68 and sweeping the Red Sox in the Wild Card round, the Yankees lost the first two games in Tampa and face elimination tonight in Game 3 at Yankee Stadium.",
-      "bringUp": "Ben Rice hit two home runs in Game 2, but the Yankees still lost 5-2 to the Rays on Monday and now trail the best-of-five series 0-2, facing elimination tonight in the Bronx.",
+      "latestResult": "Season ended 93-68; swept the Red Sox 2-0 in the Wild Card Series, then were swept 3-0 by the Rays in the Division Series, losing Game 3 4-3",
+      "latestGameDate": null,
+      "storyline": "Cam Schlittler is an American League Cy Young finalist after leading the league with a 1.95 earned run average, and first baseman Ben Rice hit 41 home runs and is a Silver Slugger finalist.",
+      "bringUp": "Cam Schlittler led the American League with a 1.95 earned run average and is a Cy Young finalist, and Ben Rice hit 41 home runs.",
       "details": [
+        {
+          "name": "Cam Schlittler",
+          "team": "New York Yankees",
+          "position": "Starting pitcher (SP)",
+          "lastGame": null,
+          "buzz": "Schlittler led the American League with a 1.95 earned run average in 33 starts and struck out 239 batters.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+          "asOf": "2026-11-09"
+        },
         {
           "name": "Ben Rice",
           "team": "New York Yankees",
           "position": "Designated hitter (DH)",
-          "lastGame": {
-            "date": "2026-10-05",
-            "label": "at Tampa Bay Rays, lost 5-2 (Division Series Game 2)",
-            "stats": [
-              "2 for 3",
-              "2 home runs",
-              "2 runs batted in"
-            ]
-          },
-          "buzz": "Rice drove in both Yankees runs in Game 2 and is a finalist for the American League Hank Aaron Award, given to the best hitter in each league.",
-          "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); MLB.com (https://www.mlb.com/news/hank-aaron-award-finalists-for-2026)",
-          "asOf": "2026-10-07"
+          "lastGame": null,
+          "buzz": "Rice hit 41 home runs and is a Silver Slugger finalist at designated hitter.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports (https://www.cbssports.com/mlb/scoreboard/20261007/); CBS Sports (https://www.cbssports.com/mlb/standings/)",
-      "asOf": "2026-10-07"
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Ben Rice",
+          "value": "41"
+        }
+      ],
+      "leadersSource": "FanGraphs, 2026 New York Yankees team stats page (https://www.fangraphs.com/teams/yankees/stats)",
+      "leadersAsOf": "2026-11-13",
+      "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09"
     },
     "Philadelphia Phillies": {
-      "latestResult": "Lost 6-2 at the Atlanta Braves in Game 3 of the NL Wild Card Series, eliminated 2-1 after an 88-74 regular season",
-      "latestGameDate": "2026-10-01",
-      "storyline": "Interim manager Don Mattingly took over on April 28 after Rob Thomson was fired following a 9-19 start, led the Phillies to the third NL Wild Card spot on the final day, and says he hasn't discussed 2027 with Dave Dombrowski yet.",
-      "bringUp": "The Phillies' season ended with a 6-2 loss in Atlanta in Game 3 of the Wild Card Series, and Aaron Nola got only five outs. Now the big question is whether interim manager Don Mattingly, who took over after a 9-19 start, gets the job for 2027.",
+      "latestResult": "Season ended 88-74; lost the Wild Card Series 2-1 to the Braves",
+      "latestGameDate": null,
+      "storyline": "Kyle Schwarber hit 45 home runs, tied for the most in the majors, Cristopher Sánchez is a National League Cy Young finalist with 231 strikeouts, and Don Mattingly is a Manager of the Year finalist after going 79-55 once he took over.",
+      "bringUp": "Kyle Schwarber hit 45 home runs, tied for the most in baseball, and Cristopher Sánchez struck out 231 batters and is a Cy Young finalist.",
       "details": [
         {
-          "name": "Aaron Nola",
+          "name": "Cristopher Sánchez",
           "team": "Philadelphia Phillies",
           "position": "Starting pitcher (SP)",
-          "lastGame": {
-            "date": "2026-10-01",
-            "label": "at Atlanta Braves, lost 6-2, Wild Card Game 3",
-            "stats": [
-              "1.2 innings",
-              "3 earned runs",
-              "2 hits allowed",
-              "2 walks"
-            ]
-          },
-          "buzz": "Nola took the loss in Game 3, falling behind on a three-run homer by Michael Harris II in the first inning; he went 7-13 in the regular season.",
-          "source": "CBS Sports box score (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261001_PHI@ATL/)",
-          "asOf": "2026-10-01"
+          "lastGame": null,
+          "buzz": "Sánchez is a National League Cy Young finalist after a 2.91 earned run average and 231 strikeouts in 207 innings.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+          "asOf": "2026-11-09"
         },
         {
           "name": "Kyle Schwarber",
           "team": "Philadelphia Phillies",
           "position": "Designated hitter (DH)",
-          "lastGame": {
-            "date": "2026-10-01",
-            "label": "at Atlanta Braves, lost 6-2, Wild Card Game 3",
-            "stats": [
-              "2 for 3",
-              "1 run scored"
-            ]
-          },
-          "buzz": "Schwarber was named a finalist for the 2026 Hank Aaron Award, which honors the best hitter in each league, and publicly backed Mattingly after the season ended.",
-          "source": "MLB.com (https://www.mlb.com/news/hank-aaron-award-finalists-for-2026)",
-          "asOf": "2026-10-05"
+          "lastGame": null,
+          "buzz": "Schwarber hit 45 home runs and is a Silver Slugger finalist at designated hitter.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "MLB.com (https://www.mlb.com/news/don-mattingly-potential-future-phillies-2027-manager); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261001_PHI@ATL/)",
-      "asOf": "2026-10-02"
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Kyle Schwarber",
+          "value": "45"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Bryce Harper",
+          "value": ".269"
+        }
+      ],
+      "leadersSource": "FanGraphs, 2026 Philadelphia Phillies team stats page (https://www.fangraphs.com/teams/phillies/stats)",
+      "leadersAsOf": "2026-11-13",
+      "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09"
     },
     "Pittsburgh Pirates": {
-      "latestResult": "Won 4-2 at the Detroit Tigers in the season finale, finishing 82-80, out of the playoffs",
-      "latestGameDate": "2026-09-27",
-      "storyline": "At 82-80 the Pirates had their first winning season since 2018, an 11-win improvement under first-year manager Don Kelly, after going 15-9 in September.",
-      "bringUp": "The Pirates finished 82-80, their first winning season since 2018, and rookie shortstop Konnor Griffin homered in the finale at Detroit.",
+      "latestResult": "Season ended 82-80, third in the National League Central and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Second baseman Brandon Lowe hit 35 home runs with 96 runs batted in and is a Silver Slugger finalist, and Pittsburgh made him a qualifying offer he has until November 17 to accept.",
+      "bringUp": "Brandon Lowe hit 35 home runs with 96 runs batted in for the Pirates, and he has until November 17 to accept a qualifying offer.",
       "details": [
         {
-          "name": "Konnor Griffin",
+          "name": "Brandon Lowe",
           "team": "Pittsburgh Pirates",
-          "position": "Shortstop (SS)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "at Detroit Tigers, won 4-2",
-            "stats": [
-              "2 for 4",
-              "1 home run",
-              "2 runs batted in"
-            ]
-          },
-          "buzz": "Griffin was named to MLB Pipeline's All-Rookie Team on October 6 after homering in the season finale.",
-          "source": "CBS Sports box score (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_PIT@DET/); MLB.com (https://www.mlb.com/pirates/news/2026-mlb-all-rookie-team)",
-          "asOf": "2026-10-06"
+          "position": "Second baseman (2B)",
+          "lastGame": null,
+          "buzz": "Lowe hit 35 home runs with 96 runs batted in, is a Silver Slugger finalist, and received a one-year qualifying offer.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "MLB.com (https://www.mlb.com/pirates/news/pirates-biggest-questions-entering-2026-27-offseason); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_PIT@DET/)",
-      "asOf": "2026-10-06"
+      "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Brandon Lowe",
+          "value": "35"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Nick Gonzales",
+          "value": ".303"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Brandon Lowe",
+          "value": "96"
+        }
+      ],
+      "leadersSource": "ESPN, Pirates 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/pit/data)",
+      "leadersAsOf": "2026-11-13"
     },
     "San Diego Padres": {
-      "latestResult": "Beat the Milwaukee Brewers 4-3 in Game 3 of the NL Division Series at home (Brewers lead series 2-1)",
-      "latestGameDate": "2026-10-06",
-      "storyline": "After sweeping the Cubs 2-0 in the Wild Card Series, the 91-71 Padres stayed alive against the 103-59 Brewers with a 4-3 Game 3 win and host Game 4 on Wednesday.",
-      "bringUp": "The Padres beat the Brewers 4-3 Tuesday to stay alive, down 2-1 in the Division Series, and Jake Cronenworth's solo home run was part of it. Game 4 is Wednesday in San Diego.",
+      "latestResult": "Season ended 91-71; swept the Cubs 2-0 in the Wild Card Series, then lost the Division Series 3-1 to the Brewers",
+      "latestGameDate": null,
+      "storyline": "Closer Mason Miller saved 38 of 41 chances with a 1.67 earned run average and is a Reliever of the Year finalist, and Michael King turned down his player option to become a free agent.",
+      "bringUp": "Mason Miller struck out 129 batters in 70 innings with 38 saves, and he is a finalist for National League Reliever of the Year.",
       "details": [
         {
-          "name": "Jake Cronenworth",
+          "name": "Mason Miller",
           "team": "San Diego Padres",
-          "position": "Second baseman (2B)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs Milwaukee Brewers, won 4-3, Division Series Game 3",
-            "stats": [
-              "2 for 2",
-              "1 home run (solo, 5th inning)",
-              "1 run scored"
-            ]
-          },
-          "buzz": "Cronenworth went 2 for 2 with a solo homer in the fifth inning of the Padres' Game 3 win.",
-          "source": "CBS Sports box score (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/)",
-          "asOf": "2026-10-06"
+          "position": "Relief pitcher (RP)",
+          "lastGame": null,
+          "buzz": "Miller saved 38 of 41 chances with a 1.67 earned run average and 129 strikeouts in 70 innings.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+          "asOf": "2026-11-09"
         },
         {
           "name": "Michael King",
           "team": "San Diego Padres",
           "position": "Starting pitcher (SP)",
-          "lastGame": {
-            "date": "2026-10-06",
-            "label": "vs Milwaukee Brewers, won 4-3, Division Series Game 3",
-            "stats": [
-              "2.0 innings in relief",
-              "0 earned runs",
-              "1 hit allowed",
-              "1 strikeout"
-            ]
-          },
-          "buzz": "King, who won Wild Card Game 1 against the Cubs, pitched the final two innings of Game 3 out of the bullpen for the save.",
-          "source": "CBS Sports box score (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/)",
-          "asOf": "2026-10-06"
+          "lastGame": null,
+          "buzz": "King went 12-10 with a 3.21 earned run average in 32 starts and declined his player option, becoming a free agent.",
+          "source": "Associated Press via KSAT, option decisions (https://www.ksat.com/sports/2026/10/30/marlins-exercise-alcantara-option-king-leaves-padres-and-bichette-stays-with-mets/)",
+          "asOf": "2026-10-30"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261006_MIL@SD/); CBS Sports scoreboard (https://www.cbssports.com/mlb/scoreboard/)",
-      "asOf": "2026-10-07"
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Manny Machado",
+          "value": "30"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Fernando Tatis Jr.",
+          "value": ".289"
+        }
+      ],
+      "leadersSource": "FanGraphs, 2026 San Diego Padres team stats page (https://www.fangraphs.com/teams/padres/stats)",
+      "leadersAsOf": "2026-11-13",
+      "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); Associated Press via KSAT, option decisions (https://www.ksat.com/sports/2026/10/30/marlins-exercise-alcantara-option-king-leaves-padres-and-bichette-stays-with-mets/); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09"
     },
     "San Francisco Giants": {
-      "latestResult": "Lost 5-1 in 10 innings to the Los Angeles Dodgers in the season finale, finishing 65-97, out of the playoffs",
-      "latestGameDate": "2026-09-27",
-      "storyline": "The Giants lost 97 games, missed the playoffs for the ninth time in 10 years, and still publicly committed to first-year manager Tony Vitello, who was ejected a league-high seven times.",
-      "bringUp": "The Giants lost 97 games this year, but Buster Posey's front office is sticking with manager Tony Vitello for 2027, even after Vitello was ejected an MLB-high seven times, the last one in Game 162.",
+      "latestResult": "Season ended 65-97, fourth in the National League West and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Rafael Devers hit 37 home runs and is a Silver Slugger finalist.",
+      "bringUp": "Rafael Devers hit 37 home runs for the Giants, a Silver Slugger finalist, in Tony Vitello's first season as manager.",
       "details": [
         {
-          "name": "Scott Bandura",
+          "name": "Rafael Devers",
           "team": "San Francisco Giants",
-          "position": "Outfielder (OF)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "vs Los Angeles Dodgers, lost 5-1 in 10 innings",
-            "stats": [
-              "1 for 3",
-              "1 run batted in",
-              "1 strikeout"
-            ]
-          },
-          "buzz": "Bandura drove in the Giants' only run of the finale with a two-out single, his first major-league run batted in.",
-          "source": "CBS Sports recap and box (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_LAD@SF/)",
-          "asOf": "2026-09-27"
+          "position": "First baseman (1B)",
+          "lastGame": null,
+          "buzz": "Devers hit 37 home runs and is a Silver Slugger finalist at first base.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "MLB.com (https://www.mlb.com/giants/news/buster-posey-reflects-on-giants-2026-season); CBS Sports (https://www.cbssports.com/mlb/gametracker/recap/MLB_20260927_LAD@SF/)",
-      "asOf": "2026-09-30"
+      "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Rafael Devers",
+          "value": "37"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Jung Hoo Lee",
+          "value": ".276"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Rafael Devers",
+          "value": "98"
+        }
+      ],
+      "leadersSource": "ESPN, Giants 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/sf/bats)",
+      "leadersAsOf": "2026-11-13"
     },
     "Seattle Mariners": {
-      "latestResult": "Beat the Los Angeles Angels 7-3 in the season finale, finishing 76-86, third in the AL West and out of the playoffs",
-      "latestGameDate": "2026-09-27",
-      "storyline": "One year after winning the AL West and reaching the ALCS, the Mariners went 76-86 and moved on from manager Dan Wilson, who finished 187-171, and are now searching for a new manager.",
-      "bringUp": "The Mariners went from the ALCS last year to 76-86 this year, and they're replacing manager Dan Wilson. Cal Raleigh had a left shoulder surgery on Saturday after hitting .182.",
+      "latestResult": "Season ended 76-86, third in the American League West and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Seattle hired 36-year-old Jason Kanzler, who has never managed, on November 3, and second baseman Cole Young won a Gold Glove, the Mariners' first at the position since Bret Boone.",
+      "bringUp": "The Mariners hired 36-year-old Jason Kanzler, who has never managed, and Cole Young just won a Gold Glove at second base.",
       "details": [
         {
-          "name": "Cal Raleigh",
+          "name": "Cole Young",
           "team": "Seattle Mariners",
-          "position": "Catcher (C)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "vs Los Angeles Angels, won 7-3",
-            "stats": [
-              "3 for 5",
-              "1 run batted in"
-            ]
-          },
-          "buzz": "Raleigh hit .182 with a .664 OPS (on-base plus slugging) in 2026 and had left shoulder surgery; the team expects him fully recovered by spring training.",
-          "source": "MLB.com (https://www.mlb.com/news/cal-raleigh-josh-naylor-undergo-offseason-surgeries)",
-          "asOf": "2026-10-05"
+          "position": "Second baseman (2B)",
+          "lastGame": null,
+          "buzz": "Young won the American League Gold Glove at second base, the first Mariners second baseman to do so since Bret Boone won three straight from 2002 to 2004.",
+          "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners)",
+          "asOf": "2026-11-01"
         },
         {
           "name": "Randy Arozarena",
           "team": "Seattle Mariners",
           "position": "Outfielder (OF)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "vs Los Angeles Angels, won 7-3",
-            "stats": [
-              "1 for 3",
-              "2 runs batted in"
-            ]
-          },
-          "buzz": "Arozarena was named a finalist for the 2026 Hank Aaron Award, given to the best hitter in each league.",
-          "source": "MLB.com (https://www.mlb.com/news/hank-aaron-award-finalists-for-2026)",
-          "asOf": "2026-10-05"
+          "lastGame": null,
+          "buzz": "Arozarena received a one-year qualifying offer and scored 113 runs, and he has until November 17 to accept.",
+          "source": "Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "MLB.com (https://www.mlb.com/news/dan-wilson-won-t-return-mariners-manager-2027); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_LAA@SEA/)",
-      "asOf": "2026-10-05"
+      "source": "Associated Press via News4JAX, Mariners hire Kanzler (https://www.news4jax.com/sports/2026/11/03/seattle-mariners-hire-chicago-cubs-farm-director-jason-kanzler-as-manager/); MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); Associated Press via News4JAX, qualifying offers (https://www.news4jax.com/sports/2026/11/02/bednar-suzuki-arozarena-among-8-receiving-2315-million-qualifying-offers/); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Randy Arozarena",
+          "value": "26"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Randy Arozarena",
+          "value": ".281"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Randy Arozarena",
+          "value": "79"
+        }
+      ],
+      "leadersSource": "ESPN, Mariners 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/sea/data)",
+      "leadersAsOf": "2026-11-13"
     },
     "St. Louis Cardinals": {
-      "latestResult": "Lost 6-4 at the Milwaukee Brewers in the season finale, finishing 77-85, out of the playoffs",
-      "latestGameDate": "2026-09-27",
-      "storyline": "Alec Burleson's pinch-hit homer on September 25 put him back on top of the MLB runs-batted-in lead with 115, just ahead of the Orioles' Pete Alonso at that point.",
-      "bringUp": "The Cardinals finished 77-85, but Alec Burleson hit a pinch-hit homer in the last series to retake the MLB lead in runs batted in with 115, and Jordan Walker is a Hank Aaron Award finalist.",
+      "latestResult": "Season ended 77-85, fourth in the National League Central and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Alec Burleson drove in 116 runs, the most in the National League, and rookie JJ Wetherholt was a Rookie of the Year finalist with 17 home runs and 14 stolen bases.",
+      "bringUp": "Alec Burleson drove in 116 runs for the Cardinals, the most in the National League, and JJ Wetherholt hit 17 homers with 14 steals as a rookie.",
       "details": [
         {
           "name": "Alec Burleson",
           "team": "St. Louis Cardinals",
           "position": "First baseman (1B)",
           "lastGame": null,
-          "buzz": "Burleson's pinch-hit home run, hit at 109.6 mph, gave him 25 homers and 115 runs batted in with two games left.",
-          "source": "MLB.com (https://www.mlb.com/cardinals/news/alec-burleson-homers-to-regain-mlb-lead-in-rbis-in-2026)",
-          "asOf": "2026-09-26"
+          "buzz": "Burleson drove in 116 runs and is a Silver Slugger finalist at first base.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         },
         {
-          "name": "Jordan Walker",
+          "name": "JJ Wetherholt",
           "team": "St. Louis Cardinals",
-          "position": "Outfielder (OF)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "at Milwaukee Brewers, lost 6-4",
-            "stats": [
-              "0 for 4",
-              "1 run batted in",
-              "1 run scored"
-            ]
-          },
-          "buzz": "Walker hit 22 home runs with an .887 OPS (on-base plus slugging) in the first half and was named a Hank Aaron Award finalist on October 5.",
-          "source": "MLB.com (https://www.mlb.com/cardinals/news/jordan-walker-reflects-on-growth-in-first-full-mlb-season)",
-          "asOf": "2026-10-05"
+          "position": "Second baseman (2B)",
+          "lastGame": null,
+          "buzz": "Wetherholt was a National League Rookie of the Year finalist after 17 home runs and 14 stolen bases.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+          "asOf": "2026-11-09"
         }
       ],
-      "source": "MLB.com (https://www.mlb.com/cardinals/news/alec-burleson-homers-to-regain-mlb-lead-in-rbis-in-2026); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_STL@MIL/)",
-      "asOf": "2026-09-27"
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Jordan Walker",
+          "value": "29"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Alec Burleson",
+          "value": ".279"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Alec Burleson",
+          "value": "116"
+        }
+      ],
+      "leadersSource": "ESPN, Cardinals 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/stl/index)",
+      "leadersAsOf": "2026-11-13",
+      "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09"
     },
     "Tampa Bay Rays": {
-      "latestResult": "Beat the New York Yankees 5-2 in Game 2 of the AL Division Series at home (Rays lead series 2-0)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "The Rays, the American League's best team at 98-64, are one win from the AL Championship Series with Game 3 at Yankee Stadium on Wednesday.",
-      "bringUp": "The Rays beat the Yankees 5-2 in Game 2 and lead the Division Series 2-0, so they can finish it off Wednesday at Yankee Stadium. Junior Caminero had two hits.",
+      "latestResult": "Lost the World Series 4-1 to the Brewers, falling 4-1 in Game 5 at home on Wednesday, October 28; finished 98-64 after beating the Yankees 3-0 and the Guardians 4-2 to win the American League pennant",
+      "latestGameDate": "2026-10-28",
+      "storyline": "Junior Caminero is an American League MVP finalist after 42 home runs and 101 runs batted in, closer Bryan Baker saved 41 games, and Kevin Cash is a Manager of the Year finalist.",
+      "bringUp": "The Rays lost the World Series in five games, but Junior Caminero hit 42 home runs and is an MVP finalist, and Bryan Baker saved 41 games.",
       "details": [
         {
           "name": "Junior Caminero",
           "team": "Tampa Bay Rays",
           "position": "Third baseman (3B)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "vs New York Yankees, won 5-2, Division Series Game 2",
+            "date": "2026-10-28",
+            "label": "vs Milwaukee Brewers, lost 4-1 (World Series Game 5)",
             "stats": [
-              "2 for 4",
-              "1 run scored"
+              "1 for 4"
             ]
           },
-          "buzz": "Caminero is one of two Rays, with Yandy Diaz, named finalists for the 2026 Hank Aaron Award for the best hitter in each league.",
-          "source": "MLB.com (https://www.mlb.com/news/hank-aaron-award-finalists-for-2026)",
-          "asOf": "2026-10-05"
-        }
-      ],
-      "source": "CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/); CBS Sports scoreboard (https://www.cbssports.com/mlb/scoreboard/)",
-      "asOf": "2026-10-07"
-    },
-    "Texas Rangers": {
-      "latestResult": "Lost 6-4 at the Minnesota Twins on the final day, finishing 80-82, one game out of a playoff spot",
-      "latestGameDate": "2026-09-27",
-      "storyline": "The Rangers finished 80-82, one game out, their third straight year without the postseason, and president Chris Young said the roster he built 'wasn't good enough' and must get younger and healthier.",
-      "bringUp": "The Rangers missed the playoffs by one game at 80-82 after losing on the final day in Minnesota, even though Corey Seager homered.",
-      "details": [
-        {
-          "name": "Corey Seager",
-          "team": "Texas Rangers",
-          "position": "Shortstop (SS)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "at Minnesota Twins, lost 6-4",
-            "stats": [
-              "1 for 4",
-              "1 home run (his 20th)",
-              "2 runs batted in"
-            ]
-          },
-          "buzz": "Seager missed 63 days this season with back injuries and a concussion, and Chris Young named keeping him on the field a priority.",
-          "source": "MLB.com (https://www.mlb.com/rangers/news/chris-young-addresses-rangers-missing-2026-postseason)",
-          "asOf": "2026-09-29"
-        }
-      ],
-      "source": "MLB.com (https://www.mlb.com/rangers/news/chris-young-addresses-rangers-missing-2026-postseason); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_TEX@MIN/)",
-      "asOf": "2026-09-29"
-    },
-    "Toronto Blue Jays": {
-      "latestResult": "Beat the Cincinnati Reds 5-1 in the season finale, finishing 79-83, last in the AL East",
-      "latestGameDate": "2026-09-27",
-      "storyline": "Vladimir Guerrero Jr., who signed a 14-year, $500 million contract in April 2025, hit only nine home runs with a .688 OPS (on-base plus slugging) as Toronto finished last in the league in homers (152) and runs (648).",
-      "bringUp": "The Blue Jays finished last in the AL East at 79-83, and Vladimir Guerrero Jr. hit just nine home runs in 2026 despite his $500 million contract. Max Scherzer struck out seven in the finale.",
-      "details": [
-        {
-          "name": "Vladimir Guerrero Jr.",
-          "team": "Toronto Blue Jays",
-          "position": "First baseman (1B)",
-          "lastGame": null,
-          "buzz": "General manager Ross Atkins said Guerrero lost his rhythm and timing early and it hurt his confidence; the team says he has to rebound for its plans to work.",
-          "source": "MLB.com (https://www.mlb.com/bluejays/news/ross-atkins-mark-shapiro-address-blue-jays-offseason)",
-          "asOf": "2026-09-30"
+          "buzz": "Caminero hit 42 home runs and 101 runs batted in and is an American League MVP finalist.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); CBS Sports, World Series Game 5 box score and recap (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261028_MIL@TB/)",
+          "asOf": "2026-11-02"
         },
         {
-          "name": "Max Scherzer",
-          "team": "Toronto Blue Jays",
-          "position": "Starting pitcher (SP)",
+          "name": "Bryan Baker",
+          "team": "Tampa Bay Rays",
+          "position": "Relief pitcher (RP)",
           "lastGame": {
-            "date": "2026-09-27",
-            "label": "vs Cincinnati Reds, won 5-1",
+            "date": "2026-10-28",
+            "label": "vs Milwaukee Brewers, lost 4-1 (World Series Game 5)",
             "stats": [
-              "7.0 innings",
-              "7 strikeouts",
-              "1 earned run",
-              "6 hits allowed"
+              "1 inning pitched",
+              "0 hits allowed",
+              "0 earned runs",
+              "1 strikeout"
             ]
           },
-          "buzz": "Scherzer won the finale to finish 4-9, striking out seven for the 225th win of his career.",
-          "source": "CBS Sports box score (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_CIN@TOR/)",
-          "asOf": "2026-09-27"
+          "buzz": "Baker saved 41 games with a 1.44 earned run average and 63 strikeouts in 62 1/3 innings and is a Reliever of the Year finalist.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); CBS Sports, World Series Game 5 box score and recap (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261028_MIL@TB/)",
+          "asOf": "2026-11-02"
         }
       ],
-      "source": "MLB.com (https://www.mlb.com/bluejays/news/ross-atkins-mark-shapiro-address-blue-jays-offseason); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_CIN@TOR/)",
-      "asOf": "2026-09-30"
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Junior Caminero",
+          "value": "42"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Chandler Simpson",
+          "value": ".306"
+        }
+      ],
+      "leadersSource": "FanGraphs, 2026 Tampa Bay Rays team stats page (https://www.fangraphs.com/teams/rays/stats)",
+      "leadersAsOf": "2026-11-13",
+      "source": "CBS Sports, World Series Game 5 box score and recap (https://www.cbssports.com/mlb/gametracker/recap/MLB_20261028_MIL@TB/); Associated Press via WDBJ7, ALCS Game 6 (https://www.wdbj7.com/2026/10/20/daz-caminero-peralta-lead-rays-7-3-win-over-guardians-trip-world-series/?outputType=amp); NBC Sports playoff tracker (https://www.nbcsports.com/mlb/news/2026-mlb-playoffs-tracker-bracket-schedule-results-scores-matchups-for-al-nl-postseason-games); MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-02"
+    },
+    "Texas Rangers": {
+      "latestResult": "Season ended 80-82, second in the American League West, one game behind the Astros",
+      "latestGameDate": null,
+      "storyline": "Ezequiel Duran won the first utility Gold Glove in Rangers history and hit 17 home runs, making him a Silver Slugger finalist.",
+      "bringUp": "The Rangers finished one game behind the Astros at 80-82, and Ezequiel Duran just won the first utility Gold Glove in team history.",
+      "details": [
+        {
+          "name": "Ezequiel Duran",
+          "team": "Texas Rangers",
+          "position": "Utility player (UTIL)",
+          "lastGame": null,
+          "buzz": "Duran won the American League Gold Glove at utility and is a Silver Slugger finalist after 17 home runs.",
+          "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
+        }
+      ],
+      "source": "MLB.com, 2026 Gold Glove winners (https://www.mlb.com/orioles/news/2026-gold-glove-award-winners); MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Jake Burger",
+          "value": "28"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Jake Burger",
+          "value": "90"
+        }
+      ],
+      "leadersSource": "ESPN, Rangers 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/tex/throws)",
+      "leadersAsOf": "2026-11-13"
+    },
+    "Toronto Blue Jays": {
+      "latestResult": "Season ended 79-83, fifth in the American League East and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Dylan Cease is an American League Cy Young finalist after a 2.40 earned run average and 239 strikeouts, and closer Louis Varland saved 35 of 37 chances.",
+      "bringUp": "Dylan Cease had a 2.40 earned run average and 239 strikeouts and is a Cy Young finalist, even though Toronto finished 79-83.",
+      "details": [
+        {
+          "name": "Dylan Cease",
+          "team": "Toronto Blue Jays",
+          "position": "Starting pitcher (SP)",
+          "lastGame": null,
+          "buzz": "Cease posted a 2.40 earned run average and 239 strikeouts in 169 innings and is an American League Cy Young finalist.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+          "asOf": "2026-11-09"
+        },
+        {
+          "name": "Louis Varland",
+          "team": "Toronto Blue Jays",
+          "position": "Relief pitcher (RP)",
+          "lastGame": null,
+          "buzz": "Varland saved 35 of 37 chances and is an American League Reliever of the Year finalist.",
+          "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists)",
+          "asOf": "2026-11-09"
+        }
+      ],
+      "source": "MLB.com, 2026 BBWAA award finalists (https://www.mlb.com/news/2026-bbwaa-awards-finalists); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-09",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "Kazuma Okamoto",
+          "value": "33"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "Vladimir Guerrero Jr.",
+          "value": ".260"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "Kazuma Okamoto",
+          "value": "92"
+        }
+      ],
+      "leadersSource": "ESPN, Blue Jays 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/tor/throws)",
+      "leadersAsOf": "2026-11-13"
     },
     "Washington Nationals": {
-      "latestResult": "Beat the New York Mets 6-4 in the season finale, finishing 77-85, out of the playoffs",
-      "latestGameDate": "2026-09-27",
-      "storyline": "CJ Abrams became the first National with 100 runs batted in since 2019 and only the second with a 30-homer, 30-steal season, and on October 5 he was named a Hank Aaron Award finalist.",
-      "bringUp": "The Nationals finished 77-85, but CJ Abrams had a 30-homer, 30-steal season, only the second in team history after Alfonso Soriano in 2006, and he topped 100 runs batted in.",
+      "latestResult": "Season ended 77-85, fourth in the National League East and out of the playoffs",
+      "latestGameDate": null,
+      "storyline": "Shortstop CJ Abrams hit 33 home runs with 106 runs batted in and outfielder James Wood hit 30 home runs, and Blake Butera, 34, is the youngest manager in baseball.",
+      "bringUp": "CJ Abrams hit 33 home runs with 106 runs batted in and James Wood hit 30 homers, and the Nationals have the youngest manager in baseball in 34-year-old Blake Butera.",
       "details": [
         {
           "name": "CJ Abrams",
           "team": "Washington Nationals",
-          "position": "Second baseman (2B)",
-          "lastGame": {
-            "date": "2026-09-27",
-            "label": "vs New York Mets, won 6-4",
-            "stats": [
-              "1 for 4",
-              "1 run batted in"
-            ]
-          },
-          "buzz": "As of September 23, Abrams had 33 home runs, 33 stolen bases and 102 runs batted in, and he was the NL's starting shortstop in the All-Star Game.",
-          "source": "MLB.com (https://www.mlb.com/news/cj-abrams-hits-two-home-runs-against-tigers)",
-          "asOf": "2026-09-23"
+          "position": "Shortstop (SS)",
+          "lastGame": null,
+          "buzz": "Abrams hit 33 home runs with 106 runs batted in and is a Silver Slugger finalist at shortstop.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
+        },
+        {
+          "name": "James Wood",
+          "team": "Washington Nationals",
+          "position": "Outfielder (OF)",
+          "lastGame": null,
+          "buzz": "Wood hit 30 home runs and is a Silver Slugger finalist in the outfield.",
+          "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists)",
+          "asOf": "2026-11-05"
         }
       ],
-      "source": "MLB.com (https://www.mlb.com/news/cj-abrams-hits-two-home-runs-against-tigers); CBS Sports (https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20260927_NYM@WAS/)",
-      "asOf": "2026-10-05"
+      "source": "MLB.com, 2026 Silver Slugger finalists (https://www.mlb.com/news/2026-silver-slugger-award-finalists); Associated Press via News4JAX, Mariners hire Kanzler (https://www.news4jax.com/sports/2026/11/03/seattle-mariners-hire-chicago-cubs-farm-director-jason-kanzler-as-manager/); ESPN standings (https://www.espn.com/mlb/standings)",
+      "asOf": "2026-11-05",
+      "leaders": [
+        {
+          "label": "Home runs (2026 season)",
+          "player": "CJ Abrams",
+          "value": "33"
+        },
+        {
+          "label": "Batting average (qualified hitters) (2026 season)",
+          "player": "James Wood",
+          "value": ".265"
+        },
+        {
+          "label": "Runs batted in (2026 season)",
+          "player": "CJ Abrams",
+          "value": "106"
+        }
+      ],
+      "leadersSource": "ESPN, Nationals 2026 regular-season team batting stats (https://www.espn.com/mlb/team/stats/_/name/wsh/nationals)",
+      "leadersAsOf": "2026-11-13"
     }
-  }
+  },
+  "hotGoss": [
+    {
+      "id": "contreras-analytics-criticism-breslow-talking",
+      "topic": "Willson Contreras and Red Sox leaders are still talking after his analytics criticism",
+      "whatHappened": "The Boston Globe reports that Red Sox first baseman Willson Contreras criticized the team for relying too much on analytics (decisions driven by numbers) after Boston's season ended with a 9-2 loss to the Yankees in the Wild Card Series on September 30. That led to a meeting with team officials at Fenway Park. On Wednesday, November 11, president of baseball operations Craig Breslow said he and Contreras have \"spoken a bunch\" since, and called Contreras's feedback the view of \"somebody who cares about winning above everything else.\"",
+      "whyTalking": "It stands out when a player questions how his own team makes decisions, and this one came right after the Yankees knocked Boston out of the playoffs.",
+      "youCouldSay": "Red Sox first baseman Willson Contreras criticized the team for leaning too hard on analytics after the Yankees knocked them out, and the Boston Globe says president Craig Breslow is still talking with him about it.",
+      "storyDate": "2026-11-11",
+      "reportedBy": "Boston Globe",
+      "source": "Boston Globe (https://www.bostonglobe.com/2026/11/11/sports/red-sox-gm-meetings/)",
+      "asOf": "2026-11-13"
+    }
+  ]
 }

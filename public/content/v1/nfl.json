@@ -1,1805 +1,2248 @@
 {
   "sport": "nfl",
-  "asOf": "2026-10-07",
+  "asOf": "2026-11-13",
   "season": "2026",
-  "phase": "Week 4",
+  "phase": "Week 9 complete (Week 10 next)",
   "buzzRounds": [
     [
       {
-        "id": "lamb-17-catches-cowboys-texans",
-        "topic": "CeeDee Lamb catches 17 passes to beat the Texans",
-        "gameDate": "2026-10-04",
-        "whatHappened": "The Dallas Cowboys won 34-30 at the Houston Texans. CeeDee Lamb caught 17 passes for 189 yards, including the winning 12-yard touchdown with 40 seconds left, and Dak Prescott threw for 335 yards.",
-        "whyCare": "NFL.com says Lamb is only the fourth player in NFL history with 17 or more catches, 180 or more receiving yards and a touchdown in one game. Dallas is now 2-2 and Houston is 0-4.",
-        "youCouldSay": "CeeDee Lamb caught 17 passes for 189 yards against the Texans, and the last one was the winning touchdown with 40 seconds left. Only three other players in NFL history have had a game like that.",
+        "id": "bills-beat-vikings-mnf-23-6",
+        "topic": "Bills beat the Vikings 23-6 on Monday night",
+        "whatHappened": "The Buffalo Bills won 23-6 at the Minnesota Vikings on Monday Night Football. Josh Allen threw for 234 yards and a touchdown, and James Cook ran 31 times for 107 yards and a touchdown.",
+        "whyCare": "Both teams were 6-1 going in, so Buffalo is now 7-1 and Minnesota fell to 6-2. The Bills had 339 total yards to 178 and held the ball for 42:32 to Minnesota's 17:28.",
+        "youCouldSay": "The Bills went into Minnesota for a Monday night game between two 6-1 teams and won 23-6. They held the ball for more than 42 minutes, and James Cook ran for 107 yards.",
+        "gameDate": "2026-11-09",
         "details": [
-          {
-            "name": "CeeDee Lamb",
-            "team": "Dallas Cowboys",
-            "position": "Wide receiver (WR)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 at Houston Texans, won 34-30",
-              "stats": [
-                "17 catches",
-                "189 receiving yards",
-                "1 touchdown"
-              ]
-            },
-            "buzz": "Lamb set a career high with 17 catches, and 11 catches for 140 yards and his touchdown came in the second half, per NFL.com.",
-            "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DAL@HOU/)",
-            "asOf": "2026-10-04"
-          },
-          {
-            "name": "Dak Prescott",
-            "team": "Dallas Cowboys",
-            "position": "Quarterback (QB)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 at Houston Texans, won 34-30",
-              "stats": [
-                "32 of 45 passing",
-                "335 passing yards",
-                "1 touchdown",
-                "0 interceptions"
-              ]
-            },
-            "buzz": "NFL.com noted Prescott targeted Lamb 21 times on 45 routes, the most targets for a receiver running 45 or fewer routes in the Next Gen Stats tracking era.",
-            "source": "NFL.com (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-            "asOf": "2026-10-07"
-          }
-        ],
-        "source": "CBS Sports recap (https://www.cbssports.com/nfl/gametracker/recap/NFL_20261004_DAL@HOU/)",
-        "asOf": "2026-10-04"
-      },
-      {
-        "id": "chiefs-4-0-walker-177-yards",
-        "topic": "Chiefs stay unbeaten behind Kenneth Walker III",
-        "gameDate": "2026-10-04",
-        "whatHappened": "The Kansas City Chiefs beat the Las Vegas Raiders 30-27 to move to 4-0. Kenneth Walker III ran for 177 yards and two touchdowns, including the go-ahead 2-yard run with 3:21 left, and Patrick Mahomes threw two touchdowns.",
-        "whyCare": "NFL.com says Walker joins Jim Brown and O.J. Simpson as the only players in NFL history with multiple 170-yard rushing games in their team's first four games. The loss was the first of the season for the 3-1 Raiders.",
-        "youCouldSay": "The Chiefs are 4-0 after beating the Raiders 30-27, and Kenneth Walker III ran for 177 yards. Only Jim Brown and O.J. Simpson had ever put up two 170-yard games in their team's first four.",
-        "details": [
-          {
-            "name": "Kenneth Walker III",
-            "team": "Kansas City Chiefs",
-            "position": "Running back (RB)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 at Las Vegas Raiders, won 30-27",
-              "stats": [
-                "22 carries",
-                "177 rushing yards",
-                "2 touchdowns"
-              ]
-            },
-            "buzz": "Walker scored the go-ahead touchdown from 2 yards and then a 22-yard clincher after a Raiders kickoff fumble, and he also had a 76-yard run.",
-            "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_KC@LV/)",
-            "asOf": "2026-10-04"
-          },
-          {
-            "name": "Patrick Mahomes",
-            "team": "Kansas City Chiefs",
-            "position": "Quarterback (QB)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 at Las Vegas Raiders, won 30-27",
-              "stats": [
-                "15 of 30 passing",
-                "225 passing yards",
-                "2 touchdowns",
-                "0 interceptions"
-              ]
-            },
-            "buzz": "Mahomes completed only half his passes, but his 55-yard throw to Tyquan Thornton set up the go-ahead score, per the CBS Sports recap.",
-            "source": "CBS Sports recap (https://www.cbssports.com/nfl/gametracker/recap/NFL_20261004_KC@LV/)",
-            "asOf": "2026-10-05"
-          }
-        ],
-        "source": "NFL.com (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-        "asOf": "2026-10-07"
-      },
-      {
-        "id": "eagles-blow-lead-rams",
-        "topic": "Eagles blow a 10-point lead to the Rams",
-        "gameDate": "2026-10-04",
-        "whatHappened": "The Philadelphia Eagles led the Los Angeles Rams 20-10 at halftime at home, did not score again, and lost 24-20. Jalen Hurts threw for 93 yards, and Puka Nacua caught 9 passes for 125 yards for the Rams.",
-        "whyCare": "The Eagles went 0 for 12 on third downs, their most tries without a conversion since at least 1991, per NFL.com, and both teams are now 2-2.",
-        "youCouldSay": "The Eagles were up 20-10 on the Rams and never scored again, losing 24-20. They went 0 for 12 on third downs, and Jalen Hurts threw for just 93 yards.",
-        "details": [
-          {
-            "name": "Jalen Hurts",
-            "team": "Philadelphia Eagles",
-            "position": "Quarterback (QB)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 vs Los Angeles Rams, lost 24-20",
-              "stats": [
-                "12 of 27 passing",
-                "93 passing yards",
-                "2 touchdowns",
-                "0 interceptions"
-              ]
-            },
-            "buzz": "NFL.com says the 93 yards were the fewest Hurts has thrown for in a game he started and finished.",
-            "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_LAR@PHI/)",
-            "asOf": "2026-10-04"
-          },
-          {
-            "name": "Puka Nacua",
-            "team": "Los Angeles Rams",
-            "position": "Wide receiver (WR)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 at Philadelphia Eagles, won 24-20",
-              "stats": [
-                "9 catches",
-                "125 receiving yards",
-                "0 touchdowns"
-              ]
-            },
-            "buzz": "Nacua caught 9 passes for 125 yards as the Rams came back, with Kyren Williams scoring twice late, per NFL.com.",
-            "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_LAR@PHI/)",
-            "asOf": "2026-10-04"
-          }
-        ],
-        "source": "CBS Sports recap (https://www.cbssports.com/nfl/gametracker/recap/NFL_20261004_LAR@PHI/)",
-        "asOf": "2026-10-04"
-      }
-    ],
-    [
-      {
-        "id": "lamb-17-catches-cowboys-texans",
-        "topic": "CeeDee Lamb catches 17 passes to beat the Texans",
-        "gameDate": "2026-10-04",
-        "whatHappened": "The Dallas Cowboys won 34-30 at the Houston Texans. CeeDee Lamb caught 17 passes for 189 yards, including the winning 12-yard touchdown with 40 seconds left, and Dak Prescott threw for 335 yards.",
-        "whyCare": "NFL.com says Lamb is only the fourth player in NFL history with 17 or more catches, 180 or more receiving yards and a touchdown in one game. Dallas is now 2-2 and Houston is 0-4.",
-        "youCouldSay": "CeeDee Lamb caught 17 passes for 189 yards against the Texans, and the last one was the winning touchdown with 40 seconds left. Only three other players in NFL history have had a game like that.",
-        "details": [
-          {
-            "name": "CeeDee Lamb",
-            "team": "Dallas Cowboys",
-            "position": "Wide receiver (WR)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 at Houston Texans, won 34-30",
-              "stats": [
-                "17 catches",
-                "189 receiving yards",
-                "1 touchdown"
-              ]
-            },
-            "buzz": "Lamb set a career high with 17 catches, and 11 catches for 140 yards and his touchdown came in the second half, per NFL.com.",
-            "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DAL@HOU/)",
-            "asOf": "2026-10-04"
-          },
-          {
-            "name": "Dak Prescott",
-            "team": "Dallas Cowboys",
-            "position": "Quarterback (QB)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 at Houston Texans, won 34-30",
-              "stats": [
-                "32 of 45 passing",
-                "335 passing yards",
-                "1 touchdown",
-                "0 interceptions"
-              ]
-            },
-            "buzz": "NFL.com noted Prescott targeted Lamb 21 times on 45 routes, the most targets for a receiver running 45 or fewer routes in the Next Gen Stats tracking era.",
-            "source": "NFL.com (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-            "asOf": "2026-10-07"
-          }
-        ],
-        "source": "CBS Sports recap (https://www.cbssports.com/nfl/gametracker/recap/NFL_20261004_DAL@HOU/)",
-        "asOf": "2026-10-04"
-      },
-      {
-        "id": "eagles-blow-lead-rams",
-        "topic": "Eagles blow a 10-point lead to the Rams",
-        "gameDate": "2026-10-04",
-        "whatHappened": "The Philadelphia Eagles led the Los Angeles Rams 20-10 at halftime at home, did not score again, and lost 24-20. Jalen Hurts threw for 93 yards, and Puka Nacua caught 9 passes for 125 yards for the Rams.",
-        "whyCare": "The Eagles went 0 for 12 on third downs, their most tries without a conversion since at least 1991, per NFL.com, and both teams are now 2-2.",
-        "youCouldSay": "The Eagles were up 20-10 on the Rams and never scored again, losing 24-20. They went 0 for 12 on third downs, and Jalen Hurts threw for just 93 yards.",
-        "details": [
-          {
-            "name": "Jalen Hurts",
-            "team": "Philadelphia Eagles",
-            "position": "Quarterback (QB)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 vs Los Angeles Rams, lost 24-20",
-              "stats": [
-                "12 of 27 passing",
-                "93 passing yards",
-                "2 touchdowns",
-                "0 interceptions"
-              ]
-            },
-            "buzz": "NFL.com says the 93 yards were the fewest Hurts has thrown for in a game he started and finished.",
-            "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_LAR@PHI/)",
-            "asOf": "2026-10-04"
-          },
-          {
-            "name": "Puka Nacua",
-            "team": "Los Angeles Rams",
-            "position": "Wide receiver (WR)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 at Philadelphia Eagles, won 24-20",
-              "stats": [
-                "9 catches",
-                "125 receiving yards",
-                "0 touchdowns"
-              ]
-            },
-            "buzz": "Nacua caught 9 passes for 125 yards as the Rams came back, with Kyren Williams scoring twice late, per NFL.com.",
-            "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_LAR@PHI/)",
-            "asOf": "2026-10-04"
-          }
-        ],
-        "source": "CBS Sports recap (https://www.cbssports.com/nfl/gametracker/recap/NFL_20261004_LAR@PHI/)",
-        "asOf": "2026-10-04"
-      },
-      {
-        "id": "falcons-45-saints-mnf",
-        "topic": "Falcons score 45 on the Saints Monday night",
-        "gameDate": "2026-10-05",
-        "whatHappened": "The Atlanta Falcons beat the New Orleans Saints 45-24 on Monday night. Bijan Robinson ran for 145 yards and two touchdowns, including a 59-yard score on Atlanta's third play, and Michael Penix Jr. went 15 of 20 for 223 yards.",
-        "whyCare": "Atlanta has scored 80 points in its last two games and is back to 2-2, with Penix back from a knee injury he suffered in 2025. Atlanta outgained New Orleans 205 to 50 on the ground.",
-        "youCouldSay": "The Falcons put up 45 on the Saints Monday night, and Bijan Robinson ran for 145 yards and two touchdowns. That's 80 points for Atlanta in its last two games.",
-        "details": [
-          {
-            "name": "Bijan Robinson",
-            "team": "Atlanta Falcons",
-            "position": "Running back (RB)",
-            "lastGame": {
-              "date": "2026-10-05",
-              "label": "Week 4 at New Orleans Saints, won 45-24",
-              "stats": [
-                "19 carries",
-                "145 rushing yards",
-                "2 touchdowns"
-              ]
-            },
-            "buzz": "Robinson's 59-yard touchdown run on Atlanta's third offensive play set the tone, per the CBS Sports recap.",
-            "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261005_ATL@NO/)",
-            "asOf": "2026-10-05"
-          },
-          {
-            "name": "Michael Penix Jr.",
-            "team": "Atlanta Falcons",
-            "position": "Quarterback (QB)",
-            "lastGame": {
-              "date": "2026-10-05",
-              "label": "Week 4 at New Orleans Saints, won 45-24",
-              "stats": [
-                "15 of 20 passing",
-                "223 passing yards",
-                "1 touchdown",
-                "0 interceptions"
-              ]
-            },
-            "buzz": "Penix completed 15 of 20 passes in his return from a significant knee injury suffered in 2025, per the CBS Sports recap.",
-            "source": "CBS Sports recap (https://www.cbssports.com/nfl/gametracker/recap/NFL_20261005_ATL@NO/)",
-            "asOf": "2026-10-06"
-          }
-        ],
-        "source": "CBS Sports recap (https://www.cbssports.com/nfl/gametracker/recap/NFL_20261005_ATL@NO/)",
-        "asOf": "2026-10-06"
-      }
-    ],
-    [
-      {
-        "id": "lamb-17-catches-cowboys-texans",
-        "topic": "CeeDee Lamb catches 17 passes to beat the Texans",
-        "gameDate": "2026-10-04",
-        "whatHappened": "The Dallas Cowboys won 34-30 at the Houston Texans. CeeDee Lamb caught 17 passes for 189 yards, including the winning 12-yard touchdown with 40 seconds left, and Dak Prescott threw for 335 yards.",
-        "whyCare": "NFL.com says Lamb is only the fourth player in NFL history with 17 or more catches, 180 or more receiving yards and a touchdown in one game. Dallas is now 2-2 and Houston is 0-4.",
-        "youCouldSay": "CeeDee Lamb caught 17 passes for 189 yards against the Texans, and the last one was the winning touchdown with 40 seconds left. Only three other players in NFL history have had a game like that.",
-        "details": [
-          {
-            "name": "CeeDee Lamb",
-            "team": "Dallas Cowboys",
-            "position": "Wide receiver (WR)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 at Houston Texans, won 34-30",
-              "stats": [
-                "17 catches",
-                "189 receiving yards",
-                "1 touchdown"
-              ]
-            },
-            "buzz": "Lamb set a career high with 17 catches, and 11 catches for 140 yards and his touchdown came in the second half, per NFL.com.",
-            "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DAL@HOU/)",
-            "asOf": "2026-10-04"
-          },
-          {
-            "name": "Dak Prescott",
-            "team": "Dallas Cowboys",
-            "position": "Quarterback (QB)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 at Houston Texans, won 34-30",
-              "stats": [
-                "32 of 45 passing",
-                "335 passing yards",
-                "1 touchdown",
-                "0 interceptions"
-              ]
-            },
-            "buzz": "NFL.com noted Prescott targeted Lamb 21 times on 45 routes, the most targets for a receiver running 45 or fewer routes in the Next Gen Stats tracking era.",
-            "source": "NFL.com (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-            "asOf": "2026-10-07"
-          }
-        ],
-        "source": "CBS Sports recap (https://www.cbssports.com/nfl/gametracker/recap/NFL_20261004_DAL@HOU/)",
-        "asOf": "2026-10-04"
-      },
-      {
-        "id": "falcons-45-saints-mnf",
-        "topic": "Falcons score 45 on the Saints Monday night",
-        "gameDate": "2026-10-05",
-        "whatHappened": "The Atlanta Falcons beat the New Orleans Saints 45-24 on Monday night. Bijan Robinson ran for 145 yards and two touchdowns, including a 59-yard score on Atlanta's third play, and Michael Penix Jr. went 15 of 20 for 223 yards.",
-        "whyCare": "Atlanta has scored 80 points in its last two games and is back to 2-2, with Penix back from a knee injury he suffered in 2025. Atlanta outgained New Orleans 205 to 50 on the ground.",
-        "youCouldSay": "The Falcons put up 45 on the Saints Monday night, and Bijan Robinson ran for 145 yards and two touchdowns. That's 80 points for Atlanta in its last two games.",
-        "details": [
-          {
-            "name": "Bijan Robinson",
-            "team": "Atlanta Falcons",
-            "position": "Running back (RB)",
-            "lastGame": {
-              "date": "2026-10-05",
-              "label": "Week 4 at New Orleans Saints, won 45-24",
-              "stats": [
-                "19 carries",
-                "145 rushing yards",
-                "2 touchdowns"
-              ]
-            },
-            "buzz": "Robinson's 59-yard touchdown run on Atlanta's third offensive play set the tone, per the CBS Sports recap.",
-            "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261005_ATL@NO/)",
-            "asOf": "2026-10-05"
-          },
-          {
-            "name": "Michael Penix Jr.",
-            "team": "Atlanta Falcons",
-            "position": "Quarterback (QB)",
-            "lastGame": {
-              "date": "2026-10-05",
-              "label": "Week 4 at New Orleans Saints, won 45-24",
-              "stats": [
-                "15 of 20 passing",
-                "223 passing yards",
-                "1 touchdown",
-                "0 interceptions"
-              ]
-            },
-            "buzz": "Penix completed 15 of 20 passes in his return from a significant knee injury suffered in 2025, per the CBS Sports recap.",
-            "source": "CBS Sports recap (https://www.cbssports.com/nfl/gametracker/recap/NFL_20261005_ATL@NO/)",
-            "asOf": "2026-10-06"
-          }
-        ],
-        "source": "CBS Sports recap (https://www.cbssports.com/nfl/gametracker/recap/NFL_20261005_ATL@NO/)",
-        "asOf": "2026-10-06"
-      },
-      {
-        "id": "patriots-end-bills-unbeaten",
-        "topic": "Patriots hand the Bills their first loss",
-        "gameDate": "2026-10-04",
-        "whatHappened": "The New England Patriots won 29-26 at the Buffalo Bills. Drake Maye threw three touchdowns, the last a 23-yard one-handed catch by Efton Chism III with 1:50 left, and Josh Allen threw an interception on Buffalo's final drive.",
-        "whyCare": "Buffalo had been unbeaten and is now 3-1, while New England evened its record at 2-2. Maye had thrown six interceptions in the first three games, per the CBS Sports recap.",
-        "youCouldSay": "Drake Maye threw three touchdowns, including the winner with 1:50 left, as the Patriots beat the Bills 29-26. It was Buffalo's first loss of the season.",
-        "details": [
-          {
-            "name": "Drake Maye",
-            "team": "New England Patriots",
-            "position": "Quarterback (QB)",
-            "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 at Buffalo Bills, won 29-26",
-              "stats": [
-                "22 of 37 passing",
-                "269 passing yards",
-                "3 touchdowns",
-                "1 interception"
-              ]
-            },
-            "buzz": "Maye also ran for 54 yards on eight scrambles, meaning runs when a pass play breaks down, per NFL.com.",
-            "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_NE@BUF/)",
-            "asOf": "2026-10-04"
-          },
           {
             "name": "Josh Allen",
             "team": "Buffalo Bills",
             "position": "Quarterback (QB)",
             "lastGame": {
-              "date": "2026-10-04",
-              "label": "Week 4 vs New England Patriots, lost 29-26",
+              "date": "2026-11-09",
+              "label": "Week 9 at Minnesota Vikings, won 23-6",
               "stats": [
-                "23 of 33 passing",
-                "253 passing yards",
+                "21 of 31 passing",
+                "234 passing yards",
                 "1 touchdown",
                 "1 interception"
               ]
             },
-            "buzz": "Allen threw a touchdown and ran for another, but said of his late interception: \"Should have thrown that one out of bounds and live another day.\"",
-            "source": "CBS Sports recap (https://www.cbssports.com/nfl/gametracker/recap/NFL_20261004_NE@BUF/)",
-            "asOf": "2026-10-04"
+            "buzz": "Allen threw for 234 yards and a touchdown as Buffalo outgained Minnesota 339 yards to 178.",
+            "source": "thescore.com game page (https://www.thescore.com/nfl/event/140712)",
+            "asOf": "2026-11-10"
+          },
+          {
+            "name": "James Cook III",
+            "team": "Buffalo Bills",
+            "position": "Running back (RB)",
+            "lastGame": {
+              "date": "2026-11-09",
+              "label": "Week 9 at Minnesota Vikings, won 23-6",
+              "stats": [
+                "31 carries",
+                "107 rushing yards",
+                "1 touchdown"
+              ]
+            },
+            "buzz": "Cook ran 31 times for 107 yards and a touchdown, and ESPN's stats page lists his 814 rushing yards fifth in the NFL.",
+            "source": "thescore.com game page (https://www.thescore.com/nfl/event/140712)",
+            "asOf": "2026-11-10"
           }
         ],
-        "source": "CBS Sports recap (https://www.cbssports.com/nfl/gametracker/recap/NFL_20261004_NE@BUF/)",
-        "asOf": "2026-10-04"
+        "source": "thescore.com game page (https://www.thescore.com/nfl/event/140712)",
+        "asOf": "2026-11-10"
+      },
+      {
+        "id": "stroud-5-tds-texans-rout-winless-chargers",
+        "topic": "C.J. Stroud throws five touchdowns as Texans beat the winless Chargers",
+        "whatHappened": "The Houston Texans beat the Los Angeles Chargers 44-22. C.J. Stroud threw for 384 yards and five touchdowns, and Kayshon Boutte caught four passes for 125 yards and two touchdowns.",
+        "whyCare": "The Chargers are still winless at 0-8, and Houston, now 3-5, outgained them 485 yards to 315.",
+        "youCouldSay": "C.J. Stroud threw five touchdown passes and 384 yards in a 44-22 Texans win, and the Chargers are still winless at 0-8.",
+        "gameDate": "2026-11-08",
+        "details": [
+          {
+            "name": "C.J. Stroud",
+            "team": "Houston Texans",
+            "position": "Quarterback (QB)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 at Los Angeles Chargers, won 44-22",
+              "stats": [
+                "21 of 35 passing",
+                "384 passing yards",
+                "5 touchdowns",
+                "1 interception"
+              ]
+            },
+            "buzz": "Stroud threw for 384 yards and five touchdowns, and Houston outgained the Chargers 485 yards to 315.",
+            "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708)",
+            "asOf": "2026-11-10"
+          },
+          {
+            "name": "Kayshon Boutte",
+            "team": "Houston Texans",
+            "position": "Wide receiver (WR)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 at Los Angeles Chargers, won 44-22",
+              "stats": [
+                "4 receptions",
+                "125 receiving yards",
+                "2 touchdowns"
+              ]
+            },
+            "buzz": "Boutte caught two touchdowns on just four receptions, with 125 yards.",
+            "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708)",
+            "asOf": "2026-11-10"
+          }
+        ],
+        "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708); FOX Sports (https://www.foxsports.com/nfl/houston-texans-vs-los-angeles-chargers-nov-08-2026-game-boxscore-11273)",
+        "asOf": "2026-11-10"
+      },
+      {
+        "id": "packers-love-100-td-passes-beat-patriots",
+        "topic": "Packers beat the Patriots 45-27 as Jordan Love reaches 100 touchdown passes",
+        "whatHappened": "The Green Bay Packers won 45-27 at the New England Patriots. Jordan Love threw for 372 yards and three touchdowns, and Christian Watson caught seven passes for 171 yards and a touchdown.",
+        "whyCare": "FOX Sports says Love reached 100 career touchdown passes, and Green Bay intercepted Drake Maye three times. The Packers are now 6-3.",
+        "youCouldSay": "Jordan Love threw for 372 yards and three touchdowns in a 45-27 Packers win at New England, and he hit 100 career touchdown passes.",
+        "gameDate": "2026-11-08",
+        "details": [
+          {
+            "name": "Jordan Love",
+            "team": "Green Bay Packers",
+            "position": "Quarterback (QB)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 at New England Patriots, won 45-27",
+              "stats": [
+                "23 of 29 passing",
+                "372 passing yards",
+                "3 touchdowns",
+                "0 interceptions"
+              ]
+            },
+            "buzz": "FOX Sports says Love reached 100 career touchdown passes, and ESPN's stats page lists his 2,618 passing yards first in the NFL.",
+            "source": "FOX Sports (https://www.foxsports.com/nfl/week-9-green-bay-packers-vs-new-england-patriots-nov-08-2026-game-boxscore-11274?tab=boxscore)",
+            "asOf": "2026-11-10"
+          },
+          {
+            "name": "Christian Watson",
+            "team": "Green Bay Packers",
+            "position": "Wide receiver (WR)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 at New England Patriots, won 45-27",
+              "stats": [
+                "7 receptions",
+                "171 receiving yards",
+                "1 touchdown"
+              ]
+            },
+            "buzz": "Watson's 171 receiving yards were a career high, per FOX Sports.",
+            "source": "thescore.com game page (https://www.thescore.com/nfl/event/140709)",
+            "asOf": "2026-11-10"
+          }
+        ],
+        "source": "thescore.com game page (https://www.thescore.com/nfl/event/140709); FOX Sports (https://www.foxsports.com/nfl/week-9-green-bay-packers-vs-new-england-patriots-nov-08-2026-game-boxscore-11274?tab=boxscore)",
+        "asOf": "2026-11-10"
+      }
+    ],
+    [
+      {
+        "id": "stroud-5-tds-texans-rout-winless-chargers",
+        "topic": "C.J. Stroud throws five touchdowns as Texans beat the winless Chargers",
+        "whatHappened": "The Houston Texans beat the Los Angeles Chargers 44-22. C.J. Stroud threw for 384 yards and five touchdowns, and Kayshon Boutte caught four passes for 125 yards and two touchdowns.",
+        "whyCare": "The Chargers are still winless at 0-8, and Houston, now 3-5, outgained them 485 yards to 315.",
+        "youCouldSay": "C.J. Stroud threw five touchdown passes and 384 yards in a 44-22 Texans win, and the Chargers are still winless at 0-8.",
+        "gameDate": "2026-11-08",
+        "details": [
+          {
+            "name": "C.J. Stroud",
+            "team": "Houston Texans",
+            "position": "Quarterback (QB)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 at Los Angeles Chargers, won 44-22",
+              "stats": [
+                "21 of 35 passing",
+                "384 passing yards",
+                "5 touchdowns",
+                "1 interception"
+              ]
+            },
+            "buzz": "Stroud threw for 384 yards and five touchdowns, and Houston outgained the Chargers 485 yards to 315.",
+            "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708)",
+            "asOf": "2026-11-10"
+          },
+          {
+            "name": "Kayshon Boutte",
+            "team": "Houston Texans",
+            "position": "Wide receiver (WR)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 at Los Angeles Chargers, won 44-22",
+              "stats": [
+                "4 receptions",
+                "125 receiving yards",
+                "2 touchdowns"
+              ]
+            },
+            "buzz": "Boutte caught two touchdowns on just four receptions, with 125 yards.",
+            "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708)",
+            "asOf": "2026-11-10"
+          }
+        ],
+        "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708); FOX Sports (https://www.foxsports.com/nfl/houston-texans-vs-los-angeles-chargers-nov-08-2026-game-boxscore-11273)",
+        "asOf": "2026-11-10"
+      },
+      {
+        "id": "packers-love-100-td-passes-beat-patriots",
+        "topic": "Packers beat the Patriots 45-27 as Jordan Love reaches 100 touchdown passes",
+        "whatHappened": "The Green Bay Packers won 45-27 at the New England Patriots. Jordan Love threw for 372 yards and three touchdowns, and Christian Watson caught seven passes for 171 yards and a touchdown.",
+        "whyCare": "FOX Sports says Love reached 100 career touchdown passes, and Green Bay intercepted Drake Maye three times. The Packers are now 6-3.",
+        "youCouldSay": "Jordan Love threw for 372 yards and three touchdowns in a 45-27 Packers win at New England, and he hit 100 career touchdown passes.",
+        "gameDate": "2026-11-08",
+        "details": [
+          {
+            "name": "Jordan Love",
+            "team": "Green Bay Packers",
+            "position": "Quarterback (QB)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 at New England Patriots, won 45-27",
+              "stats": [
+                "23 of 29 passing",
+                "372 passing yards",
+                "3 touchdowns",
+                "0 interceptions"
+              ]
+            },
+            "buzz": "FOX Sports says Love reached 100 career touchdown passes, and ESPN's stats page lists his 2,618 passing yards first in the NFL.",
+            "source": "FOX Sports (https://www.foxsports.com/nfl/week-9-green-bay-packers-vs-new-england-patriots-nov-08-2026-game-boxscore-11274?tab=boxscore)",
+            "asOf": "2026-11-10"
+          },
+          {
+            "name": "Christian Watson",
+            "team": "Green Bay Packers",
+            "position": "Wide receiver (WR)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 at New England Patriots, won 45-27",
+              "stats": [
+                "7 receptions",
+                "171 receiving yards",
+                "1 touchdown"
+              ]
+            },
+            "buzz": "Watson's 171 receiving yards were a career high, per FOX Sports.",
+            "source": "thescore.com game page (https://www.thescore.com/nfl/event/140709)",
+            "asOf": "2026-11-10"
+          }
+        ],
+        "source": "thescore.com game page (https://www.thescore.com/nfl/event/140709); FOX Sports (https://www.foxsports.com/nfl/week-9-green-bay-packers-vs-new-england-patriots-nov-08-2026-game-boxscore-11274?tab=boxscore)",
+        "asOf": "2026-11-10"
+      },
+      {
+        "id": "caleb-williams-4-ints-bears-beat-bucs",
+        "topic": "Bears survive four Caleb Williams interceptions to beat the Bucs",
+        "whatHappened": "The Chicago Bears beat the Tampa Bay Buccaneers 27-24 on Sunday night even though Caleb Williams threw a career-high four interceptions. Bucky Irving ran for 97 yards and two touchdowns for Tampa Bay.",
+        "whyCare": "Chicago turned the ball over five times to Tampa Bay's two and still improved to 7-2, while the Buccaneers fell to 3-6.",
+        "youCouldSay": "Caleb Williams threw four interceptions, a career high, and the Bears still beat Tampa Bay 27-24 on Sunday night to move to 7-2.",
+        "gameDate": "2026-11-08",
+        "details": [
+          {
+            "name": "Caleb Williams",
+            "team": "Chicago Bears",
+            "position": "Quarterback (QB)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 vs. Tampa Bay Buccaneers, won 27-24",
+              "stats": [
+                "22 of 37 passing",
+                "279 passing yards",
+                "2 touchdowns",
+                "4 interceptions"
+              ]
+            },
+            "buzz": "FOX Sports notes the four interceptions were a career high for Williams.",
+            "source": "FOX Sports (https://www.foxsports.com/nfl/week-9-tampa-bay-buccaneers-vs-chicago-bears-nov-08-2026-game-boxscore-11276)",
+            "asOf": "2026-11-10"
+          },
+          {
+            "name": "Bucky Irving",
+            "team": "Tampa Bay Buccaneers",
+            "position": "Running back (RB)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 at Chicago Bears, lost 27-24",
+              "stats": [
+                "20 carries",
+                "97 rushing yards",
+                "2 touchdowns"
+              ]
+            },
+            "buzz": "Irving ran 20 times for 97 yards and two touchdowns in the loss.",
+            "source": "Buccaneers team site box score (https://www.buccaneers.com/game-day/2026/reg-week9/buccaneers-at-bears/box-score)",
+            "asOf": "2026-11-10"
+          }
+        ],
+        "source": "Buccaneers team site box score (https://www.buccaneers.com/game-day/2026/reg-week9/buccaneers-at-bears/box-score); FOX Sports (https://www.foxsports.com/nfl/week-9-tampa-bay-buccaneers-vs-chicago-bears-nov-08-2026-game-boxscore-11276)",
+        "asOf": "2026-11-10"
+      }
+    ],
+    [
+      {
+        "id": "packers-love-100-td-passes-beat-patriots",
+        "topic": "Packers beat the Patriots 45-27 as Jordan Love reaches 100 touchdown passes",
+        "whatHappened": "The Green Bay Packers won 45-27 at the New England Patriots. Jordan Love threw for 372 yards and three touchdowns, and Christian Watson caught seven passes for 171 yards and a touchdown.",
+        "whyCare": "FOX Sports says Love reached 100 career touchdown passes, and Green Bay intercepted Drake Maye three times. The Packers are now 6-3.",
+        "youCouldSay": "Jordan Love threw for 372 yards and three touchdowns in a 45-27 Packers win at New England, and he hit 100 career touchdown passes.",
+        "gameDate": "2026-11-08",
+        "details": [
+          {
+            "name": "Jordan Love",
+            "team": "Green Bay Packers",
+            "position": "Quarterback (QB)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 at New England Patriots, won 45-27",
+              "stats": [
+                "23 of 29 passing",
+                "372 passing yards",
+                "3 touchdowns",
+                "0 interceptions"
+              ]
+            },
+            "buzz": "FOX Sports says Love reached 100 career touchdown passes, and ESPN's stats page lists his 2,618 passing yards first in the NFL.",
+            "source": "FOX Sports (https://www.foxsports.com/nfl/week-9-green-bay-packers-vs-new-england-patriots-nov-08-2026-game-boxscore-11274?tab=boxscore)",
+            "asOf": "2026-11-10"
+          },
+          {
+            "name": "Christian Watson",
+            "team": "Green Bay Packers",
+            "position": "Wide receiver (WR)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 at New England Patriots, won 45-27",
+              "stats": [
+                "7 receptions",
+                "171 receiving yards",
+                "1 touchdown"
+              ]
+            },
+            "buzz": "Watson's 171 receiving yards were a career high, per FOX Sports.",
+            "source": "thescore.com game page (https://www.thescore.com/nfl/event/140709)",
+            "asOf": "2026-11-10"
+          }
+        ],
+        "source": "thescore.com game page (https://www.thescore.com/nfl/event/140709); FOX Sports (https://www.foxsports.com/nfl/week-9-green-bay-packers-vs-new-england-patriots-nov-08-2026-game-boxscore-11274?tab=boxscore)",
+        "asOf": "2026-11-10"
+      },
+      {
+        "id": "caleb-williams-4-ints-bears-beat-bucs",
+        "topic": "Bears survive four Caleb Williams interceptions to beat the Bucs",
+        "whatHappened": "The Chicago Bears beat the Tampa Bay Buccaneers 27-24 on Sunday night even though Caleb Williams threw a career-high four interceptions. Bucky Irving ran for 97 yards and two touchdowns for Tampa Bay.",
+        "whyCare": "Chicago turned the ball over five times to Tampa Bay's two and still improved to 7-2, while the Buccaneers fell to 3-6.",
+        "youCouldSay": "Caleb Williams threw four interceptions, a career high, and the Bears still beat Tampa Bay 27-24 on Sunday night to move to 7-2.",
+        "gameDate": "2026-11-08",
+        "details": [
+          {
+            "name": "Caleb Williams",
+            "team": "Chicago Bears",
+            "position": "Quarterback (QB)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 vs. Tampa Bay Buccaneers, won 27-24",
+              "stats": [
+                "22 of 37 passing",
+                "279 passing yards",
+                "2 touchdowns",
+                "4 interceptions"
+              ]
+            },
+            "buzz": "FOX Sports notes the four interceptions were a career high for Williams.",
+            "source": "FOX Sports (https://www.foxsports.com/nfl/week-9-tampa-bay-buccaneers-vs-chicago-bears-nov-08-2026-game-boxscore-11276)",
+            "asOf": "2026-11-10"
+          },
+          {
+            "name": "Bucky Irving",
+            "team": "Tampa Bay Buccaneers",
+            "position": "Running back (RB)",
+            "lastGame": {
+              "date": "2026-11-08",
+              "label": "Week 9 at Chicago Bears, lost 27-24",
+              "stats": [
+                "20 carries",
+                "97 rushing yards",
+                "2 touchdowns"
+              ]
+            },
+            "buzz": "Irving ran 20 times for 97 yards and two touchdowns in the loss.",
+            "source": "Buccaneers team site box score (https://www.buccaneers.com/game-day/2026/reg-week9/buccaneers-at-bears/box-score)",
+            "asOf": "2026-11-10"
+          }
+        ],
+        "source": "Buccaneers team site box score (https://www.buccaneers.com/game-day/2026/reg-week9/buccaneers-at-bears/box-score); FOX Sports (https://www.foxsports.com/nfl/week-9-tampa-bay-buccaneers-vs-chicago-bears-nov-08-2026-game-boxscore-11276)",
+        "asOf": "2026-11-10"
+      },
+      {
+        "id": "giants-first-win-in-philly-since-2013",
+        "topic": "Giants win in Philadelphia for the first time since 2013",
+        "whatHappened": "The New York Giants beat the Philadelphia Eagles 19-11 on Sunday, their first win in Philadelphia since 2013. Kicker Dominic Zvada made four field goals, and Saquon Barkley scored the Eagles' only touchdown.",
+        "whyCare": "The Eagles lost their seventh straight game and are 2-7, while the Giants are 5-2-1 and the Giants' team site says they had seven sacks, a season high.",
+        "youCouldSay": "The Giants won in Philadelphia for the first time since 2013, 19-11, and the Eagles have lost seven in a row.",
+        "gameDate": "2026-11-08",
+        "details": [
+          {
+            "name": "Dominic Zvada",
+            "team": "New York Giants",
+            "position": "Kicker (K)",
+            "lastGame": null,
+            "buzz": "Zvada made all four of his field goals, and the Giants' team site says he has six field goals of 50-plus yards this season.",
+            "source": "Giants team site (https://www.giants.com/news/instant-analysis-giants-defeat-eagles-19-11-in-philadelphia)",
+            "asOf": "2026-11-10"
+          },
+          {
+            "name": "Saquon Barkley",
+            "team": "Philadelphia Eagles",
+            "position": "Running back (RB)",
+            "lastGame": null,
+            "buzz": "Barkley scored the game's only touchdown, a 3-yard run, in Philadelphia's seventh straight loss.",
+            "source": "Giants team site (https://www.giants.com/news/instant-analysis-giants-defeat-eagles-19-11-in-philadelphia)",
+            "asOf": "2026-11-10"
+          }
+        ],
+        "source": "Giants team site (https://www.giants.com/news/instant-analysis-giants-defeat-eagles-19-11-in-philadelphia); Eagles team site scoring summary (https://www.philadelphiaeagles.com/game-day/2026/reg-week9/giants-at-eagles/scoring-summary)",
+        "asOf": "2026-11-10"
       }
     ]
   ],
   "teams": {
     "Arizona Cardinals": {
-      "latestResult": "Lost 36-24 at the New York Giants in Week 4 (now 1-3)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Jacoby Brissett threw three interceptions in a game for the first time in his 11-year career, and the Cardinals have now given up 30 or more points three weeks in a row.",
-      "bringUp": "The Cardinals gave up 36 to the Giants, their third straight game allowing 30-plus, and Jacoby Brissett threw three interceptions for the first time in his career. At 1-3, they've got the Lions coming to Arizona this Sunday.",
+      "latestResult": "Lost 17-3 at the Seattle Seahawks in Week 9 (now 3-6)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Arizona managed just 198 total yards in the 17-3 loss, and Gardner Minshew completed 21 of 30 passes for 166 yards without a touchdown.",
+      "bringUp": "The Cardinals gained only 198 yards in a 17-3 loss at Seattle. They're 3-6.",
       "details": [
         {
-          "name": "Jacoby Brissett",
+          "name": "Gardner Minshew",
           "team": "Arizona Cardinals",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at New York Giants, lost 36-24",
+            "date": "2026-11-08",
+            "label": "Week 9 at Seattle Seahawks, lost 17-3",
             "stats": [
-              "21 of 35 passing",
+              "21 of 30 passing",
               "166 passing yards",
-              "2 touchdowns",
-              "3 interceptions"
+              "0 touchdowns",
+              "0 interceptions"
             ]
           },
-          "buzz": "CBS Sports noted this was the first three-interception game of Brissett's 11-year career, in a loss that dropped Arizona to 1-3.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_ARI@NYG/)",
-          "asOf": "2026-10-05"
+          "buzz": "Minshew completed 21 of 30 passes for 166 yards, with no touchdowns and no interceptions, as Arizona's offense was held to 198 total yards.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140710)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "Michael Wilson",
+          "name": "Tyler Allgeier",
           "team": "Arizona Cardinals",
-          "position": "Wide receiver (WR)",
+          "position": "Running back (RB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at New York Giants, lost 36-24",
+            "date": "2026-11-08",
+            "label": "Week 9 at Seattle Seahawks, lost 17-3",
             "stats": [
-              "7 catches on 13 targets",
-              "95 receiving yards",
-              "0 touchdowns"
+              "17 carries",
+              "46 rushing yards"
             ]
           },
-          "buzz": "Wilson led Arizona with 7 catches for 95 yards against the Giants, the Cardinals' top receiving day in the loss.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_ARI@NYG/)",
-          "asOf": "2026-10-05"
+          "buzz": "Allgeier led Arizona with 46 rushing yards on 17 carries, 2.7 yards per carry, as the Cardinals ran for only 50 yards as a team.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140710)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-05"
+      "source": "thescore.com game page (https://www.thescore.com/nfl/event/140710)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Rushing yards",
+          "player": "Tyler Allgeier",
+          "value": "369"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Trey McBride",
+          "value": "598"
+        }
+      ],
+      "leadersSource": "FOX Sports, Cardinals team stats & leaders (https://www.foxsports.com/nfl/arizona-cardinals-team-stats)",
+      "leadersAsOf": "2026-11-13"
     },
     "Atlanta Falcons": {
-      "latestResult": "Won 45-24 at the New Orleans Saints in Week 4 (now 2-2)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "The Falcons put up 45 on the Saints Monday night behind 145 rushing yards and two touchdowns from Bijan Robinson, while Brian Robinson Jr. added three short-yardage scores.",
-      "bringUp": "The Falcons dropped 45 on the Saints Monday night, and Bijan Robinson ran for 145 yards and two touchdowns. That gets them to 2-2 right before Lamar Jackson and the Ravens come to Atlanta for Sunday night.",
+      "latestResult": "Lost 34-17 to the Cincinnati Bengals in Madrid in Week 9 (now 3-6)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Bijan Robinson ran for 100 yards and a touchdown on 19 carries, but Atlanta lost 34-17 in its home game played in Madrid, Spain.",
+      "bringUp": "The Falcons played a home game in Madrid, Spain, and lost 34-17 to the Bengals, even though Bijan Robinson ran for 100 yards and a touchdown.",
       "details": [
         {
           "name": "Bijan Robinson",
           "team": "Atlanta Falcons",
           "position": "Running back (RB)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "Week 4 at New Orleans Saints, won 45-24",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Cincinnati Bengals in Madrid, lost 34-17",
             "stats": [
               "19 carries",
-              "145 rushing yards",
-              "2 touchdowns"
+              "100 rushing yards",
+              "1 touchdown"
             ]
           },
-          "buzz": "CBS Sports gave the Falcons an A+ for Week 4, singling out Robinson's 145 yards and two touchdowns in the 45-24 win.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261005_ATL@NO/)",
-          "asOf": "2026-10-06"
+          "buzz": "Robinson ran for 100 yards and a touchdown on 19 carries against Cincinnati, and ESPN's stats page lists his 880 rushing yards as the most in the NFL.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140699)",
+          "asOf": "2026-11-10"
         },
         {
           "name": "Michael Penix Jr.",
           "team": "Atlanta Falcons",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "Week 4 at New Orleans Saints, won 45-24",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Cincinnati Bengals in Madrid, lost 34-17",
             "stats": [
-              "15 of 20 passing",
-              "223 passing yards",
+              "20 of 31 passing",
+              "162 passing yards",
               "1 touchdown",
-              "0 interceptions"
+              "1 interception"
             ]
           },
-          "buzz": "Penix completed 15 of 20 passes with no interceptions as Atlanta scored 45 in New Orleans.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261005_ATL@NO/)",
-          "asOf": "2026-10-06"
+          "buzz": "Penix threw for 162 yards and a touchdown with one interception, and AJC reports he also ran for 50 yards.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140699)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261005_ATL@NO/)",
-      "asOf": "2026-10-06"
+      "leaders": [
+        {
+          "label": "Rushing yards",
+          "player": "Bijan Robinson",
+          "value": "880"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "thescore.com game page (https://www.thescore.com/nfl/event/140699); Atlanta Journal-Constitution (https://www.ajc.com/news/2026/11/burrow-powers-bengals-past-the-falcons-in-madrid-for-their-4th-straight-win/)",
+      "asOf": "2026-11-10"
     },
     "Baltimore Ravens": {
-      "latestResult": "Won 24-18 vs. the Tennessee Titans in Week 4 (now 3-1)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Lamar Jackson threw for 222 yards and two touchdowns in the first half before leaving with an ankle injury, and NFL Network's Ian Rapoport reported he is believed to be day to day.",
-      "bringUp": "Lamar Jackson was 15 of 20 with two touchdowns against the Titans before he hurt his ankle, and NFL Network reported he's day to day. The Ravens are 3-1 and play the Falcons in Atlanta Sunday night, so his status is the big question.",
+      "latestResult": "Lost 33-10 to the Jacksonville Jaguars on Thursday night in Week 9 (now 4-5)",
+      "latestGameDate": "2026-11-05",
+      "storyline": "Rookie quarterback Joe Fagnano threw two interceptions and just 60 yards in his first career start, and the Ravens played without Lamar Jackson in the 33-10 loss.",
+      "bringUp": "The Ravens lost 33-10 to Jacksonville on Thursday night, with rookie Joe Fagnano throwing two interceptions in his first career start. Baltimore is 4-5.",
       "details": [
         {
-          "name": "Lamar Jackson",
+          "name": "Joe Fagnano",
           "team": "Baltimore Ravens",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. Tennessee Titans, won 24-18",
+            "date": "2026-11-05",
+            "label": "Week 9 vs. Jacksonville Jaguars, lost 33-10",
             "stats": [
-              "15 of 20 passing",
-              "222 passing yards",
-              "2 touchdowns",
-              "0 interceptions"
+              "10 of 18 passing",
+              "60 passing yards",
+              "0 touchdowns",
+              "2 interceptions"
             ]
           },
-          "buzz": "Jackson left with an ankle injury after building a 24-7 halftime lead; NFL Network's Ian Rapoport reported he is believed to be day to day. Tyler Huntley went 8 of 9 for 63 yards in relief.",
-          "source": "NFL.com Week 4 takeaways (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-          "asOf": "2026-10-05"
+          "buzz": "FOX Sports says Fagnano, in his first career start, attempted just one pass beyond six yards in the first half and threw two interceptions deep in his own territory in the second half.",
+          "source": "FOX Sports (https://foxsports.com/stories/nfl/baltimore-never-stood-chance-3-takeaways-from-jaguars-win-over-ravens)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "Zay Flowers",
+          "name": "Derrick Henry",
           "team": "Baltimore Ravens",
-          "position": "Wide receiver (WR)",
+          "position": "Running back (RB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. Tennessee Titans, won 24-18",
+            "date": "2026-11-05",
+            "label": "Week 9 vs. Jacksonville Jaguars, lost 33-10",
             "stats": [
-              "8 catches",
-              "118 receiving yards",
-              "1 touchdown"
+              "17 carries",
+              "57 rushing yards"
             ]
           },
-          "buzz": "Flowers' 118 yards gave him his 11th career 100-yard receiving game, a Ravens franchise record, according to NFL.com.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_TEN@BAL/)",
-          "asOf": "2026-10-05"
+          "buzz": "Henry ran 17 times for 57 yards, and Justice Hill had a 65-yard run among his 85 yards in the loss.",
+          "source": "Jaguars team site box score (https://www.jaguars.com/game-day/2026/reg-week9/jaguars-at-ravens/box-score)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "NFL.com Week 4 takeaways (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-      "asOf": "2026-10-05"
+      "source": "Jaguars team site box score (https://www.jaguars.com/game-day/2026/reg-week9/jaguars-at-ravens/box-score); FOX Sports (https://foxsports.com/stories/nfl/baltimore-never-stood-chance-3-takeaways-from-jaguars-win-over-ravens)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Lamar Jackson",
+          "value": "967"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Derrick Henry",
+          "value": "689"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Zay Flowers",
+          "value": "614"
+        }
+      ],
+      "leadersSource": "FOX Sports, Ravens team stats & leaders (https://www.foxsports.com/nfl/baltimore-ravens-team-stats)",
+      "leadersAsOf": "2026-11-12"
     },
     "Buffalo Bills": {
-      "latestResult": "Lost 29-26 vs. the New England Patriots in Week 4 (now 3-1)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "The Bills lost their first game of the season at home to the division-rival Patriots, 29-26, as Drake Maye threw three touchdown passes.",
-      "bringUp": "The Bills lost 29-26 at home to the Patriots, their first loss of the year, and Drake Maye outdueled Josh Allen with three touchdown passes. Buffalo's still 3-1 and heads to the Rams for Monday night.",
+      "latestResult": "Won 23-6 at the Minnesota Vikings on Monday night in Week 9 (now 7-1)",
+      "latestGameDate": "2026-11-09",
+      "storyline": "Josh Allen threw for 234 yards and James Cook ran 31 times for 107 yards as Buffalo held the ball for 42:32 to Minnesota's 17:28 and allowed only 178 total yards.",
+      "bringUp": "The Bills beat the Vikings 23-6 on Monday night, and James Cook ran 31 times for 107 yards. Buffalo held the ball for more than 42 minutes and is 7-1.",
       "details": [
         {
           "name": "Josh Allen",
           "team": "Buffalo Bills",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. New England Patriots, lost 29-26",
+            "date": "2026-11-09",
+            "label": "Week 9 at Minnesota Vikings, won 23-6",
             "stats": [
-              "23 of 33 passing",
-              "253 passing yards",
-              "1 passing touchdown, 1 rushing touchdown",
+              "21 of 31 passing",
+              "234 passing yards",
+              "1 touchdown",
               "1 interception"
             ]
           },
-          "buzz": "Allen accounted for two touchdowns, one passing and one rushing, but New England's Drake Maye threw for 269 yards and three scores to win in Orchard Park.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_NE@BUF/)",
-          "asOf": "2026-10-05"
+          "buzz": "Allen threw for 234 yards and a touchdown as Buffalo outgained Minnesota 339 yards to 178.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140712)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "Keon Coleman",
+          "name": "James Cook III",
           "team": "Buffalo Bills",
-          "position": "Wide receiver (WR)",
+          "position": "Running back (RB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. New England Patriots, lost 29-26",
+            "date": "2026-11-09",
+            "label": "Week 9 at Minnesota Vikings, won 23-6",
             "stats": [
-              "6 catches",
-              "116 receiving yards",
+              "31 carries",
+              "107 rushing yards",
               "1 touchdown"
             ]
           },
-          "buzz": "Coleman led Buffalo with 116 receiving yards and a touchdown on 6 catches against the Patriots.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_NE@BUF/)",
-          "asOf": "2026-10-05"
+          "buzz": "Cook carried 31 times for 107 yards and a touchdown, and ESPN's stats page lists his 814 rushing yards fifth in the NFL.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140712)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "NFL.com Week 4 takeaways (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-      "asOf": "2026-10-05"
+      "leaders": [
+        {
+          "label": "Rushing yards",
+          "player": "James Cook III",
+          "value": "814"
+        },
+        {
+          "label": "Sacks",
+          "player": "Greg Rousseau",
+          "value": "8.0"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "thescore.com game page (https://www.thescore.com/nfl/event/140712)",
+      "asOf": "2026-11-10"
     },
     "Carolina Panthers": {
-      "latestResult": "Won 32-26 vs. the Detroit Lions in Week 4 (now 2-2)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Bryce Young threw for 329 yards and Tetairoa McMillan caught 14 passes for 192 yards and two touchdowns as the Panthers beat the Lions 32-26.",
-      "bringUp": "Tetairoa McMillan caught 14 passes for 192 yards and two touchdowns as the Panthers beat the Lions 32-26. Carolina's 2-2 and has its bye this week.",
+      "latestResult": "Lost 26-21 to the Denver Broncos in Week 9 (now 3-5)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Bryce Young threw three touchdown passes and Darren Waller caught eight passes for 90 yards and a touchdown, but Carolina fell 26-21.",
+      "bringUp": "Bryce Young threw three touchdown passes against the Broncos, but Carolina still lost 26-21 and is 3-5.",
       "details": [
-        {
-          "name": "Tetairoa McMillan",
-          "team": "Carolina Panthers",
-          "position": "Wide receiver (WR)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. Detroit Lions, won 32-26",
-            "stats": [
-              "14 catches",
-              "192 receiving yards",
-              "2 touchdowns"
-            ]
-          },
-          "buzz": "CBS Sports gave Carolina an A- for Week 4, highlighting McMillan's 14 catches for 192 yards against Detroit.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DET@CAR/)",
-          "asOf": "2026-10-05"
-        },
         {
           "name": "Bryce Young",
           "team": "Carolina Panthers",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. Detroit Lions, won 32-26",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Denver Broncos, lost 26-21",
             "stats": [
-              "29 of 41 passing",
-              "329 passing yards",
-              "2 touchdowns",
-              "0 interceptions"
+              "28 of 39 passing",
+              "276 passing yards",
+              "3 touchdowns"
             ]
           },
-          "buzz": "Young threw for 329 yards with no interceptions, and Chuba Hubbard added 122 rushing yards and two touchdowns in the win over Detroit.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DET@CAR/)",
-          "asOf": "2026-10-05"
-        }
-      ],
-      "source": "CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-05"
-    },
-    "Chicago Bears": {
-      "latestResult": "Won 23-12 vs. the New York Jets in Week 4 (now 3-1)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "With Caleb Williams injured, backup Tyson Bagent made his first start in nearly three years and the Bears ran 89 plays to the Jets' 32, led by Kyle Monangai's 146 rushing yards.",
-      "bringUp": "The Bears beat the Jets 23-12 with backup Tyson Bagent starting for the injured Caleb Williams, and they ran 89 plays to New York's 32. Kyle Monangai carried it 30 times for 146 yards, and now they're 3-1 heading to Green Bay.",
-      "details": [
-        {
-          "name": "Kyle Monangai",
-          "team": "Chicago Bears",
-          "position": "Running back (RB)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. New York Jets, won 23-12",
-            "stats": [
-              "30 carries",
-              "146 rushing yards",
-              "2 touchdowns"
-            ]
-          },
-          "buzz": "Monangai's 146 yards and two touchdowns led a Bears ground game that ran for 232 yards as a team, per CBS Sports.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_NYJ@CHI/)",
-          "asOf": "2026-10-05"
+          "buzz": "Young threw for 276 yards and three touchdowns in the loss.",
+          "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-denver-broncos-vs-carolina-panthers-nov-08-2026-game-boxscore-11270)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "Tyson Bagent",
+          "name": "Darren Waller",
+          "team": "Carolina Panthers",
+          "position": "Tight end (TE)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Denver Broncos, lost 26-21",
+            "stats": [
+              "8 receptions",
+              "90 receiving yards",
+              "1 touchdown"
+            ]
+          },
+          "buzz": "Waller caught eight passes for 90 yards and a touchdown, including a 15-yard score, per the Panthers' game page.",
+          "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-denver-broncos-vs-carolina-panthers-nov-08-2026-game-boxscore-11270); Carolina Panthers game page (https://www.panthers.com/gameday/2026/week9)",
+          "asOf": "2026-11-10"
+        }
+      ],
+      "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-denver-broncos-vs-carolina-panthers-nov-08-2026-game-boxscore-11270)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Bryce Young",
+          "value": "2,197"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Chuba Hubbard",
+          "value": "619"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Tetairoa McMillan",
+          "value": "625"
+        }
+      ],
+      "leadersSource": "FOX Sports, Panthers team stats & leaders (https://www.foxsports.com/nfl/carolina-panthers-team-stats)",
+      "leadersAsOf": "2026-11-12"
+    },
+    "Chicago Bears": {
+      "latestResult": "Won 27-24 against the Tampa Bay Buccaneers in Week 9 (now 7-2)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Caleb Williams threw a career-high four interceptions, but Chicago still won 27-24, helped by an interception and a touchdown from Jaylon Johnson.",
+      "bringUp": "Caleb Williams threw four interceptions against Tampa Bay, a career high, and the Bears still won 27-24 to improve to 7-2.",
+      "details": [
+        {
+          "name": "Caleb Williams",
           "team": "Chicago Bears",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. New York Jets, won 23-12",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Tampa Bay Buccaneers, won 27-24",
             "stats": [
-              "25 of 34 passing",
-              "268 passing yards",
-              "0 touchdowns",
-              "1 interception"
+              "22 of 37 passing",
+              "279 passing yards",
+              "2 touchdowns",
+              "4 interceptions"
             ]
           },
-          "buzz": "Filling in for the injured Caleb Williams, Bagent threw for a career-high 268 yards in his first start in nearly three years, according to NFL.com.",
-          "source": "NFL.com Week 4 takeaways (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-          "asOf": "2026-10-05"
+          "buzz": "FOX Sports notes the four interceptions were a career high for Williams, and Chicago had five turnovers to Tampa Bay's two.",
+          "source": "FOX Sports (https://www.foxsports.com/nfl/week-9-tampa-bay-buccaneers-vs-chicago-bears-nov-08-2026-game-boxscore-11276)",
+          "asOf": "2026-11-10"
+        },
+        {
+          "name": "Luther Burden III",
+          "team": "Chicago Bears",
+          "position": "Wide receiver (WR)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Tampa Bay Buccaneers, won 27-24",
+            "stats": [
+              "7 receptions",
+              "97 receiving yards",
+              "1 touchdown"
+            ]
+          },
+          "buzz": "Burden led Chicago's receivers with 97 yards and a touchdown, and his longest catch went 56 yards.",
+          "source": "Buccaneers team site box score (https://www.buccaneers.com/game-day/2026/reg-week9/buccaneers-at-bears/box-score)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "NFL.com Week 4 takeaways (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-      "asOf": "2026-10-05"
+      "source": "Buccaneers team site box score (https://www.buccaneers.com/game-day/2026/reg-week9/buccaneers-at-bears/box-score); FOX Sports (https://www.foxsports.com/nfl/week-9-tampa-bay-buccaneers-vs-chicago-bears-nov-08-2026-game-boxscore-11276)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Caleb Williams",
+          "value": "1546"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "D'Andre Swift",
+          "value": "576"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Luther Burden III",
+          "value": "644"
+        }
+      ],
+      "leadersSource": "CBS Sports, Bears stats and team leaders (https://www.cbssports.com/nfl/teams/CHI/chicago-bears/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Cincinnati Bengals": {
-      "latestResult": "Lost 22-17 vs. the Jacksonville Jaguars in Week 4 (now 2-2)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Joe Burrow threw for 428 yards but also two interceptions in a 22-17 home loss, and the Bengals lost Ja'Marr Chase to a concussion and Tee Higgins to an adductor injury during the game.",
-      "bringUp": "Joe Burrow threw for 428 yards against the Jaguars and the Bengals still lost 22-17, partly because they ran for only 23 yards as a team. They also lost Ja'Marr Chase and Tee Higgins to injuries in that game.",
+      "latestResult": "Won 34-17 against the Atlanta Falcons in Madrid in Week 9 (now 6-2)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Joe Burrow threw for 271 yards and three touchdowns and Ja'Marr Chase caught 10 passes for 155 yards in Cincinnati's fourth straight win, played in Madrid, Spain.",
+      "bringUp": "The Bengals beat the Falcons 34-17 in Madrid, Spain, for their fourth straight win, and Joe Burrow threw for 271 yards and three touchdowns.",
       "details": [
         {
           "name": "Joe Burrow",
           "team": "Cincinnati Bengals",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. Jacksonville Jaguars, lost 22-17",
+            "date": "2026-11-08",
+            "label": "Week 9 at Atlanta Falcons in Madrid, won 34-17",
             "stats": [
-              "39 of 54 passing",
-              "428 passing yards",
-              "1 touchdown",
-              "2 interceptions"
+              "24 of 29 passing",
+              "271 passing yards",
+              "3 touchdowns",
+              "0 interceptions"
             ]
           },
-          "buzz": "Burrow threw 54 passes for 428 yards, but CBS Sports noted the Bengals' rushing attack managed just 23 yards and Burrow threw two interceptions.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_JAC@CIN/)",
-          "asOf": "2026-10-05"
+          "buzz": "Burrow was 24 of 29 for 271 yards and three touchdowns, and AJC says he also ran for a touchdown.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140699)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "Tee Higgins",
+          "name": "Ja'Marr Chase",
           "team": "Cincinnati Bengals",
           "position": "Wide receiver (WR)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. Jacksonville Jaguars, lost 22-17",
+            "date": "2026-11-08",
+            "label": "Week 9 at Atlanta Falcons in Madrid, won 34-17",
             "stats": [
-              "11 catches",
-              "157 receiving yards"
-            ]
-          },
-          "buzz": "Higgins had 11 catches for 157 yards before CBS Sports reported he left with an adductor injury; Ja'Marr Chase also left with a concussion.",
-          "source": "CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-          "asOf": "2026-10-05"
-        }
-      ],
-      "source": "CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-05"
-    },
-    "Cleveland Browns": {
-      "latestResult": "Won 27-24 vs. the Pittsburgh Steelers on Thursday night in Week 4 (now 3-1)",
-      "latestGameDate": "2026-10-01",
-      "storyline": "The Browns beat their rival Steelers 27-24 on Thursday night with five sacks on defense and 153 receiving yards from rookies Denzel Boston and K.C. Concepcion.",
-      "bringUp": "The Browns beat the Steelers 27-24 last Thursday night and are 3-1. Their defense had five sacks, and rookie receivers Denzel Boston and K.C. Concepcion combined for 153 yards.",
-      "details": [
-        {
-          "name": "Deshaun Watson",
-          "team": "Cleveland Browns",
-          "position": "Quarterback (QB)",
-          "lastGame": {
-            "date": "2026-10-01",
-            "label": "Week 4 vs. Pittsburgh Steelers, won 27-24",
-            "stats": [
-              "24 of 33 passing",
-              "268 passing yards",
-              "1 touchdown",
-              "1 interception"
-            ]
-          },
-          "buzz": "Watson threw for 268 yards in the win, and CBS Sports gave Cleveland a B+ for the week.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261001_PIT@CLE/)",
-          "asOf": "2026-10-02"
-        },
-        {
-          "name": "Denzel Boston",
-          "team": "Cleveland Browns",
-          "position": "Wide receiver (WR)",
-          "lastGame": {
-            "date": "2026-10-01",
-            "label": "Week 4 vs. Pittsburgh Steelers, won 27-24",
-            "stats": [
-              "4 catches on 7 targets",
-              "89 receiving yards",
-              "0 touchdowns"
-            ]
-          },
-          "buzz": "The rookie led Cleveland with 89 receiving yards against Pittsburgh, and fellow rookie K.C. Concepcion added 5 catches for 64.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261001_PIT@CLE/)",
-          "asOf": "2026-10-02"
-        }
-      ],
-      "source": "CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-05"
-    },
-    "Dallas Cowboys": {
-      "latestResult": "Won 34-30 at the Houston Texans in Week 4 (now 2-2)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "CeeDee Lamb caught 17 passes for 189 yards and a touchdown in the win at Houston, which NFL.com says makes him only the fourth player in NFL history with 17+ catches, 180+ yards and a touchdown in one game.",
-      "bringUp": "CeeDee Lamb caught 17 passes for 189 yards against Houston on Sunday. NFL.com says only four players in league history have put up a game like that, and it got the Cowboys back to 2-2.",
-      "details": [
-        {
-          "name": "CeeDee Lamb",
-          "team": "Dallas Cowboys",
-          "position": "Wide receiver (WR)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Houston Texans, won 34-30",
-            "stats": [
-              "17 catches",
-              "189 receiving yards",
+              "10 receptions",
+              "155 receiving yards",
               "1 touchdown"
             ]
           },
-          "buzz": "CBS Sports called the 34-30 win \"the CeeDee Lamb game\"; Dak Prescott threw his way 21 times on 45 routes, per NFL.com.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DAL@HOU/)",
-          "asOf": "2026-10-07"
+          "buzz": "Chase caught 10 passes for 155 yards, including a 47-yard touchdown in the first quarter, per AJC.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140699)",
+          "asOf": "2026-11-10"
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Joe Burrow",
+          "value": "2,386"
         },
+        {
+          "label": "Receiving yards",
+          "player": "Tee Higgins",
+          "value": "758"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "thescore.com game page (https://www.thescore.com/nfl/event/140699); Atlanta Journal-Constitution (https://www.ajc.com/news/2026/11/burrow-powers-bengals-past-the-falcons-in-madrid-for-their-4th-straight-win/)",
+      "asOf": "2026-11-10"
+    },
+    "Cleveland Browns": {
+      "latestResult": "Lost 23-22 in overtime at the New Orleans Saints in Week 9 (now 5-4)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Shedeur Sanders threw for 297 yards and two touchdowns, but Cleveland lost 23-22 in overtime and committed 10 penalties.",
+      "bringUp": "The Browns lost 23-22 in overtime at New Orleans, even though Shedeur Sanders threw for 297 yards and two touchdowns.",
+      "details": [
+        {
+          "name": "Shedeur Sanders",
+          "team": "Cleveland Browns",
+          "position": "Quarterback (QB)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 at New Orleans Saints, lost 23-22 in overtime",
+            "stats": [
+              "19 of 31 passing",
+              "297 passing yards",
+              "2 touchdowns",
+              "0 interceptions"
+            ]
+          },
+          "buzz": "Sanders threw for 297 yards and two touchdowns with no interceptions and also ran 10 times for 28 yards.",
+          "source": "Saints team site box score (https://www.neworleanssaints.com/game-day/2026/reg-week9/browns-at-saints/box-score)",
+          "asOf": "2026-11-10"
+        },
+        {
+          "name": "KC Concepcion",
+          "team": "Cleveland Browns",
+          "position": "Wide receiver (WR)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 at New Orleans Saints, lost 23-22 in overtime",
+            "stats": [
+              "4 receptions",
+              "85 receiving yards",
+              "1 touchdown"
+            ]
+          },
+          "buzz": "Concepcion caught four passes for 85 yards and a touchdown, with a longest catch of 64 yards.",
+          "source": "Saints team site box score (https://www.neworleanssaints.com/game-day/2026/reg-week9/browns-at-saints/box-score)",
+          "asOf": "2026-11-10"
+        }
+      ],
+      "source": "Saints team site box score (https://www.neworleanssaints.com/game-day/2026/reg-week9/browns-at-saints/box-score)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Deshaun Watson",
+          "value": "1,806"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Quinshon Judkins",
+          "value": "385"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Denzel Boston",
+          "value": "507"
+        }
+      ],
+      "leadersSource": "FOX Sports, Browns team stats & leaders (https://www.foxsports.com/nfl/cleveland-browns-team-stats)",
+      "leadersAsOf": "2026-11-10"
+    },
+    "Dallas Cowboys": {
+      "latestResult": "Won 27-23 at the Indianapolis Colts in Week 9 (now 4-5)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "CeeDee Lamb caught 10 passes for 195 yards and a touchdown, and Dak Prescott threw for 335 yards and two touchdowns in the 27-23 win.",
+      "bringUp": "CeeDee Lamb caught 10 passes for 195 yards and a touchdown as the Cowboys beat the Colts 27-23. Dallas is 4-5.",
+      "details": [
         {
           "name": "Dak Prescott",
           "team": "Dallas Cowboys",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Houston Texans, won 34-30",
+            "date": "2026-11-08",
+            "label": "Week 9 at Indianapolis Colts, won 27-23",
             "stats": [
-              "32 of 45 passes",
+              "21 of 34 passing",
               "335 passing yards",
-              "1 touchdown",
+              "2 touchdowns",
               "0 interceptions"
             ]
           },
-          "buzz": "Prescott threw for 335 yards without an interception at Houston, leaning heavily on Lamb as Dallas scored 28 second-half points.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DAL@HOU/)",
-          "asOf": "2026-10-07"
+          "buzz": "Prescott threw for 335 yards and two touchdowns with no interceptions, and ESPN's stats page lists his 2,381 passing yards third in the NFL.",
+          "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-dallas-cowboys-vs-indianapolis-colts-nov-08-2026-game-boxscore-11265?tab=boxscore)",
+          "asOf": "2026-11-10"
+        },
+        {
+          "name": "CeeDee Lamb",
+          "team": "Dallas Cowboys",
+          "position": "Wide receiver (WR)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 at Indianapolis Colts, won 27-23",
+            "stats": [
+              "10 receptions",
+              "195 receiving yards",
+              "1 touchdown"
+            ]
+          },
+          "buzz": "Lamb's 195 yards and a touchdown came on 10 catches, and ESPN's stats page lists his 904 receiving yards second in the NFL.",
+          "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-dallas-cowboys-vs-indianapolis-colts-nov-08-2026-game-boxscore-11265?tab=boxscore)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/); NFL.com Week 4 takeaways (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-      "asOf": "2026-10-07"
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Dak Prescott",
+          "value": "2,381"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "CeeDee Lamb",
+          "value": "904"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-dallas-cowboys-vs-indianapolis-colts-nov-08-2026-game-boxscore-11265?tab=boxscore)",
+      "asOf": "2026-11-10"
     },
     "Denver Broncos": {
-      "latestResult": "Lost 24-14 at the San Francisco 49ers in Week 4 (now 2-2)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "The 49ers kept Denver out of the end zone for the first three quarters, and the Broncos have scored just 74 points in four games.",
-      "bringUp": "The Broncos had 3 points through three quarters at San Francisco before losing 24-14. Slow starts are the knock on them now; they've scored 74 points in four games.",
+      "latestResult": "Won 26-21 at the Carolina Panthers in Week 9 (now 7-2)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Bo Nix threw two touchdown passes and Denver won 26-21 on a go-ahead fourth-quarter drive, per the team site.",
+      "bringUp": "The Broncos beat the Panthers 26-21 on a go-ahead drive in the fourth quarter, with Bo Nix throwing two touchdown passes. Denver is 7-2.",
       "details": [
         {
           "name": "Bo Nix",
           "team": "Denver Broncos",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at San Francisco 49ers, lost 24-14",
+            "date": "2026-11-08",
+            "label": "Week 9 at Carolina Panthers, won 26-21",
             "stats": [
-              "25 of 42 passes",
-              "214 passing yards",
-              "1 touchdown",
-              "0 interceptions"
+              "25 of 37 passing",
+              "237 passing yards",
+              "2 touchdowns"
             ]
           },
-          "buzz": "Nix completed 25 of 42 passes as Denver's offense didn't reach the end zone until the fourth quarter; CBS Sports said the offense needs to get off to faster starts.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DEN@SF/)",
-          "asOf": "2026-10-07"
+          "buzz": "Nix threw two touchdown passes, and the Broncos converted six of 10 third downs, per the Broncos' team site.",
+          "source": "Denver Broncos team site (https://www.denverbroncos.com/news/cover-4-key-takeaways-go-ahead-fourth-quarter-drive-lead-broncos-to-26-21-win-over-panthers)",
+          "asOf": "2026-11-10"
+        },
+        {
+          "name": "Jonah Coleman",
+          "team": "Denver Broncos",
+          "position": "Running back (RB)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 at Carolina Panthers, won 26-21",
+            "stats": [
+              "88 total yards",
+              "1 touchdown"
+            ]
+          },
+          "buzz": "Coleman scored from 9 yards out, his second straight game with a touchdown, per the Broncos' team site.",
+          "source": "Denver Broncos team site (https://www.denverbroncos.com/news/cover-4-key-takeaways-go-ahead-fourth-quarter-drive-lead-broncos-to-26-21-win-over-panthers)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/); CBS Sports standings (https://www.cbssports.com/nfl/standings/)",
-      "asOf": "2026-10-07"
+      "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-denver-broncos-vs-carolina-panthers-nov-08-2026-game-boxscore-11270); Denver Broncos team site (https://www.denverbroncos.com/news/cover-4-key-takeaways-go-ahead-fourth-quarter-drive-lead-broncos-to-26-21-win-over-panthers)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Bo Nix",
+          "value": "1730"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "J.K. Dobbins",
+          "value": "324"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Jaylen Waddle",
+          "value": "337"
+        }
+      ],
+      "leadersSource": "CBS Sports, Broncos stats and team leaders (https://www.cbssports.com/nfl/teams/DEN/denver-broncos/stats/)",
+      "leadersAsOf": "2026-11-13"
     },
     "Detroit Lions": {
-      "latestResult": "Lost 32-26 at the Carolina Panthers in Week 4 (now 2-2)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Detroit's defense has allowed 127 points in four games, and Carolina's Tetairoa McMillan torched it for 14 catches and 192 yards on Sunday night.",
-      "bringUp": "Jared Goff threw for 412 yards Sunday night and the Lions still lost 32-26 at Carolina. The defense is the problem: they've given up 127 points in four games.",
+      "latestResult": "Won 19-9 at the Miami Dolphins in Week 9 (now 6-2)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Kicker Jake Bates made all four of his field goals and Jahmyr Gibbs ran for 74 yards and a touchdown in the 19-9 win.",
+      "bringUp": "The Lions beat the Dolphins 19-9, and kicker Jake Bates made all four of his field goals. Detroit is 6-2.",
       "details": [
-        {
-          "name": "Jared Goff",
-          "team": "Detroit Lions",
-          "position": "Quarterback (QB)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Carolina Panthers, lost 32-26",
-            "stats": [
-              "32 of 52 passes",
-              "412 passing yards",
-              "1 touchdown",
-              "0 interceptions"
-            ]
-          },
-          "buzz": "Goff threw for 412 yards without an interception, but Detroit fell to 2-2 because the defense couldn't stop Bryce Young's 329-yard night.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DET@CAR/)",
-          "asOf": "2026-10-07"
-        },
         {
           "name": "Jahmyr Gibbs",
           "team": "Detroit Lions",
           "position": "Running back (RB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Carolina Panthers, lost 32-26",
+            "date": "2026-11-08",
+            "label": "Week 9 at Miami Dolphins, won 19-9",
             "stats": [
-              "15 carries",
-              "46 rushing yards",
+              "20 carries",
+              "74 rushing yards",
               "1 touchdown"
             ]
           },
-          "buzz": "Gibbs was held to 46 rushing yards on 15 carries, though he scored a touchdown, as Detroit's offense ran through Goff's arm instead.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DET@CAR/)",
-          "asOf": "2026-10-07"
+          "buzz": "Gibbs ran 20 times for 74 yards and a touchdown, and ESPN's stats page lists his 847 rushing yards third in the NFL.",
+          "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-detroit-lions-vs-miami-dolphins-nov-08-2026-game-boxscore-11269?tab=boxscore)",
+          "asOf": "2026-11-10"
+        },
+        {
+          "name": "Jake Bates",
+          "team": "Detroit Lions",
+          "position": "Kicker (K)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 at Miami Dolphins, won 19-9",
+            "stats": [
+              "4 of 4 field goals",
+              "13 points"
+            ]
+          },
+          "buzz": "Bates went 4 for 4 on field goals and scored 13 points, accounting for most of Detroit's 19.",
+          "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-detroit-lions-vs-miami-dolphins-nov-08-2026-game-boxscore-11269?tab=boxscore)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/); CBS Sports standings (https://www.cbssports.com/nfl/standings/)",
-      "asOf": "2026-10-07"
+      "leaders": [
+        {
+          "label": "Rushing yards",
+          "player": "Jahmyr Gibbs",
+          "value": "847"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-detroit-lions-vs-miami-dolphins-nov-08-2026-game-boxscore-11269?tab=boxscore)",
+      "asOf": "2026-11-10"
     },
     "Green Bay Packers": {
-      "latestResult": "Won 17-14 at the Tampa Bay Buccaneers in Week 4 (now 2-2)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Jordan Love has thrown two touchdown passes in each of Green Bay's first four games, matching Aaron Rodgers' 2020 MVP season, but the Packers have still been outscored 105-73.",
-      "bringUp": "The Packers barely beat a winless Tampa team 17-14 with an undrafted rookie at quarterback, after two fourth-quarter turnovers. They're 2-2 but have been outscored 105 to 73.",
+      "latestResult": "Won 45-27 at the New England Patriots in Week 9 (now 6-3)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Jordan Love threw for 372 yards and three touchdowns, and the Packers intercepted Drake Maye three times in the 45-27 win.",
+      "bringUp": "Jordan Love threw for 372 yards and three touchdowns in a 45-27 win at New England, and he reached 100 career touchdown passes.",
       "details": [
         {
           "name": "Jordan Love",
           "team": "Green Bay Packers",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Tampa Bay Buccaneers, won 17-14",
+            "date": "2026-11-08",
+            "label": "Week 9 at New England Patriots, won 45-27",
             "stats": [
-              "22 of 30 passes",
-              "197 passing yards",
-              "2 touchdowns",
-              "1 interception"
+              "23 of 29 passing",
+              "372 passing yards",
+              "3 touchdowns",
+              "0 interceptions"
             ]
           },
-          "buzz": "Love has two touchdown passes in all four games this season, which NFL.com notes matches Aaron Rodgers' 2020 MVP start, but his fourth-quarter interception nearly cost Green Bay.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_GB@TB/)",
-          "asOf": "2026-10-07"
+          "buzz": "FOX Sports says Love reached 100 career touchdown passes, and ESPN's stats page lists his 2,618 passing yards first in the NFL.",
+          "source": "FOX Sports (https://www.foxsports.com/nfl/week-9-green-bay-packers-vs-new-england-patriots-nov-08-2026-game-boxscore-11274?tab=boxscore)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "Edgerrin Cooper",
+          "name": "Christian Watson",
           "team": "Green Bay Packers",
-          "position": "Linebacker (LB)",
+          "position": "Wide receiver (WR)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Tampa Bay Buccaneers, won 17-14",
+            "date": "2026-11-08",
+            "label": "Week 9 at New England Patriots, won 45-27",
             "stats": [
-              "1 sack",
-              "1 interception"
+              "7 receptions",
+              "171 receiving yards",
+              "1 touchdown"
             ]
           },
-          "buzz": "Cooper had a sack and an interception as the defense picked off rookie Jalon Daniels twice in Packers territory to save a 17-14 win.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_GB@TB/)",
-          "asOf": "2026-10-07"
+          "buzz": "Watson's 171 receiving yards were a career high, per FOX Sports, and ESPN's stats page lists his 879 receiving yards third in the NFL.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140709)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/); NFL.com Week 4 takeaways (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-      "asOf": "2026-10-07"
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Jordan Love",
+          "value": "2,618"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Christian Watson",
+          "value": "879"
+        },
+        {
+          "label": "Interceptions",
+          "player": "Xavier McKinney",
+          "value": "5"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "thescore.com game page (https://www.thescore.com/nfl/event/140709); FOX Sports (https://www.foxsports.com/nfl/week-9-green-bay-packers-vs-new-england-patriots-nov-08-2026-game-boxscore-11274?tab=boxscore)",
+      "asOf": "2026-11-10"
     },
     "Houston Texans": {
-      "latestResult": "Lost 34-30 to the Dallas Cowboys at home in Week 4 (now 0-4)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Houston is 0-4 despite a defense expected to be one of the NFL's best; it gave up 34 points to Dallas even as Nico Collins caught two touchdowns.",
-      "bringUp": "The Texans are 0-4 after losing 34-30 to Dallas. They have lost their four games by a combined 25 points, but CBS Sports already wrote that they might be done.",
+      "latestResult": "Won 44-22 at the Los Angeles Chargers in Week 9 (now 3-5)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "C.J. Stroud threw for 384 yards and five touchdowns, and Kayshon Boutte caught four passes for 125 yards and two touchdowns in the 44-22 win.",
+      "bringUp": "C.J. Stroud threw for 384 yards and five touchdowns as the Texans beat the winless Chargers 44-22. Houston is 3-5.",
       "details": [
         {
           "name": "C.J. Stroud",
           "team": "Houston Texans",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. Dallas Cowboys, lost 34-30",
+            "date": "2026-11-08",
+            "label": "Week 9 at Los Angeles Chargers, won 44-22",
             "stats": [
-              "21 of 31 passes",
-              "347 passing yards",
-              "2 touchdowns",
-              "0 interceptions"
+              "21 of 35 passing",
+              "384 passing yards",
+              "5 touchdowns",
+              "1 interception"
             ]
           },
-          "buzz": "Stroud threw for 347 yards and two touchdowns without an interception, and Houston still lost its fourth straight game.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DAL@HOU/)",
-          "asOf": "2026-10-07"
+          "buzz": "Stroud threw for 384 yards and five touchdowns, and Houston outgained the Chargers 485 yards to 315.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "Nico Collins",
+          "name": "Kayshon Boutte",
           "team": "Houston Texans",
           "position": "Wide receiver (WR)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. Dallas Cowboys, lost 34-30",
+            "date": "2026-11-08",
+            "label": "Week 9 at Los Angeles Chargers, won 44-22",
             "stats": [
-              "7 catches",
-              "118 receiving yards",
+              "4 receptions",
+              "125 receiving yards",
               "2 touchdowns"
             ]
           },
-          "buzz": "Back in the lineup, Collins caught 7 passes for 118 yards and two touchdowns, which CBS Sports called a huge spark for Houston's offense.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DAL@HOU/)",
-          "asOf": "2026-10-07"
+          "buzz": "Boutte caught two touchdowns on just four receptions, and he had 125 yards.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/); CBS Sports standings (https://www.cbssports.com/nfl/standings/)",
-      "asOf": "2026-10-07"
+      "leaders": [
+        {
+          "label": "Sacks",
+          "player": "Will Anderson Jr.",
+          "value": "9.5"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708); FOX Sports (https://www.foxsports.com/nfl/houston-texans-vs-los-angeles-chargers-nov-08-2026-game-boxscore-11273)",
+      "asOf": "2026-11-10"
     },
     "Indianapolis Colts": {
-      "latestResult": "Won 30-13 over the Washington Commanders in London in Week 4 (now 2-2)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Jonathan Taylor ran for 95 yards and two touchdowns in London, giving him 408 rushing yards in international games, the most in NFL history per NFL.com.",
-      "bringUp": "Jonathan Taylor ran for two touchdowns in London as the Colts beat Washington 30-13. He now has more rushing yards in international games than anyone ever, 408.",
+      "latestResult": "Lost 27-23 against the Dallas Cowboys in Week 9 (now 2-7)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Kicker Spencer Shrader made all three field goals, including one from 59 yards, but the Colts lost 27-23 and fell to 2-7.",
+      "bringUp": "The Colts lost 27-23 to Dallas even though kicker Spencer Shrader made a 59-yard field goal. Indianapolis is 2-7.",
       "details": [
-        {
-          "name": "Jonathan Taylor",
-          "team": "Indianapolis Colts",
-          "position": "Running back (RB)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. Washington Commanders in London, won 30-13",
-            "stats": [
-              "20 carries",
-              "95 rushing yards",
-              "2 touchdowns"
-            ]
-          },
-          "buzz": "Taylor carried the offense with 95 yards and two scores, pushing his international-game total to a record 408 rushing yards, per NFL.com.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_IND@WAS/)",
-          "asOf": "2026-10-07"
-        },
         {
           "name": "Daniel Jones",
           "team": "Indianapolis Colts",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs. Washington Commanders in London, won 30-13",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Dallas Cowboys, lost 27-23",
             "stats": [
-              "19 of 34 passes",
-              "143 passing yards",
-              "0 touchdowns",
+              "20 of 34 passing",
+              "180 passing yards",
+              "1 touchdown",
               "1 interception"
             ]
           },
-          "buzz": "Jones threw for 143 yards and an interception; CBS Sports noted he has been plagued by turnovers all season.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_IND@WAS/)",
-          "asOf": "2026-10-07"
+          "buzz": "Jones threw for 180 yards, one touchdown and one interception, and Indianapolis was outgained 508 yards to 271.",
+          "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-dallas-cowboys-vs-indianapolis-colts-nov-08-2026-game-boxscore-11265?tab=boxscore)",
+          "asOf": "2026-11-10"
+        },
+        {
+          "name": "Spencer Shrader",
+          "team": "Indianapolis Colts",
+          "position": "Kicker (K)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Dallas Cowboys, lost 27-23",
+            "stats": [
+              "3 of 3 field goals",
+              "59-yard longest field goal",
+              "11 points"
+            ]
+          },
+          "buzz": "Shrader made all three field goals, with a longest of 59 yards, and both of his extra points.",
+          "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-dallas-cowboys-vs-indianapolis-colts-nov-08-2026-game-boxscore-11265?tab=boxscore)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "NFL.com Week 4 takeaways (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games); CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-07"
+      "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-dallas-cowboys-vs-indianapolis-colts-nov-08-2026-game-boxscore-11265?tab=boxscore)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Daniel Jones",
+          "value": "1,722"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Jonathan Taylor",
+          "value": "656"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Josh Downs",
+          "value": "354"
+        }
+      ],
+      "leadersSource": "FOX Sports, Colts team stats & leaders (https://www.foxsports.com/nfl/indianapolis-colts-team-stats)",
+      "leadersAsOf": "2026-11-10"
     },
     "Jacksonville Jaguars": {
-      "latestResult": "Won 22-17 at the Cincinnati Bengals in Week 4 (now 3-1)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Jacksonville picked off Joe Burrow twice to win 22-17, and NFL.com says the Jaguars' 39 takeaways over the last two seasons are tied with the Bears for the most in the NFL.",
-      "bringUp": "The Jaguars are 3-1 after intercepting Joe Burrow twice in a 22-17 win at Cincinnati. Taking the ball away is their thing: 39 takeaways over two seasons, tied for the most in the league.",
+      "latestResult": "Won 33-10 at the Baltimore Ravens on Thursday night in Week 9 (now 6-2)",
+      "latestGameDate": "2026-11-05",
+      "storyline": "Trevor Lawrence threw for 242 yards and a touchdown with no interceptions as Jacksonville won 33-10 and improved to 6-2.",
+      "bringUp": "The Jaguars beat the Ravens 33-10 on Thursday night, and Trevor Lawrence threw for 242 yards without an interception. Jacksonville is 6-2.",
       "details": [
         {
           "name": "Trevor Lawrence",
           "team": "Jacksonville Jaguars",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Cincinnati Bengals, won 22-17",
+            "date": "2026-11-05",
+            "label": "Week 9 at Baltimore Ravens, won 33-10",
             "stats": [
-              "18 of 23 passes",
-              "227 passing yards",
+              "16 of 26 passing",
+              "242 passing yards",
               "1 touchdown",
               "0 interceptions"
             ]
           },
-          "buzz": "Lawrence completed 18 of 23 passes without a turnover while the defense forced two, as Jacksonville won its second straight.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_JAC@CIN/)",
-          "asOf": "2026-10-07"
+          "buzz": "Lawrence threw for 242 yards and a touchdown with no interceptions, and Jacksonville had 319 total yards to Baltimore's 227.",
+          "source": "Jaguars team site box score (https://www.jaguars.com/game-day/2026/reg-week9/jaguars-at-ravens/box-score)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "Foyesade Oluokun",
+          "name": "Parker Washington",
           "team": "Jacksonville Jaguars",
-          "position": "Linebacker (LB)",
+          "position": "Wide receiver (WR)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Cincinnati Bengals, won 22-17",
+            "date": "2026-11-05",
+            "label": "Week 9 at Baltimore Ravens, won 33-10",
             "stats": [
-              "1 interception"
+              "2 receptions",
+              "61 receiving yards",
+              "1 touchdown"
             ]
           },
-          "buzz": "Oluokun intercepted Burrow in the red zone, one of two Jaguars picks in a game where Jacksonville gave up more than 430 yards and still won.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_JAC@CIN/)",
-          "asOf": "2026-10-07"
+          "buzz": "Washington caught a touchdown among his two catches for 61 yards.",
+          "source": "Jaguars team site box score (https://www.jaguars.com/game-day/2026/reg-week9/jaguars-at-ravens/box-score)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "NFL.com Week 4 takeaways (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games); CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-07"
+      "source": "Jaguars team site box score (https://www.jaguars.com/game-day/2026/reg-week9/jaguars-at-ravens/box-score); FOX Sports (https://foxsports.com/stories/nfl/baltimore-never-stood-chance-3-takeaways-from-jaguars-win-over-ravens)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Trevor Lawrence",
+          "value": "1,932"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Bhayshul Tuten",
+          "value": "521"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Parker Washington",
+          "value": "493"
+        }
+      ],
+      "leadersSource": "FOX Sports, Jaguars team stats & leaders (https://www.foxsports.com/nfl/jacksonville-jaguars-team-stats)",
+      "leadersAsOf": "2026-11-12"
     },
     "Kansas City Chiefs": {
-      "latestResult": "Won 30-27 at the Las Vegas Raiders in Week 4 (now 4-0)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Free-agent signing Kenneth Walker III ran for 177 yards and two touchdowns to keep Kansas City unbeaten at 4-0, his second 170-yard game in four weeks with the Chiefs.",
-      "bringUp": "The Chiefs are 4-0 after beating the 3-1 Raiders 30-27, and the story is Kenneth Walker: 177 rushing yards, his second 170-yard game already. NFL.com put that start alongside Jim Brown and O.J. Simpson.",
+      "latestResult": "Won 35-12 against the New York Jets in Week 9 (now 6-2)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Kenneth Walker III scored three touchdowns, one rushing and two receiving, and Patrick Mahomes threw for 242 yards and two touchdowns in the 35-12 win.",
+      "bringUp": "Kenneth Walker III scored three touchdowns for the Chiefs, one running and two catching, in a 35-12 win over the Jets. Kansas City is 6-2.",
       "details": [
-        {
-          "name": "Kenneth Walker III",
-          "team": "Kansas City Chiefs",
-          "position": "Running back (RB)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Las Vegas Raiders, won 30-27",
-            "stats": [
-              "22 carries",
-              "177 rushing yards",
-              "2 touchdowns"
-            ]
-          },
-          "buzz": "CBS Sports says Walker's offseason signing might go down as one of the best free-agent moves in NFL history after his 177-yard day in Las Vegas.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_KC@LV/)",
-          "asOf": "2026-10-07"
-        },
         {
           "name": "Patrick Mahomes",
           "team": "Kansas City Chiefs",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Las Vegas Raiders, won 30-27",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. New York Jets, won 35-12",
             "stats": [
-              "15 of 30 passes",
-              "225 passing yards",
+              "23 of 31 passing",
+              "242 passing yards",
               "2 touchdowns",
               "0 interceptions"
             ]
           },
-          "buzz": "Mahomes completed just 15 of 30 passes but hit Tyquan Thornton on a 55-yard bomb that helped seal the win.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_KC@LV/)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "CBS Sports Week 4 grades (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/); NFL.com Week 4 takeaways (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-      "asOf": "2026-10-07"
-    },
-    "Las Vegas Raiders": {
-      "latestResult": "Lost 30-27 to the Kansas City Chiefs at home in Week 4 (now 3-1)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "The Raiders took their first loss of the season despite 365 passing yards from Kirk Cousins, after what CBS Sports called mistake after mistake in the fourth quarter.",
-      "bringUp": "Kirk Cousins threw for 365 yards and the Raiders still lost 30-27 to the Chiefs, their first loss after a 3-0 start. Kansas City set up the winning score with a 55-yard bomb late.",
-      "details": [
+          "buzz": "Mahomes threw for 242 yards and two touchdowns with no interceptions.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140703)",
+          "asOf": "2026-11-10"
+        },
         {
-          "name": "Kirk Cousins",
-          "team": "Las Vegas Raiders",
-          "position": "Quarterback (QB)",
+          "name": "Kenneth Walker III",
+          "team": "Kansas City Chiefs",
+          "position": "Running back (RB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Kansas City Chiefs, lost 30-27",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. New York Jets, won 35-12",
             "stats": [
-              "31 of 52 passing",
-              "365 passing yards",
-              "2 touchdowns",
-              "1 interception"
+              "18 carries",
+              "102 rushing yards",
+              "3 total touchdowns"
             ]
           },
-          "buzz": "Cousins threw for 365 yards against the Chiefs, but the Raiders dropped to 3-1 after a late Kansas City drive.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_KC@LV/)",
-          "asOf": "2026-10-07"
-        },
+          "buzz": "Walker ran for 102 yards and also caught two touchdown passes, and ESPN's stats page lists his 872 rushing yards second in the NFL.",
+          "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-new-york-jets-vs-kansas-city-chiefs-nov-08-2026-game-boxscore-11268)",
+          "asOf": "2026-11-10"
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Rushing yards",
+          "player": "Kenneth Walker III",
+          "value": "872"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-new-york-jets-vs-kansas-city-chiefs-nov-08-2026-game-boxscore-11268); thescore.com game page (https://www.thescore.com/nfl/event/140703)",
+      "asOf": "2026-11-10"
+    },
+    "Las Vegas Raiders": {
+      "latestResult": "Lost 38-17 at the San Francisco 49ers in Week 9 (now 4-5)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "The Raiders turned the ball over five times and ran for just 24 yards in the 38-17 loss, even though Brock Bowers caught seven passes for 111 yards.",
+      "bringUp": "The Raiders turned the ball over five times and gained only 24 yards rushing in a 38-17 loss at San Francisco, though Brock Bowers had 111 receiving yards.",
+      "details": [
         {
           "name": "Brock Bowers",
           "team": "Las Vegas Raiders",
           "position": "Tight end (TE)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Kansas City Chiefs, lost 30-27",
+            "date": "2026-11-08",
+            "label": "Week 9 at San Francisco 49ers, lost 38-17",
             "stats": [
-              "6 catches",
-              "86 receiving yards",
+              "7 receptions",
+              "111 receiving yards",
               "1 touchdown"
             ]
           },
-          "buzz": "Bowers led the Raiders with 86 receiving yards and caught a touchdown in the 30-27 loss to Kansas City.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_KC@LV/)",
-          "asOf": "2026-10-07"
+          "buzz": "Bowers caught seven passes for 111 yards and a touchdown, the Raiders' top performer on FOX Sports' box score page.",
+          "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-las-vegas-raiders-vs-san-francisco-49ers-nov-08-2026-game-boxscore-11272)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "NFL.com (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games); CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-07"
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Kirk Cousins",
+          "value": "2,340"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-las-vegas-raiders-vs-san-francisco-49ers-nov-08-2026-game-boxscore-11272)",
+      "asOf": "2026-11-10"
     },
     "Los Angeles Chargers": {
-      "latestResult": "Lost 30-23 at the Seattle Seahawks in Week 4 (now 0-4)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "The Chargers are 0-4 after Justin Herbert was sacked four times and turned the ball over three times in Seattle, and they lost right tackle Joe Alt and receiver Ladd McConkey to injuries during the game.",
-      "bringUp": "The Chargers are 0-4. Justin Herbert got sacked four times in Seattle, and a strip-sack in the final minutes, meaning he was hit and lost the ball, sealed a 30-23 loss.",
+      "latestResult": "Lost 44-22 against the Houston Texans in Week 9 (now 0-8)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "The Chargers are still winless at 0-8 after allowing 485 total yards, and Justin Herbert threw for 193 yards with a touchdown and an interception.",
+      "bringUp": "The Chargers are 0-8 after a 44-22 loss to Houston, in which they gave up 485 yards, and Justin Herbert threw for 193 yards.",
       "details": [
         {
           "name": "Justin Herbert",
           "team": "Los Angeles Chargers",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Seattle Seahawks, lost 30-23",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Houston Texans, lost 44-22",
             "stats": [
-              "19 of 31 passing",
-              "189 passing yards",
+              "13 of 23 passing",
+              "193 passing yards",
               "1 touchdown",
-              "2 interceptions"
+              "1 interception"
             ]
           },
-          "buzz": "Herbert was sacked four times and had three turnovers in Seattle, including a strip-sack late that ended the Chargers' comeback chance.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_LAC@SEA/)",
-          "asOf": "2026-10-07"
+          "buzz": "Herbert threw for 193 yards, a touchdown and an interception as Los Angeles fell to 0-8.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "Omarion Hampton",
+          "name": "Quentin Johnston",
           "team": "Los Angeles Chargers",
-          "position": "Running back (RB)",
+          "position": "Wide receiver (WR)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Seattle Seahawks, lost 30-23",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Houston Texans, lost 44-22",
             "stats": [
-              "9 carries",
-              "45 rushing yards",
+              "1 reception",
+              "58 receiving yards",
               "1 touchdown"
             ]
           },
-          "buzz": "Hampton ran for 45 yards and a touchdown on 9 carries as the Chargers fell to 0-4.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_LAC@SEA/)",
-          "asOf": "2026-10-07"
+          "buzz": "Johnston's one catch went for 58 yards and a touchdown.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/); NFL.com (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-      "asOf": "2026-10-07"
+      "source": "thescore.com game page (https://www.thescore.com/nfl/event/140708); FOX Sports (https://www.foxsports.com/nfl/houston-texans-vs-los-angeles-chargers-nov-08-2026-game-boxscore-11273)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Justin Herbert",
+          "value": "1,591"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Omarion Hampton",
+          "value": "369"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Ladd McConkey",
+          "value": "286"
+        }
+      ],
+      "leadersSource": "FOX Sports, Chargers team stats & leaders (https://www.foxsports.com/nfl/los-angeles-chargers-team-stats)",
+      "leadersAsOf": "2026-11-12"
     },
     "Los Angeles Rams": {
-      "latestResult": "Won 24-20 at the Philadelphia Eagles in Week 4 (now 2-2)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "The Rams came back to win in Philadelphia as Matthew Stafford went 13-of-17 for 149 yards in the fourth quarter, while the Eagles went 0 for 12 on third downs.",
-      "bringUp": "The Rams won 24-20 in Philadelphia with a fourth-quarter comeback. Stafford went 13-of-17 in that quarter alone, and the Eagles went 0 for 12 on third downs, their most tries without a conversion since at least 1991.",
+      "latestResult": "Won 20-13 at the Washington Commanders in Week 9 (now 5-4)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Puka Nacua caught 14 passes for 150 yards and a touchdown, and Myles Garrett had three sacks in his first game back from a knee injury, as the Rams won their third straight.",
+      "bringUp": "Puka Nacua caught 14 passes for 150 yards and a touchdown as the Rams beat Washington 20-13. Los Angeles is 5-4 and has won three straight.",
       "details": [
-        {
-          "name": "Matthew Stafford",
-          "team": "Los Angeles Rams",
-          "position": "Quarterback (QB)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Philadelphia Eagles, won 24-20",
-            "stats": [
-              "32 of 51 passing",
-              "317 passing yards",
-              "0 touchdowns",
-              "2 interceptions"
-            ]
-          },
-          "buzz": "Stafford went 13-of-17 for 149 yards in the fourth quarter to lead the comeback win in Philadelphia.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_LAR@PHI/)",
-          "asOf": "2026-10-07"
-        },
         {
           "name": "Puka Nacua",
           "team": "Los Angeles Rams",
           "position": "Wide receiver (WR)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Philadelphia Eagles, won 24-20",
+            "date": "2026-11-08",
+            "label": "Week 9 at Washington Commanders, won 20-13",
             "stats": [
-              "9 catches",
-              "125 receiving yards",
-              "0 touchdowns"
-            ]
-          },
-          "buzz": "Nacua had 9 catches for 125 yards, including 5 for 76 yards in the fourth quarter alone.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_LAR@PHI/)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/); NFL.com (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-      "asOf": "2026-10-07"
-    },
-    "Miami Dolphins": {
-      "latestResult": "Lost 15-10 at the Minnesota Vikings in Week 4 (now 0-4)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "The Dolphins are 0-4, but Ollie Gordon II, filling in for the injured De'Von Achane, ran for 100 yards on 9 carries, the first 100-yard game of his career.",
-      "bringUp": "The Dolphins are still winless at 0-4 after losing 15-10 in Minnesota, but backup running back Ollie Gordon ran for 100 yards on just 9 carries, including a 53-yard run.",
-      "details": [
-        {
-          "name": "Ollie Gordon II",
-          "team": "Miami Dolphins",
-          "position": "Running back (RB)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Minnesota Vikings, lost 15-10",
-            "stats": [
-              "9 carries",
-              "100 rushing yards",
+              "14 receptions",
+              "150 receiving yards",
               "1 touchdown"
             ]
           },
-          "buzz": "Gordon took over for the injured De'Von Achane and posted his first career 100-yard game, including a 53-yard run.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_MIA@MIN/)",
-          "asOf": "2026-10-07"
+          "buzz": "Nacua caught 14 of the 19 passes thrown his way, including a 7-yard touchdown early in the fourth quarter.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140701)",
+          "asOf": "2026-11-10"
         },
+        {
+          "name": "Matthew Stafford",
+          "team": "Los Angeles Rams",
+          "position": "Quarterback (QB)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 at Washington Commanders, won 20-13",
+            "stats": [
+              "26 of 43 passing",
+              "228 passing yards",
+              "1 touchdown",
+              "1 interception"
+            ]
+          },
+          "buzz": "Stafford threw for 228 yards and a touchdown, and ESPN's stats page lists his 2,374 passing yards fourth in the NFL.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140701)",
+          "asOf": "2026-11-10"
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Matthew Stafford",
+          "value": "2,374"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "thescore.com game page (https://www.thescore.com/nfl/event/140701); Associated Press via KSL (https://www.ksl.com/article/51644581/puka-nacua-myles-garrett-lead-rams-to-20-13-win-over-commanders)",
+      "asOf": "2026-11-10"
+    },
+    "Miami Dolphins": {
+      "latestResult": "Lost 19-9 against the Detroit Lions in Week 9 (now 1-7)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Miami gained 174 passing yards and 77 rushing yards in the 19-9 loss, and Malik Willis threw one interception.",
+      "bringUp": "The Dolphins lost 19-9 to Detroit and are 1-7, with Malik Willis throwing for 128 yards and one interception.",
+      "details": [
         {
           "name": "Malik Willis",
           "team": "Miami Dolphins",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Minnesota Vikings, lost 15-10",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Detroit Lions, lost 19-9",
             "stats": [
-              "9 of 17 passing",
-              "85 passing yards",
+              "13 of 25 passing",
+              "128 passing yards",
               "0 touchdowns",
-              "0 interceptions"
+              "1 interception"
             ]
           },
-          "buzz": "Willis threw for 85 yards on 9 of 17 passing as Miami's offense managed only 10 points in Minnesota.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_MIA@MIN/)",
-          "asOf": "2026-10-07"
-        }
-      ],
-      "source": "NFL.com (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games); CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-07"
-    },
-    "Minnesota Vikings": {
-      "latestResult": "Beat the Miami Dolphins 15-10 at home in Week 4 (now 4-0)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "The Vikings are 4-0 and every one of their 15 points against Miami came from kicker Will Reichard, who has now made 31 straight field goals.",
-      "bringUp": "The Vikings are 4-0, and they beat Miami 15-10 without scoring a touchdown. Will Reichard kicked all five field goals and has made 31 in a row. Can they keep winning if the kicker is scoring all their points?",
-      "details": [
-        {
-          "name": "Will Reichard",
-          "team": "Minnesota Vikings",
-          "position": "Kicker (K)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Miami Dolphins, won 15-10",
-            "stats": [
-              "5 of 5 field goals",
-              "Longest: 50 yards"
-            ]
-          },
-          "buzz": "Reichard scored all 15 Vikings points against Miami and has now made 31 straight field goals.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_MIA@MIN/)",
-          "asOf": "2026-10-07"
+          "buzz": "Willis threw for 128 yards with no touchdowns and one interception.",
+          "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-detroit-lions-vs-miami-dolphins-nov-08-2026-game-boxscore-11269?tab=boxscore)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "T.J. Hockenson",
-          "team": "Minnesota Vikings",
-          "position": "Tight end (TE)",
+          "name": "Ollie Gordon II",
+          "team": "Miami Dolphins",
+          "position": "Running back (RB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Miami Dolphins, won 15-10",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Detroit Lions, lost 19-9",
             "stats": [
-              "13 catches",
-              "119 receiving yards",
-              "0 touchdowns"
+              "16 carries",
+              "55 rushing yards"
             ]
           },
-          "buzz": "Hockenson caught 13 passes for 119 yards, Kyler Murray's top target in a game where the Vikings gained 336 yards, their highest total of the season, per NFL.com.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_MIA@MIN/)",
-          "asOf": "2026-10-07"
+          "buzz": "Gordon ran 16 times for 55 yards, and Miami was held without a touchdown, scoring on three field goals.",
+          "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-detroit-lions-vs-miami-dolphins-nov-08-2026-game-boxscore-11269?tab=boxscore)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "NFL.com (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games); CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-07"
+      "source": "FOX Sports box score (https://www.foxsports.com/nfl/week-9-detroit-lions-vs-miami-dolphins-nov-08-2026-game-boxscore-11269?tab=boxscore)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Malik Willis",
+          "value": "1,396"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Ollie Gordon II",
+          "value": "463"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Malik Washington",
+          "value": "350"
+        }
+      ],
+      "leadersSource": "FOX Sports, Dolphins team stats & leaders (https://foxsports.com/nfl/miami-dolphins-team-stats)",
+      "leadersAsOf": "2026-11-13"
+    },
+    "Minnesota Vikings": {
+      "latestResult": "Lost 23-6 against the Buffalo Bills on Monday night in Week 9 (now 6-2)",
+      "latestGameDate": "2026-11-09",
+      "storyline": "Minnesota had just 178 total yards and held the ball for only 17:28 in the 23-6 loss, and Justin Jefferson caught 3 passes for 58 yards on 11 targets.",
+      "bringUp": "The Vikings lost 23-6 to Buffalo on Monday night, and Justin Jefferson was targeted 11 times but caught only 3 passes. Minnesota fell to 6-2.",
+      "details": [
+        {
+          "name": "Justin Jefferson",
+          "team": "Minnesota Vikings",
+          "position": "Wide receiver (WR)",
+          "lastGame": {
+            "date": "2026-11-09",
+            "label": "Week 9 vs. Buffalo Bills, lost 23-6",
+            "stats": [
+              "3 receptions",
+              "58 receiving yards",
+              "11 targets"
+            ]
+          },
+          "buzz": "Jefferson caught 3 of the 11 passes thrown his way for 58 yards.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140712)",
+          "asOf": "2026-11-10"
+        },
+        {
+          "name": "Jordan Mason",
+          "team": "Minnesota Vikings",
+          "position": "Running back (RB)",
+          "lastGame": {
+            "date": "2026-11-09",
+            "label": "Week 9 vs. Buffalo Bills, lost 23-6",
+            "stats": [
+              "6 carries",
+              "35 rushing yards"
+            ]
+          },
+          "buzz": "Mason had 6 carries for 35 yards as Minnesota held the ball for just 17:28.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140712)",
+          "asOf": "2026-11-10"
+        }
+      ],
+      "leaders": [
+        {
+          "label": "Sacks",
+          "player": "Andrew Van Ginkel",
+          "value": "7.5"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "thescore.com game page (https://www.thescore.com/nfl/event/140712)",
+      "asOf": "2026-11-10"
     },
     "New England Patriots": {
-      "latestResult": "Won 29-26 at the Buffalo Bills in Week 4 (now 2-2)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Drake Maye threw 3 touchdowns and led a game-winning 73-yard touchdown drive to hand the Bills their first loss and get the Patriots back to 2-2.",
-      "bringUp": "Drake Maye beat the Bills 29-26 in Buffalo with three touchdown passes and a game-winning 73-yard touchdown drive. He was also the Patriots' leading rusher with 54 yards.",
+      "latestResult": "Lost 45-27 against the Green Bay Packers in Week 9 (now 5-4)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Drake Maye threw three touchdown passes but also three interceptions, and New England gave up 478 total yards in the 45-27 loss.",
+      "bringUp": "The Patriots lost 45-27 to Green Bay, and Drake Maye threw three touchdowns and three interceptions. New England is 5-4.",
       "details": [
         {
           "name": "Drake Maye",
           "team": "New England Patriots",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Buffalo Bills, won 29-26",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Green Bay Packers, lost 45-27",
             "stats": [
-              "22 of 37 passing",
-              "269 passing yards",
+              "21 of 38 passing",
+              "299 passing yards",
               "3 touchdowns",
-              "1 interception"
+              "3 interceptions"
             ]
           },
-          "buzz": "Maye threw for 269 yards and 3 touchdowns, ran for a team-high 54 yards and drove 73 yards for the winning score in Buffalo.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_NE@BUF/)",
-          "asOf": "2026-10-07"
-        },
-        {
-          "name": "Romeo Doubs",
-          "team": "New England Patriots",
-          "position": "Wide receiver (WR)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Buffalo Bills, won 29-26",
-            "stats": [
-              "6 catches",
-              "58 receiving yards",
-              "2 touchdowns"
-            ]
-          },
-          "buzz": "Doubs caught 2 of Maye's 3 touchdown passes in the 29-26 win over Buffalo.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_NE@BUF/)",
-          "asOf": "2026-10-07"
+          "buzz": "Maye threw for 299 yards and three touchdowns, but FOX Sports says Packers safeties Xavier McKinney and Evan Williams combined for three interceptions of him.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140709)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/); NFL.com (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-      "asOf": "2026-10-07"
+      "source": "thescore.com game page (https://www.thescore.com/nfl/event/140709); FOX Sports (https://www.foxsports.com/nfl/week-9-green-bay-packers-vs-new-england-patriots-nov-08-2026-game-boxscore-11274?tab=boxscore)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Drake Maye",
+          "value": "2,282"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Rhamondre Stevenson",
+          "value": "399"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "DeMario Douglas",
+          "value": "434"
+        }
+      ],
+      "leadersSource": "FOX Sports, Patriots team stats & leaders (https://www.foxsports.com/nfl/new-england-patriots-team-stats)",
+      "leadersAsOf": "2026-11-12"
     },
     "New Orleans Saints": {
-      "latestResult": "Lost 45-24 to the Atlanta Falcons at home on Monday night in Week 4 (now 1-3)",
-      "latestGameDate": "2026-10-05",
-      "storyline": "The Saints gave up 45 points to the Falcons on Monday night, the third time in four games they have allowed at least 31.",
-      "bringUp": "The Saints gave up 45 points to the Falcons at home Monday night, and that's the third time in four games they've allowed 31 or more. Alvin Kamara still scored twice.",
+      "latestResult": "Won 23-22 in overtime against the Cleveland Browns in Week 9 (now 3-5)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Tyler Shough threw for 265 yards and ran for 51 more, and Audric Estimé ran for 72 yards and a touchdown in the 23-22 overtime win.",
+      "bringUp": "The Saints beat the Browns 23-22 in overtime, with quarterback Tyler Shough throwing for 265 yards and running for 51. New Orleans is 3-5.",
       "details": [
         {
           "name": "Tyler Shough",
           "team": "New Orleans Saints",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "Week 4 vs Atlanta Falcons, lost 45-24",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Cleveland Browns, won 23-22 in overtime",
             "stats": [
-              "30 of 48 passing",
-              "286 passing yards",
+              "21 of 35 passing",
+              "265 passing yards",
               "1 touchdown",
-              "0 interceptions"
+              "51 rushing yards"
             ]
           },
-          "buzz": "Shough threw 48 passes for 286 yards as the Saints chased a big deficit in the 45-24 loss to Atlanta.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261005_ATL@NO/)",
-          "asOf": "2026-10-07"
+          "buzz": "Shough threw for 265 yards and a touchdown with no interceptions, and ran 10 times for 51 yards.",
+          "source": "Saints team site box score (https://www.neworleanssaints.com/game-day/2026/reg-week9/browns-at-saints/box-score)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "Alvin Kamara",
+          "name": "Chris Olave",
           "team": "New Orleans Saints",
-          "position": "Running back (RB)",
+          "position": "Wide receiver (WR)",
           "lastGame": {
-            "date": "2026-10-05",
-            "label": "Week 4 vs Atlanta Falcons, lost 45-24",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Cleveland Browns, won 23-22 in overtime",
             "stats": [
-              "7 carries",
-              "23 rushing yards",
-              "2 touchdowns"
+              "7 receptions",
+              "98 receiving yards"
             ]
           },
-          "buzz": "Kamara ran for 2 touchdowns on only 7 carries in the Monday night loss to the Falcons.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261005_ATL@NO/)",
-          "asOf": "2026-10-07"
+          "buzz": "Olave caught 7 passes for 98 yards, and ESPN's stats page lists Chase Young's 8.0 sacks tied for second in the NFL.",
+          "source": "Saints team site box score (https://www.neworleanssaints.com/game-day/2026/reg-week9/browns-at-saints/box-score)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261005_ATL@NO/); CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-07"
+      "leaders": [
+        {
+          "label": "Sacks",
+          "player": "Chase Young",
+          "value": "8.0"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "Saints team site box score (https://www.neworleanssaints.com/game-day/2026/reg-week9/browns-at-saints/box-score)",
+      "asOf": "2026-11-10"
     },
     "New York Giants": {
-      "latestResult": "Beat the Arizona Cardinals 36-24 at home in Week 4 (now 3-1)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "The Giants are 3-1 after Deonte Banks sealed a 36-24 win over Arizona with a 98-yard interception return for a touchdown on the final play, one of three Giants interceptions.",
-      "bringUp": "The Giants are 3-1. Deonte Banks returned an interception 98 yards for a touchdown on the last play to finish off Arizona 36-24, and their defense picked off three passes that day.",
+      "latestResult": "Won 19-11 at the Philadelphia Eagles in Week 9 (now 5-2-1)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Kicker Dominic Zvada made all four of his field goals and the Giants had seven sacks in their first win in Philadelphia since 2013.",
+      "bringUp": "The Giants won in Philadelphia for the first time since 2013, beating the Eagles 19-11 behind four field goals from Dominic Zvada. New York is 5-2-1.",
       "details": [
         {
-          "name": "Deonte Banks",
+          "name": "Dominic Zvada",
           "team": "New York Giants",
-          "position": "Cornerback (CB)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Arizona Cardinals, won 36-24",
-            "stats": [
-              "1 interception",
-              "98-yard return for a touchdown"
-            ]
-          },
-          "buzz": "Banks sealed the 36-24 win with a 98-yard pick-six, meaning an interception returned for a touchdown, on the final play.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_ARI@NYG/)",
-          "asOf": "2026-10-07"
+          "position": "Kicker (K)",
+          "lastGame": null,
+          "buzz": "Zvada made all four of his field goals against the Eagles, and the Giants' team site says he has six field goals of 50-plus yards this season.",
+          "source": "Giants team site (https://www.giants.com/news/instant-analysis-giants-defeat-eagles-19-11-in-philadelphia)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "Jameis Winston",
+          "name": "Isaiah Likely",
           "team": "New York Giants",
-          "position": "Quarterback (QB)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Arizona Cardinals, won 36-24",
-            "stats": [
-              "18 of 29 passing",
-              "250 passing yards",
-              "3 touchdowns",
-              "2 interceptions"
-            ]
-          },
-          "buzz": "Winston threw 3 touchdowns and 2 interceptions in a wild game that had five interceptions and 60 combined points.",
-          "source": "CBS Sports box score (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_ARI@NYG/)",
-          "asOf": "2026-10-07"
+          "position": "Tight end (TE)",
+          "lastGame": null,
+          "buzz": "Likely caught a touchdown pass from Jameis Winston and had five catches for 53 yards, a season high in receptions, per the Giants' team site.",
+          "source": "Giants team site (https://www.giants.com/news/instant-analysis-giants-defeat-eagles-19-11-in-philadelphia)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "NFL.com (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games); CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-07"
+      "source": "Giants team site (https://www.giants.com/news/instant-analysis-giants-defeat-eagles-19-11-in-philadelphia); Eagles team site scoring summary (https://www.philadelphiaeagles.com/game-day/2026/reg-week9/giants-at-eagles/scoring-summary)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Jameis Winston",
+          "value": "1,028"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Cam Skattebo",
+          "value": "418"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Malik Nabers",
+          "value": "648"
+        }
+      ],
+      "leadersSource": "FOX Sports, Giants team stats & leaders (https://www.foxsports.com/nfl/new-york-giants-team-stats)",
+      "leadersAsOf": "2026-11-11"
     },
     "New York Jets": {
-      "latestResult": "Lost 23-12 at the Chicago Bears in Week 4 (now 1-3)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Minkah Fitzpatrick's interception in Chicago was the Jets' first in 637 days, but the defense never forced a punt and the Jets have now lost three straight, all to NFC North teams.",
-      "bringUp": "Minkah Fitzpatrick picked off a pass against the Bears, and it was the Jets' first interception in 637 days. They still lost 23-12, their third loss in a row.",
+      "latestResult": "Lost 35-12 at the Kansas City Chiefs in Week 9 (now 2-7)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Rookie David Bailey had two sacks and two forced fumbles, but the Jets lost 35-12 and were held to 229 total yards.",
+      "bringUp": "Rookie David Bailey had two sacks and two forced fumbles for the Jets, but they lost 35-12 at Kansas City and are 2-7.",
       "details": [
         {
-          "name": "Minkah Fitzpatrick",
+          "name": "David Bailey",
           "team": "New York Jets",
-          "position": "Safety (S)",
+          "position": "Edge rusher (EDGE)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Chicago Bears, lost 23-12",
+            "date": "2026-11-08",
+            "label": "Week 9 at Kansas City Chiefs, lost 35-12",
             "stats": [
-              "1 interception",
-              "0 sacks"
+              "2 sacks",
+              "2 forced fumbles",
+              "9 tackles"
             ]
           },
-          "buzz": "CBS Sports called his interception the team's first in 637 days, the one bright spot in a D-graded loss.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_NYJ@CHI/)",
-          "asOf": "2026-10-05"
+          "buzz": "The Jets' team site says Bailey now has 7.5 sacks through nine games, the second-most by a Jet since 1982 behind Hugh Douglas.",
+          "source": "New York Jets team site (https://www.newyorkjets.com/news/jets-chiefs-game-recap-11-08-2026)",
+          "asOf": "2026-11-10"
         },
         {
           "name": "Geno Smith",
           "team": "New York Jets",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Chicago Bears, lost 23-12",
+            "date": "2026-11-08",
+            "label": "Week 9 at Kansas City Chiefs, lost 35-12",
             "stats": [
-              "8 of 15 passing",
-              "119 passing yards",
-              "1 touchdown",
+              "18 of 32 passing",
+              "165 passing yards",
+              "0 touchdowns",
               "0 interceptions"
             ]
           },
-          "buzz": "His only touchdown was a 58-yard deep pass in the fourth quarter; the Jets' other points came on two field goals.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_NYJ@CHI/)",
-          "asOf": "2026-10-05"
+          "buzz": "Smith threw for 165 yards with no touchdowns and no interceptions, and the Jets converted only 2 of 12 third downs.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140703)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-05"
+      "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-new-york-jets-vs-kansas-city-chiefs-nov-08-2026-game-boxscore-11268); New York Jets team site (https://www.newyorkjets.com/news/jets-chiefs-game-recap-11-08-2026)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Geno Smith",
+          "value": "1,913"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Braelon Allen",
+          "value": "565"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Garrett Wilson",
+          "value": "527"
+        }
+      ],
+      "leadersSource": "FOX Sports, Jets team stats & leaders (https://www.foxsports.com/nfl/new-york-jets-team-stats)",
+      "leadersAsOf": "2026-11-05"
     },
     "Philadelphia Eagles": {
-      "latestResult": "Lost 24-20 to the Los Angeles Rams at home in Week 4 (now 2-2)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "The Eagles went 0 for 12 on third downs against the Rams, their most attempts without a conversion since at least 1991, and have now lost two straight.",
-      "bringUp": "The Eagles went 0 for 12 on third down against the Rams, the most tries without converting since at least 1991, and lost 24-20 at home.",
+      "latestResult": "Lost 19-11 against the New York Giants in Week 9 (now 2-7)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Philadelphia lost its seventh straight game, and Saquon Barkley scored the Eagles' only touchdown, a 3-yard run.",
+      "bringUp": "The Eagles lost 19-11 to the Giants, their seventh straight loss, and they are 2-7.",
       "details": [
         {
-          "name": "Jalen Hurts",
+          "name": "Saquon Barkley",
+          "team": "Philadelphia Eagles",
+          "position": "Running back (RB)",
+          "lastGame": null,
+          "buzz": "Barkley scored the game's only touchdown, a 3-yard run, in Philadelphia's seventh straight loss.",
+          "source": "Giants team site (https://www.giants.com/news/instant-analysis-giants-defeat-eagles-19-11-in-philadelphia)",
+          "asOf": "2026-11-10"
+        },
+        {
+          "name": "Joe Milton III",
           "team": "Philadelphia Eagles",
           "position": "Quarterback (QB)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Los Angeles Rams, lost 24-20",
-            "stats": [
-              "12 of 27 passing",
-              "93 passing yards",
-              "2 touchdowns",
-              "0 interceptions"
-            ]
-          },
-          "buzz": "NFL.com noted Hurts played without top targets DeVonta Smith and Dallas Goedert; both of his touchdown passes went to Darius Cooper.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_LAR@PHI/)",
-          "asOf": "2026-10-05"
+          "lastGame": null,
+          "buzz": "Milton went 18 of 34 for 169 yards in his first start and ran nine times for 64 yards, per the Giants' team site.",
+          "source": "Giants team site (https://www.giants.com/news/instant-analysis-giants-defeat-eagles-19-11-in-philadelphia)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "NFL.com (https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games)",
-      "asOf": "2026-10-05"
+      "source": "Giants team site (https://www.giants.com/news/instant-analysis-giants-defeat-eagles-19-11-in-philadelphia); Eagles team site scoring summary (https://www.philadelphiaeagles.com/game-day/2026/reg-week9/giants-at-eagles/scoring-summary)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Jalen Hurts",
+          "value": "933"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Saquon Barkley",
+          "value": "296"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Makai Lemon",
+          "value": "312"
+        }
+      ],
+      "leadersSource": "FOX Sports, Eagles team stats & leaders (https://www.foxsports.com/nfl/philadelphia-eagles-team-stats)",
+      "leadersAsOf": "2026-11-11"
     },
     "Pittsburgh Steelers": {
-      "latestResult": "Lost 27-24 at the Cleveland Browns on Thursday night in Week 4 (now 2-2)",
-      "latestGameDate": "2026-10-01",
-      "storyline": "Aaron Rodgers threw for 299 yards and 3 touchdowns but also 2 interceptions as the Steelers fell 27-24 in Cleveland, a loss CBS Sports said exposed an inconsistent offense and a defense that keeps giving up big plays.",
-      "bringUp": "Aaron Rodgers threw three touchdowns in Cleveland last Thursday, but he also threw two picks and the Steelers lost 27-24 to drop to 2-2.",
+      "latestResult": "Won 27-6 against the Cleveland Browns in Week 8 (now 6-2); on a bye in Week 9",
+      "latestGameDate": "2026-11-01",
+      "storyline": "Jaylen Warren ran for 143 yards and T.J. Watt had two sacks in the 27-6 win, Pittsburgh's fourth in a row, before the Steelers' Week 9 bye at 6-2.",
+      "bringUp": "The Steelers are 6-2 and were off this week after beating the Browns 27-6, with Jaylen Warren running for 143 yards. It was their fourth win in a row.",
       "details": [
+        {
+          "name": "Jaylen Warren",
+          "team": "Pittsburgh Steelers",
+          "position": "Running back (RB)",
+          "lastGame": {
+            "date": "2026-11-01",
+            "label": "Week 8 vs. Cleveland Browns, won 27-6",
+            "stats": [
+              "17 carries",
+              "143 rushing yards",
+              "1 touchdown"
+            ]
+          },
+          "buzz": "Warren tied his career high with 143 rushing yards on his 28th birthday, per the Steelers' team site.",
+          "source": "FantasyData box score (https://fantasydata.com/nfl/boxscore/19568-cleveland-browns-vs-pittsburgh-steelers-week-8-2026)",
+          "asOf": "2026-11-10"
+        },
         {
           "name": "Aaron Rodgers",
           "team": "Pittsburgh Steelers",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-01",
-            "label": "Week 4 at Cleveland Browns, lost 27-24",
+            "date": "2026-11-01",
+            "label": "Week 8 vs. Cleveland Browns, won 27-6",
             "stats": [
-              "22 of 40 passing",
-              "299 passing yards",
-              "3 touchdowns",
-              "2 interceptions"
+              "13 of 25 passing",
+              "172 passing yards",
+              "0 touchdowns",
+              "1 interception"
             ]
           },
-          "buzz": "Two of his three touchdown passes came in the fourth quarter, and he ran in a two-point conversion after the last one, but Pittsburgh still came up 3 points short.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261001_PIT@CLE/)",
-          "asOf": "2026-10-02"
-        },
-        {
-          "name": "DK Metcalf",
-          "team": "Pittsburgh Steelers",
-          "position": "Wide receiver (WR)",
-          "lastGame": {
-            "date": "2026-10-01",
-            "label": "Week 4 at Cleveland Browns, lost 27-24",
-            "stats": [
-              "5 catches",
-              "115 receiving yards",
-              "0 touchdowns"
-            ]
-          },
-          "buzz": "Metcalf led the Steelers with 115 receiving yards in Cleveland, including a 43-yard catch.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261001_PIT@CLE/)",
-          "asOf": "2026-10-02"
+          "buzz": "Rodgers threw for 172 yards on 13-of-25 passing before giving way to Mason Rudolph with the game well in hand, per the Steelers' team site.",
+          "source": "FantasyData box score (https://fantasydata.com/nfl/boxscore/19568-cleveland-browns-vs-pittsburgh-steelers-week-8-2026)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-05"
+      "leaders": [
+        {
+          "label": "Sacks",
+          "player": "T.J. Watt",
+          "value": "7.5"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "Steelers team site (https://www.steelers.com/news/steelers-roll-past-browns-27-6); FantasyData box score (https://fantasydata.com/nfl/boxscore/19568-cleveland-browns-vs-pittsburgh-steelers-week-8-2026)",
+      "asOf": "2026-11-10"
     },
     "San Francisco 49ers": {
-      "latestResult": "Beat the Denver Broncos 24-14 at home in Week 4 (now 4-0)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Brock Purdy hasn't been sacked all season: CBS Sports says the 49ers are the first team in 21 years to start 4-0 without giving up a sack, and they visit the 3-1 Seahawks in Week 5.",
-      "bringUp": "The 49ers are 4-0 and Brock Purdy still hasn't been sacked. CBS says they're the first team in 21 years to start 4-0 without allowing one.",
+      "latestResult": "Won 38-17 against the Las Vegas Raiders in Week 9 (now 7-1)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Brock Purdy threw 17-of-25 for 232 yards and had three touchdowns in total, and San Francisco ran for 190 yards while holding the ball for 38:18.",
+      "bringUp": "The 49ers beat the Raiders 38-17 and are 7-1, with Brock Purdy accounting for three touchdowns and San Francisco running for 190 yards.",
       "details": [
         {
           "name": "Brock Purdy",
           "team": "San Francisco 49ers",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Denver Broncos, won 24-14",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Las Vegas Raiders, won 38-17",
             "stats": [
-              "19 of 30 passing",
-              "218 passing yards",
-              "2 touchdowns",
+              "17 of 25 passing",
+              "232 passing yards",
+              "3 total touchdowns"
+            ]
+          },
+          "buzz": "Purdy accounted for three touchdowns, and San Francisco forced five Las Vegas turnovers while committing one.",
+          "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-las-vegas-raiders-vs-san-francisco-49ers-nov-08-2026-game-boxscore-11272)",
+          "asOf": "2026-11-10"
+        },
+        {
+          "name": "Christian McCaffrey",
+          "team": "San Francisco 49ers",
+          "position": "Running back (RB)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Las Vegas Raiders, won 38-17",
+            "stats": [
+              "18 carries",
+              "68 rushing yards",
+              "2 total touchdowns"
+            ]
+          },
+          "buzz": "McCaffrey ran for 68 yards and had two touchdowns in total.",
+          "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-las-vegas-raiders-vs-san-francisco-49ers-nov-08-2026-game-boxscore-11272)",
+          "asOf": "2026-11-10"
+        }
+      ],
+      "source": "FOX Sports box score page (https://www.foxsports.com/nfl/week-9-las-vegas-raiders-vs-san-francisco-49ers-nov-08-2026-game-boxscore-11272)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Brock Purdy",
+          "value": "1,980"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Christian McCaffrey",
+          "value": "457"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "George Kittle",
+          "value": "483"
+        }
+      ],
+      "leadersSource": "FOX Sports, 49ers team stats & leaders (https://www.foxsports.com/nfl/san-francisco-49ers-team-stats)",
+      "leadersAsOf": "2026-11-12"
+    },
+    "Seattle Seahawks": {
+      "latestResult": "Won 17-3 against the Arizona Cardinals in Week 9 (now 5-4)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Seattle held Arizona to 198 total yards with no turnovers of its own, and AJ Barner scored both a rushing touchdown and a receiving touchdown in the 17-3 win.",
+      "bringUp": "The Seahawks beat the Cardinals 17-3 without a single turnover, and tight end AJ Barner scored on both a run and a catch. Seattle is 5-4.",
+      "details": [
+        {
+          "name": "Drew Lock",
+          "team": "Seattle Seahawks",
+          "position": "Quarterback (QB)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Arizona Cardinals, won 17-3",
+            "stats": [
+              "19 of 28 passing",
+              "175 passing yards",
+              "1 touchdown",
               "0 interceptions"
             ]
           },
-          "buzz": "Per CBS Sports, he went 9 of 10 for 129 yards and both touchdowns on the 49ers' last three drives after a 10 of 20, 89-yard start.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DEN@SF/)",
-          "asOf": "2026-10-05"
+          "buzz": "Lock threw for 175 yards and a 7-yard touchdown pass to AJ Barner with no interceptions.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140710)",
+          "asOf": "2026-11-10"
         },
         {
-          "name": "George Kittle",
-          "team": "San Francisco 49ers",
-          "position": "Tight end (TE)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Denver Broncos, won 24-14",
-            "stats": [
-              "4 catches",
-              "70 receiving yards",
-              "1 touchdown"
-            ]
-          },
-          "buzz": "Kittle's 56-yard touchdown catch with 2:15 left was the 49ers' final score against Denver.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_DEN@SF/)",
-          "asOf": "2026-10-05"
-        }
-      ],
-      "source": "CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-05"
-    },
-    "Seattle Seahawks": {
-      "latestResult": "Beat the Los Angeles Chargers 30-23 at home in Week 4 (now 3-1)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "Seattle led 27-6 before nearly blowing it, sealing the win with a strip-sack (a sack that knocks the ball loose) of Justin Herbert in a game with 30 combined penalties, and now hosts the 4-0 49ers.",
-      "bringUp": "The Seahawks beat the Chargers 30-23 in a game with 30 penalties between the two teams. They were up 27-6 and had to hang on with a late strip-sack.",
-      "details": [
-        {
-          "name": "Emanuel Wilson",
+          "name": "Zach Charbonnet",
           "team": "Seattle Seahawks",
           "position": "Running back (RB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Los Angeles Chargers, won 30-23",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Arizona Cardinals, won 17-3",
             "stats": [
-              "21 carries",
-              "81 rushing yards",
-              "1 rushing touchdown",
-              "3 catches for 39 yards and 1 touchdown"
+              "16 carries",
+              "77 rushing yards"
             ]
           },
-          "buzz": "NFL.com highlighted his 120 yards from scrimmage on 24 touches, and he scored once running and once receiving.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_LAC@SEA/)",
-          "asOf": "2026-10-05"
-        },
-        {
-          "name": "Sam Darnold",
-          "team": "Seattle Seahawks",
-          "position": "Quarterback (QB)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Los Angeles Chargers, won 30-23",
-            "stats": [
-              "13 of 22 passing",
-              "168 passing yards",
-              "2 touchdowns",
-              "1 interception"
-            ]
-          },
-          "buzz": "Darnold threw touchdowns of 23 yards to Emanuel Wilson and 6 yards to Tory Horton as Seattle built its 27-6 lead.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_LAC@SEA/)",
-          "asOf": "2026-10-05"
+          "buzz": "Charbonnet ran 16 times for 77 yards, 4.8 yards per carry, as Seattle outrushed Arizona 120 yards to 50.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140710)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-05"
+      "leaders": [
+        {
+          "label": "Receiving yards",
+          "player": "Jaxon Smith-Njigba",
+          "value": "1,036"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "thescore.com game page (https://www.thescore.com/nfl/event/140710); FOX Sports (https://www.foxsports.com/nfl/week-9-arizona-cardinals-vs-seattle-seahawks-nov-08-2026-game-boxscore-11275)",
+      "asOf": "2026-11-10"
     },
     "Tampa Bay Buccaneers": {
-      "latestResult": "Lost 17-14 to the Green Bay Packers at home in Week 4 (now 0-4)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "With Baker Mayfield out, undrafted rookie Jalon Daniels started and threw two interceptions in Packers territory that led to 10 Green Bay points in a 3-point loss.",
-      "bringUp": "The Bucs are 0-4 after losing 17-14 to Green Bay with undrafted rookie Jalon Daniels starting for Baker Mayfield. His two interceptions led to 10 Packers points.",
+      "latestResult": "Lost 27-24 at the Chicago Bears in Week 9 (now 3-6)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Bucky Irving ran for 97 yards and two touchdowns and Zyon McCollum had two interceptions, but Tampa Bay lost by three.",
+      "bringUp": "The Buccaneers lost 27-24 at Chicago even though Bucky Irving ran for 97 yards and two touchdowns and Zyon McCollum had two interceptions. Tampa Bay is 3-6.",
       "details": [
         {
-          "name": "Jalon Daniels",
+          "name": "Bucky Irving",
+          "team": "Tampa Bay Buccaneers",
+          "position": "Running back (RB)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 at Chicago Bears, lost 27-24",
+            "stats": [
+              "20 carries",
+              "97 rushing yards",
+              "2 touchdowns"
+            ]
+          },
+          "buzz": "Irving ran 20 times for 97 yards and two touchdowns, and ESPN's stats page lists his 825 rushing yards fourth in the NFL.",
+          "source": "Buccaneers team site box score (https://www.buccaneers.com/game-day/2026/reg-week9/buccaneers-at-bears/box-score)",
+          "asOf": "2026-11-10"
+        },
+        {
+          "name": "Baker Mayfield",
           "team": "Tampa Bay Buccaneers",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Green Bay Packers, lost 17-14",
+            "date": "2026-11-08",
+            "label": "Week 9 at Chicago Bears, lost 27-24",
             "stats": [
-              "19 of 27 passing",
-              "148 passing yards",
-              "1 touchdown",
+              "18 of 32 passing",
+              "243 passing yards",
+              "0 touchdowns",
               "2 interceptions"
             ]
           },
-          "buzz": "CBS Sports said the undrafted rookie showed flashes, and he also ran 8 times for 55 yards, but his two picks were the difference.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_GB@TB/)",
-          "asOf": "2026-10-05"
+          "buzz": "Mayfield threw two interceptions, both caught by Chicago defenders, in a three-point loss.",
+          "source": "Buccaneers team site box score (https://www.buccaneers.com/game-day/2026/reg-week9/buccaneers-at-bears/box-score)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-05"
+      "leaders": [
+        {
+          "label": "Rushing yards",
+          "player": "Bucky Irving",
+          "value": "825"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "Buccaneers team site box score (https://www.buccaneers.com/game-day/2026/reg-week9/buccaneers-at-bears/box-score); FOX Sports (https://www.foxsports.com/nfl/week-9-tampa-bay-buccaneers-vs-chicago-bears-nov-08-2026-game-boxscore-11276)",
+      "asOf": "2026-11-10"
     },
     "Tennessee Titans": {
-      "latestResult": "Lost 24-18 at the Baltimore Ravens in Week 4 (now 0-4)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "The Titans have lost three straight games by six points or fewer, and Carnell Tate had 9 catches for 145 yards in Baltimore.",
-      "bringUp": "The Titans are 0-4, but their last three losses were all by six points or fewer. Carnell Tate just had 9 catches for 145 yards against the Ravens.",
+      "latestResult": "Lost 43-36 in overtime to the Cincinnati Bengals in Week 8 (now 1-7); on a bye in Week 9",
+      "latestGameDate": "2026-11-01",
+      "storyline": "Cam Ward threw for 304 yards and two touchdowns, his first 300-yard game, in the 43-36 overtime loss before the Titans' Week 9 bye.",
+      "bringUp": "The Titans lost 43-36 in overtime to Cincinnati, with Cam Ward throwing for 304 yards, then had this week off. They're 1-7.",
       "details": [
-        {
-          "name": "Carnell Tate",
-          "team": "Tennessee Titans",
-          "position": "Wide receiver (WR)",
-          "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Baltimore Ravens, lost 24-18",
-            "stats": [
-              "9 catches",
-              "145 receiving yards",
-              "0 touchdowns"
-            ]
-          },
-          "buzz": "CBS Sports said Tate more than made up for a fumble in Ravens territory late in the first half with his 145-yard day.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_TEN@BAL/)",
-          "asOf": "2026-10-05"
-        },
         {
           "name": "Cam Ward",
           "team": "Tennessee Titans",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 at Baltimore Ravens, lost 24-18",
+            "date": "2026-11-01",
+            "label": "Week 8 at Cincinnati Bengals, lost 43-36 in overtime",
             "stats": [
-              "20 of 31 passing",
-              "222 passing yards",
-              "1 touchdown",
-              "1 interception"
+              "26 of 40 passing",
+              "304 passing yards",
+              "2 touchdowns",
+              "0 interceptions"
             ]
           },
-          "buzz": "Ward was intercepted on his second pass of the game, which quickly became a Ravens touchdown, then threw a 3-yard touchdown with 1:12 left.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_TEN@BAL/)",
-          "asOf": "2026-10-05"
+          "buzz": "The Titans' team site calls it Ward's first 300-yard game.",
+          "source": "FantasyData box score (https://fantasydata.com/nfl/boxscore/19563-tennessee-titans-vs-cincinnati-bengals-week-8-2026)",
+          "asOf": "2026-11-10"
+        },
+        {
+          "name": "Tony Pollard",
+          "team": "Tennessee Titans",
+          "position": "Running back (RB)",
+          "lastGame": {
+            "date": "2026-11-01",
+            "label": "Week 8 at Cincinnati Bengals, lost 43-36 in overtime",
+            "stats": [
+              "21 carries",
+              "117 rushing yards",
+              "2 touchdowns"
+            ]
+          },
+          "buzz": "Pollard ran for 117 yards and two touchdowns in the overtime loss.",
+          "source": "FantasyData box score (https://fantasydata.com/nfl/boxscore/19563-tennessee-titans-vs-cincinnati-bengals-week-8-2026)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-05"
+      "leaders": [
+        {
+          "label": "Interceptions",
+          "player": "Amani Hooker",
+          "value": "5"
+        }
+      ],
+      "leadersSource": "ESPN NFL stat leaders (https://www.espn.com/nfl/stats)",
+      "leadersAsOf": "2026-11-09",
+      "source": "Titans team site (https://www.tennesseetitans.com/news/titans-fall-43-36-to-the-bengals-in-overtime); FantasyData box score (https://fantasydata.com/nfl/boxscore/19563-tennessee-titans-vs-cincinnati-bengals-week-8-2026)",
+      "asOf": "2026-11-10"
     },
     "Washington Commanders": {
-      "latestResult": "Lost 30-13 to the Indianapolis Colts in London in Week 4 (now 1-3)",
-      "latestGameDate": "2026-10-04",
-      "storyline": "With Jayden Daniels already out, Marcus Mariota went down in the first quarter and rookie Athan Kaliakmanis, the third-string quarterback, played the rest of a 30-13 loss in London.",
-      "bringUp": "The Commanders lost 30-13 to the Colts in London with their third-string quarterback, rookie Athan Kaliakmanis, playing most of the game after Marcus Mariota went down early.",
+      "latestResult": "Lost 20-13 against the Los Angeles Rams in Week 9 (now 2-5-1)",
+      "latestGameDate": "2026-11-08",
+      "storyline": "Washington led 10-6 at halftime before the Rams outscored it 14-3 in the second half, and Jayden Daniels threw for 274 yards and a touchdown.",
+      "bringUp": "The Commanders led the Rams at halftime but lost 20-13, with Jayden Daniels throwing for 274 yards and a touchdown.",
       "details": [
         {
-          "name": "Athan Kaliakmanis",
+          "name": "Jayden Daniels",
           "team": "Washington Commanders",
           "position": "Quarterback (QB)",
           "lastGame": {
-            "date": "2026-10-04",
-            "label": "Week 4 vs Indianapolis Colts (London), lost 30-13",
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Los Angeles Rams, lost 20-13",
             "stats": [
-              "15 of 33 passing",
-              "186 passing yards",
+              "24 of 35 passing",
+              "274 passing yards",
               "1 touchdown",
-              "1 interception"
+              "0 interceptions"
             ]
           },
-          "buzz": "NFL.com noted he was 13 of 31 for 91 yards outside of two big plays, one of them a 47-yard touchdown; Washington hosts the Giants in Week 5.",
-          "source": "CBS Sports (https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261004_IND@WAS/)",
-          "asOf": "2026-10-05"
+          "buzz": "Daniels threw for 274 yards and a 7-yard touchdown to Van Jefferson, but Washington scored only three second-half points.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140701)",
+          "asOf": "2026-11-10"
+        },
+        {
+          "name": "Van Jefferson",
+          "team": "Washington Commanders",
+          "position": "Wide receiver (WR)",
+          "lastGame": {
+            "date": "2026-11-08",
+            "label": "Week 9 vs. Los Angeles Rams, lost 20-13",
+            "stats": [
+              "5 receptions",
+              "58 receiving yards",
+              "1 touchdown"
+            ]
+          },
+          "buzz": "Jefferson caught a 7-yard touchdown pass from Daniels in the second quarter.",
+          "source": "thescore.com game page (https://www.thescore.com/nfl/event/140701)",
+          "asOf": "2026-11-10"
         }
       ],
-      "source": "CBS Sports (https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/)",
-      "asOf": "2026-10-05"
+      "source": "thescore.com game page (https://www.thescore.com/nfl/event/140701); Associated Press via KSL (https://www.ksl.com/article/51644581/puka-nacua-myles-garrett-lead-rams-to-20-13-win-over-commanders)",
+      "asOf": "2026-11-10",
+      "leaders": [
+        {
+          "label": "Passing yards",
+          "player": "Jayden Daniels",
+          "value": "1,250"
+        },
+        {
+          "label": "Rushing yards",
+          "player": "Jayden Daniels",
+          "value": "252"
+        },
+        {
+          "label": "Receiving yards",
+          "player": "Stefon Diggs",
+          "value": "303"
+        }
+      ],
+      "leadersSource": "FOX Sports, Commanders team stats & leaders (https://www.foxsports.com/nfl/washington-commanders-team-stats)",
+      "leadersAsOf": "2026-11-11"
     }
   }
 }
