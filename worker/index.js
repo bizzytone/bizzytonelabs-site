@@ -11,7 +11,7 @@
 //   GET  /api/stats   Authorization: Bearer <STATS_TOKEN>   aggregate totals only
 // A daily cron removes events older than RETENTION_MONTHS.
 
-const RETENTION_MONTHS = 24;
+const RETENTION_MONTHS = 12;
 const MAX_BODY = 8 * 1024;
 const MAX_EVENTS = 10;
 const SPORTS = ['nfl', 'mlb', 'nba', 'nhl'];
