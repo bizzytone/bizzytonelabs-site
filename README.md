@@ -6,7 +6,7 @@ Static site for Bizzytone Labs LLC: home, privacy policy, support. Plain HTML an
 - Hosted on Cloudflare Workers Static Assets. Config: `wrangler.jsonc`. Deploy command: `npx wrangler deploy`.
 - When the app's data practices change (accounts, analytics, push notifications), update `public/privacy/index.html` and its effective date first.
 
-## App content (The Sports)
+## App content (Sports Adjacent)
 
 The app downloads its talking points from `public/content/v1/`:
 
@@ -21,7 +21,7 @@ Weekly refreshes arrive as pull requests on this repo. Merging one deploys it.
 
 ## Anonymous usage counting (Worker + D1)
 
-`worker/index.js` receives anonymous usage counts from The Sports app at `/api/*`; everything else is still static files from `public/`. It stores only a random install ID, app version, event type, a validated payload (sports, teams, tone, Helpful/Skip) and the time received. It never reads or stores IP addresses. Observability (request logs) is off for that reason.
+`worker/index.js` receives anonymous usage counts from Sports Adjacent app at `/api/*`; everything else is still static files from `public/`. It stores only a random install ID, app version, event type, a validated payload (sports, teams, tone, Helpful/Skip) and the time received. It never reads or stores IP addresses. Observability (request logs) is off for that reason.
 
 - `POST /api/events` and `POST /api/delete` are used by the app. `GET /api/stats` returns totals only and needs `Authorization: Bearer <STATS_TOKEN>`.
 - A daily cron deletes events older than 24 months.
