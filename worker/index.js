@@ -1,4 +1,4 @@
-// Anonymous usage counting for The Sports app.
+// Anonymous usage counting for Sports Adjacent app.
 //
 // What this stores, per event: a random install ID, the app version, the event type,
 // a small validated payload, and the time we received it. It never reads or stores IP
