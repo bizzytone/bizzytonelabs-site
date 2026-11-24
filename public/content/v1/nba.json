@@ -1,402 +1,498 @@
 {
   "sport": "nba",
-  "asOf": "2026-11-13",
+  "asOf": "2026-11-24",
   "season": "2026-27",
-  "phase": "Regular season: Week 4",
+  "phase": "Regular season: Week 6 (NBA Cup group play)",
   "buzzRounds": [
     [
       {
-        "id": "nba-wembanyama-9-blocks-spurs-suns",
-        "topic": "Wembanyama blocks 9 shots as the Spurs keep rolling",
-        "whatHappened": "Victor Wembanyama had 9 blocks, the most of any player in the NBA on Monday, November 9, as the San Antonio Spurs beat the Phoenix Suns 122-96. A block is when a defender swats away an opponent's shot.",
-        "whyCare": "Two days earlier Wembanyama scored 29 points on 13 shots in a 125-103 win over Portland that stretched San Antonio's winning streak to eight games, per NBA.com.",
-        "youCouldSay": "Victor Wembanyama had 9 blocks Monday night, the most of anyone in the league that day, as the Spurs beat the Suns 122-96.",
-        "gameDate": "2026-11-09",
+        "id": "nba-herro-50-bucks-76ers",
+        "topic": "Tyler Herro scores 50, then the Bucks finally win",
+        "whatHappened": "Tyler Herro scored 50 points with 11 rebounds for the Milwaukee Bucks on Saturday, November 21, making 15 of 23 shots and 7 of 12 three-pointers, but Philadelphia won 132-129.",
+        "whyCare": "Two nights later, on November 23, Milwaukee beat Toronto 116-111 to snap a 13-game losing streak, the second-longest in franchise history, and is now 2-16, per ESPN.",
+        "youCouldSay": "Tyler Herro scored 50 for the Bucks against the 76ers on Saturday and they still lost 132-129, but Milwaukee finally ended a 13-game losing streak by beating Toronto on Monday.",
+        "gameDate": "2026-11-21",
         "details": [
           {
-            "name": "Victor Wembanyama",
-            "team": "San Antonio Spurs",
-            "position": "Center (C)",
-            "lastGame": null,
-            "buzz": "Wembanyama led the NBA with 9 blocks on November 9 and scored 29 points on 13 shots on November 7, when San Antonio's win streak reached eight games, per NBA.com.",
-            "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-            "asOf": "2026-11-10"
+            "name": "Tyler Herro",
+            "team": "Milwaukee Bucks",
+            "position": "Guard (G)",
+            "lastGame": {
+              "date": "2026-11-23",
+              "label": "at Toronto Raptors, won 116-111",
+              "stats": [
+                "32 points",
+                "10 of 16 shots",
+                "6 rebounds",
+                "8 assists"
+              ]
+            },
+            "buzz": "Herro scored 50 points with 11 rebounds and 7 assists in a 132-129 loss at Philadelphia on November 21, then had 32 as Milwaukee snapped its 13-game losing streak on November 23.",
+            "source": "ESPN box score, 76ers 132-129 Bucks (https://www.espn.com/nba/boxscore/_/gameId/401910023); ESPN box score, Bucks 116-111 Raptors (https://www.espn.com/nba/boxscore/_/gameId/401910039)",
+            "asOf": "2026-11-24"
           }
         ],
-        "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-        "asOf": "2026-11-10"
+        "source": "ESPN box score, 76ers 132-129 Bucks (https://www.espn.com/nba/boxscore/_/gameId/401910023); ESPN recap, Bucks 116-111 Raptors (https://www.espn.com/nba/recap/_/gameId/401910039&gsessionid=qFpGaSyKqb9kGEiopHMFGkpg29DgO6lLinZN7od9IdSAJ8RY5jNxBA); Brew Hoop recap, Bucks vs. 76ers (https://www.brewhoop.com/bucks-scores-results/82095/milwaukee-vs-philadelphia-76ers-final-score-recap-tyler-herro-joel-embiid)",
+        "asOf": "2026-11-24"
       },
       {
-        "id": "nba-davis-44-wizards-pistons",
-        "topic": "Anthony Davis scores 44 in a Wizards loss",
-        "whatHappened": "Anthony Davis scored 44 points for the Washington Wizards, the most of any NBA player on Monday, November 9, but Detroit beat Washington 122-111.",
-        "whyCare": "Davis had 27 points, 9 rebounds and 4 steals in a 103-94 Wizards win over Orlando on November 2, per NBA.com and had 44 on November 9.",
-        "youCouldSay": "Anthony Davis scored 44 for Washington on Monday, the most in the league that night, and the Wizards still lost to Detroit 122-111.",
-        "gameDate": "2026-11-09",
+        "id": "nba-harden-51-cavaliers-pacers",
+        "topic": "James Harden drops 51 for Cleveland",
+        "whatHappened": "James Harden scored 51 points in the Cleveland Cavaliers' 128-119 win over the Indiana Pacers on Friday, November 20, per ESPN.",
+        "whyCare": "Cleveland could not build on it: the Cavaliers lost 122-108 at Chicago on Monday, November 23, and are now 9-9, right at the .500 mark (as many losses as wins).",
+        "youCouldSay": "James Harden scored 51 points for Cleveland in a win over Indiana on Friday, but the Cavaliers lost in Chicago on Monday and they're just 9-9.",
+        "gameDate": "2026-11-20",
         "details": [
           {
-            "name": "Anthony Davis",
-            "team": "Washington Wizards",
-            "position": "Forward (F)",
-            "lastGame": null,
-            "buzz": "Davis scored 44 points on November 9, the NBA high for that day, in a 122-111 loss to Detroit, per Land of Basketball.",
-            "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-            "asOf": "2026-11-10"
+            "name": "James Harden",
+            "team": "Cleveland Cavaliers",
+            "position": "Guard (G)",
+            "lastGame": {
+              "date": "2026-11-23",
+              "label": "at Chicago Bulls, lost 122-108",
+              "stats": [
+                "21 points",
+                "5 of 14 shots",
+                "6 rebounds",
+                "5 assists"
+              ]
+            },
+            "buzz": "Harden followed his 51-point game in Friday's 128-119 win over Indiana with 21 points in Monday's loss at Chicago, per ESPN.",
+            "source": "ESPN recap, Bulls 122-108 Cavaliers (https://www.espn.com/nba/recap/_/gameId/401910041); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+            "asOf": "2026-11-24"
           }
         ],
-        "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-        "asOf": "2026-11-10"
+        "source": "ESPN recap, Bulls 122-108 Cavaliers (https://www.espn.com/nba/recap/_/gameId/401910041); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+        "asOf": "2026-11-24"
       },
       {
-        "id": "nba-curry-41-warriors-magic",
-        "topic": "Stephen Curry's 41 beats the Magic in overtime",
-        "whatHappened": "Stephen Curry scored 41 points with five 3-pointers as the Golden State Warriors beat the Orlando Magic 126-119 in overtime on Saturday, November 7. Orlando's Franz Wagner had 30 points and 11 assists.",
-        "whyCare": "Golden State followed it up on Monday, November 9, with a 138-87 win over New Orleans, a 51-point margin that was the biggest of any NBA game that day, per Land of Basketball.",
-        "youCouldSay": "Stephen Curry scored 41 Saturday to beat Orlando in overtime, and then the Warriors beat the Pelicans 138-87 on Monday.",
-        "gameDate": "2026-11-07",
+        "id": "nba-giddey-22-assists-nuggets-bulls",
+        "topic": "Josh Giddey hands out 22 assists in a wild overtime game",
+        "whatHappened": "Chicago's Josh Giddey had 23 points, 14 rebounds and a career-high 22 assists (passes that lead directly to a basket) on Sunday, November 22, but Denver won 151-145 in overtime.",
+        "whyCare": "ESPN says he is the first Bulls player with more than 20 assists in a game since 1985. On the other side, Jamal Murray scored a season-high 45 and Nikola Jokic had 37 points, 18 rebounds and 11 assists, his 202nd career triple-double.",
+        "youCouldSay": "Josh Giddey had 22 assists for the Bulls on Sunday, the most by a Bull since 1985, and they still lost 151-145 in overtime to Denver.",
+        "gameDate": "2026-11-22",
         "details": [
           {
-            "name": "Stephen Curry",
-            "team": "Golden State Warriors",
-            "position": "Point guard (PG)",
-            "lastGame": null,
-            "buzz": "Curry scored 41 points with five 3-pointers in a 126-119 overtime win over Orlando on November 7, per NBA.com.",
-            "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-            "asOf": "2026-11-10"
+            "name": "Josh Giddey",
+            "team": "Chicago Bulls",
+            "position": "Guard (G)",
+            "lastGame": {
+              "date": "2026-11-23",
+              "label": "vs Cleveland Cavaliers, won 122-108",
+              "stats": [
+                "4 points",
+                "2 of 11 shots",
+                "2 rebounds",
+                "11 assists"
+              ]
+            },
+            "buzz": "Giddey had 23 points, 14 rebounds and a career-high 22 assists in the 151-145 overtime loss to Denver on November 22, then 11 assists in a win over Cleveland a night later.",
+            "source": "ESPN recap, Nuggets 151-145 Bulls in overtime (https://www.espn.com/nba/recap/_/gameId/401910032); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+            "asOf": "2026-11-24"
           },
           {
-            "name": "Franz Wagner",
-            "team": "Orlando Magic",
-            "position": "Forward (F)",
+            "name": "Nikola Jokic",
+            "team": "Denver Nuggets",
+            "position": "Center (C)",
             "lastGame": null,
-            "buzz": "Wagner had 30 points and 11 assists in Orlando's 126-119 overtime loss at Golden State on November 7, per NBA.com.",
-            "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-            "asOf": "2026-11-10"
+            "buzz": "Jokic had 37 points, 18 rebounds and 11 assists against Chicago on November 22, his 202nd career triple-double, moving closer to Russell Westbrook's record, per ESPN.",
+            "source": "ESPN recap, Nuggets 151-145 Bulls in overtime (https://www.espn.com/nba/recap/_/gameId/401910032)",
+            "asOf": "2026-11-24"
           }
         ],
-        "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/); Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-        "asOf": "2026-11-10"
+        "source": "ESPN recap, Nuggets 151-145 Bulls in overtime (https://www.espn.com/nba/recap/_/gameId/401910032); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+        "asOf": "2026-11-24"
       }
     ],
     [
       {
-        "id": "nba-davis-44-wizards-pistons",
-        "topic": "Anthony Davis scores 44 in a Wizards loss",
-        "whatHappened": "Anthony Davis scored 44 points for the Washington Wizards, the most of any NBA player on Monday, November 9, but Detroit beat Washington 122-111.",
-        "whyCare": "Davis had 27 points, 9 rebounds and 4 steals in a 103-94 Wizards win over Orlando on November 2, per NBA.com and had 44 on November 9.",
-        "youCouldSay": "Anthony Davis scored 44 for Washington on Monday, the most in the league that night, and the Wizards still lost to Detroit 122-111.",
-        "gameDate": "2026-11-09",
+        "id": "nba-harden-51-cavaliers-pacers",
+        "topic": "James Harden drops 51 for Cleveland",
+        "whatHappened": "James Harden scored 51 points in the Cleveland Cavaliers' 128-119 win over the Indiana Pacers on Friday, November 20, per ESPN.",
+        "whyCare": "Cleveland could not build on it: the Cavaliers lost 122-108 at Chicago on Monday, November 23, and are now 9-9, right at the .500 mark (as many losses as wins).",
+        "youCouldSay": "James Harden scored 51 points for Cleveland in a win over Indiana on Friday, but the Cavaliers lost in Chicago on Monday and they're just 9-9.",
+        "gameDate": "2026-11-20",
         "details": [
           {
-            "name": "Anthony Davis",
-            "team": "Washington Wizards",
-            "position": "Forward (F)",
-            "lastGame": null,
-            "buzz": "Davis scored 44 points on November 9, the NBA high for that day, in a 122-111 loss to Detroit, per Land of Basketball.",
-            "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-            "asOf": "2026-11-10"
-          }
-        ],
-        "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-        "asOf": "2026-11-10"
-      },
-      {
-        "id": "nba-curry-41-warriors-magic",
-        "topic": "Stephen Curry's 41 beats the Magic in overtime",
-        "whatHappened": "Stephen Curry scored 41 points with five 3-pointers as the Golden State Warriors beat the Orlando Magic 126-119 in overtime on Saturday, November 7. Orlando's Franz Wagner had 30 points and 11 assists.",
-        "whyCare": "Golden State followed it up on Monday, November 9, with a 138-87 win over New Orleans, a 51-point margin that was the biggest of any NBA game that day, per Land of Basketball.",
-        "youCouldSay": "Stephen Curry scored 41 Saturday to beat Orlando in overtime, and then the Warriors beat the Pelicans 138-87 on Monday.",
-        "gameDate": "2026-11-07",
-        "details": [
-          {
-            "name": "Stephen Curry",
-            "team": "Golden State Warriors",
-            "position": "Point guard (PG)",
-            "lastGame": null,
-            "buzz": "Curry scored 41 points with five 3-pointers in a 126-119 overtime win over Orlando on November 7, per NBA.com.",
-            "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-            "asOf": "2026-11-10"
-          },
-          {
-            "name": "Franz Wagner",
-            "team": "Orlando Magic",
-            "position": "Forward (F)",
-            "lastGame": null,
-            "buzz": "Wagner had 30 points and 11 assists in Orlando's 126-119 overtime loss at Golden State on November 7, per NBA.com.",
-            "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-            "asOf": "2026-11-10"
-          }
-        ],
-        "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/); Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-        "asOf": "2026-11-10"
-      },
-      {
-        "id": "nba-thunder-75-wizards-114",
-        "topic": "Thunder hold Washington to 75 points",
-        "whatHappened": "Oklahoma City beat the Washington Wizards 114-75 on Saturday, November 7. Shai Gilgeous-Alexander scored 30 points in three quarters, and rookie Aday Mara had 18 points, 8 rebounds and 3 blocks.",
-        "whyCare": "Washington's 75 points were the fewest by any NBA team this season, per Eurohoops.",
-        "youCouldSay": "The Wizards scored just 75 points against the Thunder on Saturday, the fewest by any team this season, in a 114-75 loss.",
-        "gameDate": "2026-11-07",
-        "details": [
-          {
-            "name": "Shai Gilgeous-Alexander",
-            "team": "Oklahoma City Thunder",
+            "name": "James Harden",
+            "team": "Cleveland Cavaliers",
             "position": "Guard (G)",
-            "lastGame": null,
-            "buzz": "Gilgeous-Alexander scored 30 points, with 9 assists, in a 114-75 win over Washington on November 7, per NBA.com.",
-            "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-            "asOf": "2026-11-10"
+            "lastGame": {
+              "date": "2026-11-23",
+              "label": "at Chicago Bulls, lost 122-108",
+              "stats": [
+                "21 points",
+                "5 of 14 shots",
+                "6 rebounds",
+                "5 assists"
+              ]
+            },
+            "buzz": "Harden followed his 51-point game in Friday's 128-119 win over Indiana with 21 points in Monday's loss at Chicago, per ESPN.",
+            "source": "ESPN recap, Bulls 122-108 Cavaliers (https://www.espn.com/nba/recap/_/gameId/401910041); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+            "asOf": "2026-11-24"
+          }
+        ],
+        "source": "ESPN recap, Bulls 122-108 Cavaliers (https://www.espn.com/nba/recap/_/gameId/401910041); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+        "asOf": "2026-11-24"
+      },
+      {
+        "id": "nba-giddey-22-assists-nuggets-bulls",
+        "topic": "Josh Giddey hands out 22 assists in a wild overtime game",
+        "whatHappened": "Chicago's Josh Giddey had 23 points, 14 rebounds and a career-high 22 assists (passes that lead directly to a basket) on Sunday, November 22, but Denver won 151-145 in overtime.",
+        "whyCare": "ESPN says he is the first Bulls player with more than 20 assists in a game since 1985. On the other side, Jamal Murray scored a season-high 45 and Nikola Jokic had 37 points, 18 rebounds and 11 assists, his 202nd career triple-double.",
+        "youCouldSay": "Josh Giddey had 22 assists for the Bulls on Sunday, the most by a Bull since 1985, and they still lost 151-145 in overtime to Denver.",
+        "gameDate": "2026-11-22",
+        "details": [
+          {
+            "name": "Josh Giddey",
+            "team": "Chicago Bulls",
+            "position": "Guard (G)",
+            "lastGame": {
+              "date": "2026-11-23",
+              "label": "vs Cleveland Cavaliers, won 122-108",
+              "stats": [
+                "4 points",
+                "2 of 11 shots",
+                "2 rebounds",
+                "11 assists"
+              ]
+            },
+            "buzz": "Giddey had 23 points, 14 rebounds and a career-high 22 assists in the 151-145 overtime loss to Denver on November 22, then 11 assists in a win over Cleveland a night later.",
+            "source": "ESPN recap, Nuggets 151-145 Bulls in overtime (https://www.espn.com/nba/recap/_/gameId/401910032); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+            "asOf": "2026-11-24"
           },
           {
-            "name": "Aday Mara",
-            "team": "Oklahoma City Thunder",
+            "name": "Nikola Jokic",
+            "team": "Denver Nuggets",
             "position": "Center (C)",
             "lastGame": null,
-            "buzz": "Mara had 18 points, 8 rebounds and 3 blocks in the 114-75 win over Washington on November 7, per Eurohoops.",
-            "source": "Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-            "asOf": "2026-11-10"
+            "buzz": "Jokic had 37 points, 18 rebounds and 11 assists against Chicago on November 22, his 202nd career triple-double, moving closer to Russell Westbrook's record, per ESPN.",
+            "source": "ESPN recap, Nuggets 151-145 Bulls in overtime (https://www.espn.com/nba/recap/_/gameId/401910032)",
+            "asOf": "2026-11-24"
           }
         ],
-        "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-        "asOf": "2026-11-10"
+        "source": "ESPN recap, Nuggets 151-145 Bulls in overtime (https://www.espn.com/nba/recap/_/gameId/401910032); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+        "asOf": "2026-11-24"
+      },
+      {
+        "id": "nba-celtics-four-game-skid-warriors",
+        "topic": "Celtics lose by one for a fourth straight loss",
+        "whatHappened": "Golden State beat the Boston Celtics 88-87 on Sunday, November 22, after Jayson Tatum missed a free throw that would have tied it and a contested jumper at the buzzer.",
+        "whyCare": "Per the AP recap on ESPN, it was Boston's first four-game losing streak in five years. Boston is 11-6 after starting 11-2.",
+        "youCouldSay": "The Celtics lost 88-87 at Golden State on Sunday, their first four-game losing streak in five years, even though Jayson Tatum had 27 points and 10 rebounds.",
+        "gameDate": "2026-11-22",
+        "details": [
+          {
+            "name": "Jayson Tatum",
+            "team": "Boston Celtics",
+            "position": "Forward (F)",
+            "lastGame": {
+              "date": "2026-11-22",
+              "label": "at Golden State Warriors, lost 88-87",
+              "stats": [
+                "27 points",
+                "8 of 20 shots",
+                "10 rebounds",
+                "6 assists"
+              ]
+            },
+            "buzz": "Tatum had 27 points, 10 rebounds and 6 assists at Golden State but missed a tying free throw and a jumper at the buzzer as Boston lost its fourth straight.",
+            "source": "ESPN recap, Warriors 88-87 Celtics (https://www.espn.com/nba/recap/_/gameId/401910035); ESPN box score, Warriors 88-87 Celtics (https://www.espn.com/nba/boxscore/_/gameId/401910035)",
+            "asOf": "2026-11-24"
+          }
+        ],
+        "source": "ESPN recap, Warriors 88-87 Celtics (https://www.espn.com/nba/recap/_/gameId/401910035); ESPN box score, Warriors 88-87 Celtics (https://www.espn.com/nba/boxscore/_/gameId/401910035)",
+        "asOf": "2026-11-24"
       }
     ],
     [
       {
-        "id": "nba-curry-41-warriors-magic",
-        "topic": "Stephen Curry's 41 beats the Magic in overtime",
-        "whatHappened": "Stephen Curry scored 41 points with five 3-pointers as the Golden State Warriors beat the Orlando Magic 126-119 in overtime on Saturday, November 7. Orlando's Franz Wagner had 30 points and 11 assists.",
-        "whyCare": "Golden State followed it up on Monday, November 9, with a 138-87 win over New Orleans, a 51-point margin that was the biggest of any NBA game that day, per Land of Basketball.",
-        "youCouldSay": "Stephen Curry scored 41 Saturday to beat Orlando in overtime, and then the Warriors beat the Pelicans 138-87 on Monday.",
-        "gameDate": "2026-11-07",
+        "id": "nba-giddey-22-assists-nuggets-bulls",
+        "topic": "Josh Giddey hands out 22 assists in a wild overtime game",
+        "whatHappened": "Chicago's Josh Giddey had 23 points, 14 rebounds and a career-high 22 assists (passes that lead directly to a basket) on Sunday, November 22, but Denver won 151-145 in overtime.",
+        "whyCare": "ESPN says he is the first Bulls player with more than 20 assists in a game since 1985. On the other side, Jamal Murray scored a season-high 45 and Nikola Jokic had 37 points, 18 rebounds and 11 assists, his 202nd career triple-double.",
+        "youCouldSay": "Josh Giddey had 22 assists for the Bulls on Sunday, the most by a Bull since 1985, and they still lost 151-145 in overtime to Denver.",
+        "gameDate": "2026-11-22",
         "details": [
           {
-            "name": "Stephen Curry",
-            "team": "Golden State Warriors",
-            "position": "Point guard (PG)",
-            "lastGame": null,
-            "buzz": "Curry scored 41 points with five 3-pointers in a 126-119 overtime win over Orlando on November 7, per NBA.com.",
-            "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-            "asOf": "2026-11-10"
-          },
-          {
-            "name": "Franz Wagner",
-            "team": "Orlando Magic",
-            "position": "Forward (F)",
-            "lastGame": null,
-            "buzz": "Wagner had 30 points and 11 assists in Orlando's 126-119 overtime loss at Golden State on November 7, per NBA.com.",
-            "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-            "asOf": "2026-11-10"
-          }
-        ],
-        "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/); Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-        "asOf": "2026-11-10"
-      },
-      {
-        "id": "nba-thunder-75-wizards-114",
-        "topic": "Thunder hold Washington to 75 points",
-        "whatHappened": "Oklahoma City beat the Washington Wizards 114-75 on Saturday, November 7. Shai Gilgeous-Alexander scored 30 points in three quarters, and rookie Aday Mara had 18 points, 8 rebounds and 3 blocks.",
-        "whyCare": "Washington's 75 points were the fewest by any NBA team this season, per Eurohoops.",
-        "youCouldSay": "The Wizards scored just 75 points against the Thunder on Saturday, the fewest by any team this season, in a 114-75 loss.",
-        "gameDate": "2026-11-07",
-        "details": [
-          {
-            "name": "Shai Gilgeous-Alexander",
-            "team": "Oklahoma City Thunder",
+            "name": "Josh Giddey",
+            "team": "Chicago Bulls",
             "position": "Guard (G)",
-            "lastGame": null,
-            "buzz": "Gilgeous-Alexander scored 30 points, with 9 assists, in a 114-75 win over Washington on November 7, per NBA.com.",
-            "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-            "asOf": "2026-11-10"
+            "lastGame": {
+              "date": "2026-11-23",
+              "label": "vs Cleveland Cavaliers, won 122-108",
+              "stats": [
+                "4 points",
+                "2 of 11 shots",
+                "2 rebounds",
+                "11 assists"
+              ]
+            },
+            "buzz": "Giddey had 23 points, 14 rebounds and a career-high 22 assists in the 151-145 overtime loss to Denver on November 22, then 11 assists in a win over Cleveland a night later.",
+            "source": "ESPN recap, Nuggets 151-145 Bulls in overtime (https://www.espn.com/nba/recap/_/gameId/401910032); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+            "asOf": "2026-11-24"
           },
           {
-            "name": "Aday Mara",
-            "team": "Oklahoma City Thunder",
+            "name": "Nikola Jokic",
+            "team": "Denver Nuggets",
             "position": "Center (C)",
             "lastGame": null,
-            "buzz": "Mara had 18 points, 8 rebounds and 3 blocks in the 114-75 win over Washington on November 7, per Eurohoops.",
-            "source": "Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-            "asOf": "2026-11-10"
+            "buzz": "Jokic had 37 points, 18 rebounds and 11 assists against Chicago on November 22, his 202nd career triple-double, moving closer to Russell Westbrook's record, per ESPN.",
+            "source": "ESPN recap, Nuggets 151-145 Bulls in overtime (https://www.espn.com/nba/recap/_/gameId/401910032)",
+            "asOf": "2026-11-24"
           }
         ],
-        "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-        "asOf": "2026-11-10"
+        "source": "ESPN recap, Nuggets 151-145 Bulls in overtime (https://www.espn.com/nba/recap/_/gameId/401910032); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+        "asOf": "2026-11-24"
       },
       {
-        "id": "nba-reaves-43-lakers-pistons",
-        "topic": "Austin Reaves drops 43 on Detroit",
-        "whatHappened": "Austin Reaves scored 43 points, the most of any NBA player on Sunday, November 8, as the Los Angeles Lakers beat the Detroit Pistons 121-116.",
-        "whyCare": "The Lakers won again on Monday, November 9, beating Atlanta 124-114, and Luka Doncic had 5 steals, the most of any player that day, per Land of Basketball.",
-        "youCouldSay": "Austin Reaves scored 43 on Sunday as the Lakers beat the Pistons 121-116, and Luka Doncic had 5 steals Monday in another win.",
-        "gameDate": "2026-11-08",
+        "id": "nba-celtics-four-game-skid-warriors",
+        "topic": "Celtics lose by one for a fourth straight loss",
+        "whatHappened": "Golden State beat the Boston Celtics 88-87 on Sunday, November 22, after Jayson Tatum missed a free throw that would have tied it and a contested jumper at the buzzer.",
+        "whyCare": "Per the AP recap on ESPN, it was Boston's first four-game losing streak in five years. Boston is 11-6 after starting 11-2.",
+        "youCouldSay": "The Celtics lost 88-87 at Golden State on Sunday, their first four-game losing streak in five years, even though Jayson Tatum had 27 points and 10 rebounds.",
+        "gameDate": "2026-11-22",
         "details": [
           {
-            "name": "Austin Reaves",
-            "team": "Los Angeles Lakers",
-            "position": "Guard (G)",
-            "lastGame": null,
-            "buzz": "Reaves scored 43 points, the NBA high for November 8, in a 121-116 win over Detroit, per Land of Basketball.",
-            "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm)",
-            "asOf": "2026-11-10"
-          },
-          {
-            "name": "Luka Doncic",
-            "team": "Los Angeles Lakers",
-            "position": "Guard (G)",
-            "lastGame": null,
-            "buzz": "Doncic had 5 steals, the most of any player on November 9, in a 124-114 win over Atlanta, per Land of Basketball.",
-            "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-            "asOf": "2026-11-10"
+            "name": "Jayson Tatum",
+            "team": "Boston Celtics",
+            "position": "Forward (F)",
+            "lastGame": {
+              "date": "2026-11-22",
+              "label": "at Golden State Warriors, lost 88-87",
+              "stats": [
+                "27 points",
+                "8 of 20 shots",
+                "10 rebounds",
+                "6 assists"
+              ]
+            },
+            "buzz": "Tatum had 27 points, 10 rebounds and 6 assists at Golden State but missed a tying free throw and a jumper at the buzzer as Boston lost its fourth straight.",
+            "source": "ESPN recap, Warriors 88-87 Celtics (https://www.espn.com/nba/recap/_/gameId/401910035); ESPN box score, Warriors 88-87 Celtics (https://www.espn.com/nba/boxscore/_/gameId/401910035)",
+            "asOf": "2026-11-24"
           }
         ],
-        "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-        "asOf": "2026-11-10"
+        "source": "ESPN recap, Warriors 88-87 Celtics (https://www.espn.com/nba/recap/_/gameId/401910035); ESPN box score, Warriors 88-87 Celtics (https://www.espn.com/nba/boxscore/_/gameId/401910035)",
+        "asOf": "2026-11-24"
+      },
+      {
+        "id": "nba-heat-seven-straight-adebayo",
+        "topic": "The Heat win seven straight without trailing",
+        "whatHappened": "Bam Adebayo had a triple-double (double digits in three stats) with 24 points, 15 rebounds and 12 assists as the Miami Heat beat Oklahoma City 123-113 on Sunday, November 22.",
+        "whyCare": "It was Miami's seventh straight win, tying its longest streak since early 2017, and the third game in a row the Heat never trailed. Miami is 10-6 after an 0-4 start, per ESPN.",
+        "youCouldSay": "The Heat have won seven straight after starting 0-4, and Bam Adebayo had 24 points, 15 rebounds and 12 assists in Sunday's win over Oklahoma City.",
+        "gameDate": "2026-11-22",
+        "details": [
+          {
+            "name": "Bam Adebayo",
+            "team": "Miami Heat",
+            "position": "Center (C)",
+            "lastGame": {
+              "date": "2026-11-22",
+              "label": "vs Oklahoma City Thunder, won 123-113",
+              "stats": [
+                "24 points",
+                "8 of 11 shots",
+                "15 rebounds",
+                "12 assists"
+              ]
+            },
+            "buzz": "Adebayo's 24 points, 15 rebounds and 12 assists against Oklahoma City were his ninth regular-season triple-double, per ESPN.",
+            "source": "ESPN recap, Heat 123-113 Thunder (https://www.espn.com/nba/recap?gameId=401910030); ESPN box score, Heat 123-113 Thunder (https://www.espn.com/nba/boxscore/_/gameId/401910030)",
+            "asOf": "2026-11-24"
+          }
+        ],
+        "source": "ESPN recap, Heat 123-113 Thunder (https://www.espn.com/nba/recap?gameId=401910030); ESPN box score, Heat 123-113 Thunder (https://www.espn.com/nba/boxscore/_/gameId/401910030)",
+        "asOf": "2026-11-24"
       }
     ]
   ],
   "teams": {
     "Atlanta Hawks": {
-      "latestResult": "Lost 124-114 to the Los Angeles Lakers on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Atlanta lost 124-114 to the Lakers on November 9, two days after Jalen Johnson's 30 points led a comeback win over Brooklyn.",
-      "bringUp": "The Hawks came back from 109-103 down with 3:26 left to beat the Nets 124-121 on Saturday, with Jalen Johnson scoring 30, then lost to the Lakers on Monday.",
+      "latestResult": "Beat the Detroit Pistons 107-97 at home on November 22 (now 11-6)",
+      "latestGameDate": "2026-11-22",
+      "storyline": "Atlanta opened the fourth quarter on an 18-0 run to turn an 11-point deficit into a lead and won its fourth straight game.",
+      "bringUp": "The Hawks scored the first 18 points of the fourth quarter to beat Detroit 107-97 on Sunday, their fourth win in a row, and Nickeil Alexander-Walker led them with 27.",
       "details": [
         {
-          "name": "Jalen Johnson",
+          "name": "Nickeil Alexander-Walker",
           "team": "Atlanta Hawks",
-          "position": "Forward (F)",
-          "lastGame": null,
-          "buzz": "Johnson had 30 points, 7 rebounds and 6 assists in Atlanta's 124-121 win over Brooklyn on November 7, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-          "asOf": "2026-11-10"
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "vs Detroit Pistons, won 107-97",
+            "stats": [
+              "27 points",
+              "8 of 18 shots",
+              "2 rebounds",
+              "1 assist"
+            ]
+          },
+          "buzz": "Alexander-Walker scored a game-high 27 in the win over Detroit and leads Atlanta at 21.3 points per game, per ESPN.",
+          "source": "ESPN recap, Hawks 107-97 Pistons (https://www.espn.com/nba/recap/_/gameId/401910029); ESPN box score, Hawks 107-97 Pistons (https://www.espn.com/nba/boxscore/_/gameId/401910029)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Nickeil Alexander-Walker",
-          "value": "22.1 per game"
+          "value": "21.3 per game"
         },
         {
           "label": "Rebounds per game",
           "player": "Jalen Johnson",
-          "value": "8.8 per game"
+          "value": "9.1 per game"
         },
         {
           "label": "Assists per game",
           "player": "Jalen Johnson",
-          "value": "7.6 per game"
+          "value": "6.9 per game"
         }
       ],
       "leadersSource": "ESPN, Hawks 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/atl)",
-      "leadersAsOf": "2026-11-07"
+      "leadersAsOf": "2026-11-22",
+      "source": "ESPN recap, Hawks 107-97 Pistons (https://www.espn.com/nba/recap/_/gameId/401910029); ESPN box score, Hawks 107-97 Pistons (https://www.espn.com/nba/boxscore/_/gameId/401910029)",
+      "asOf": "2026-11-24"
     },
     "Boston Celtics": {
-      "latestResult": "Beat the Milwaukee Bucks 117-97 on November 8",
-      "latestGameDate": "2026-11-08",
-      "storyline": "Boston beat Milwaukee 117-97 on November 8 after a 109-93 loss at Houston on November 2, its first loss since the season opener.",
-      "bringUp": "The Celtics lost to Houston 109-93 on November 2, their first loss since the season opener, then beat the Bucks by 20, 117-97, on Sunday, with Jayson Tatum averaging 27.1 points.",
+      "latestResult": "Lost 88-87 at the Golden State Warriors on November 22 (now 11-6)",
+      "latestGameDate": "2026-11-22",
+      "storyline": "Boston's 88-87 loss at Golden State was its fourth in a row, the Celtics' first four-game losing streak in five years, per the AP recap on ESPN.",
+      "bringUp": "The Celtics have lost four straight for the first time in five years, the last one 88-87 at Golden State after Jayson Tatum missed a tying free throw.",
       "details": [
         {
           "name": "Jayson Tatum",
           "team": "Boston Celtics",
           "position": "Forward (F)",
-          "lastGame": null,
-          "buzz": "Tatum is averaging 27.1 points, 6.0 rebounds and 7.8 assists per game through 9 games, per Basketball-Reference.",
-          "source": "Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "at Golden State Warriors, lost 88-87",
+            "stats": [
+              "27 points",
+              "8 of 20 shots",
+              "10 rebounds",
+              "6 assists"
+            ]
+          },
+          "buzz": "Tatum had 27 points, 10 rebounds and 6 assists at Golden State and leads Boston at 26.4 points per game, per ESPN.",
+          "source": "ESPN recap, Warriors 88-87 Celtics (https://www.espn.com/nba/recap/_/gameId/401910035); ESPN box score, Warriors 88-87 Celtics (https://www.espn.com/nba/boxscore/_/gameId/401910035)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Jayson Tatum",
-          "value": "27.1 per game"
+          "value": "26.4 per game"
         },
         {
           "label": "Rebounds per game",
           "player": "Neemias Queta",
-          "value": "6.2 per game"
+          "value": "6.9 per game"
         },
         {
           "label": "Assists per game",
           "player": "Jayson Tatum",
-          "value": "7.8 per game"
+          "value": "6.8 per game"
         }
       ],
-      "leadersSource": "ESPN, Celtics 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/bos/boston-ce)",
-      "leadersAsOf": "2026-11-08"
+      "leadersSource": "ESPN, Celtics 2026-27 team stats (https://www.espn.com/nba/team/stats/_/name/bos/boston-celtics)",
+      "leadersAsOf": "2026-11-21",
+      "source": "ESPN recap, Warriors 88-87 Celtics (https://www.espn.com/nba/recap/_/gameId/401910035); ESPN box score, Warriors 88-87 Celtics (https://www.espn.com/nba/boxscore/_/gameId/401910035)",
+      "asOf": "2026-11-24"
     },
     "Brooklyn Nets": {
-      "latestResult": "Lost 130-93 to the Dallas Mavericks on November 8",
-      "latestGameDate": "2026-11-08",
-      "storyline": "Brooklyn lost 130-93 at Dallas on November 8, a day after Day'Ron Sharpe had the first triple-double of his career in a 124-121 loss to Atlanta.",
-      "bringUp": "Nets center Day'Ron Sharpe had his first career triple-double, meaning double figures in three stats, with 12 points, 13 assists and 10 rebounds on Saturday in a 124-121 loss to Atlanta.",
+      "latestResult": "Lost 142-116 at the Minnesota Timberwolves on November 23 (now 3-13)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Brooklyn has lost five straight, and the 142 points Minnesota scored were the most the Nets have allowed this season.",
+      "bringUp": "Julius Randle scored 29 in his first game back in Minnesota since the trade to Brooklyn, but the Nets lost 142-116, their fifth loss in a row.",
       "details": [
         {
-          "name": "Day'Ron Sharpe",
+          "name": "Julius Randle",
           "team": "Brooklyn Nets",
-          "position": "Center (C)",
-          "lastGame": null,
-          "buzz": "Sharpe recorded his first career triple-double (12 points, 13 assists, 10 rebounds) in a 124-121 loss to Atlanta on November 7, per Eurohoops.",
-          "source": "Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-          "asOf": "2026-11-10"
+          "position": "Forward (F)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Minnesota Timberwolves, lost 142-116",
+            "stats": [
+              "29 points",
+              "11 of 16 shots",
+              "4 rebounds",
+              "4 assists"
+            ]
+          },
+          "buzz": "Randle got a pregame video tribute from the Timberwolves in his return to Minnesota and scored 29; he leads Brooklyn at 21.6 points per game, per ESPN.",
+          "source": "ESPN recap, Timberwolves 142-116 Nets (https://www.espn.com/nba/recap/_/gameId/401910040); ESPN box score, Timberwolves 142-116 Nets (https://www.espn.com/nba/boxscore/_/gameId/401910040)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
-          "player": "Michael Porter Jr.",
-          "value": "21.4 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Michael Porter Jr.",
-          "value": "7.4 per game"
+          "player": "Julius Randle",
+          "value": "21.6 per game"
         },
         {
           "label": "Assists per game",
           "player": "Julius Randle",
-          "value": "4.8 per game"
+          "value": "4.7 per game"
         }
       ],
-      "leadersSource": "ESPN, Nets 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/bkn/beat-the-keeper)",
-      "leadersAsOf": "2026-11-04"
+      "leadersSource": "ESPN, Nets 2026-27 team stats (https://www.espn.com/nba/team/stats/_/name/bkn/brooklyn-nets)",
+      "leadersAsOf": "2026-11-23",
+      "source": "ESPN recap, Timberwolves 142-116 Nets (https://www.espn.com/nba/recap/_/gameId/401910040); ESPN box score, Timberwolves 142-116 Nets (https://www.espn.com/nba/boxscore/_/gameId/401910040)",
+      "asOf": "2026-11-24"
     },
     "Charlotte Hornets": {
-      "latestResult": "Beat the Cleveland Cavaliers 124-112 on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Charlotte beat Cleveland 124-112 on November 9, a week after a 124-91 loss to Detroit.",
-      "bringUp": "The Hornets beat the Cavaliers 124-112 on Monday, a week after losing to Detroit by 33 points, 124-91.",
+      "latestResult": "Lost 117-111 to the Memphis Grizzlies at home on November 23 (now 4-12)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Charlotte lost 117-111 to Memphis on November 23 despite 25 points off the bench from Christian Anderson, who made 6 of 8 three-pointers.",
+      "bringUp": "Christian Anderson came off the bench to score 25 for Charlotte on Monday, hitting 6 of 8 threes, but the Hornets lost to Memphis and are 4-12.",
       "details": [
         {
-          "name": "Brandon Miller",
+          "name": "Christian Anderson",
+          "team": "Charlotte Hornets",
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs Memphis Grizzlies, lost 117-111",
+            "stats": [
+              "25 points",
+              "9 of 12 shots",
+              "6 of 8 three-pointers",
+              "3 assists"
+            ]
+          },
+          "buzz": "Anderson scored 25 off the bench against Memphis, well above his 5.1 points per game average through 14 games, per ESPN.",
+          "source": "ESPN box score, Grizzlies 117-111 Hornets (https://www.espn.com/nba/boxscore/_/gameId/401910036); ESPN, Hornets 2026-27 team stats (https://www.espn.com/nba/team/stats/_/name/cha/charlotte-hornets)",
+          "asOf": "2026-11-24"
+        },
+        {
+          "name": "Naz Reid",
           "team": "Charlotte Hornets",
           "position": "Forward (F)",
-          "lastGame": null,
-          "buzz": "Miller leads Charlotte at 20.6 points per game through 10 games, per Basketball-Reference.",
-          "source": "Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs Memphis Grizzlies, lost 117-111",
+            "stats": [
+              "24 points",
+              "8 of 25 shots",
+              "6 rebounds",
+              "3 assists"
+            ]
+          },
+          "buzz": "Reid led Charlotte starters with 24 points against Memphis.",
+          "source": "ESPN box score, Grizzlies 117-111 Hornets (https://www.espn.com/nba/boxscore/_/gameId/401910036)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Brandon Miller",
-          "value": "20.6 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Moussa Diabate",
-          "value": "9.1 per game"
+          "value": "19.8 per game"
         },
         {
           "label": "Assists per game",
@@ -404,1049 +500,1173 @@
           "value": "4.9 per game"
         }
       ],
-      "leadersSource": "ESPN, Hornets 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/cha)",
-      "leadersAsOf": "2026-11-13"
+      "leadersSource": "ESPN, Hornets 2026-27 team stats (https://www.espn.com/nba/team/stats/_/name/cha/charlotte-hornets)",
+      "leadersAsOf": "2026-11-20",
+      "source": "ESPN box score, Grizzlies 117-111 Hornets (https://www.espn.com/nba/boxscore/_/gameId/401910036)",
+      "asOf": "2026-11-24"
     },
     "Chicago Bulls": {
-      "latestResult": "Lost 127-121 to the Philadelphia 76ers on November 8",
-      "latestGameDate": "2026-11-08",
-      "storyline": "Chicago lost 127-121 to Philadelphia on November 8, with Josh Giddey's 15 assists the most of any player that day.",
-      "bringUp": "Josh Giddey had a league-high 15 assists on Sunday, but the Bulls still lost 127-121 to the 76ers.",
+      "latestResult": "Beat the Cleveland Cavaliers 122-108 at home on November 23 (now 5-12)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Chicago's bench scored 63 points in a 122-108 win over Cleveland, a night after Josh Giddey's career-high 22 assists in an overtime loss to Denver.",
+      "bringUp": "The Bulls' bench scored 63 points to beat Cleveland 122-108 on Monday, with Jordan Hawkins scoring a season-high 19 off the bench.",
       "details": [
         {
           "name": "Josh Giddey",
           "team": "Chicago Bulls",
           "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Giddey had 15 assists, the NBA high for November 8, and a double-double in a 127-121 loss to Philadelphia, per Land of Basketball.",
-          "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs Cleveland Cavaliers, won 122-108",
+            "stats": [
+              "4 points",
+              "2 of 11 shots",
+              "2 rebounds",
+              "11 assists"
+            ]
+          },
+          "buzz": "Giddey had 11 assists against Cleveland after 23 points, 14 rebounds and a career-high 22 assists in a 151-145 overtime loss to Denver on November 22.",
+          "source": "ESPN recap, Bulls 122-108 Cavaliers (https://www.espn.com/nba/recap/_/gameId/401910041); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041); ESPN recap, Nuggets 151-145 Bulls in overtime (https://www.espn.com/nba/recap/_/gameId/401910032)",
+          "asOf": "2026-11-24"
+        },
+        {
+          "name": "Jordan Hawkins",
+          "team": "Chicago Bulls",
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs Cleveland Cavaliers, won 122-108",
+            "stats": [
+              "19 points",
+              "7 of 13 shots",
+              "1 rebound",
+              "2 assists"
+            ]
+          },
+          "buzz": "Hawkins scored a season-high 19 points in 18 minutes off the bench against Cleveland, per ESPN.",
+          "source": "ESPN recap, Bulls 122-108 Cavaliers (https://www.espn.com/nba/recap/_/gameId/401910041); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm)",
-      "asOf": "2026-11-10",
       "leaders": [
+        {
+          "label": "Points per game",
+          "player": "Norman Powell",
+          "value": "20.8 per game"
+        },
         {
           "label": "Rebounds per game",
           "player": "Jalen Smith",
-          "value": "7.8 per game"
+          "value": "7.6 per game"
         },
         {
           "label": "Assists per game",
           "player": "Josh Giddey",
-          "value": "8.4 per game"
+          "value": "9.2 per game"
         }
       ],
-      "leadersSource": "ESPN, Bulls 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/chi)",
-      "leadersAsOf": "2026-11-08"
+      "leadersSource": "ESPN, Bulls 2026-27 team stats (https://www.espn.com/nba/teams/stats?team=chi)",
+      "leadersAsOf": "2026-11-22",
+      "source": "ESPN recap, Bulls 122-108 Cavaliers (https://www.espn.com/nba/recap/_/gameId/401910041); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+      "asOf": "2026-11-24"
     },
     "Cleveland Cavaliers": {
-      "latestResult": "Lost 124-112 to the Charlotte Hornets on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Cleveland has lost two straight, 109-97 to the Knicks on November 7 and 124-112 to the Hornets on November 9.",
-      "bringUp": "Donovan Mitchell scored 37 on 13-of-22 shooting Saturday, but the Cavaliers lost 109-97 to the Knicks and then 124-112 to Charlotte on Monday.",
+      "latestResult": "Lost 122-108 at the Chicago Bulls on November 23 (now 9-9)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Cleveland fell to 9-9 with a 122-108 loss at Chicago, three days after James Harden's 51-point game in a 128-119 win over Indiana.",
+      "bringUp": "James Harden scored 51 for the Cavaliers in a win over Indiana on Friday, but Cleveland lost in Chicago on Monday and sits at 9-9.",
       "details": [
         {
           "name": "Donovan Mitchell",
           "team": "Cleveland Cavaliers",
           "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Mitchell scored 37 points on 13-for-22 shooting in a 109-97 loss to New York on November 7, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Chicago Bulls, lost 122-108",
+            "stats": [
+              "28 points",
+              "8 of 17 shots",
+              "3 rebounds",
+              "5 assists"
+            ]
+          },
+          "buzz": "Mitchell led Cleveland with 28 points in Chicago and leads the team at 24.5 points per game, per ESPN.",
+          "source": "ESPN recap, Bulls 122-108 Cavaliers (https://www.espn.com/nba/recap/_/gameId/401910041); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+          "asOf": "2026-11-24"
+        },
+        {
+          "name": "James Harden",
+          "team": "Cleveland Cavaliers",
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Chicago Bulls, lost 122-108",
+            "stats": [
+              "21 points",
+              "5 of 14 shots",
+              "6 rebounds",
+              "5 assists"
+            ]
+          },
+          "buzz": "Harden scored 51 points in Friday's 128-119 win over Indiana, then 21 in Monday's loss at Chicago, per ESPN.",
+          "source": "ESPN recap, Bulls 122-108 Cavaliers (https://www.espn.com/nba/recap/_/gameId/401910041); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Donovan Mitchell",
-          "value": "22.8 per game"
+          "value": "24.5 per game"
         },
         {
           "label": "Rebounds per game",
           "player": "Jarrett Allen",
-          "value": "7.7 per game"
+          "value": "8.7 per game"
         },
         {
           "label": "Assists per game",
           "player": "James Harden",
-          "value": "5.7 per game"
+          "value": "6.2 per game"
         }
       ],
       "leadersSource": "ESPN, Cavaliers 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/cle)",
-      "leadersAsOf": "2026-11-13"
+      "leadersAsOf": "2026-11-20",
+      "source": "ESPN recap, Bulls 122-108 Cavaliers (https://www.espn.com/nba/recap/_/gameId/401910041); ESPN box score, Bulls 122-108 Cavaliers (https://www.espn.com/nba/boxscore/_/gameId/401910041)",
+      "asOf": "2026-11-24"
     },
     "Dallas Mavericks": {
-      "latestResult": "Beat the Indiana Pacers 125-122 on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Dallas has won two straight, 130-93 over Brooklyn on November 8 and 125-122 over Indiana on November 9.",
-      "bringUp": "Kyrie Irving hit 7 three-pointers, the most in the league Monday, as the Mavericks beat the Pacers 125-122 a day after beating Brooklyn by 37.",
+      "latestResult": "Won 116-114 at the Utah Jazz on November 22 (now 10-7)",
+      "latestGameDate": "2026-11-22",
+      "storyline": "Cooper Flagg scored 28 points and made the free throws with 3.7 seconds left to beat Utah 116-114, the AP reported.",
+      "bringUp": "Cooper Flagg scored 28 for the Mavericks on Sunday, including the free throws with 3.7 seconds left that beat the Jazz 116-114.",
       "details": [
         {
-          "name": "Kyrie Irving",
+          "name": "Cooper Flagg",
           "team": "Dallas Mavericks",
-          "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Irving made 7 three-pointers, the NBA high for November 9, in a 125-122 win over Indiana, per Land of Basketball.",
-          "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-          "asOf": "2026-11-10"
+          "position": "Forward (F)",
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "at Utah Jazz, won 116-114",
+            "stats": [
+              "28 points",
+              "3 rebounds",
+              "4 assists",
+              "8 of 17 shots"
+            ]
+          },
+          "buzz": "Flagg's late free throws with 3.7 seconds left lifted Dallas to 10-7, per the AP recap on CBS Sports.",
+          "source": "CBS Sports box score and AP recap, Mavericks at Jazz, Nov 22, 2026 (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261122_DAL@UTA/)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Cooper Flagg",
-          "value": "25.9 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "P.J. Washington",
-          "value": "7.5 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Cooper Flagg",
-          "value": "6.9 per game"
-        }
-      ],
-      "leadersSource": "ESPN, Mavericks 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/dal)",
-      "leadersAsOf": "2026-11-13"
+      "source": "CBS Sports box score and AP recap, Mavericks at Jazz, Nov 22, 2026 (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261122_DAL@UTA/); FOX Sports box score, Mavericks at Jazz, Nov 22, 2026 (https://www.foxsports.com/nba/dallas-mavericks-vs-utah-jazz-nov-22-2026-game-boxscore-106776)",
+      "asOf": "2026-11-24"
     },
     "Denver Nuggets": {
-      "latestResult": "Lost 110-100 to the Houston Rockets on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Denver lost 110-100 to Houston on November 9, two days after beating Indiana 114-102 in Mexico City.",
-      "bringUp": "Nikola Jokic had 16 rebounds, the most of anyone Monday, but the Nuggets lost 110-100 to Houston after beating Indiana 114-102 in Mexico City on Saturday.",
+      "latestResult": "Won 151-145 in overtime at the Chicago Bulls on November 22 (now 10-5)",
+      "latestGameDate": "2026-11-22",
+      "storyline": "Jamal Murray scored 45 and Nikola Jokic had 37 points, 18 rebounds and 11 assists, a triple-double (double digits in three stat categories), in a 151-145 overtime win at Chicago.",
+      "bringUp": "Jamal Murray dropped 45 points and Nikola Jokic had a 37-point triple-double as the Nuggets outlasted the Bulls 151-145 in overtime on Sunday.",
       "details": [
+        {
+          "name": "Jamal Murray",
+          "team": "Denver Nuggets",
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "at Chicago Bulls, won 151-145 in overtime",
+            "stats": [
+              "45 points",
+              "5 rebounds",
+              "7 assists",
+              "13 of 22 shots"
+            ]
+          },
+          "buzz": "Murray scored 45 points on 13 of 22 shooting in Denver's overtime win at Chicago, per the ESPN box score.",
+          "source": "ESPN box score, Nuggets at Bulls, Nov 22, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910032)",
+          "asOf": "2026-11-24"
+        },
         {
           "name": "Nikola Jokic",
           "team": "Denver Nuggets",
           "position": "Center (C)",
-          "lastGame": null,
-          "buzz": "Jokic had 19 points, 13 rebounds and 8 assists in the 114-102 win over Indiana in Mexico City on November 7, per NBA.com, and 16 rebounds in the November 9 loss to Houston, per Land of Basketball.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "at Chicago Bulls, won 151-145 in overtime",
+            "stats": [
+              "37 points",
+              "18 rebounds",
+              "11 assists",
+              "14 of 22 shots"
+            ]
+          },
+          "buzz": "Jokic had a triple-double of 37 points, 18 rebounds and 11 assists against Chicago, per the ESPN box score.",
+          "source": "ESPN box score, Nuggets at Bulls, Nov 22, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910032)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Jamal Murray",
-          "value": "25.8 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Nikola Jokic",
-          "value": "10.8 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Nikola Jokic",
-          "value": "9.1 per game"
-        }
-      ],
-      "leadersSource": "ESPN, Nuggets 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/den)",
-      "leadersAsOf": "2026-11-13"
+      "source": "ESPN box score, Nuggets at Bulls, Nov 22, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910032)",
+      "asOf": "2026-11-24"
     },
     "Detroit Pistons": {
-      "latestResult": "Beat the Washington Wizards 122-111 on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Detroit beat Washington 122-111 on November 9, a day after a 121-116 loss to the Lakers.",
-      "bringUp": "Cade Cunningham scored 33 with 5 steals in a 124-91 win over Charlotte on November 2, and the Pistons beat Washington 122-111 on Monday.",
+      "latestResult": "Lost 107-97 at the Atlanta Hawks on November 22 (now 10-6)",
+      "latestGameDate": "2026-11-22",
+      "storyline": "Detroit blew an 11-point fourth-quarter lead as Atlanta opened the quarter on an 18-0 run, the Pistons' second straight loss.",
+      "bringUp": "Cade Cunningham was held to 5 points in Atlanta on Sunday, his first game this season under 10, though he still had a season-high 15 assists in the 107-97 loss.",
       "details": [
         {
           "name": "Cade Cunningham",
           "team": "Detroit Pistons",
           "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Cunningham had 33 points, 7 assists and 5 steals in a 124-91 win over Charlotte on November 2, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "at Atlanta Hawks, lost 107-97",
+            "stats": [
+              "5 points",
+              "2 of 9 shots",
+              "4 rebounds",
+              "15 assists"
+            ]
+          },
+          "buzz": "Cunningham had 5 points and a season-high 15 assists at Atlanta while in early foul trouble.",
+          "source": "ESPN recap, Hawks 107-97 Pistons (https://www.espn.com/nba/recap/_/gameId/401910029); ESPN box score, Hawks 107-97 Pistons (https://www.espn.com/nba/boxscore/_/gameId/401910029)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Cade Cunningham",
-          "value": "22.3 per game"
+          "value": "25.8 per game"
         },
         {
           "label": "Rebounds per game",
           "player": "Ausar Thompson",
-          "value": "8.4 per game"
+          "value": "8.5 per game"
         },
         {
           "label": "Assists per game",
           "player": "Cade Cunningham",
-          "value": "7.6 per game"
+          "value": "7.8 per game"
         }
       ],
-      "leadersSource": "ESPN, Pistons 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/det/_nr=0)",
-      "leadersAsOf": "2026-11-13"
+      "leadersSource": "ESPN, Pistons 2026-27 team stats (https://www.espn.com/nba/team/stats/_/name/det/detroit-pistons)",
+      "leadersAsOf": "2026-11-18",
+      "source": "ESPN recap, Hawks 107-97 Pistons (https://www.espn.com/nba/recap/_/gameId/401910029); ESPN box score, Hawks 107-97 Pistons (https://www.espn.com/nba/boxscore/_/gameId/401910029)",
+      "asOf": "2026-11-24"
     },
     "Golden State Warriors": {
-      "latestResult": "Beat the New Orleans Pelicans 138-87 on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Golden State beat New Orleans 138-87 on November 9, the biggest margin in the NBA that day, after Stephen Curry's 41 in an overtime win on November 7.",
-      "bringUp": "The Warriors beat the Pelicans 138-87 on Monday, a 51-point win, two days after Stephen Curry scored 41 to beat Orlando in overtime.",
+      "latestResult": "Beat the Boston Celtics 88-87 on November 22 (now 9-8)",
+      "latestGameDate": "2026-11-22",
+      "storyline": "Golden State edged Boston 88-87 at home to reach 9-8, and Brandin Podziemski led the Warriors with 18 points.",
+      "bringUp": "The Warriors beat the Celtics by one point, 88-87, on Sunday, and Brandin Podziemski led them with 18 points; they're now 7-1 at home.",
       "details": [
         {
-          "name": "Stephen Curry",
+          "name": "Brandin Podziemski",
           "team": "Golden State Warriors",
-          "position": "Point guard (PG)",
-          "lastGame": null,
-          "buzz": "Curry scored 41 points with five 3-pointers in a 126-119 overtime win over Orlando on November 7, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-          "asOf": "2026-11-10"
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "vs Boston Celtics, won 88-87",
+            "stats": [
+              "18 points",
+              "7 rebounds",
+              "2 assists",
+              "5 of 14 shots"
+            ]
+          },
+          "buzz": "Podziemski was Golden State's top scorer with 18 points in the 88-87 win over Boston, per the ESPN box score.",
+          "source": "ESPN box score, Celtics at Warriors, Nov 22, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910035)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Stephen Curry",
-          "value": "27.8 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Yaxel Lendeborg",
-          "value": "7.4 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Draymond Green",
-          "value": "7.5 per game"
-        }
-      ],
-      "leadersSource": "ESPN, Warriors 2026-27 team stats (https://www.espn.com/nba/teams/stats?team=gsw)",
-      "leadersAsOf": "2026-11-11"
+      "source": "ESPN box score, Celtics at Warriors, Nov 22, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910035)",
+      "asOf": "2026-11-24"
     },
     "Houston Rockets": {
-      "latestResult": "Beat the Denver Nuggets 110-100 on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Houston beat Denver 110-100 on November 9 after a 102-99 loss to Phoenix on November 7.",
-      "bringUp": "Alperen Sengun had 26 points, 7 rebounds and 10 assists in Houston's 109-93 win over Boston on November 2, and the Rockets beat Denver 110-100 on Monday.",
+      "latestResult": "Beat the LA Clippers 116-104 on November 23 (now 13-5)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Kevin Durant scored 32 as Houston beat the Clippers 116-104 to move to 13-5, including 8-1 at home.",
+      "bringUp": "Kevin Durant scored 32 points on 11 of 19 shooting Monday as the Rockets beat the Clippers 116-104; Houston is now 13-5.",
       "details": [
+        {
+          "name": "Kevin Durant",
+          "team": "Houston Rockets",
+          "position": "Forward (F)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs LA Clippers, won 116-104",
+            "stats": [
+              "32 points",
+              "9 rebounds",
+              "4 assists",
+              "11 of 19 shots"
+            ]
+          },
+          "buzz": "Durant led Houston with 32 points against the Clippers, per the ESPN box score.",
+          "source": "ESPN box score, Clippers at Rockets, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910043)",
+          "asOf": "2026-11-24"
+        },
         {
           "name": "Alperen Sengun",
           "team": "Houston Rockets",
           "position": "Center (C)",
-          "lastGame": null,
-          "buzz": "Sengun had 26 points, 7 rebounds and 10 assists in a 109-93 win over Boston on November 2, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs LA Clippers, won 116-104",
+            "stats": [
+              "20 points",
+              "8 rebounds",
+              "7 assists",
+              "7 of 11 shots"
+            ]
+          },
+          "buzz": "Sengun leads the Rockets at 21.9 points and 7.0 assists per game, per ESPN, and had 20 points against the Clippers.",
+          "source": "ESPN Rockets team page (https://africa.espn.com/nba/team/_/name/hou/espnfc-en.webview)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-      "asOf": "2026-11-10",
+      "source": "ESPN box score, Clippers at Rockets, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910043)",
+      "asOf": "2026-11-24",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Alperen Sengun",
-          "value": "21.3 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Alperen Sengun",
-          "value": "9.0 per game"
+          "value": "21.9 per game"
         },
         {
           "label": "Assists per game",
           "player": "Alperen Sengun",
-          "value": "7.8 per game"
+          "value": "7.0 per game"
         }
       ],
-      "leadersSource": "ESPN, Rockets 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/hou/houston-rockets))",
-      "leadersAsOf": "2026-11-13"
+      "leadersSource": "ESPN Rockets team page, 2026-27 team leaders (https://africa.espn.com/nba/team/_/name/hou/espnfc-en.webview)",
+      "leadersAsOf": "2026-11-23"
     },
     "Indiana Pacers": {
-      "latestResult": "Lost 125-122 to the Dallas Mavericks on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Indiana lost 125-122 to Dallas on November 9, two days after a 114-102 loss to Denver in Mexico City.",
-      "bringUp": "Andrew Nembhard had 12 assists, the most of anyone Monday, but the Pacers lost 125-122 to Dallas, and Pascal Siakam scored 23 in Saturday's loss to Denver.",
+      "latestResult": "Beat the Oklahoma City Thunder 125-120 at home on November 23 (now 6-12)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Indiana snapped a four-game losing streak by beating Oklahoma City 125-120, with Tyrese Haliburton missing his 14th straight game with a strained left hamstring.",
+      "bringUp": "Pascal Siakam hit a three with 44 seconds left to help the Pacers beat the Thunder 125-120 on Monday, ending Indiana's four-game losing streak.",
       "details": [
-        {
-          "name": "Andrew Nembhard",
-          "team": "Indiana Pacers",
-          "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Nembhard had 12 assists, the NBA high for November 9, in a 125-122 loss to Dallas, per Land of Basketball.",
-          "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-          "asOf": "2026-11-10"
-        },
         {
           "name": "Pascal Siakam",
           "team": "Indiana Pacers",
           "position": "Forward (F)",
-          "lastGame": null,
-          "buzz": "Siakam led Indiana with 23 points in a 114-102 loss to Denver in Mexico City on November 7, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs Oklahoma City Thunder, won 125-120",
+            "stats": [
+              "20 points",
+              "9 of 18 shots",
+              "8 rebounds",
+              "5 assists"
+            ]
+          },
+          "buzz": "Siakam hit a three with 44 seconds left that made it 123-119; he leads Indiana at 23.1 points per game, per ESPN.",
+          "source": "ESPN recap, Pacers 125-120 Thunder (https://www.espn.com/nba/recap?gameId=401910038); ESPN box score, Pacers 125-120 Thunder (https://www.espn.com/nba/boxscore/_/gameId/401910038)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Pascal Siakam",
-          "value": "22.7 per game"
+          "value": "23.1 per game"
         },
         {
           "label": "Rebounds per game",
           "player": "Ivica Zubac",
-          "value": "8.3 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Andrew Nembhard",
-          "value": "7.8 per game"
+          "value": "8.6 per game"
         }
       ],
-      "leadersSource": "ESPN, Pacers 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/Ind)",
-      "leadersAsOf": "2026-11-11"
+      "leadersSource": "ESPN, Pacers 2026-27 team stats (https://www.espn.com/nba/team/stats/_/name/ind/indiana-pacers)",
+      "leadersAsOf": "2026-11-22",
+      "source": "ESPN recap, Pacers 125-120 Thunder (https://www.espn.com/nba/recap?gameId=401910038); ESPN box score, Pacers 125-120 Thunder (https://www.espn.com/nba/boxscore/_/gameId/401910038)",
+      "asOf": "2026-11-24"
     },
     "LA Clippers": {
-      "latestResult": "Beat the New Orleans Pelicans 139-123 on November 8",
-      "latestGameDate": "2026-11-08",
-      "storyline": "The Clippers scored 139 points, the most by any team on November 8, in a 139-123 win over New Orleans.",
-      "bringUp": "The Clippers scored 139 points on Sunday, the most of any team that day, to beat the Pelicans 139-123, and Darius Garland leads them at 21.2 points per game.",
+      "latestResult": "Lost 116-104 at the Houston Rockets on November 23 (now 4-12)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "The Clippers fell to 4-12 and 0-8 on the road with a 116-104 loss at Houston despite 26 points from Darius Garland.",
+      "bringUp": "The Clippers lost 116-104 at Houston on Monday and are still winless on the road at 0-8, even with Darius Garland scoring 26.",
       "details": [
         {
           "name": "Darius Garland",
           "team": "LA Clippers",
           "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Garland leads the Clippers at 21.2 points and 7.0 assists per game through 9 games, per Basketball-Reference.",
-          "source": "Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Houston Rockets, lost 116-104",
+            "stats": [
+              "26 points",
+              "1 rebound",
+              "8 assists",
+              "10 of 21 shots"
+            ]
+          },
+          "buzz": "Garland led the Clippers with 26 points and 8 assists at Houston, per the ESPN box score.",
+          "source": "ESPN box score, Clippers at Rockets, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910043)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Darius Garland",
-          "value": "21.2 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Isaiah Jackson",
-          "value": "6.1 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Darius Garland",
-          "value": "7.0 per game"
-        }
-      ],
-      "leadersSource": "ESPN, Clippers 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/lac)",
-      "leadersAsOf": "2026-11-13"
+      "source": "ESPN box score, Clippers at Rockets, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910043)",
+      "asOf": "2026-11-24"
     },
     "Los Angeles Lakers": {
-      "latestResult": "Beat the Atlanta Hawks 124-114 on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "The Lakers have won two straight, 121-116 over Detroit on November 8 and 124-114 over Atlanta on November 9.",
-      "bringUp": "Austin Reaves scored 43 Sunday against Detroit, and Luka Doncic had 5 steals Monday as the Lakers beat Atlanta 124-114.",
+      "latestResult": "Beat the Utah Jazz 109-94 on November 23 (now 15-3)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Luka Doncic scored 28 with 8 assists as the Lakers beat Utah 109-94 to improve to 15-3.",
+      "bringUp": "The Lakers are 15-3 after beating the Jazz 109-94 on Monday, with Luka Doncic scoring 28 points and adding 8 assists.",
       "details": [
         {
           "name": "Luka Doncic",
           "team": "Los Angeles Lakers",
           "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Doncic had 5 steals, the NBA high for November 9, in a 124-114 win over Atlanta, per Land of Basketball.",
-          "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-          "asOf": "2026-11-10"
-        },
-        {
-          "name": "Austin Reaves",
-          "team": "Los Angeles Lakers",
-          "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Reaves scored 43 points, the NBA high for November 8, in a 121-116 win over Detroit, per Land of Basketball.",
-          "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs Utah Jazz, won 109-94",
+            "stats": [
+              "28 points",
+              "4 rebounds",
+              "8 assists",
+              "8 of 24 shots"
+            ]
+          },
+          "buzz": "Doncic led the Lakers with 28 points and 8 assists against Utah, per the ESPN box score.",
+          "source": "ESPN box score, Jazz at Lakers, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910044)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Luka Doncic",
-          "value": "38.6 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Walker Kessler",
-          "value": "10.8 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Luka Doncic",
-          "value": "7.6 per game"
-        }
-      ],
-      "leadersSource": "ESPN, Lakers 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/lal/sort/threeP)",
-      "leadersAsOf": "2026-11-13"
+      "source": "ESPN box score, Jazz at Lakers, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910044)",
+      "asOf": "2026-11-24"
     },
     "Memphis Grizzlies": {
-      "latestResult": "Beat the Toronto Raptors 118-102 on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Memphis beat Toronto 118-102 on November 9, after Ty Jerome's 40 points in a one-point overtime loss to New Orleans on November 2.",
-      "bringUp": "Ty Jerome scored 40 on 14-for-22 shooting in an overtime loss to New Orleans, 135-134, on November 2, and the Grizzlies beat Toronto 118-102 on Monday.",
+      "latestResult": "Won 117-111 at the Charlotte Hornets on November 23 (now 13-5)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Ty Jerome scored 29 as Memphis won 117-111 at Charlotte, improving to 13-5 and 9-1 on the road.",
+      "bringUp": "The Grizzlies won 117-111 at Charlotte on Monday behind 29 points from Ty Jerome, and they're now 9-1 away from home.",
       "details": [
         {
           "name": "Ty Jerome",
           "team": "Memphis Grizzlies",
           "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Jerome scored 40 points on 14-for-22 shooting in a 135-134 overtime loss to New Orleans on November 2, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-          "asOf": "2026-11-10"
-        }
-      ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Ty Jerome",
-          "value": "26.7 per game"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Charlotte Hornets, won 117-111",
+            "stats": [
+              "29 points",
+              "4 rebounds",
+              "3 assists",
+              "10 of 21 shots"
+            ]
+          },
+          "buzz": "Jerome led Memphis with 29 points at Charlotte, per the ESPN box score.",
+          "source": "ESPN box score, Grizzlies at Hornets, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910036)",
+          "asOf": "2026-11-24"
         },
         {
-          "label": "Rebounds per game",
-          "player": "Cameron Boozer",
-          "value": "9.7 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Cameron Boozer",
-          "value": "5.5 per game"
+          "name": "Cam Spencer",
+          "team": "Memphis Grizzlies",
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Charlotte Hornets, won 117-111",
+            "stats": [
+              "24 points",
+              "1 rebound",
+              "5 assists",
+              "5 of 7 shots"
+            ]
+          },
+          "buzz": "Spencer added 24 points on 5 of 7 shooting in the win at Charlotte, per the ESPN box score.",
+          "source": "ESPN box score, Grizzlies at Hornets, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910036)",
+          "asOf": "2026-11-24"
         }
       ],
-      "leadersSource": "ESPN, Grizzlies 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/mem/[tickets-link])",
-      "leadersAsOf": "2026-11-13"
+      "source": "ESPN box score, Grizzlies at Hornets, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910036)",
+      "asOf": "2026-11-24"
     },
     "Miami Heat": {
-      "latestResult": "Beat the Sacramento Kings 114-108 on November 8",
-      "latestGameDate": "2026-11-08",
-      "storyline": "Miami beat Sacramento 114-108 on November 8.",
-      "bringUp": "The Heat beat the Kings 114-108 on Sunday, and Giannis Antetokounmpo is averaging 27.5 points and 12.8 rebounds.",
+      "latestResult": "Beat the Oklahoma City Thunder 123-113 at home on November 22 (now 10-6)",
+      "latestGameDate": "2026-11-22",
+      "storyline": "Miami has won seven straight, tying its longest streak since early 2017, and is the fourth team in NBA history to get to 10-6 or better through 16 games after an 0-4 start, per ESPN.",
+      "bringUp": "The Heat beat Oklahoma City 123-113 on Sunday for their seventh straight win, and Bam Adebayo had 24 points, 15 rebounds and 12 assists with Giannis Antetokounmpo out with a groin strain.",
       "details": [
         {
-          "name": "Giannis Antetokounmpo",
+          "name": "Bam Adebayo",
           "team": "Miami Heat",
-          "position": "Forward (F)",
-          "lastGame": null,
-          "buzz": "Antetokounmpo is averaging 27.5 points, 12.8 rebounds and 5.3 assists per game through 10 games, per Basketball-Reference.",
-          "source": "Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-          "asOf": "2026-11-10"
+          "position": "Center (C)",
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "vs Oklahoma City Thunder, won 123-113",
+            "stats": [
+              "24 points",
+              "8 of 11 shots",
+              "15 rebounds",
+              "12 assists"
+            ]
+          },
+          "buzz": "Adebayo's triple-double against Oklahoma City was the ninth of his regular-season career, per ESPN.",
+          "source": "ESPN recap, Heat 123-113 Thunder (https://www.espn.com/nba/recap?gameId=401910030); ESPN box score, Heat 123-113 Thunder (https://www.espn.com/nba/boxscore/_/gameId/401910030)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Giannis Antetokounmpo",
-          "value": "27.5 per game"
+          "value": "28.3 per game"
         },
         {
           "label": "Rebounds per game",
           "player": "Giannis Antetokounmpo",
-          "value": "12.8 per game"
+          "value": "12.5 per game"
         },
         {
           "label": "Assists per game",
           "player": "Davion Mitchell",
-          "value": "8.5 per game"
+          "value": "9.2 per game"
         }
       ],
-      "leadersSource": "ESPN, Heat 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/mia/miami-heat)",
-      "leadersAsOf": "2026-11-13"
+      "leadersSource": "ESPN, Heat 2026-27 team stats (https://www.espn.com/nba/team/stats/_/name/mia/miami-heat)",
+      "leadersAsOf": "2026-11-16",
+      "source": "ESPN recap, Heat 123-113 Thunder (https://www.espn.com/nba/recap?gameId=401910030); ESPN box score, Heat 123-113 Thunder (https://www.espn.com/nba/boxscore/_/gameId/401910030)",
+      "asOf": "2026-11-24"
     },
     "Milwaukee Bucks": {
-      "latestResult": "Lost 117-97 to the Boston Celtics on November 8",
-      "latestGameDate": "2026-11-08",
-      "storyline": "Milwaukee lost 117-97 to Boston on November 8, a week after a 112-100 loss to Minnesota.",
-      "bringUp": "The Bucks lost to the Celtics by 20, 117-97, on Sunday, and Tyler Herro leads them at 21.4 points per game.",
+      "latestResult": "Beat the Toronto Raptors 116-111 on the road on November 23 (now 2-16)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Milwaukee's win in Toronto snapped a 13-game losing streak, the second-longest in franchise history, and was its first win since October 26.",
+      "bringUp": "The Bucks ended a 13-game losing streak by beating Toronto 116-111 on Monday, two days after Tyler Herro scored 50 in a loss to Philadelphia.",
       "details": [
         {
           "name": "Tyler Herro",
           "team": "Milwaukee Bucks",
-          "position": "Shooting guard (SG)",
-          "lastGame": null,
-          "buzz": "Herro leads Milwaukee at 21.4 points per game through 10 games, per Basketball-Reference.",
-          "source": "Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-          "asOf": "2026-11-10"
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Toronto Raptors, won 116-111",
+            "stats": [
+              "32 points",
+              "10 of 16 shots",
+              "6 rebounds",
+              "8 assists"
+            ]
+          },
+          "buzz": "Herro scored 50 with 11 rebounds in a 132-129 loss at Philadelphia on November 21, then 32 in the streak-snapping win at Toronto.",
+          "source": "ESPN recap, Bucks 116-111 Raptors (https://www.espn.com/nba/recap/_/gameId/401910039&gsessionid=qFpGaSyKqb9kGEiopHMFGkpg29DgO6lLinZN7od9IdSAJ8RY5jNxBA); ESPN box score, Bucks 116-111 Raptors (https://www.espn.com/nba/boxscore/_/gameId/401910039); ESPN box score, 76ers 132-129 Bucks (https://www.espn.com/nba/boxscore/_/gameId/401910023)",
+          "asOf": "2026-11-24"
+        },
+        {
+          "name": "Myles Turner",
+          "team": "Milwaukee Bucks",
+          "position": "Center (C)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Toronto Raptors, won 116-111",
+            "stats": [
+              "27 points",
+              "9 of 12 shots",
+              "11 rebounds",
+              "1 assist"
+            ]
+          },
+          "buzz": "Turner had a season-high 27 points with 5 three-pointers and 11 rebounds against Toronto before fouling out, per ESPN.",
+          "source": "ESPN recap, Bucks 116-111 Raptors (https://www.espn.com/nba/recap/_/gameId/401910039&gsessionid=qFpGaSyKqb9kGEiopHMFGkpg29DgO6lLinZN7od9IdSAJ8RY5jNxBA); ESPN box score, Bucks 116-111 Raptors (https://www.espn.com/nba/boxscore/_/gameId/401910039)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Tyler Herro",
-          "value": "21.4 per game"
+          "value": "21.3 per game"
         },
         {
           "label": "Rebounds per game",
           "player": "Kel'el Ware",
-          "value": "6.9 per game"
-        }
-      ],
-      "leadersSource": "ESPN, Bucks 2026-27 regular season team stats (https://www.espn.com/nba/teams/stats?team=mil)",
-      "leadersAsOf": "2026-11-13"
-    },
-    "Minnesota Timberwolves": {
-      "latestResult": "Beat the Utah Jazz 115-100 on November 8",
-      "latestGameDate": "2026-11-08",
-      "storyline": "Minnesota beat Utah 115-100 on November 8, a week after LaMelo Ball scored 34 against Milwaukee.",
-      "bringUp": "LaMelo Ball hit six 3-pointers on the way to 34 points in a 112-100 win over Milwaukee on November 2, and Minnesota beat Utah 115-100 on Sunday.",
-      "details": [
-        {
-          "name": "LaMelo Ball",
-          "team": "Minnesota Timberwolves",
-          "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Ball scored 34 points with six 3-pointers in a 112-100 win over Milwaukee on November 2, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-          "asOf": "2026-11-10"
-        }
-      ],
-      "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "LaMelo Ball",
-          "value": "18.3 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Rudy Gobert",
-          "value": "12.1 per game"
+          "value": "6.5 per game"
         },
         {
           "label": "Assists per game",
-          "player": "LaMelo Ball",
-          "value": "6.0 per game"
+          "player": "Tyler Herro",
+          "value": "4.3 per game"
         }
       ],
-      "leadersSource": "ESPN, Timberwolves 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/min/minnesota-timberwolves)",
-      "leadersAsOf": "2026-11-13"
+      "leadersSource": "ESPN, Bucks 2026-27 team stats (https://www.espn.com/nba/teams/stats?team=mil)",
+      "leadersAsOf": "2026-11-21",
+      "source": "ESPN recap, Bucks 116-111 Raptors (https://www.espn.com/nba/recap/_/gameId/401910039&gsessionid=qFpGaSyKqb9kGEiopHMFGkpg29DgO6lLinZN7od9IdSAJ8RY5jNxBA); ESPN box score, Bucks 116-111 Raptors (https://www.espn.com/nba/boxscore/_/gameId/401910039)",
+      "asOf": "2026-11-24"
+    },
+    "Minnesota Timberwolves": {
+      "latestResult": "Beat the Brooklyn Nets 142-116 on November 23 (now 13-5)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Jaden McDaniels scored 34 on 12 of 16 shooting as Minnesota routed Brooklyn 142-116 to reach 13-5.",
+      "bringUp": "Jaden McDaniels scored 34 points with 10 rebounds Monday as the Timberwolves beat the Nets by 26, 142-116.",
+      "details": [
+        {
+          "name": "Jaden McDaniels",
+          "team": "Minnesota Timberwolves",
+          "position": "Forward (F)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs Brooklyn Nets, won 142-116",
+            "stats": [
+              "34 points",
+              "10 rebounds",
+              "6 assists",
+              "12 of 16 shots"
+            ]
+          },
+          "buzz": "McDaniels had 34 points and 10 rebounds against Brooklyn, per the ESPN box score.",
+          "source": "ESPN box score, Nets at Timberwolves, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910040)",
+          "asOf": "2026-11-24"
+        }
+      ],
+      "source": "ESPN box score, Nets at Timberwolves, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910040)",
+      "asOf": "2026-11-24"
     },
     "New Orleans Pelicans": {
-      "latestResult": "Lost 138-87 to the Golden State Warriors on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "New Orleans lost 138-87 to Golden State on November 9, the biggest margin of any NBA game that day, a day after a 139-123 loss to the Clippers.",
-      "bringUp": "The Pelicans scored 87 points on Monday, the fewest of any team that day, in a 138-87 loss to Golden State.",
+      "latestResult": "Lost 123-119 in overtime to the Phoenix Suns on November 23 (now 5-14)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "New Orleans fell to 5-14 with a 123-119 overtime loss to Phoenix despite 28 points from Jordan Poole and 25 from Zion Williamson.",
+      "bringUp": "The Pelicans lost to the Suns 123-119 in overtime on Monday even though Jordan Poole scored 28 on 9 of 12 shooting; they're now 5-14.",
       "details": [
+        {
+          "name": "Jordan Poole",
+          "team": "New Orleans Pelicans",
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs Phoenix Suns, lost 123-119 in overtime",
+            "stats": [
+              "28 points",
+              "0 rebounds",
+              "3 assists",
+              "9 of 12 shots"
+            ]
+          },
+          "buzz": "Poole led New Orleans with 28 points on 9 of 12 shooting against Phoenix, per the ESPN box score.",
+          "source": "ESPN box score, Suns at Pelicans, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910042)",
+          "asOf": "2026-11-24"
+        },
         {
           "name": "Zion Williamson",
           "team": "New Orleans Pelicans",
           "position": "Forward (F)",
-          "lastGame": null,
-          "buzz": "Williamson had 25 points, 11 rebounds and 4 assists in a 135-134 overtime win over Memphis on November 2, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs Phoenix Suns, lost 123-119 in overtime",
+            "stats": [
+              "25 points",
+              "4 rebounds",
+              "0 assists",
+              "10 of 18 shots"
+            ]
+          },
+          "buzz": "Williamson scored 25 points in the overtime loss to Phoenix, per the ESPN box score.",
+          "source": "ESPN box score, Suns at Pelicans, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910042)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Zion Williamson",
-          "value": "21.7 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Derik Queen",
-          "value": "6.3 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Jeremiah Fears",
-          "value": "4.9 per game"
-        }
-      ],
-      "leadersSource": "ESPN, Pelicans 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/no/new-orleans-pelicans)",
-      "leadersAsOf": "2026-11-13"
+      "source": "ESPN box score, Suns at Pelicans, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910042)",
+      "asOf": "2026-11-24"
     },
     "New York Knicks": {
-      "latestResult": "Beat the Cleveland Cavaliers 109-97 on November 7",
-      "latestGameDate": "2026-11-07",
-      "storyline": "New York beat Cleveland 109-97 on November 7 behind 31 points from Jalen Brunson and 29 from Karl-Anthony Towns.",
-      "bringUp": "Jalen Brunson scored 31 with 9 assists and Karl-Anthony Towns had 29 points and 13 rebounds as the Knicks beat the Cavaliers 109-97 on Saturday.",
+      "latestResult": "Beat the Indiana Pacers 113-106 at home on November 22 (now 11-6)",
+      "latestGameDate": "2026-11-22",
+      "storyline": "New York beat Indiana 113-106 behind 30 points and 13 rebounds from Karl-Anthony Towns, while Josh Hart had a triple-double.",
+      "bringUp": "Josh Hart had a triple-double, 10 points, 11 rebounds and 10 assists, and Karl-Anthony Towns scored 30 as the Knicks beat Indiana on Sunday.",
       "details": [
-        {
-          "name": "Jalen Brunson",
-          "team": "New York Knicks",
-          "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Brunson scored 31 points with 9 assists in a 109-97 win over Cleveland on November 7, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-          "asOf": "2026-11-10"
-        },
         {
           "name": "Karl-Anthony Towns",
           "team": "New York Knicks",
           "position": "Center (C)",
-          "lastGame": null,
-          "buzz": "Towns had 29 points and 13 rebounds in the 109-97 win over Cleveland on November 7, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "vs Indiana Pacers, won 113-106",
+            "stats": [
+              "30 points",
+              "9 of 14 shots",
+              "13 rebounds",
+              "5 assists"
+            ]
+          },
+          "buzz": "Towns had 30 points and 13 rebounds against Indiana and leads the Knicks at 13.9 rebounds per game, per ESPN.",
+          "source": "ESPN box score, Knicks 113-106 Pacers (https://www.espn.com/nba/boxscore/_/gameId/401910034)",
+          "asOf": "2026-11-24"
+        },
+        {
+          "name": "Josh Hart",
+          "team": "New York Knicks",
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "vs Indiana Pacers, won 113-106",
+            "stats": [
+              "10 points",
+              "5 of 11 shots",
+              "11 rebounds",
+              "10 assists"
+            ]
+          },
+          "buzz": "Hart had 10 points, 11 rebounds and 10 assists in 39 minutes against Indiana, per the ESPN box score.",
+          "source": "ESPN box score, Knicks 113-106 Pacers (https://www.espn.com/nba/boxscore/_/gameId/401910034)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Jalen Brunson",
-          "value": "26.0 per game"
+          "value": "26.8 per game"
         },
         {
           "label": "Rebounds per game",
           "player": "Karl-Anthony Towns",
-          "value": "13.5 per game"
+          "value": "13.9 per game"
         },
         {
           "label": "Assists per game",
           "player": "Jalen Brunson",
-          "value": "5.2 per game"
+          "value": "5.9 per game"
         }
       ],
-      "leadersSource": "ESPN, Knicks 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/ny/new-york-knicks)",
-      "leadersAsOf": "2026-11-13"
+      "leadersSource": "ESPN, Knicks 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/ny)",
+      "leadersAsOf": "2026-11-21",
+      "source": "ESPN box score, Knicks 113-106 Pacers (https://www.espn.com/nba/boxscore/_/gameId/401910034)",
+      "asOf": "2026-11-24"
     },
     "Oklahoma City Thunder": {
-      "latestResult": "Beat the Washington Wizards 114-75 on November 7",
-      "latestGameDate": "2026-11-07",
-      "storyline": "Oklahoma City beat Washington 114-75 on November 7, holding the Wizards to the fewest points by any NBA team this season.",
-      "bringUp": "Shai Gilgeous-Alexander scored 30 in three quarters as the Thunder beat Washington 114-75 on Saturday, the Wizards' 75 points the fewest by any team this season.",
+      "latestResult": "Lost 125-120 at the Indiana Pacers on November 23 (now 10-8)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Shai Gilgeous-Alexander scored 38, the most of anyone in the NBA on Monday, but Oklahoma City lost 125-120 at Indiana to fall to 10-8.",
+      "bringUp": "Shai Gilgeous-Alexander scored 38 points Monday, the most in the league that night, but the Thunder still lost 125-120 at Indiana and are 10-8.",
       "details": [
         {
           "name": "Shai Gilgeous-Alexander",
           "team": "Oklahoma City Thunder",
           "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Gilgeous-Alexander scored 30 points, with 9 assists, in a 114-75 win over Washington on November 7, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-          "asOf": "2026-11-10"
-        },
-        {
-          "name": "Aday Mara",
-          "team": "Oklahoma City Thunder",
-          "position": "Center (C)",
-          "lastGame": null,
-          "buzz": "Mara had 18 points, 8 rebounds and 3 blocks in a 114-75 win over Washington on November 7, per Eurohoops.",
-          "source": "Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Indiana Pacers, lost 125-120",
+            "stats": [
+              "38 points",
+              "5 rebounds",
+              "7 assists",
+              "13 of 30 shots"
+            ]
+          },
+          "buzz": "Gilgeous-Alexander's 38 points led all NBA scorers on November 23, per Land of Basketball and the ESPN box score.",
+          "source": "ESPN box score, Thunder at Pacers, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910038)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Shai Gilgeous-Alexander",
-          "value": "29.5 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Isaiah Hartenstein",
-          "value": "10.0 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Shai Gilgeous-Alexander",
-          "value": "4.7 per game"
-        }
-      ],
-      "leadersSource": "ESPN, Thunder 2026-27 team stats (https://www.espn.com/nba/team/stats/_/name/okc)",
-      "leadersAsOf": "2026-11-13"
+      "source": "ESPN box score, Thunder at Pacers, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910038); Land of Basketball daily summary for Nov 23 (https://www.landofbasketball.com/nba_daily_summary/20261123.htm)",
+      "asOf": "2026-11-24"
     },
     "Orlando Magic": {
-      "latestResult": "Lost 126-119 in overtime to the Golden State Warriors on November 7",
-      "latestGameDate": "2026-11-07",
-      "storyline": "Orlando lost 126-119 in overtime to Golden State on November 7 despite 30 points and 11 assists from Franz Wagner.",
-      "bringUp": "Franz Wagner had 30 points and 11 assists, but the Magic lost 126-119 in overtime to the Warriors on Saturday as Stephen Curry scored 41.",
+      "latestResult": "Lost 116-96 at the Washington Wizards on November 22 (now 7-9)",
+      "latestGameDate": "2026-11-22",
+      "storyline": "Orlando, playing without Paolo Banchero (sprained ankle), fell behind 11-0 and lost by 20 at Washington as the Wizards made 22 of 39 three-pointers.",
+      "bringUp": "The Magic lost 116-96 in Washington on Sunday without Paolo Banchero, as the Wizards made 22 threes, one short of their franchise record.",
       "details": [
         {
           "name": "Franz Wagner",
           "team": "Orlando Magic",
           "position": "Forward (F)",
-          "lastGame": null,
-          "buzz": "Wagner had 30 points and 11 assists in a 126-119 overtime loss to Golden State on November 7, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-          "asOf": "2026-11-10"
-        },
-        {
-          "name": "Yaxel Lendeborg",
-          "team": "Orlando Magic",
-          "position": "Forward (F)",
-          "lastGame": null,
-          "buzz": "Lendeborg had 23 points and 8 rebounds in the 126-119 overtime loss to Golden State on November 7, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "at Washington Wizards, lost 116-96",
+            "stats": [
+              "16 points",
+              "7 of 18 shots",
+              "8 rebounds",
+              "6 assists"
+            ]
+          },
+          "buzz": "Wagner had 16 points, 8 rebounds and 6 assists at Washington and leads Orlando at 25.1 points per game, per ESPN.",
+          "source": "ESPN recap, Wizards 116-96 Magic (https://www.espn.com/nba/recap/_/gameId/401910031); ESPN box score, Wizards 116-96 Magic (https://www.espn.com/nba/boxscore/_/gameId/401910031)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Franz Wagner",
-          "value": "23.5 per game"
+          "value": "25.1 per game"
         },
         {
           "label": "Rebounds per game",
           "player": "Wendell Carter Jr.",
-          "value": "9.5 per game"
+          "value": "8.7 per game"
         },
         {
           "label": "Assists per game",
           "player": "Franz Wagner",
-          "value": "7.9 per game"
+          "value": "8.4 per game"
         }
       ],
-      "leadersSource": "ESPN, Magic 2026-27 team stats (https://www.espn.com.au/nba/team/stats/_/name/Orl)",
-      "leadersAsOf": "2026-11-13"
+      "leadersSource": "ESPN, Magic 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/orl/2022)",
+      "leadersAsOf": "2026-11-20",
+      "source": "ESPN recap, Wizards 116-96 Magic (https://www.espn.com/nba/recap/_/gameId/401910031); ESPN box score, Wizards 116-96 Magic (https://www.espn.com/nba/boxscore/_/gameId/401910031)",
+      "asOf": "2026-11-24"
     },
     "Philadelphia 76ers": {
-      "latestResult": "Beat the Chicago Bulls 127-121 on November 8",
-      "latestGameDate": "2026-11-08",
-      "storyline": "Philadelphia beat Chicago 127-121 on November 8, its second win over the Bulls in a week after a 126-107 win on November 2.",
-      "bringUp": "The 76ers beat the Bulls 127-121 on Sunday after beating them 126-107 on November 2, when Tyrese Maxey had 26 points and 11 assists.",
+      "latestResult": "Lost 128-111 to the Portland Trail Blazers at home on November 23 (now 14-4)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Portland's 128-111 win ended Philadelphia's five-game winning streak and handed the 76ers just their fourth loss of the season, per the AP.",
+      "bringUp": "The 76ers' five-game winning streak ended with a 128-111 home loss to Portland on Monday, even with LeBron James scoring 23; they're still 14-4.",
       "details": [
+        {
+          "name": "LeBron James",
+          "team": "Philadelphia 76ers",
+          "position": "Forward (F)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs Portland Trail Blazers, lost 128-111",
+            "stats": [
+              "23 points",
+              "8 of 13 shots",
+              "6 rebounds",
+              "3 assists"
+            ]
+          },
+          "buzz": "James made his first four three-pointers and scored 23 against Portland, with Joel Embiid out sick, per the AP.",
+          "source": "CBS Sports/AP recap, Trail Blazers 128-111 76ers (https://www.cbssports.com/nba/gametracker/recap/NBA_20261123_POR@PHI/); ESPN box score, Trail Blazers 128-111 76ers (https://www.espn.com/nba/boxscore/_/gameId/401910037)",
+          "asOf": "2026-11-24"
+        },
         {
           "name": "Tyrese Maxey",
           "team": "Philadelphia 76ers",
           "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Maxey had 26 points and 11 assists in a 126-107 win over Chicago on November 2, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs Portland Trail Blazers, lost 128-111",
+            "stats": [
+              "22 points",
+              "7 of 16 shots",
+              "2 rebounds",
+              "5 assists"
+            ]
+          },
+          "buzz": "Maxey scored 22 against Portland and leads Philadelphia at 26.5 points per game, per ESPN.",
+          "source": "CBS Sports/AP recap, Trail Blazers 128-111 76ers (https://www.cbssports.com/nba/gametracker/recap/NBA_20261123_POR@PHI/); ESPN box score, Trail Blazers 128-111 76ers (https://www.espn.com/nba/boxscore/_/gameId/401910037)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Tyrese Maxey",
-          "value": "26.7 per game"
+          "value": "26.5 per game"
         },
         {
           "label": "Rebounds per game",
           "player": "Joel Embiid",
-          "value": "9.3 per game"
+          "value": "8.3 per game"
         },
         {
           "label": "Assists per game",
           "player": "LeBron James",
-          "value": "6.5 per game"
+          "value": "6.8 per game"
         }
       ],
-      "leadersSource": "ESPN, 76ers 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/phi/philadelphia-76ers)",
-      "leadersAsOf": "2026-11-13"
+      "leadersSource": "ESPN, 76ers 2026-27 team stats (https://africa.espn.com/nba/team/stats/_/name/phi/philadelphia-phillies)",
+      "leadersAsOf": "2026-11-18",
+      "source": "CBS Sports/AP recap, Trail Blazers 128-111 76ers (https://www.cbssports.com/nba/gametracker/recap/NBA_20261123_POR@PHI/); ESPN box score, Trail Blazers 128-111 76ers (https://www.espn.com/nba/boxscore/_/gameId/401910037)",
+      "asOf": "2026-11-24"
     },
     "Phoenix Suns": {
-      "latestResult": "Lost 122-96 to the San Antonio Spurs on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Phoenix lost 122-96 to San Antonio on November 9, two days after beating Houston 102-99 behind Devin Booker's 24 and Kevin Durant's 21 points and 10 rebounds.",
-      "bringUp": "Devin Booker scored 24 and Kevin Durant had 21 points and 10 rebounds in a 102-99 win over Houston on Saturday, then Phoenix lost 122-96 to the Spurs on Monday.",
+      "latestResult": "Won 123-119 in overtime at the New Orleans Pelicans on November 23 (now 9-7)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Jalen Green scored 25 and Devin Booker added 22 with 8 assists as Phoenix won 123-119 in overtime at New Orleans to reach 9-7.",
+      "bringUp": "The Suns beat the Pelicans 123-119 in overtime on Monday, with Jalen Green scoring 25 and Devin Booker 22.",
       "details": [
+        {
+          "name": "Jalen Green",
+          "team": "Phoenix Suns",
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at New Orleans Pelicans, won 123-119 in overtime",
+            "stats": [
+              "25 points",
+              "3 rebounds",
+              "0 assists",
+              "9 of 17 shots"
+            ]
+          },
+          "buzz": "Green led Phoenix with 25 points in the overtime win at New Orleans, per the ESPN box score.",
+          "source": "ESPN box score, Suns at Pelicans, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910042)",
+          "asOf": "2026-11-24"
+        },
         {
           "name": "Devin Booker",
           "team": "Phoenix Suns",
           "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Booker scored 24 points in a 102-99 win over Houston on November 7, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-          "asOf": "2026-11-10"
-        },
-        {
-          "name": "Kevin Durant",
-          "team": "Phoenix Suns",
-          "position": "Forward (F)",
-          "lastGame": null,
-          "buzz": "Durant had 21 points and 10 rebounds in the 102-99 win over Houston on November 7, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at New Orleans Pelicans, won 123-119 in overtime",
+            "stats": [
+              "22 points",
+              "5 rebounds",
+              "8 assists",
+              "8 of 20 shots"
+            ]
+          },
+          "buzz": "Booker had 22 points and 8 assists against New Orleans, per the ESPN box score.",
+          "source": "ESPN box score, Suns at Pelicans, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910042)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Devin Booker",
-          "value": "25.5 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Miles Bridges",
-          "value": "7.3 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Devin Booker",
-          "value": "5.0 per game"
-        }
-      ],
-      "leadersSource": "ESPN, Suns 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/phx/phoenix-suns)",
-      "leadersAsOf": "2026-11-13"
+      "source": "ESPN box score, Suns at Pelicans, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910042)",
+      "asOf": "2026-11-24"
     },
     "Portland Trail Blazers": {
-      "latestResult": "Lost 125-103 to the San Antonio Spurs on November 7",
-      "latestGameDate": "2026-11-07",
-      "storyline": "Portland lost 125-103 to San Antonio on November 7, a game in which Victor Wembanyama scored 29 points in 24 minutes.",
-      "bringUp": "Deni Avdija scored 15 and Damian Lillard 12 in a 125-103 loss to the Spurs on Saturday, as Victor Wembanyama scored 29 in just 24 minutes.",
+      "latestResult": "Won 128-111 at the Philadelphia 76ers on November 23 (now 11-6)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Deni Avdija scored 31 and Donovan Clingan grabbed 18 rebounds, the most in the NBA on Monday, as Portland beat 14-4 Philadelphia 128-111.",
+      "bringUp": "The Trail Blazers won 128-111 at Philadelphia on Monday, handing the 14-4 76ers a loss, with Deni Avdija scoring 31 and Donovan Clingan grabbing 18 rebounds.",
       "details": [
         {
           "name": "Deni Avdija",
           "team": "Portland Trail Blazers",
           "position": "Forward (F)",
-          "lastGame": null,
-          "buzz": "Avdija had 15 points in a 125-103 loss to San Antonio on November 7, per Eurohoops.",
-          "source": "Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-          "asOf": "2026-11-10"
-        }
-      ],
-      "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Deni Avdija",
-          "value": "23.0 per game"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Philadelphia 76ers, won 128-111",
+            "stats": [
+              "31 points",
+              "3 rebounds",
+              "7 assists",
+              "12 of 19 shots"
+            ]
+          },
+          "buzz": "Avdija led Portland with 31 points on 12 of 19 shooting at Philadelphia, per the ESPN box score.",
+          "source": "ESPN box score, Trail Blazers at 76ers, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910037)",
+          "asOf": "2026-11-24"
         },
         {
-          "label": "Rebounds per game",
-          "player": "Donovan Clingan",
-          "value": "10.5 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Deni Avdija",
-          "value": "6.5 per game"
+          "name": "Donovan Clingan",
+          "team": "Portland Trail Blazers",
+          "position": "Center (C)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Philadelphia 76ers, won 128-111",
+            "stats": [
+              "15 points",
+              "18 rebounds",
+              "5 assists",
+              "7 of 8 shots"
+            ]
+          },
+          "buzz": "Clingan's 18 rebounds were the most by any NBA player on November 23, per Land of Basketball and the ESPN box score.",
+          "source": "ESPN box score, Trail Blazers at 76ers, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910037)",
+          "asOf": "2026-11-24"
         }
       ],
-      "leadersSource": "ESPN, Trail Blazers 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/por/portland-trail-blazers)",
-      "leadersAsOf": "2026-11-13"
+      "source": "ESPN box score, Trail Blazers at 76ers, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910037); Land of Basketball daily summary for Nov 23 (https://www.landofbasketball.com/nba_daily_summary/20261123.htm)",
+      "asOf": "2026-11-24"
     },
     "Sacramento Kings": {
-      "latestResult": "Lost 114-108 to the Miami Heat on November 8",
-      "latestGameDate": "2026-11-08",
-      "storyline": "Sacramento lost 114-108 to Miami on November 8, with rookie Darius Acuff Jr. recording a double-double.",
-      "bringUp": "Rookie Darius Acuff Jr. had a double-double, meaning double figures in two stats, but the Kings lost 114-108 to Miami on Sunday.",
+      "latestResult": "Lost 123-107 to the San Antonio Spurs on November 23 (now 2-15)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Sacramento fell to 2-15, and 1-10 at home, with a 123-107 loss to San Antonio despite 20 points and 12 rebounds from Domantas Sabonis.",
+      "bringUp": "The Kings lost 123-107 to the Spurs on Monday and are 2-15, even with Domantas Sabonis going 8 of 9 for 20 points and 12 rebounds.",
       "details": [
-        {
-          "name": "Darius Acuff Jr.",
-          "team": "Sacramento Kings",
-          "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "Acuff had a double-double in a 114-108 loss to Miami on November 8, per Land of Basketball, and is averaging 25.9 points and 7.4 assists per game, per Basketball-Reference.",
-          "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-          "asOf": "2026-11-10"
-        },
         {
           "name": "Domantas Sabonis",
           "team": "Sacramento Kings",
           "position": "Center (C)",
-          "lastGame": null,
-          "buzz": "Sabonis played in the Kings' 114-108 loss to Miami on November 8 and is averaging 14.6 rebounds per game, per Basketball-Reference.",
-          "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs San Antonio Spurs, lost 123-107",
+            "stats": [
+              "20 points",
+              "12 rebounds",
+              "8 assists",
+              "8 of 9 shots"
+            ]
+          },
+          "buzz": "Sabonis had 20 points, 12 rebounds and 8 assists on 8 of 9 shooting against San Antonio, per the ESPN box score.",
+          "source": "ESPN box score, Spurs at Kings, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910045)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Darius Acuff Jr.",
-          "value": "25.9 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Domantas Sabonis",
-          "value": "14.6 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Darius Acuff Jr.",
-          "value": "7.4 per game"
-        }
-      ],
-      "leadersSource": "ESPN, Kings 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/sac/sacramento-kings)",
-      "leadersAsOf": "2026-11-13"
+      "source": "ESPN box score, Spurs at Kings, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910045)",
+      "asOf": "2026-11-24"
     },
     "San Antonio Spurs": {
-      "latestResult": "Beat the Phoenix Suns 122-96 on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "San Antonio beat Phoenix 122-96 on November 9, a game in which Victor Wembanyama had 9 blocks, after a win on November 7 that stretched its winning streak to eight.",
-      "bringUp": "Victor Wembanyama had 9 blocks, the most of anyone Monday, as the Spurs beat the Suns 122-96, a game after their winning streak reached eight.",
+      "latestResult": "Won 123-107 at the Sacramento Kings on November 23 (now 15-3)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Stephon Castle had 28 points and 11 assists, tied for the most assists in the NBA on Monday, as San Antonio won 123-107 at Sacramento to reach 15-3 and stay perfect on the road at 8-0.",
+      "bringUp": "The Spurs are 15-3 and 8-0 on the road after beating the Kings 123-107 Monday, with Stephon Castle scoring 28 and dishing 11 assists.",
       "details": [
         {
-          "name": "Victor Wembanyama",
+          "name": "Stephon Castle",
           "team": "San Antonio Spurs",
-          "position": "Center (C)",
-          "lastGame": null,
-          "buzz": "Wembanyama had 9 blocks on November 9, the NBA high for the day, per Land of Basketball.",
-          "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-          "asOf": "2026-11-10"
+          "position": "Guard (G)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Sacramento Kings, won 123-107",
+            "stats": [
+              "28 points",
+              "8 rebounds",
+              "11 assists",
+              "9 of 23 shots"
+            ]
+          },
+          "buzz": "Castle's 11 assists tied for the most in the NBA on November 23, per Land of Basketball, and he added 28 points, per the ESPN box score.",
+          "source": "ESPN box score, Spurs at Kings, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910045)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-8-2026)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Victor Wembanyama",
-          "value": "29.1 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Victor Wembanyama",
-          "value": "12.0 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "De'Aaron Fox",
-          "value": "5.9 per game"
-        }
-      ],
-      "leadersSource": "ESPN, Spurs 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/sa/san-antonio-spurs)",
-      "leadersAsOf": "2026-11-13"
+      "source": "ESPN box score, Spurs at Kings, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910045); Land of Basketball daily summary for Nov 23 (https://www.landofbasketball.com/nba_daily_summary/20261123.htm)",
+      "asOf": "2026-11-24"
     },
     "Toronto Raptors": {
-      "latestResult": "Lost 118-102 to the Memphis Grizzlies on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Toronto lost 118-102 to Memphis on November 9.",
-      "bringUp": "The Raptors lost 118-102 to Memphis on Monday, and Scottie Barnes is averaging 23.5 points.",
+      "latestResult": "Lost 116-111 to the Milwaukee Bucks at home on November 23 (now 6-11)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Toronto became the team that ended Milwaukee's 13-game losing streak and is 4-11 since Kawhi Leonard went down with a left knee injury, per ESPN.",
+      "bringUp": "The Raptors lost 116-111 at home to a Bucks team that hadn't won in 13 games, despite 31 points from Scottie Barnes, and they're 0-6 at home in November.",
       "details": [
         {
           "name": "Scottie Barnes",
           "team": "Toronto Raptors",
           "position": "Forward (F)",
-          "lastGame": null,
-          "buzz": "Barnes had 22 points, 15 rebounds and 8 assists in a 125-118 win over the Clippers on November 2, per NBA.com.",
-          "source": "NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "vs Milwaukee Bucks, lost 116-111",
+            "stats": [
+              "31 points",
+              "12 of 25 shots",
+              "5 rebounds",
+              "8 assists"
+            ]
+          },
+          "buzz": "Barnes scored 31 against Milwaukee and leads Toronto at 24.3 points per game, per ESPN.",
+          "source": "ESPN recap, Bucks 116-111 Raptors (https://www.espn.com/nba/recap/_/gameId/401910039&gsessionid=qFpGaSyKqb9kGEiopHMFGkpg29DgO6lLinZN7od9IdSAJ8RY5jNxBA); ESPN box score, Bucks 116-111 Raptors (https://www.espn.com/nba/boxscore/_/gameId/401910039)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); NBA.com Nightly Recap (https://www.nba.com/news/starting-5-november-3-2026); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Scottie Barnes",
-          "value": "23.5 per game"
-        },
-        {
-          "label": "Rebounds per game",
-          "player": "Scottie Barnes",
-          "value": "7.6 per game"
+          "value": "24.3 per game"
         },
         {
           "label": "Assists per game",
           "player": "Jamal Shead",
-          "value": "7.0 per game"
+          "value": "6.3 per game"
         }
       ],
-      "leadersSource": "ESPN, Raptors 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/tor/toronto-raptors)",
-      "leadersAsOf": "2026-11-13"
+      "leadersSource": "ESPN, Raptors 2026-27 team stats (https://www.espn.com/nba/team/stats/_/name/tor)",
+      "leadersAsOf": "2026-11-20",
+      "source": "ESPN recap, Bucks 116-111 Raptors (https://www.espn.com/nba/recap/_/gameId/401910039&gsessionid=qFpGaSyKqb9kGEiopHMFGkpg29DgO6lLinZN7od9IdSAJ8RY5jNxBA); ESPN box score, Bucks 116-111 Raptors (https://www.espn.com/nba/boxscore/_/gameId/401910039)",
+      "asOf": "2026-11-24"
     },
     "Utah Jazz": {
-      "latestResult": "Lost 115-100 to the Minnesota Timberwolves on November 8",
-      "latestGameDate": "2026-11-08",
-      "storyline": "Utah lost 115-100 to Minnesota on November 8.",
-      "bringUp": "The Jazz lost 115-100 to the Timberwolves on Sunday, and Keyonte George leads them at 21.1 points per game.",
+      "latestResult": "Lost 109-94 at the Los Angeles Lakers on November 23 (now 3-16)",
+      "latestGameDate": "2026-11-23",
+      "storyline": "Utah fell to 3-16 with a 109-94 loss to the Lakers, a day after Svi Mykhailiuk's 39 points weren't enough in a 116-114 loss to Dallas.",
+      "bringUp": "Kyle Filipowski had 21 points and 12 rebounds for the Jazz on Monday, but they lost 109-94 to the Lakers and are 3-16.",
       "details": [
         {
-          "name": "Keyonte George",
+          "name": "Kyle Filipowski",
           "team": "Utah Jazz",
-          "position": "Guard (G)",
-          "lastGame": null,
-          "buzz": "George leads Utah at 21.1 points and 6.4 assists per game through 10 games, per Basketball-Reference.",
-          "source": "Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-          "asOf": "2026-11-10"
-        }
-      ],
-      "source": "Land of Basketball daily summary for Nov 8 (https://www.landofbasketball.com/nba_daily_summary/20261108.htm); Basketball-Reference 2026-27 per-game stats (https://www.basketball-reference.com/leagues/NBA_2027_per_game.html)",
-      "asOf": "2026-11-10",
-      "leaders": [
-        {
-          "label": "Points per game",
-          "player": "Keyonte George",
-          "value": "21.1 per game"
+          "position": "Forward (F)",
+          "lastGame": {
+            "date": "2026-11-23",
+            "label": "at Los Angeles Lakers, lost 109-94",
+            "stats": [
+              "21 points",
+              "12 rebounds",
+              "4 assists",
+              "8 of 14 shots"
+            ]
+          },
+          "buzz": "Filipowski had 21 points and 12 rebounds against the Lakers, per the ESPN box score.",
+          "source": "ESPN box score, Jazz at Lakers, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910044)",
+          "asOf": "2026-11-24"
         },
         {
-          "label": "Rebounds per game",
-          "player": "Lauri Markkanen",
-          "value": "6.8 per game"
-        },
-        {
-          "label": "Assists per game",
-          "player": "Keyonte George",
-          "value": "6.4 per game"
+          "name": "Svi Mykhailiuk",
+          "team": "Utah Jazz",
+          "position": "Forward (F)",
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "vs Dallas Mavericks, lost 116-114",
+            "stats": [
+              "39 points",
+              "5 rebounds",
+              "10 of 15 three-pointers"
+            ]
+          },
+          "buzz": "Mykhailiuk scored 39 points, making 10 of 15 three-pointers, in the 116-114 loss to Dallas on November 22, per FOX Sports.",
+          "source": "FOX Sports box score, Mavericks at Jazz, Nov 22, 2026 (https://www.foxsports.com/nba/dallas-mavericks-vs-utah-jazz-nov-22-2026-game-boxscore-106776)",
+          "asOf": "2026-11-24"
         }
       ],
-      "leadersSource": "ESPN, Jazz 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/utah/utah-jazz)",
-      "leadersAsOf": "2026-11-13"
+      "source": "ESPN box score, Jazz at Lakers, Nov 23, 2026 (https://www.espn.com/nba/boxscore/_/gameId/401910044); FOX Sports box score, Mavericks at Jazz, Nov 22, 2026 (https://www.foxsports.com/nba/dallas-mavericks-vs-utah-jazz-nov-22-2026-game-boxscore-106776); CBS Sports box score and AP recap, Mavericks at Jazz, Nov 22, 2026 (https://www.cbssports.com/nba/gametracker/boxscore/NBA_20261122_DAL@UTA/)",
+      "asOf": "2026-11-24"
     },
     "Washington Wizards": {
-      "latestResult": "Lost 122-111 to the Detroit Pistons on November 9",
-      "latestGameDate": "2026-11-09",
-      "storyline": "Washington lost 122-111 to Detroit on November 9 despite 44 points from Anthony Davis, two days after scoring 75 against Oklahoma City, the fewest by any NBA team this season.",
-      "bringUp": "Anthony Davis scored 44 on Monday, the most in the league that day, but the Wizards lost 122-111 to Detroit, two days after scoring just 75 against the Thunder, the fewest by any team this season.",
+      "latestResult": "Beat the Orlando Magic 116-96 at home on November 22 (now 7-11)",
+      "latestGameDate": "2026-11-22",
+      "storyline": "Washington has won three straight for the first time since February 2025 and made 22 of 39 three-pointers against Orlando.",
+      "bringUp": "The Wizards made 22 threes in a 116-96 win over Orlando on Sunday, one short of their franchise record, for their first three-game winning streak since February 2025.",
       "details": [
+        {
+          "name": "Kyshawn George",
+          "team": "Washington Wizards",
+          "position": "Forward (F)",
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "vs Orlando Magic, won 116-96",
+            "stats": [
+              "24 points",
+              "9 of 17 shots",
+              "3 rebounds",
+              "4 assists"
+            ]
+          },
+          "buzz": "George led Washington with 24 points against Orlando, per ESPN.",
+          "source": "ESPN recap, Wizards 116-96 Magic (https://www.espn.com/nba/recap/_/gameId/401910031); ESPN box score, Wizards 116-96 Magic (https://www.espn.com/nba/boxscore/_/gameId/401910031)",
+          "asOf": "2026-11-24"
+        },
         {
           "name": "Anthony Davis",
           "team": "Washington Wizards",
           "position": "Forward (F)",
-          "lastGame": null,
-          "buzz": "Davis scored 44 points on November 9, the NBA high for the day, in a 122-111 loss to Detroit, per Land of Basketball.",
-          "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm)",
-          "asOf": "2026-11-10"
-        },
-        {
-          "name": "Alex Sarr",
-          "team": "Washington Wizards",
-          "position": "Center (C)",
-          "lastGame": null,
-          "buzz": "Sarr had 15 points and 14 rebounds in a 114-75 loss to Oklahoma City on November 7, per Eurohoops.",
-          "source": "Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-          "asOf": "2026-11-10"
+          "lastGame": {
+            "date": "2026-11-22",
+            "label": "vs Orlando Magic, won 116-96",
+            "stats": [
+              "22 points",
+              "8 of 13 shots",
+              "7 rebounds",
+              "1 assist"
+            ]
+          },
+          "buzz": "Davis scored 22 against Orlando and leads the Wizards at 25.1 points and 9.9 rebounds per game, per ESPN.",
+          "source": "ESPN recap, Wizards 116-96 Magic (https://www.espn.com/nba/recap/_/gameId/401910031); ESPN box score, Wizards 116-96 Magic (https://www.espn.com/nba/boxscore/_/gameId/401910031)",
+          "asOf": "2026-11-24"
         }
       ],
-      "source": "Land of Basketball daily summary for Nov 9 (https://www.landofbasketball.com/nba_daily_summary/20261109.htm); Eurohoops NBA roundup (https://www.eurohoops.net/en/nba-news/2032152/nba-roundup-wembanyama-scores-29-in-24-minutes-wagner-posts-30-and-11/)",
-      "asOf": "2026-11-10",
       "leaders": [
         {
           "label": "Points per game",
           "player": "Anthony Davis",
-          "value": "25.6 per game"
+          "value": "25.1 per game"
         },
         {
           "label": "Rebounds per game",
           "player": "Anthony Davis",
-          "value": "10.5 per game"
+          "value": "9.9 per game"
         },
         {
           "label": "Assists per game",
@@ -1454,21 +1674,10 @@
           "value": "8.8 per game"
         }
       ],
-      "leadersSource": "ESPN, Wizards 2026-27 regular season team stats (https://www.espn.com/nba/team/stats/_/name/wsh/washington-wizards)",
-      "leadersAsOf": "2026-11-13"
+      "leadersSource": "ESPN, Wizards 2026-27 team stats (https://www.espn.com/nba/team/stats/_/name/was)",
+      "leadersAsOf": "2026-11-22",
+      "source": "ESPN recap, Wizards 116-96 Magic (https://www.espn.com/nba/recap/_/gameId/401910031); ESPN box score, Wizards 116-96 Magic (https://www.espn.com/nba/boxscore/_/gameId/401910031)",
+      "asOf": "2026-11-24"
     }
-  },
-  "hotGoss": [
-    {
-      "id": "smart-suspended-three-games-bassey-punch",
-      "topic": "NBA suspends Marcus Smart three games for punching Charles Bassey",
-      "whatHappened": "The NBA suspended Houston Rockets guard Marcus Smart three games without pay for throwing a punch that hit Golden State Warriors forward-center Charles Bassey in the face with 0:21 left in the third quarter of Houston's 115-108 win on Wednesday, November 11. Smart was called for a Flagrant Foul 2, the more serious of the NBA's two flagrant levels, and ejected. The league announced the suspension the next day, with James Jones, its head of basketball operations, named as the announcer.",
-      "whyTalking": "A punch that lands on someone's face is a moment fans remember, and the league answered it within a day. Smart starts serving the suspension on Friday, November 13, when the Rockets host the Utah Jazz.",
-      "youCouldSay": "The NBA suspended Marcus Smart three games without pay for punching the Warriors' Charles Bassey in the face, and he starts serving it Friday when Houston plays Utah.",
-      "storyDate": "2026-11-12",
-      "reportedBy": "NBA.com",
-      "source": "NBA.com, league announcement (https://official.nba.com/rockets-smart-suspended)",
-      "asOf": "2026-11-13"
-    }
-  ]
+  }
 }
