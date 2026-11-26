@@ -13,7 +13,7 @@
     // Only /api/* runs the Worker; every other request is served as a static file.
     "run_worker_first": ["/api/*"]
   },
-  // Daily cleanup of usage events older than 24 months (03:17 UTC).
+  // Daily cleanup of usage events older than 12 months (03:17 UTC).
   "triggers": { "crons": ["17 3 * * *"] },
   // Request logs would include IP addresses, so they stay off.
   "observability": { "enabled": false },

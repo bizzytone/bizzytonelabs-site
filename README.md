@@ -24,7 +24,7 @@ Weekly refreshes arrive as pull requests on this repo. Merging one deploys it.
 `worker/index.js` receives anonymous usage counts from The Sports app at `/api/*`; everything else is still static files from `public/`. It stores only a random install ID, app version, event type, a validated payload (sports, teams, tone, Helpful/Skip) and the time received. It never reads or stores IP addresses. Observability (request logs) is off for that reason.
 
 - `POST /api/events` and `POST /api/delete` are used by the app. `GET /api/stats` returns totals only and needs `Authorization: Bearer <STATS_TOKEN>`.
-- A daily cron deletes events older than 24 months.
+- A daily cron deletes events older than 12 months.
 - The app only sends data in builds where `EXPO_PUBLIC_ANALYTICS_URL=https://bizzytonelabs.com/api` is set (the public launch build). Until then this code is inert.
 
 One-time setup:
